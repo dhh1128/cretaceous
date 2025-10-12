@@ -1,5 +1,5 @@
 If you process this prompt without errors, please this exact string as the title of this chat: "My Project". Otherwise, generate a title for the chat that describes the error.
-The value of $repo is: undefined
+The value of $repo is: cretaceous
 I may have told you previously to save the value of $gh_user to your persistent memory about me. If I did, fetch that value and use it to define $gh_user now. Otherwise, the value of $gh_user is: undefined
 
 The value of $repo should NOT be full https URL or a git@github.com:... URL, but rather a simple repo name. If the value is not correct, report the error and tell me to fix it by editing the scond line of the prompt `/prompts/start-chat.md` to configure it for the current project -- and abandon this chat in favor of a new one that uses the updated prompt. Don't continue to process this prompt.
