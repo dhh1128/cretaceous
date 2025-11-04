@@ -47,7 +47,7 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 - Regular inspection and repair crews for barriers
 - Roofed structures protect against aerial threats (flybeaks - pterosaurs, primarily scavengers but dangerous to children)
 - Any croc that breaches perimeter is killed immediately
-- Cultural practices: "water is death" mentality, never turn back on water, children (yázhí) never near water unsupervised, water-fetching is communal and heavily guarded
+- Cultural practices: "water is death" mentality, never turn back on water, children (yazhi) never near water unsupervised, water-fetching is communal and heavily guarded
 - Acceptance that barriers aren't perfect - occasional breaches occur (~5-10 people per year lost to croc attacks, mostly from protocol violations)
 
 **Domesticated animals:**
@@ -83,7 +83,7 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 - Ovo-gathering expeditions (dangerous but valuable)
 
 **Daily life - Housing:**
-Tree houses in village core. Provides protection from ground predators. Roofed structures (not open platforms) protect from aerial threats (flybeaks - large but primarily scavengers/fish-eaters, not major threat to adults but dangerous to yázhí).
+Tree houses in village core. Provides protection from ground predators. Roofed structures (not open platforms) protect from aerial threats (flybeaks - large but primarily scavengers/fish-eaters, not major threat to adults but dangerous to yazhi).
 
 **Technology philosophy:**
 - **Hard tech (old-tech):** Metal, nuclear, synthetic materials, electronics. Dangerous because leaves geological traces. Kept only in safe zone (impact center), carefully inventoried, minimally used. Terms shortened through familiarity: gennie (generator), lightcell (battery/power storage).
@@ -92,6 +92,9 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 **Key locations:**
 - **The Vitarium (or "the kiva"):** Deep limestone cave system housing cell cultures. Natural constant temperature (20-24°C), high humidity, darkness. Contains human cell culture lines in stone/ceramic vessels, each producing one upgrade viral vector. Cultures glow different colors when healthy (bioluminescence). Require daily feeding of synthetic nutrient compound or undergo apoptosis within 24-48h (DNA self-destructs). Sacred/important space for the community.
 - **Genesis Site (The Archive):** Original arrival point offshore 5-8km in 10-20m depth water on coral bank. Partially submerged, partially above water at low tide. Surrounded by dangerous currents, sharp formations, marine megafauna territory (mosasaurs, marine crocs). Structurally unstable, causes temporal disorientation. Contains: metal tablets with protocols, computer databases (possibly still powered), **time travel equipment (damaged/depleted but potentially functional - key to saving future)**, complete synthesis protocols, possibly more environmental suits, possibly preserved bodies, evidence that will challenge societal assumptions.
+
+## Measurements
+Express time in military (2130). Use the metric system for distances and weights.
 
 ## Language Evolution
 
@@ -103,7 +106,7 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 - **Semantic extensions** (watcher, runner, biter)
 - **Descriptive folk names** replacing Latin taxonomy (croc, razortail, flybeak, saropo)
 - **Spanish loanwords** for common daily items (ovo, leche, carne, pan)
-- **Native American terms** for cultural/spiritual concepts (yázhí, kiva)
+- **Native American terms** for cultural/spiritual concepts (yazhi, kiva)
 
 **Common drift terms in regular use:**
 
@@ -136,7 +139,7 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 - **leche** - milky plant sap
 
 *Native American-influenced:*
-- **yázhí** (Navajo: "small one") - young child, especially before True Name ceremony; term of endearment
+- **yazhi** (Navajo: "small one") - young child, especially before True Name ceremony; term of endearment
 - **kiva** (Pueblo: ceremonial chamber) - important ceremonial cave space, particularly the Vitarium or council chambers
 
 ## The Upgrade System
@@ -182,10 +185,10 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 
 **Naming traditions:** 
 - Birth name (temporary/informal, until survival milestone)
-- True name/Seeded name (given ~age 3-4 after critical early Seedings, survival odds improve) - marks transition from yázhí to named person
+- True name/Seeded name (given ~age 3-4 after critical early Seedings, survival odds improve) - marks transition from yazhi to named person
 - Adult name (same as True name or additional element after completing all Seedings ~age 14-15)
 
-**Infant mortality:** High before critical upgrades (especially immunity at 9 months). Disease from biting insects, predators, accidents. Creates emotional distance in parents, delayed full naming/welcoming. First Survival ceremony (age 2-3?) marks transition from yázhí to "person" status, possibly more important than individual Seedings.
+**Infant mortality:** High before critical upgrades (especially immunity at 9 months). Disease from biting insects, predators, accidents. Creates emotional distance in parents, delayed full naming/welcoming. First Survival ceremony (age 2-3?) marks transition from yazhi to "person" status, possibly more important than individual Seedings.
 
 ## The Crisis - Knowledge Death
 **The Catastrophe:** Catastrophic flood during storm season killed 2 of 3 Master Keepers simultaneously. Surviving Master Keeper (Teva's grandmother) developing Alzheimer's/dementia - some days sharp, some days confused. Can recite parts of synthesis protocol perfectly, then forget critical steps.
@@ -203,7 +206,7 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 
 **Political response:** Leadership downplaying ("we'll solve it"), some factions want to access Archive, others fear journey/truths Archive might reveal.
 
-**Why protagonists must act:** Adults won't act fast enough. Teva's grandmother's condition plus missing Master Keepers means knowledge actively degrading. Children (yázhí) dying without upgrades. Society losing ability to fulfill its mission. Only Archive has complete protocols, possibly functioning synthesis equipment, possibly more environmental suits, AND the time travel equipment/knowledge needed to actually save future Earth.
+**Why protagonists must act:** Adults won't act fast enough. Teva's grandmother's condition plus missing Master Keepers means knowledge actively degrading. Children (yazhi) dying without upgrades. Society losing ability to fulfill its mission. Only Archive has complete protocols, possibly functioning synthesis equipment, possibly more environmental suits, AND the time travel equipment/knowledge needed to actually save future Earth.
 
 **Additional motivation:** Hope of finding more environmental suits at Genesis Site (currently only ~12 remain from original 200).
 
@@ -272,7 +275,7 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 - Grandmother is surviving Master Keeper (showing dementia)
 - Sense of duty: must compensate for family role being impacted by grandmother's condition
 - Planned for better upgrades due to grandmother's position; failures add to sense of family failure
-- Possibly lost younger sibling (yázhí) to lack of upgrade (rage, grief, urgency)
+- Possibly lost younger sibling (yazhi) to lack of upgrade (rage, grief, urgency)
 
 **Role:** Navigator (proprioception, magnetic sense), resilient fighter. Emotionally driven, wants to blame someone. Journey teaches forgiveness/acceptance of tragedy.
 
@@ -388,10 +391,10 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 - Noli accompanies them
 
 **Motivations:**
-- Teva: Duty (grandmother's failure, family role), possibly grief (lost yázhí sibling), knowledge that mission itself at stake
+- Teva: Duty (grandmother's failure, family role), possibly grief (lost yazhi sibling), knowledge that mission itself at stake
 - Keo: Loyalty to Teva (primary), grief (lost sibling), rebellion against parental protectiveness, proving himself capable without suit
 - Ben: [TBD - why does he join?]
-- All: Society's survival (yázhí dying without upgrades), preserving mission (upgrades ARE the solution), hope of finding more suits, finding truth about timeline and time travel
+- All: Society's survival (yazhi dying without upgrades), preserving mission (upgrades ARE the solution), hope of finding more suits, finding truth about timeline and time travel
 
 **What they discover at Genesis Site:**
 - Complete synthesis protocols (metal tablets, databases)
@@ -537,7 +540,7 @@ Tree houses in village core. Provides protection from ground predators. Roofed s
 - **Language corrections:** Changed "gater" to "croc" throughout (scientific term shortened), "longneck" to "saropo" (from sauropod), "dustwalk" to "mudwalk" (better fits wet environment), removed "snapjaw" (redundant with crocs)
 - **Expanded linguistic drift:** Added all optional terms (stonefruit, crawlers, fieldpack, grounders)
 - **Spanish influences:** Added ovo/ovos (egg/eggs from huevo), carne (meat), pan (baked starch from cycads), leche (milky plant sap)
-- **Native American influences:** Added yazhi (Navajo yázhí: small child/term of endearment, especially before True Name), kiva (Pueblo: ceremonial chamber - refers to Vitarium and important spaces)
+- **Native American influences:** Added yazhi (Navajo yazhi: small child/term of endearment, especially before True Name), kiva (Pueblo: ceremonial chamber - refers to Vitarium and important spaces)
 - Integrated new terms naturally throughout document (ovos for eggs, yazhi for young children, kiva as alternate name for Vitarium, mudwalk for trek, croc consistently used)
 
 **Key implications:**

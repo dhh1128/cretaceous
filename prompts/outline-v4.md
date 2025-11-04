@@ -5,16 +5,16 @@ This beat sheet outlines the major plot points for the novel based on the v0.4 m
 ACT 1: THE FAILING WORLD
 
 1. COLD OPEN (The Catalyst):
-We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yázhí (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yázhí dies. This is the crisis that breaks Teva's faith in the system.
+We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yazhi (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yazhi dies. This is the crisis that breaks Teva's faith in the system.
 
 2. UNSETTLED NORMALCY & SET-UP:
 Instead of a flashback, the next day there is an attempt to return to normalcy, but the crisis hangs over everyone.
 
-We see Keo trying to find comfort in training Noli, but he's distracted and unsettled by the yázhí's death.
+We see Keo trying to find comfort in training Noli, but he's distracted and unsettled by the yazhi's death.
 
 We see Benal (Ben) trying to focus on his "useless" temporal mathematics, but the Council's real-world failure makes his abstract work feel pointless.
 
-We see Teva trying to drill other yázhí on croc protocols, but her heart isn't in it; she's filled with a cold rage.
+We see Teva trying to drill other yazhi on croc protocols, but her heart isn't in it; she's filled with a cold rage.
 
 This "unsettled" sequence establishes the "water is death" culture, the political tension (Traditionalists vs. Branchers), Keo's parents as the "Explorer" custodians of the environmental suits, and the Theme Stated: An elder mentions the mission: "We hold the future in our hands, but the past is a cage."
 
@@ -66,7 +66,7 @@ They finally reach the coast, only to see the 5-8km of treacherous open water be
 The offshore journey. As part of their plan, they locate the old raft cached on the coast, just as oral history described. It's barely seaworthy. A storm hits. They are attacked by a Mosasaur (Q#11). The raft is destroyed. They lose critical gear (perhaps their fieldpacks). They are separated and wash up on the sharp coral bank of the Genesis Site, battered, injured, and believing they've failed.
 
 10. Dark Night of the Soul:
-Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yázhí they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
+Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yazhi they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
 
 ACT 3: THE ARCHIVE & THE RETURN
 
@@ -96,7 +96,7 @@ This journey is the opposite of the trek out: not stealth, but speed; not Man vs
 14. THE CONFRONTATION:
 They arrive back at the Safe Zone in their heretical old-tech vehicle, stunning everyone.
 
-The Hero's Act: They hand over the synthesis protocols to the Journydman Keepers, saving the kiva and the dying yázhí.
+The Hero's Act: They hand over the synthesis protocols to the Journydman Keepers, saving the kiva and the dying yazhi.
 
 The Heretic's Act: They walk into the Council chamber. They don't just reveal the 2-3 decade timeline. They reveal the lie at the heart of their society: "Our founders lied. The Archive wasn't damaged. The other colonists left... they jumped back in time. They are the ones we must find."
 

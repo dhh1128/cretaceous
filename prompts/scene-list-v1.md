@@ -1,3 +1,4 @@
+# Scene List
 This document breaks down the 15-beat outline (v10) into a granular, 40-scene list. Each scene is a distinct unit of action with a specific POV.
 
 Format: [Scene #] [POV Character] [Location] [Fear Level (and/or Key Emotion)]
@@ -6,7 +7,7 @@ ACT 1: THE FAILING WORLD (Beats 1-4)
 
 BEAT 1: COLD OPEN (The Catalyst)
 
-1.1 [TEVA] [Vitarium (Kiva)] [HIGH (Grief & Rage)] - Teva watches the dimming cultures as her grandmother fails the protocol. The yázhí dies. Teva's internal rage solidifies.
+1.1 [TEVA] [Vitarium (Kiva)] [HIGH (Grief & Rage)] - Teva watches the dimming cultures as her grandmother fails the protocol. The yazhi dies. Teva's internal rage solidifies.
 
 BEAT 2: UNSETTLED NORMALCY & SET-UP
 
@@ -14,7 +15,7 @@ BEAT 2: UNSETTLED NORMALCY & SET-UP
 
 2.2 [BENAL] [Family Dwelling] [LOW (Frustration)] - Benal studies his math. His parent's dismissal ("do something real"). His shame/isolation.
 
-2.3 [TEVA] [Village Center] [LOW (Cold Rage)] - Teva drills yázhí on croc protocols. Her internal monologue contrasts the "useless" drill with the real threat (the plague).
+2.3 [TEVA] [Village Center] [LOW (Cold Rage)] - Teva drills yazhi on croc protocols. Her internal monologue contrasts the "useless" drill with the real threat (the plague).
 
 BEAT 3: THE DEBATE (Public & Private)
 
@@ -125,3 +126,4 @@ BEAT 14: THE CONFRONTATION
 BEAT 15: FINAL IMAGE
 
 15.1 [KEO] [Council Chamber] [LOW (Determination)] - Back to Keo. He surveys the new power dynamic. His parents' pride. The Council's terror. He stands with his family. The end.
+

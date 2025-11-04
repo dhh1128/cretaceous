@@ -5,18 +5,18 @@ This beat sheet outlines the major plot points and includes the core rationale b
 ACT 1: THE FAILING WORLD
 
 1. COLD OPEN (The Catalyst):
-We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yázhí (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yázhí dies. This is the crisis that breaks Teva's faith in the system.
+We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yazhi (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yazhi dies. This is the crisis that breaks Teva's faith in the system.
 
 Rationale (Pacing): Starting in medias res with the Catalyst provides an immediate emotional hook. It confronts the reader with the stakes (life and death) before explaining the world, which creates tension and a powerful need to understand the "why."
 
 2. UNSETTLED NORMALCY & SET-UP:
 Instead of a flashback, the next day there is an attempt to return to normalcy, but the crisis hangs over everyone.
 
-We see Keo trying to find comfort in training Noli, but he's distracted and unsettled by the yázhí's death.
+We see Keo trying to find comfort in training Noli, but he's distracted and unsettled by the yazhi's death.
 
 We see Benal (Ben) trying to focus on his "useless" temporal mathematics, but the Council's real-world failure makes his abstract work feel pointless.
 
-We see Teva trying to drill other yázhí on croc protocols, but her heart isn't in it; she's filled with a cold rage.
+We see Teva trying to drill other yazhi on croc protocols, but her heart isn't in it; she's filled with a cold rage.
 
 This "unsettled" sequence establishes the "water is death" culture, the political tension (Traditionalists vs. Branchers), Keo's parents as the "Explorer" custodians of the environmental suits, and the Theme Stated: An elder mentions the mission: "We hold the future in our hands, but the past is a cage."
 
@@ -82,7 +82,7 @@ The offshore journey. As part of their plan, they locate the old raft cached on 
 Rationale (Protagonist Competence): Having them plan to find the old raft makes them more competent. They aren't just "lucky"; they are executing a desperate but complete plan.
 
 10. Dark Night of the Soul:
-Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yázhí they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
+Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yazhi they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
 
 Rationale (Emotional Stakes): Their despair is doubled. It's not just "we might die"; it's "we destroyed our families' lives for nothing." This makes the discovery in Beat 11 a much more powerful moment of redemption.
 
@@ -116,7 +116,7 @@ Rationale (Pacing & Theme): The skiff solves the "return journey" pacing problem
 14. THE CONFRONTATION:
 They arrive back at the Safe Zone in their heretical old-tech vehicle, stunning everyone.
 
-The Hero's Act: They hand over the synthesis protocols to the Journeyman Keepers, saving the kiva and the dying yázhí.
+The Hero's Act: They hand over the synthesis protocols to the Journeyman Keepers, saving the kiva and the dying yazhi.
 
 The Heretic's Act: They walk into the Council chamber. Their parents are present, but as prisoners under guard. The kids don't just reveal the 2-3 decade timeline. They reveal the lie at the heart of their society: "Our founders lied. The Archive wasn't damaged. The other colonists left... they jumped back in time. They are the ones we must find."
 

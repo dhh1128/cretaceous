@@ -5,7 +5,7 @@ This beat sheet outlines the major plot points for the novel based on the v0.4 m
 ACT 1: THE FAILING WORLD
 
 1. COLD OPEN (The Catalyst):
-We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yázhí (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yázhí dies. This is the crisis that breaks Teva's faith in the system.
+We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yazhi (a young child) is dying from a simple infection. The "Knowledge Death" is not a future threat; it is happening now. The adults are helpless. The yazhi dies. This is the crisis that breaks Teva's faith in the system.
 
 2. NORMALCY & SET-UP (Flashback):
 We jump back to "Two Days Earlier." This is the "normal world."
@@ -19,7 +19,7 @@ We establish the "water is death" culture, the croc patrols, the political tensi
 We hear the Theme Stated: An elder mentions the mission: "We hold the future in our hands, but the past is a cage."
 
 3. THE DEBATE (Return to Present):
-We are back in the immediate aftermath of the yázhí's death. The Council is paralyzed. Teva, enraged and grieving, declares she's going to the Genesis Site (The Archive) for the synthesis protocols. Keo, driven by loyalty, agrees. Ben insists on going—he is the only "Theorist" who can understand the temporal data that must also be at the Archive. This is his one chance.
+We are back in the immediate aftermath of the yazhi's death. The Council is paralyzed. Teva, enraged and grieving, declares she's going to the Genesis Site (The Archive) for the synthesis protocols. Keo, driven by loyalty, agrees. Ben insists on going—he is the only "Theorist" who can understand the temporal data that must also be at the Archive. This is his one chance.
 
 4. BREAK INTO TWO (The Theft):
 They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits—one for Teva (critical for thermal regulation) and one for Ben (critical for protection/venom resistance). He will go without, trusting his upgrades and hubris. Under cover of night, the theft is successful. The three (four, with Noli) slip out of the Safe Zone perimeter. The 80km "mudwalk" begins.
@@ -60,7 +60,7 @@ They finally reach the coast, only to see the 5-8km of treacherous open water be
 The offshore journey. They build a raft (Q#12) or find an old, cached one. A storm hits. They are attacked by a Mosasaur (Q#11). The raft is destroyed. They lose critical gear (perhaps their fieldpacks). They are separated and wash up on the sharp coral bank of the Genesis Site, battered, injured, and believing they've failed.
 
 10. Dark Night of the Soul:
-Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yázhí they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
+Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. Keo laments his hubris and Noli's death. Teva laments her grandmother and the yazhi they failed to save. Ben feels he has failed, as his "useless" knowledge was no help. The mission is over.
 
 ACT 3: THE ARCHIVE & THE RETURN
 
@@ -90,7 +90,7 @@ This journey is the opposite of the trek out: not stealth, but speed; not Man vs
 14. THE CONFRONTATION:
 They arrive back at the Safe Zone in their heretical old-tech vehicle, stunning everyone.
 
-The Hero's Act: They hand over the synthesis protocols to the Journeyman Keepers, saving the kiva and the dying yázhí.
+The Hero's Act: They hand over the synthesis protocols to the Journeyman Keepers, saving the kiva and the dying yazhi.
 
 The Heretic's Act: They walk into the Council chamber. They don't just reveal the 2-3 decade timeline. They reveal the lie at the heart of their society: "Our founders lied. The Archive wasn't damaged. And the other colonists are still out there. They are the only ones who can save the future."
 

@@ -7,11 +7,11 @@ ACT 1: THE FAILING WORLD
 
 1. COLD OPEN (The Catalyst):
 [POV: Teva] [Fear Level: High (Masked by Grief & Rage)]
-We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yázhí (a young child) is dying from a simple infection. The adults are helpless (their fear is palpable paralysis). The yázhí dies. This is the crisis that breaks Teva's faith in the system.
+We open in medias res in the Vitarium (kiva). The glowing cell cultures are dimming. Teva is at her grandmother's side, who is failing a public memory test of the synthesis protocol. A yazhi (a young child) is dying from a simple infection. The adults are helpless (their fear is palpable paralysis). The yazhi dies. This is the crisis that breaks Teva's faith in the system.
 
 Rationale (Pacing): Starting in medias res with the Catalyst provides an immediate emotional hook.
 
-Rationale (Teva's Backstory): This scene is intensely personal for Teva. Her own parents died from a similar infection/plague years ago. The dying yázhí is a direct echo of her core trauma, which is why her reaction is rage, not just sadness.
+Rationale (Teva's Backstory): This scene is intensely personal for Teva. Her own parents died from a similar infection/plague years ago. The dying yazhi is a direct echo of her core trauma, which is why her reaction is rage, not just sadness.
 
 2. UNSETTLED NORMALCY & SET-UP:
 [Fear Level: Low (Simmering Anxiety)]
@@ -21,7 +21,7 @@ Instead of a flashback, the next day there is an attempt to return to normalcy, 
 
 [POV: Benal] We see Benal trying to focus on his "useless" temporal mathematics. His Brancher parent interrupts, dismissing his work: "Still staring at those dead symbols? Do something real." This establishes his family conflict: his parents pity his abstract work, seeing it as a symptom of his physical frailty.
 
-[POV: Teva] We see Teva trying to drill other yázhí on croc protocols, but her heart isn't in it; she's filled with a cold, focused rage that has no outlet.
+[POV: Teva] We see Teva trying to drill other yazhi on croc protocols, but her heart isn't in it; she's filled with a cold, focused rage that has no outlet.
 
 Rationale (Structure): Using "unsettled normalcy" maintains forward momentum. The "normal" scenes are now filled with dramatic irony.
 
