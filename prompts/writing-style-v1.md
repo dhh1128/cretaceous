@@ -128,7 +128,7 @@ Counterexample (Common): He whistled, a sharp, two-note sound.
 Example (Target): He double-whistled. OR He whistled two notes. (Whistling is inherently sharp.).
 
 Counterexample (Common): The sound was a low, bass rumble.
-Example (Target): The contrabass shook the ground. (Low/bass are redundant. Showing the effect is more powerful than saying "rumble").
+Example (Target): Bass shook the ground. (Low/bass are redundant. Showing the effect is more powerful than saying "rumble").
 
 Counterexample (Common): The adults were sad, their heads down.
 Example (Target): The adults wilted.
