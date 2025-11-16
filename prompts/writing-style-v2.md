@@ -156,3 +156,5 @@ Logic: Ensure in-world logic is sound (e.g., the pheromone barrier must be smell
 Put a space before and after an em dash.
 
 Follow the British convention of only placing punctuation inside of quotes if the punctuation is part of what was quoted.
+
+Do not capitalize species names like tyrannosaurus or deinosuchus.
