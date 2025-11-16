@@ -1,20 +1,20 @@
-# Cretaceous - Milieu Reference v0.4
+# Cretaceous - Milieu Reference
 
 ## Core Premise
 YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity discovers time travel simultaneously with discovering pending extinction-level **biological pandemic**. Desperate solution: send designated survivors (scientists, soldiers, experts) back to Cretaceous period, 66 million years ago, to Chicxulub impact site (Yucatan). Mission: develop biological solution to future pandemic, study temporal mechanics, and transmit solution forward in time to save humanity. Constraints: must remain within future impact radius to avoid leaving evidence/paradoxes. Original group arrives **206 years before novel begins**. Transit problems caused knowledge loss, equipment damage. Society has been in survival mode since.
 
 ## Temporal Mechanics & Mission Status
 
-**The biological solution:** ALREADY DEVELOPED. The upgrade system IS the solution - the colonists solved the pandemic problem within the first generation after arrival. The viral vector technology that delivers upgrades can be adapted to cure/prevent the future pandemic.
+**The biological solution:** ALREADY DEVELOPED. The upgrade system IS the solution - the colonists solved the pandemic problem within the first generation after arrival, but knowledge of this connection has been lost. The viral vector technology that delivers upgrades can be adapted to cure/prevent the future pandemic.
 
-**The remaining problem:** **Temporal mechanics for forward time travel**. Original scientists hadn't fully solved how to travel forward in time safely. The equipment exists at Genesis Site but requires understanding they don't have. If Keo and friends can solve the temporal mechanics questions, they can save future Earth. **This revelation comes at the end of the first novel and sets up the sequel.**
+**The remaining problem:** **Temporal mechanics for forward time travel**. Original scientists hadn't fully solved how to travel forward in time safely. The equipment exists at Genesis but requires understanding they don't have. If Keo and friends can solve the temporal mechanics questions, they can save future Earth. **This revelation comes at the end of the first novel and sets up the sequel.**
 
 **What went wrong:** 
-- Transit damaged equipment, killed some arrivals
+- (Supposedly) Transit damaged equipment, killed some arrivals
 - Lost critical knowledge about forward time travel mechanics
 - Society developed hard-tech aversion over generations
 - Mission understanding corrupted: now believe they must somehow "send" solution forward (bury it? orbital artifact?) rather than physically travel WITH the solution
-- Timeline belief: Society thinks they have centuries; reality is 2-3 decades
+- Timeline belief: Society thinks they have centuries; reality is 1-2 decades
 - Asteroid uncertainty: Multiple asteroids detected on potential collision courses; exact impactor unknown
 
 **Faction split:**
@@ -29,19 +29,19 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 
 **Governance:** Council of elders, elected by all adults annually. Members often serve long terms, but position is not permanent (health, age, political alliances can force turnover). Council makes major decisions, manages resources, mediates disputes.
 
-**Location:** Settled ~80km inland from Genesis Site in safe zone on slightly elevated, drier ground than surrounding wetlands. Reasons for migration from Genesis Site: fresh water, caves (stable temperature for Vitarium), defensible terrain, resources, escape from harsh coastal conditions and temporal disorientation effects.
+**Location:** Settled at a place called "Enclave", ~80km inland from Genesis (site of first arrival in this time period) in Enclave on slightly elevated, drier ground than surrounding wetlands. Reasons for migration from Genesis: fresh water, caves (stable temperature for Vitarium), defensible terrain, resources, escape from harsh coastal conditions and temporal disorientation effects.
 
-**The Safe Zone:** 
+**Enclave** 
 - **Size:** 2-4 km diameter (~3-12 km²)
-- **Village core** (~0.5 km diameter): Tree houses (protection from ground threats) with roofed structures (protect from aerial threats like pterosaurs), central gathering spaces, Vitarium kiva nearby
+- **Village core** (~0.5 km diameter): Tree houses (protection from ground threats) in monkey puzzle trees about 30m off the ground, with roofed structures (protect from aerial threats like pterosaurs), central gathering spaces, Vitarium kiva nearby
 - **Cultivated zone** (~1-1.5 km radius from center): Food crops, managed groves, insect farms
 - **Managed buffer zone** (outer ring to 2-4 km edge): Patrolled boundaries, grazing areas for small domesticated herbivore herd, barriers
-- **Perimeter defenses:** Physical barriers (planted trees, fences, natural features like rivers and rock ridges), carefully maintained to exclude large herbivores and carnivores
+- **Perimeter defenses:** Physical barriers (planted trees, a tangle of felled trees forming a rough palisade, boulders, natural features like rivers and rock ridges), carefully maintained to exclude large herbivores and carnivores
 
 **Security measures:**
 - Constant boundary patrols by watchers (scouts/lookouts)
-- Buddy system ingrained in culture - MANDATORY near water
-- Mental projection used to discourage animal approach
+- Buddy system ingrained in culture - MANDATORY near water (constant danger from crocs)
+- Mental projection used to detect/discourage animal approach
 - Tree houses provide secondary defense layer
 - River barriers (underwater palisades - wooden stakes driven deep, stone weirs creating shallow rapids, multiple redundant layers, netting) against crocs (crocodilians) - MAJOR ongoing threat
 - Regular inspection and repair crews for barriers
@@ -51,8 +51,8 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 - Acceptance that barriers aren't perfect - occasional breaches occur (~5-10 people per year lost to croc attacks, mostly from protocol violations)
 
 **Domesticated animals:**
-- **Working herbivores** (5-10 hadrosaurs - duck-billed dinosaurs, 2-4 tons each, herd animals, herbivores): Kept inside safe zone, heavily supplemented with cultivated food. Used for heavy labor (moving boulders, uprooting trees, damming waterways, processing cycads). Mental projection required to direct them.
-- **Semi-wild herds:** Additional hadrosaurs graze outside safe zone but nearby. Explorers (like Keo's parents) with strong mental projection periodically venture out to "recruit" animals for temporary labor, then release them.
+- **Working herbivores** (5-10 hadrosaurs - duck-billed dinosaurs, 2-4 tons each, herd animals, herbivores): Kept inside Enclave, heavily supplemented with cultivated food. Used for heavy labor (moving boulders, uprooting trees, damming waterways, processing cycads). Mental projection required to direct them.
+- **Semi-wild herds:** Additional hadrosaurs graze outside Enclave but nearby. Explorers (like Keo's parents) with strong mental projection periodically venture out to "recruit" animals for temporary labor, then release them.
 - **Limited bird domestication:** Possibly ground-dwelling species (skybirds) kept for ovos (eggs)
 - **Note:** Cretaceous mammals all too small (rabbit-sized maximum - grounders, small burrowing mammal-like reptiles) for useful domestication
 
@@ -65,33 +65,60 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 - Fern gardens (fiddleheads, rhizomes, glassleaf varieties)
 
 *Foraged/wild-managed:*
+- mushrooms
 - Annonaceae fruits (dinosaur-fruit relatives - large, nutritious stonefruits)
-- Conifer seeds and false-fruits
+- piñons (pine nuts) from monkey puzzle trees; Conifer seeds and false-fruits
 - Gnetophyte berries
 - Leche (milky plant sap from tuberous roots)
 
 *Animal protein (carne):*
 - Fish from rivers - traps, spears
-- Small game (grounders - small mammals, lizards, early skybirds)
+- Small game ("grounders" - small mammals, lizards; also early birds)
 - Ovos (eggs) - dinosaur, turtle, croc - carefully harvested, dangerous
 - Insects (high protein, farmed in controlled areas - larvae, grubs, crawlers)
-- Limited hunting of smaller dinosaurs outside safe zone (razortails - small theropods)
+- Limited hunting of smaller dinosaurs outside Enclave (razortails - small theropods)
 
 *Cultural food practices:*
-- Communal cycad processing (labor-intensive, social event)
+- Communal cycad and piñon processing (labor-intensive, social event)
 - Seasonal fruit harvests
 - Ovo-gathering expeditions (dangerous but valuable)
 
 **Daily life - Housing:**
 Tree houses in village core. Provides protection from ground predators. Roofed structures (not open platforms) protect from aerial threats (flybeaks - large but primarily scavengers/fish-eaters, not major threat to adults but dangerous to yazhi).
 
-**Technology philosophy:**
-- **Hard tech (old-tech):** Metal, nuclear, synthetic materials, electronics. Dangerous because leaves geological traces. Kept only in safe zone (impact center), carefully inventoried, minimally used. Terms shortened through familiarity: gennie (generator), lightcell (battery/power storage).
+### Culture and Social Status (A "Culture of Intellect")
+
+The Enclave is, at its core, a scientific mission. Social status is not determined by wealth or "warrior" prowess, but by **mission-critical knowledge and skill**.
+
+* **The Keepers (High-Status):** The Keepers of the Vitarium are among the most revered and high-status individuals. Their role is almost entirely intellectual, requiring perfect memory, steady hands, and mastery of the complex synthesis protocols with named amino acids and protein folds. Omya's failure is a catastrophe precisely because her *intellect* was a central pillar of their survival.
+
+* **Knowledge-Based Roles:** Other high-status roles are also knowledge-based:
+    * **Explorers (e.g., Keo's Parents):** Valued not just for courage, but for their *mastery* of animal behavior, survival techniques, and their exceptional, complex *upgrades* (like mental projection).
+    * **Mathematicians (e.g., Benal):** While the pragmatic *Brancher* faction may dismiss this work as "useless", the *Traditionalist* faction and the society's core mission *depend* on their theoretical work to solve the temporal mechanics problem.
+
+* **Character Motivation:** This value system is central to our protagonists:
+    * **Teva's Choice:** Teva, a pragmatist, *recruits Benal*. This single act proves that the younger generation understands that *intellect* is the key to the Genesis Site, not just brawn.
+    * **Benal's Vindication:** Benal's entire arc is about his "useless" intellectual work being vindicated as the *most* important knowledge their people possess.
+
+## Technology philosophy
+
+- **Hard tech (old-tech):** Metal, nuclear, synthetic materials, electronics. Dangerous because leaves geological traces. Kept only in Enclave (impact center), carefully inventoried, minimally used. Terms shortened through familiarity: gennie (generator), lightcell (battery/power storage).
 - **Soft tech:** Bioengineering. Dangerous because can't be kept local (organisms move, reproduce). Exception: humans (can be kept in impact zone) and engineered organisms with mandatory dependencies/kill-switches.
 
+### The "Soft-Tech" Sophistication
+
+A core principle of the novel is that the colonists' "soft-tech" is **high-technology**, not primitive adaptation. Their society is built on sophisticated, applied bio-engineering far in advance of 21st-century capabilities. Prose and dialogue must actively reflect this to avoid the "devolved tribe" trope.
+
+* **Engineered Systems vs. Nature:** The Enclave's solutions are *not* found; they are *built*.
+    * **Example:** The kiva is lit by engineered **mycelial lattices**, not just "glowing mushrooms." These are cultivated on specific substrates, maintained by Keepers, and calibrated to produce specific wavelengths—a soft blue for the Vitarium cultures, a warmer yellow for dwellings. They are a living, maintained *system* with an embedded kill switch so the tech won't spread.
+    * **Example:** The **pheromone barrier** is not just a "stink" from a dead animal. It is a complex *compound* that must be synthesized, harvested, and carefully reapplied, calibrated to repel specific predators.
+
+* **Scientific Language:** The concepts behind their tech are high-level.
+    * **Example:** The Vitarium runs on "synthetic nutrient compounds," "apoptosis" protocols, and "viral vectors". The failure in Scene 1.1 is a failure of a specific "protocol" ("position one-oh-seven"), not a vague ritual.
+
 **Key locations:**
-- **The Vitarium (or "the kiva"):** Deep limestone cave system housing cell cultures. Natural constant temperature (20-24°C), high humidity, darkness. Contains human cell culture lines in stone/ceramic vessels, each producing one upgrade viral vector. Cultures glow different colors when healthy (bioluminescence). Require daily feeding of synthetic nutrient compound or undergo apoptosis within 24-48h (DNA self-destructs). Sacred/important space for the community.
-- **Genesis Site (The Archive):** Original arrival point offshore 5-8km in 10-20m depth water on coral bank. Partially submerged, partially above water at low tide. Surrounded by dangerous currents, sharp formations, marine megafauna territory (mosasaurs, marine crocs). Structurally unstable, causes temporal disorientation. Contains: metal tablets with protocols, computer databases (possibly still powered), **time travel equipment (damaged/depleted but potentially functional - key to saving future)**, complete synthesis protocols, possibly more environmental suits, possibly preserved bodies, evidence that will challenge societal assumptions.
+- **The Kiva:** Moderately deep, large limestone cave that serves as a safe community gathering place. Cultivated bioluminescent fungi augment natural shaft of light that comes down during the day. On one side is a shallow, smaller recess called the **Council Chamber**. On another side, a natural cleft leads to a deeply recessed chamber called **The Vitarium**. This location houses cell cultures. Natural constant temperature (20-24°C), high humidity, darkness. Contains human cell culture lines in stone/ceramic vessels, each producing one upgrade viral vector. Cultures glow different colors when healthy (bioluminescence). Require daily feeding of synthetic nutrient compound or undergo apoptosis within 24-48h (DNA self-destructs). Carefully guarded access.
+- **Genesis:** Original arrival point offshore 5-8km in 10-20m depth water on coral bank. Partially submerged, partially above water at low tide. Surrounded by dangerous currents, sharp formations, marine megafauna territory (mosasaurs, marine crocs). Structurally unstable, causes temporal disorientation. Contains: metal tablets with protocols, computer databases (possibly still powered), **time travel equipment (damaged/depleted but potentially functional - key to saving future)**, complete synthesis protocols, possibly more environmental suits, possibly preserved bodies, evidence that will challenge societal assumptions.
 
 ## Measurements
 Express time in military (2130). Use the metric system for distances and weights.
@@ -108,6 +135,27 @@ Express time in military (2130). Use the metric system for distances and weights
 - **Spanish loanwords** for common daily items (ovo, leche, carne, pan)
 - **Native American terms** for cultural/spiritual concepts (yazhi, kiva)
 
+## 6. Language Evolution
+
+(The existing text on "Origins" and "After 206 years" remains.)
+
+### 6.1. Linguistic Duality (The "Code-Switch")
+
+The most important linguistic feature of the Enclave is **"code-switching."** The colonists are highly educated and "bilingual" in their own language. They have *not* lost their technical vocabulary; they have simply added a new layer of efficient "drift" terms.
+
+* **1. "Drift" Language (Casual/Speed):** Used for daily efficiency, speed, and in high-stress situations. This includes clipped terms (*gennie*, *lightcell*), folk names (*razortail*, *flybeak*), and loans (*ovo*, *yazhi*).
+    * **Purpose:** These terms show *familiarity*, not ignorance. Calling a *Deinosuchus* a "croc" is the same as a modern biologist calling *Tyrannosaurus rex* "*T. rex*."
+
+* **2. "Precision" Language (Technical/Formal):** Used in medical, scientific, engineering, or formal contexts. Characters will naturally switch to this language when precision is required.
+    * **Purpose:** This reminds the reader that the characters are scientists and engineers.
+
+**Prose and dialogue must actively "code-switch" between these two modes.**
+
+* **Example (Casual):** "Keo, watch the bank—big *croc* moving!"
+* **Example (Technical):** "A *Deinosuchus* can detect a 4-micrometer vibration. The buddy system isn't just tradition; it's a hard-data response to its *integumentary sensors*."
+* **Example (Casual):** "Another *stingburn*, I'll need a salve."
+* **Example (Technical):** "It wasn't a *stingburn*. The *necrosis* followed the *lymphatic system*. It's the same *pathogen* that killed my mother."
+
 **Common drift terms in regular use:**
 
 *Animals:*
@@ -115,9 +163,9 @@ Express time in military (2130). Use the metric system for distances and weights
 - **flybeak** - small pterosaur
 - **saropo** - sauropod (from sauropod)
 - **razortail** - small predatory theropod
-- **grounder** - small burrowing mammal-like reptile
-- **skybird** - bird or bird-like reptile
+- **grounder** - small burrowing mammal or reptile
 - **crawler** - small arthropod
+- **shroom** - edible mushrooms
 
 *Technology:*
 - **gennie** - generator
@@ -137,6 +185,7 @@ Express time in military (2130). Use the metric system for distances and weights
 - **carne** - meat from hunted animals
 - **pan** - baked cycad starch
 - **leche** - milky plant sap
+- **piñon** - pine nut
 
 *Native American-influenced:*
 - **yazhi** (Navajo: "small one") - young child, especially before True Name ceremony; term of endearment
@@ -181,7 +230,7 @@ Express time in military (2130). Use the metric system for distances and weights
 - Venom/toxin resistance
 - Mental projection (influence animal behavior - rare full expression)
 
-**The Keepers (or Shepherds):** Elite role maintaining Vitarium cultures. Require perfect memory, attention to detail, steady hands. Possibly hereditary due to trust requirements. Knowledge of nutrient synthesis protocol closely guarded (prevent rogue humans from taking upgrade tissue elsewhere). Protocol required to be known by minimum 3 Master Keepers at any time.
+**The Keepers:** Elite role maintaining Vitarium cultures. Require perfect memory, attention to detail, steady hands. Possibly hereditary due to trust requirements. Knowledge of nutrient synthesis protocol closely guarded (prevent rogue humans from taking upgrade tissue elsewhere). Protocol required to be known by minimum 3 Master Keepers at any time.
 
 **Naming traditions:** 
 - Birth name (temporary/informal, until survival milestone)
@@ -208,7 +257,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 **Why protagonists must act:** Adults won't act fast enough. Teva's grandmother's condition plus missing Master Keepers means knowledge actively degrading. Children (yazhi) dying without upgrades. Society losing ability to fulfill its mission. Only Archive has complete protocols, possibly functioning synthesis equipment, possibly more environmental suits, AND the time travel equipment/knowledge needed to actually save future Earth.
 
-**Additional motivation:** Hope of finding more environmental suits at Genesis Site (currently only ~12 remain from original 200).
+**Additional motivation:** Hope of finding more environmental suits at Genesis (currently only ~12 remain from original 200).
 
 ## Environmental Suits
 **Origin:** Created before upgrade system functional. Allowed original settlers (too old for upgrades) to survive. Originally 200 suits; now ~12 remain (failed/destroyed over 206 years). Extremely precious old-tech relics, carefully inventoried.
@@ -225,7 +274,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 **Total specs:** ~5-8mm thick (wetsuit-like), 2-3kg weight for full body suit.
 
-**Custodianship:** Keo's parents are both Explorers (people with right upgrade combinations to survive outside safe zones to some extent). They are custodians/users of suits. This gives Keo training, exposure to survival knowledge, brief outside experience.
+**Custodianship:** Keo's parents are both Explorers (people with right upgrade combinations to survive outside Enclaves to some extent). They are custodians/users of suits. This gives Keo training, exposure to survival knowledge, brief outside experience.
 
 ## Main Characters
 
@@ -245,7 +294,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 **Background:** 
 - Parents are Explorers (both), giving him training and survival knowledge
-- Has been outside safe zone briefly on supervised trips
+- Has been outside Enclave briefly on supervised trips
 - Lost younger sibling to lack of upgrade (death motivates him)
 - Not rebelling against parents' philosophy (they're ambivalent Traditionalist/Brancher) but against their protectiveness
 - Loyal to Teva (primary motivation for journey)
@@ -324,9 +373,16 @@ Express time in military (2130). Use the metric system for distances and weights
 - Works on all animals but effectiveness varies by intelligence, brain structure, emotional state
 - **Crocs and mosasaurs:** Mental projection barely effective against hungry crocodilians or marine predators - their predator drive overrides influence
 
+## Weapons
+The society's Traditionalist fear of temporal paradoxes has created a strict, two-tiered weapons philosophy. The first category, "old-tech", consists of the finite, metal-tipped weapons from the original colonists. These are precious relics, carefully inventoried and used only for the most dire emergencies within the Safe Zone. Taking old-tech outside the impact radius is a taboo, as a lost metal blade could survive 66 million years and contaminate the timeline.
+
+As a result, all external exploration and defense relies on the second category: "bio-safe" weapons. These are powerful, sophisticated tools crafted from materials that will degrade naturally, leaving no geological trace. This arsenal is harvested from the environment and includes the croc-spike, a 2.5-meter hardwood lance tipped with a massive Deinosuchus tooth for punching through hide and bone; the razor-club, a heavy hardwood club edged with the serrated, slicing teeth of "razortails" (small theropods); the chert-knife, a utility blade knapped from chert nodules found in the local limestone; and the atl, a spear-thrower that gives them lethal, long-range striking power.
+
+This reliance on bio-safe weapons forces the colonists to be expert hunters and resourceful engineers, turning the lethality of the Cretaceous against itself. Their weapons are not just tools but a direct reflection of their cultural constraints and their intimate, hard-won knowledge of the local fauna. The creation and maintenance of these items require regular, dangerous harvesting expeditions, reinforcing the high-stakes nature of their survival.
+
 ## The Journey
 
-**Distance:** 80km through Cretaceous Yucatan jungle to coast, then 5-8km offshore to Genesis Site coral bank.
+**Distance:** 80km through Cretaceous Yucatan jungle from Enclave to coast, then 5-8km offshore to Genesis coral bank.
 
 **Terrain - Land:**
 - Dense jungle (limited visibility)
@@ -348,7 +404,7 @@ Express time in military (2130). Use the metric system for distances and weights
 **Terrain - Offshore:**
 - 5-8km open water to coral bank
 - Dangerous currents, sharp coral formations
-- Partially submerged Genesis Site structure
+- Partially submerged Genesis structure
 - Diving/swimming required to access interior
 
 **Dangers - Land:**
@@ -383,7 +439,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 **What they carry:**
 - Fieldpacks (minimal weight)
-- Weapons (spears, knives - stone/metal that will be destroyed in impact)
+- Weapons (spears that are a long shaft with a croc tooth fire-hardened sticks, bone knives - stone/metal that will be destroyed in impact)
 - Water containers
 - Some food (will run out, must forage for stonefruits, ovos, carne)
 - Biodegradable navigation aids
@@ -396,7 +452,7 @@ Express time in military (2130). Use the metric system for distances and weights
 - Ben: [TBD - why does he join?]
 - All: Society's survival (yazhi dying without upgrades), preserving mission (upgrades ARE the solution), hope of finding more suits, finding truth about timeline and time travel
 
-**What they discover at Genesis Site:**
+**What they discover at Genesis:**
 - Complete synthesis protocols (metal tablets, databases)
 - **True timeline:** 2-3 decades until impact, not centuries
 - **THE CRITICAL REVELATION:** Biological solution already exists (the upgrades themselves). They were supposed to TIME TRAVEL FORWARD with the solution, not bury/send it.
@@ -441,7 +497,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 5. **Death and burial:** What happens to bodies? Can't leave bones in impact zone presumably. Biodegradable burial practices? Specific rituals?
 
-6. **Explorer role details:** What exactly do Keo's parents do? How often do they leave safe zone? What's their mission (scouting, recruiting animals, gathering resources)? How dangerous is it really? What's their social status?
+6. **Explorer role details:** What exactly do Keo's parents do? How often do they leave Enclave? What's their mission (scouting, recruiting animals, gathering resources)? How dangerous is it really? What's their social status?
 
 7. **Council specifics:** How many members? What age qualifies as "elder"? What decisions require unanimous vs. majority? How are disputes resolved?
 
@@ -454,9 +510,9 @@ Express time in military (2130). Use the metric system for distances and weights
 
 11. **Specific fauna encounters:** Which Cretaceous species will they encounter and how? Need specific memorable/dramatic sequences. What kills Noli specifically? What near-death experiences does each character have?
 
-12. **The offshore challenge:** How exactly do they reach Genesis Site? Find old boats/rafts stored from migration? Build raft? Swim? Who's best equipped? What goes wrong?
+12. **The offshore challenge:** How exactly do they reach Genesis? Find old boats/rafts stored from migration? Build raft? Swim? Who's best equipped? What goes wrong?
 
-13. **Genesis Site interior:** Detailed layout. What rooms/areas? What's functional vs. destroyed? How do they navigate flooded sections? Temporal disorientation effects on each character? How do they access it (diving, swimming, wading)?
+13. **Genesis interior:** Detailed layout. What rooms/areas? What's functional vs. destroyed? How do they navigate flooded sections? Temporal disorientation effects on each character? How do they access it (diving, swimming, wading)?
 
 14. **The revelation sequence:** In what order do they discover truths? What creates maximum dramatic impact? Do they find bodies of original arrivals? Personal logs? Video recordings? AI still functioning?
 
@@ -488,13 +544,13 @@ Express time in military (2130). Use the metric system for distances and weights
 
 27. **The biological pandemic details:** More specifics about future crisis. What kind of pathogen? How did it start? Why couldn't future-humanity solve it themselves? What makes time-travel solution necessary? How did they discover time travel just before pandemic?
 
-28. **Asteroid detection details:** How does Genesis Site tech detect multiple asteroids? What level of AI/computing still functions after 206 years? Can they update predictions? How precise is the 2-3 decade window?
+28. **Asteroid detection details:** How does Genesis tech detect multiple asteroids? What level of AI/computing still functions after 206 years? Can they update predictions? How precise is the 2-3 decade window?
 
 29. **Biodegradable memory substrates:** More detail. Mycelial storage, bacterial colonies, DNA crystals, protein structures, or combination? How long do they last? How are they read? What's degraded in 2-3 weeks since crisis began?
 
 30. **Mental projection biology:** What's the mechanism? Brain wave modification from time travel (as mentioned in original premise)? How inheritable is it (seems to be)? Why does Keo have exceptional ability? Can it be enhanced with training?
 
-31. **Offshore navigation:** How do they know exactly where Genesis Site is after 206 years? Star navigation? Teva's magnetic sense? Landmarks visible from shore? What if they can't find it initially?
+31. **Offshore navigation:** How do they know exactly where Genesis is after 206 years? Star navigation? Teva's magnetic sense? Landmarks visible from shore? What if they can't find it initially?
 
 ### Sequel Setup
 32. **Immediate aftermath:** What happens when they return? Belief vs skepticism? Political fallout? Are they heroes or criminals? How do adults respond to timeline revelation? Emergency council meeting?
@@ -505,9 +561,9 @@ Express time in military (2130). Use the metric system for distances and weights
 
 35. **Personal futures:** What roles will Keo, Teva, Ben play going forward? Leaders of new generation? Researchers? Explorers? How do their discovered abilities/experiences shape this? Do they continue working together?
 
-36. **The off-world vision:** You mentioned Keo eventually wants off-world future for his people. What plants those seeds in this first novel? What makes him think it's possible? Is there something at Genesis Site? Records of space program?
+36. **The off-world vision:** You mentioned Keo eventually wants off-world future for his people. What plants those seeds in this first novel? What makes him think it's possible? Is there something at Genesis? Records of space program?
 
-37. **Biological solution development:** What specific adaptations of the upgrade technology are needed to cure the future pandemic? Is this obvious from Genesis Site records? Do they bring back samples/data?
+37. **Biological solution development:** What specific adaptations of the upgrade technology are needed to cure the future pandemic? Is this obvious from Genesis records? Do they bring back samples/data?
 
 38. **Time travel equipment status:** Exactly how damaged is it? What parts are missing? What power source does it need? Can it be repaired in 2-3 decades with their resources? Do they need to retrieve it from offshore?
 
@@ -518,7 +574,7 @@ Express time in military (2130). Use the metric system for distances and weights
 
 41. **Structure:** Strict chronological? Flashbacks? Intercutting between different timeframes? Chapter breaks based on what (days? locations? POV if multiple?)?
 
-42. **Pacing targets:** What % of novel is setup/departure (Act 1), journey out (Act 2a), Genesis Site discovery (midpoint/Act 2b), journey back (Act 3a), resolution (Act 3b)? Where should major beats fall?
+42. **Pacing targets:** What % of novel is setup/departure (Act 1), journey out (Act 2a), Genesis discovery (midpoint/Act 2b), journey back (Act 3a), resolution (Act 3b)? Where should major beats fall?
 
 43. **Tone balance:** How much humor vs. darkness? When to use Noli for levity? How brutal should injuries/danger be for YA audience? Gore level? Character death besides Noli?
 
@@ -526,28 +582,8 @@ Express time in military (2130). Use the metric system for distances and weights
 
 45. **Sequel hooks:** What specific threads are left deliberately unresolved? What questions does ending raise that demand continuation? How much of time travel solution is figured out vs. remains mystery?
 
-46. **Word count distribution:** 70-100k words total. Rough breakdown by section? How much time on safe zone life before journey? Journey length in pages? Genesis Site exploration? Return and aftermath?
+46. **Word count distribution:** 70-100k words total. Rough breakdown by section? How much time on Enclave life before journey? Journey length in pages? Genesis exploration? Return and aftermath?
 
 47. **Chapter structure:** How many chapters? Average length? Cliffhangers or natural breaks? Title chapters or number them?
 
 48. **Linguistic drift introduction:** When/how to introduce drift terms naturally? Front-load some in early chapters? Glossary at back? Trust readers to infer from context?
-
----
-
-## Session Summary (v0.3 → v0.4)
-
-**Decisions made:**
-- **Language corrections:** Changed "gater" to "croc" throughout (scientific term shortened), "longneck" to "saropo" (from sauropod), "dustwalk" to "mudwalk" (better fits wet environment), removed "snapjaw" (redundant with crocs)
-- **Expanded linguistic drift:** Added all optional terms (stonefruit, crawlers, fieldpack, grounders)
-- **Spanish influences:** Added ovo/ovos (egg/eggs from huevo), carne (meat), pan (baked starch from cycads), leche (milky plant sap)
-- **Native American influences:** Added yazhi (Navajo yazhi: small child/term of endearment, especially before True Name), kiva (Pueblo: ceremonial chamber - refers to Vitarium and important spaces)
-- Integrated new terms naturally throughout document (ovos for eggs, yazhi for young children, kiva as alternate name for Vitarium, mudwalk for trek, croc consistently used)
-
-**Key implications:**
-- Linguistic texture now feels more authentic to White Sands, NM origins
-- Spanish loanwords for common daily items feel natural (food, nature)
-- Native American terms mark cultural/spiritual concepts
-- "Croc" better reflects scientific background of colonists
-- "Mudwalk" reinforces wet, tropical environment vs. desert imagery
-
-**Document status:** Ready for next development phase. Major worldbuilding decisions made, but many craft/structure questions remain for actual novel writing.

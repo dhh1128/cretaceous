@@ -11,7 +11,7 @@ Target Length: The novel is outlined for approximately 40 scenes. To achieve the
 
 Pacing: This structure allows for a varied rhythm. High-action scenes (like the Quetzalcoatlus attack) may be shorter (or long, but with only details that focus on action), while dense, character-building scenes (like the "Dark Night of the Soul") may be longer and more immersive in ambience as opposed to action.
 
-Repetition and consistency: every time you write a new scene, you must be aware of what you've already described, so you don't repeat it. We don't want 9 scenes that all say the jungle is steamy and a dinosaur's skin is rough. However, you must also be consistent; if you say that cycad mash smells "acrid" in one scene, you can't say it smells "moldy" in another. You must also be aware of the names of minor characters, so you can refer to them correctly in multiple contexts. Therefore, each time you produce a scene, produce a concise (bulleted-list) "description report" that tells A) key aspects of milieu that you've described; B) top 5-15 adjectival or adverbial phrases that should not be reused in proximate scenes. When I ask you to write a new scene, I will provide the cumulative set of these description reports from preceding scenes, to help you be fresh and avoid inconsistentcies in the new context.
+Repetition and consistency: every time you write a new scene, you must be aware of what you've already described, so you don't repeat it. We don't want 9 scenes that all say the jungle is steamy and a dinosaur's skin is rough. However, you must also be consistent; if you say that cycad mash smells "acrid" in one scene, you can't say it smells "moldy" in another. You must also be aware of the names of minor characters, so you can refer to them correctly in multiple contexts. Therefore, each time you produce a scene, also produce a concise (bulleted-list) "description report" that tells A) key aspects of milieu that you've described; B) top 5-15 adjectival or adverbial phrases that should not be reused in proximate scenes. When I ask you to write a new scene, I will provide the cumulative set of these description reports from preceding scenes, to help you be fresh and avoid inconsistentcies in the new context.
 
 ## Overall Tone and Prose Rhythm
 The novel's tone is YA Survival Thriller. It is immediate, tense, and psychologically focused. The prose is "close" to the characters, prioritizing their physical sensations (fear, hunger, pain) and emotional reactions over abstract philosophy.
@@ -112,7 +112,7 @@ World-Building Integration (Context First): The novel's "drift" terms (yazhi, ki
 
 Example: "The yazhi cried, and Teva picked up the child." (Implies yazhi = child).
 
-The "Exposition Valve": For highly complex sci-fi/temporal concepts, we save the exposition for the Archive (Beats 11-12), where it can be delivered diegetically.
+The "Exposition Valve": For highly complex sci-fi/temporal concepts, we save the exposition for Genesis (Beats 11-12), where it can be delivered diegetically.
 
 ## Dialogue Handling
 Dialogue is fast, naturalistic, and often fragmented. It is a primary tool for characterization.
@@ -136,7 +136,7 @@ The narrative must always move forward. We will never use a traditional, full-ch
 
 Mechanism 1: Archival Fragments (Epigraphs): As defined in the outline, these brief snippets of "modern-day" news/logs will provide objective context (the pandemic, the mission) before major chapter blocks.
 
-Mechanism 2: Temporal Flashes (Active, Diegetic): As defined in the scene list (Beats 8, 10, 12, 14), these are not memories. They are disorienting events that happen to the characters in the present tense, a symptom of proximity to the Genesis Site.
+Mechanism 2: Temporal Flashes (Active, Diegetic): As defined in the scene list (Beats 8, 10, 12, 14), these are not memories. They are disorienting events that happen to the characters in the present tense, a symptom of proximity to Genesis.
 
 ## Handling of Sensitive Content
 This is a firm rule for the YA audience.

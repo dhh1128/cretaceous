@@ -11,7 +11,7 @@ BEAT 1: COLD OPEN (The Catalyst)
 
 BEAT 2: UNSETTLED NORMALCY & SET-UP
 
-2.1 [KEO] [Safe Zone Perimeter] [LOW (Anxiety)] - Keo trains Noli. His bravado (masking anxiety) is evident.
+2.1 [KEO] [Enclave Perimeter] [LOW (Anxiety)] - Keo trains Noli. His bravado (masking anxiety) is evident.
 
 2.2 [BENAL] [Family Dwelling] [LOW (Frustration)] - Benal studies his math. His parent's dismissal ("do something real"). His shame/isolation.
 
@@ -29,7 +29,7 @@ BEAT 4: BREAK INTO TWO (The Theft)
 
 4.1 [KEO] [His Dwelling (Night)] [HIGH (Guilt)] - Keo looks at his sleeping parents. The weight of his betrayal (the guilt) is the scene's focus.
 
-4.2 [KEO] [Suit Repository] [EXTREME (Heist Tension)] - The physical act of the theft. Nearly getting caught.
+4.2 [KEO] [Suit Repository] [EXTREME (Heist Tension)] - The physical act of the theft. Gazes longingly at metal-tipped spears and other old-tech weapons, but knows that to take them would be the ultimate taboo, has to be satisfied with bio-safe weapons. Nearly getting caught.
 
 4.3 [KEO] [Perimeter] [EXTREME (Resolve)] - Meeting Teva/Benal. Slipping past the watchers. The final, irreversible step into the jungle.
 
@@ -89,7 +89,7 @@ BEAT 10: DARK NIGHT OF THE SOUL
 
 10.4 [TEVA] [Archive (Flooded Section)] [COMPASSION] - Teva's "bridge" speech ("You're lucky..."). The "chosen family" is forged.
 
-ACT 3: THE ARCHIVE & THE RETURN (Beats 11-15)
+ACT 3: Genesis & THE RETURN (Beats 11-15)
 
 BEAT 11: BREAK INTO THREE (The First Win)
 
@@ -115,7 +115,7 @@ BEAT 13: THE RETURN (The Heretic's Ride)
 
 BEAT 14: THE CONFRONTATION
 
-14.1 [KEO] [Safe Zone (Landing Area)] [HIGH (Social Confrontation)] - The skiff lands. The stunned silence. The walk through the crowd. He sees his parents, under guard.
+14.1 [KEO] [Enclave (Landing Area)] [HIGH (Social Confrontation)] - The skiff lands. The stunned silence. The walk through the crowd. He sees his parents, under guard.
 
 14.2 [TEVA] [Council Chamber] [HIGH (Vindication)] - Her POV. She slams the protocols on the table. The accusation. "You were wrong."
 

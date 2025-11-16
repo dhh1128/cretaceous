@@ -1,12 +1,9 @@
->I am writing a novel. I want help naming characters. I'd like names that feel somewhat unusual, that feel a bit foreign to a native English speaker, that are super easy to pronounce correctly, and that are a believable name to use in a fictional society that was snapshotted from a pool of about 200 Albuquerque residents who suddenly time traveled to the past and formed an isolated society for 2-3 centuries. In other words, it should be a name that shows influences from today's Albuquerque population (English, also possibly Latino or Pueblo/Navajo roots), but that has undergone 200-300 years of linguistic evolution.
-
->Please give me a list of 20 candidate male first names, 20 candidate female first names, and 20 candidate surnames. By each name, please give me a short note about a theoretical etymology.
-
-🟢 R1 — Here’s a curated list of **names evolved from an Albuquerque-origin isolate**—200–300 years of drift yielding a soundscape that’s earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. These names are meant to be **familiar yet distinctly not contemporary**, plausible in a world that’s evolved from a Southwestern melting pot of Anglo, Hispanic, and Indigenous roots.
+## Names
+Here’s a curated list of **names evolved from an Albuquerque-origin isolate**—200–300 years of drift yielding a soundscape that’s earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. These names are meant to be **familiar yet distinctly not contemporary**, plausible in a world that’s evolved from a Southwestern melting pot of Anglo, Hispanic, and Indigenous roots.
 
 ---
 
-## ♂️ Male Names (20)
+## Male Names
 
 | Name                            | Theoretical Etymology                                                             |
 | ------------------------------- | --------------------------------------------------------------------------------- |
@@ -33,7 +30,7 @@
 
 ---
 
-## ♀️ Female Names (20)
+## Female Names
 
 | Name                | Theoretical Etymology                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------- |
@@ -60,7 +57,7 @@
 
 ---
 
-## 🧬 Surnames (20)
+## Surnames
 
 | Surname     | Theoretical Etymology                                                      |
 | ----------- | -------------------------------------------------------------------------- |
@@ -84,4 +81,3 @@
 | **Chano**   | Common nickname from *Sebastián*; became a surname.                        |
 | **Miquen**  | From *Miquel* or *Mikens*, phonological blend.                             |
 | **Torla**   | From *Torres* or *Torrance*, vowel smoothing.                              |
-

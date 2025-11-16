@@ -56,7 +56,7 @@ I'll help you build a comprehensive foundation for "Cretaceous." Here are my con
 
 **Key plot points to map:**
 - Inciting incident triggering departure
-- First threshold: leaving safe zone
+- First threshold: leaving Enclave
 - Midpoint revelation changing objectives
 - Dark night crisis testing resolve
 - Climax discovery at original site

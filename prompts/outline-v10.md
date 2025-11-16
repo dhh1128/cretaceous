@@ -19,7 +19,7 @@ Structural Device: Temporal Flashes (Visions)
 
 Purpose: To deliver the subjective, emotional backstory of the "Noble Lie" and foreshadow the "Lost Colonists" (67mya).
 
-Mechanism: A symptom of proximity to the damaged temporal equipment at the Genesis Site. They start weak (Beat 8) and become overwhelming at the site (Beat 10).
+Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak (Beat 8) and become overwhelming at the site (Beat 10).
 
 ACT 1: THE FAILING WORLD
 
@@ -47,7 +47,7 @@ Rationale (Structure): Using "unsettled normalcy" maintains forward momentum. Th
 [POV: Keo] [Fear Level: Rising (Adrenaline & Resolve)]
 The Council holds a tense, public debate, but they are paralyzed by indecision.
 
-Clandestinely, Teva (driven by rage, masking her fear) finds Keo and Ben. She declares she's going to the Genesis Site (The Archive). It's a statement, not a request.
+Clandestinely, Teva (driven by rage, masking her fear) finds Keo and Ben. She declares she's going to Genesis. It's a statement, not a request.
 
 Keo (driven by loyalty and his crush, masking his fear with bravado) immediately agrees.
 
@@ -57,9 +57,9 @@ Rationale (Agency): Splitting the debate into "public" (paralyzed adults) and "p
 
 Rationale (POV): Keo's POV lets us see Teva's "terrifying" resolve and Benal's overt fear, which Benal overcomes. This makes Keo the "center" of the trio's formation.
 
-4. BREAK INTO TWO (The Theft):
+1. BREAK INTO TWO (The Theft):
 [POV: Keo] [Fear Level: Extreme (Heist Tension / Adrenaline)]
-They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits. His fear is not of dinosaurs, but of getting caught and the shame of betraying his parents' trust. Under cover of night, the theft is successful. The three (four, with Noli) slip out of the Safe Zone perimeter. The 80km "mudwalk" begins.
+They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits. His fear is not of dinosaurs, but of getting caught and the shame of betraying his parents' trust. Under cover of night, the theft is successful. The three (four, with Noli) slip out of the Enclave perimeter. The 80km "mudwalk" begins.
 
 Rationale (Parental Fallout & Stakes): The theft must have immediate, dire consequences. Keo's parents, as suit custodians, are implicated and confined. This is why no skilled rescue party follows. This action transforms the kids' journey, loading it with guilt.
 
@@ -100,7 +100,7 @@ Teva's suit is damaged, compromising her thermal regulation. She nearly dies.
 
 The persistent predator that stalks them is the same pterosaur. Its shadow passing overhead forces them to hide and travel under cover, pushing them into more dangerous ground-level terrain. Teva is now terrified of the sky.
 
-Temporal Flash (Foreshadow): As they get closer to the Genesis Site, the "temporal disorientation" begins. Keo, in his injured/feverish state, experiences the first temporal flash—a disorienting, meaningless symbol (the "signal" for the 67mya jump) and a feeling of departure. He dismisses it as fever.
+Temporal Flash (Foreshadow): As they get closer to Genesis, the "temporal disorientation" begins. Keo, in his injured/feverish state, experiences the first temporal flash—a disorienting, meaningless symbol (the "signal" for the 67mya jump) and a feeling of departure. He dismisses it as fever.
 
 Rationale (Friendship & Maturation): This beat is the crucible for their arcs. Keo is forced into vulnerability. Teva is forced to become a leader/caretaker.
 
@@ -114,11 +114,11 @@ Rationale (Protagonist Competence): Having them plan to find the old raft makes 
 
 10. Dark Night of the Soul:
 [POV: Teva] [Fear Level: Despair (Cold & Hopeless)]
-Keo, Teva, and Ben huddle in a flooded, unstable section of the Genesis Site. They are soaked, freezing (especially Teva), and defeated. The disorientation is now strong.
+Keo, Teva, and Ben huddle in a flooded, unstable section of Genesis. They are soaked, freezing (especially Teva), and defeated. The disorientation is now strong.
 
 Temporal Flash (Emotional Core): As they huddle in despair, the flashes become overwhelming and specific, linked to their inner conflicts:
 
-Teva's Flash: She sees a vivid vision of the original schism—the argument inside the Archive between the "Loyalist" founders and the "Heretic" founders. She sees the "Loyalists" (their ancestors) and is struck by their faces—not of malice, but of terror, grief, and stubborn paralysis.
+Teva's Flash: She sees a vivid vision of the original schism—the argument inside Genesis between the "Loyalist" founders and the "Heretic" founders. She sees the "Loyalists" (their ancestors) and is struck by their faces—not of malice, but of terror, grief, and stubborn paralysis.
 
 Benal's Flash: He sees a disorienting, corrupted fragment of the "second jump" equation, mixed with a feeling of intellectual betrayal. He dismisses it as a nightmare.
 
@@ -134,11 +134,11 @@ The Bridge (Teva): Teva, still reeling from her flash, provides the crucial comp
 
 Rationale (POV): Using Teva's POV makes her the emotional anchor. She listens to the boys' confessions and then provides the compassionate "bridge" speech, forging them into a "chosen family."
 
-ACT 3: THE ARCHIVE & THE RETURN
+ACT 3: Genesis & THE RETURN
 
 11. Break into Three:
 [POV: Benal] [Fear Level: Low (Replaced by Awe & Triumph)]
-Ben's super-senses detect something: a hum, a smell. They find a functional, sealed hatch. Inside, they find a dry, powered section of the Archive. And there, etched on metal tablets: the complete synthesis protocols. They've done it. They have the solution to the immediate crisis.
+Ben's super-senses detect something: a hum, a smell. They find a functional, sealed hatch. Inside, they find a dry, powered section of Genesis. And there, etched on metal tablets: the complete synthesis protocols. They've done it. They have the solution to the immediate crisis.
 
 12. Finale (The Revelation):
 [POV: Benal] [Fear Level: Awe, then rising Intellectual Dread]
@@ -170,7 +170,7 @@ Rationale (Character Arc): This is Keo's action climax, where he faces the same 
 
 14. THE CONFRONTATION:
 [POV: Kea] [Fear Level: High (Social Confrontation)]
-They arrive back at the Safe Zone in their heretical old-tech vehicle, stunning everyone.
+They arrive back at the Enclave in their heretical old-tech vehicle, stunning everyone.
 
 The Hero's Act: They hand over the synthesis protocols, saving the kiva.
 
@@ -192,9 +192,9 @@ Potential Sequel Arcs (Book 2 & 3)
 
 (Rationale: These arcs are the logical, direct consequence of the revelations in Beat 12 & 14).
 
-The Schism (Political Arc): The revelation splits their society. The Council/Traditionalists brand the trio heretics and suppress the truth. The Branchers are galvanized. This brews a civil conflict over control of the Archive and the hard-tech skiff.
+The Schism (Political Arc): The revelation splits their society. The Council/Traditionalists brand the trio heretics and suppress the truth. The Branchers are galvanized. This brews a civil conflict over control of Genesis and the hard-tech skiff.
 
-The Search (Intellectual/Action Arc): The primary quest for Book 2 is to re-establish the "signal" and solve the "second jump" equation. This will require them to protect and use the Archive, putting them in direct conflict with the Council. The "flashes" (temporal disorientation) become a key plot device for Benal to decipher.
+The Search (Intellectual/Action Arc): The primary quest for Book 2 is to re-establish the "signal" and solve the "second jump" equation. This will require them to protect and use Genesis, putting them in direct conflict with the Council. The "flashes" (temporal disorientation) become a key plot device for Benal to decipher.
 
 The "Lost Colony" (Mystery Arc): Who are the Lost Colonists in 67mya? What did they build? Did they succeed? Are they trying to communicate back? Benal's "signal" may be a way to talk to them, but the "flashes" are the key to understanding what happened.
 
