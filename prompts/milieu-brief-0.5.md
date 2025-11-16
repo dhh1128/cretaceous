@@ -33,7 +33,7 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 
 **Enclave** 
 - **Size:** 2-4 km diameter (~3-12 km²)
-- **Village core** (~0.5 km diameter): Tree houses (protection from ground threats) in monkey puzzle trees about 30m off the ground, with roofed structures (protect from aerial threats like pterosaurs), central gathering spaces, Vitarium kiva nearby
+- **Village core** (~0.5 km diameter): Tree houses (called "nests") (protection from ground threats) in monkey puzzle trees about 30m off the ground, with roofed structures (protect from aerial threats like pterosaurs), central gathering spaces, Vitarium kiva nearby
 - **Cultivated zone** (~1-1.5 km radius from center): Food crops, managed groves, insect farms
 - **Managed buffer zone** (outer ring to 2-4 km edge): Patrolled boundaries, grazing areas for small domesticated herbivore herd, barriers
 - **Perimeter defenses:** Physical barriers (planted trees, a tangle of felled trees forming a rough palisade, boulders, natural features like rivers and rock ridges), carefully maintained to exclude large herbivores and carnivores

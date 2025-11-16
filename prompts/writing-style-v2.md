@@ -7,7 +7,7 @@ This is the primary workflow for generating the novel. We will not write in "cha
 
 Rule: The novel will be built one scene at a time, based on the numbering in the scene-list-v1.md file. (e.g., We will write "Scene 2.1," then "Scene 2.2," etc.).
 
-Target Length: The novel is outlined for approximately 40 scenes. To achieve the target 70,000–100,000 word count, each scene must be fully developed, averaging approximately 1,800 words.
+Target Length: The novel is outlined for approximately 40 scenes. To achieve the target 70,000–100,000 word count, each scene must be fully developed, averaging approximately 1,800 words. Each time you produce a draft of a scene, please give me its word count, so I can track how it maps to this general guideline.
 
 Pacing: This structure allows for a varied rhythm. High-action scenes (like the Quetzalcoatlus attack) may be shorter (or long, but with only details that focus on action), while dense, character-building scenes (like the "Dark Night of the Soul") may be longer and more immersive in ambience as opposed to action.
 
