@@ -58,13 +58,13 @@ YA sci-fi novel, 70-100k words, 10th grade reading level. Near-future humanity d
 
 **Daily life - Food sources:**
 
-The colonists' primary staple, cycad starch, comes from a specific cultivated species they call "stone-cycad," grown in managed plantations. This species is prized for its massive, starchy core, which is rock-dense and offers high yields. This cultivation distinguishes it from more dangerous wild varieties, like the resinous-smelling "bitter-palm," which are known to be highly toxic and are carefully avoided.
+The colonists' primary staple, cycad starch, comes from a specific cultivated species they call the "Stone-Cycad," grown in managed plantations. This species is prized for its massive, starchy core, which is rock-dense and offers high yields. This cultivation distinguishes it from more dangerous wild varieties, like the resinous-smelling "Bitter-Palm," which are known to be highly toxic and are carefully avoided.
 
-The "labor-intensive processing" is a critical, multi-day operation to remove potent toxins (like cycasin) from the stone-cycad core. First, the core is ground into a fibrous pulp, a task often aided by the immense power of domesticated hadrosaurs turning massive stone mills. This raw, unprocessed pulp is a sludgy, gray-brown mash that smells sharply acrid or sour.
+The "labor-intensive processing" is a critical, multi-day operation to remove potent toxins (like cycasin) from the Stone-Cycad core. First, the core is ground into a fibrous pulp, a task often aided by the immense power of domesticated hadrosaurs turning massive stone mills. This raw, unprocessed pulp is a sludgy, gray-brown mash that smells sharply acrid or sour.
 
 This raw mash is then placed in woven baskets and leached—submerged in running water (such as a designated creek) for one to three days. This essential step washes away the soluble toxins, transforming the pulp. After leaching and drying, the result is a clean, pale off-white starch, neutral and earthy-smelling (similar to raw potato starch or cassava flour). This is the safe, primary ingredient for their staple food, pan.
 
-When this white starch is mixed with water and baked, the starches caramelize. The final pan is a dense, heavy flatbread with a dark, golden-brown, crackling crust and a chewy, off-white interior. Therefore, any reference to eating "acrid, gray cycad-mash" refers to the dangerously unprocessed pulp, a sign of scarcity, desperation, or a breakdown in their food production systems.
+When this white starch is mixed with water and baked, the starches caramelize. The final pan is a dense, heavy flatbread with a dark, golden-brown, crackling crust and a chewy, off-white interior. Therefore, any reference to eating "acrid, gray cycad-mash" (as in Scene 2.2) refers to the dangerously unprocessed pulp, a sign of scarcity, desperation, or a breakdown in their food production systems.
 
 *Cultivated staple crops:*
 - Palm groves (fruits, palm hearts, starchy pith for flour - pan when baked)

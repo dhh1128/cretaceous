@@ -11,3 +11,5 @@ Lio: yazhi
 Nael: yazhi
 Hesh: an Elder
 Liaso: Benal's cousin, on Watcher duty in scene 3.3
+Joram: Keo's father
+Riel (aka "Ri"): Keo's mother
