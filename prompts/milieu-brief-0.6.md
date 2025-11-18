@@ -118,7 +118,7 @@ The Enclave is, at its core, a scientific mission. Social status is not determin
 A core principle of the novel is that the colonists' "soft-tech" is **high-technology**, not primitive adaptation. Their society is built on sophisticated, applied bio-engineering far in advance of 21st-century capabilities. Prose and dialogue must actively reflect this to avoid the "devolved tribe" trope.
 
 * **Engineered Systems vs. Nature:** The Enclave's solutions are *not* found; they are *built*.
-    * **Example:** The kiva is lit by engineered **mycelial lattices**, not just "glowing mushrooms." These are cultivated on specific substrates, maintained by Keepers, and calibrated to produce specific wavelengths—a soft blue for the Vitarium cultures, a warmer yellow for dwellings. They are a living, maintained *system* with an embedded kill switch so the tech won't spread.
+    * **Example:** The kiva is lit by engineered **mycelial lattices**, not just "glowing mushrooms." (Colloquial term for these lattices: "lightmold". These are cultivated on specific substrates, maintained by Keepers, and calibrated to produce specific wavelengths—a soft blue for the Vitarium cultures, a warmer yellow for dwellings. They are a living, maintained *system* with an embedded kill switch so the tech won't spread.
     * **Example:** The **pheromone barrier** is not just a "stink" from a dead animal. It is a complex *compound* that must be synthesized, harvested, and carefully reapplied, calibrated to repel specific predators.
 
 * **Scientific Language:** The concepts behind their tech are high-level.
