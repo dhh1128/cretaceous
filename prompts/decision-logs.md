@@ -1,59 +1,56 @@
-## Scene 2.1
+# Cretaceous - Decision Log (v3)
 
-Pheromone Barrier: It is an "amber-colored synthesis" that mimics two things: 1) The musk of a dominant male Tyrannosaurus, and 2) The chemical markers of "sepsis and necrotic tissue."
+This document tracks specific narrative decisions made during drafting that are not fully captured in the Milieu Brief or Character Profiles. Consult this to ensure continuity in future chapters.
 
-Barrier Function (T. rex): Signals a "risky, unprofitable fight" against a "wounded, sick, and violently unpredictable" alpha.
+## World-Building & Mechanics
 
-Barrier Function (Razortail/Dromaeosaur): Signals "The apex predator is here, it is wounded, and it is angry. Flee or die."
+### The Vitarium (Scene 1.1)
+* **Gel Color Coding:**
+    * **Rust-Red:** T-Cell Activation Vector (Immunity). The critical failure point.
+    * **Blue:** Lysine/Digestive protocols (Nutritional/Pan).
+* **Sensory Detail:** The smell of failure is described as "sweet, denatured-protein decay."
 
-Noli's Reaction: Primal panic. She must be forced by Keo's mental projection to be near it.
+### Old-Tech & Repository (Scene 4.2)
+* **Location:** The Repository is a bunker dug *beneath* the roots of a massive coniferale, secured by a limestone slab with a counterweight system (air bladder assist).
+* **Containment Protocol:** Old-tech weapons are wrapped in bindings impregnated with "dormant, engineered archaea." If the weekly nutrient balm is missed (or the item is lost/abandoned), the archaea activate and dissolve the metal/polymer into organic sludge. This prevents paradoxes from lost gear.
+* **Suit Activation:** Suits are step-in. Secured by pulling an "old-tech sealant tab" which hisses shut.
 
-Keo's Projection: Is powerful enough to override a core survival instinct, but it is physically and mentally taxing ("like holding a boulder on a hilltop," "pressure behind his eyes," "staggered a step"). He can also "partition" his mind to perform two mental tasks at once (suppress panic + send a command), though this is difficult.
+### Telepathy & Population (Scene 2.1)
+* **Census:** The Enclave population is established as exactly **941 minds** at the start of the story.
+* **Projection Limits:** Keo's mental projection requires "partitioning" his mind. It causes physical symptoms (pressure behind eyes).
 
-## Scene 2.2
+## History & Lore
 
-Benal's Math: He is working on "temporal anchoring," specifically the problem of "temporal drift" which he theorizes is related to "cosmic expansion." He believes the originals anchored to space not spacetime. This is his core intellectual pursuit.
+### The "First Walk" (Scene 3.1)
+* **Timeline:** It took the Founders 3 years of scouting to find the Enclave site.
+* **Casualties:** They lost 106 souls (out of ~200) despite having environmental suits and plasma cutters.
+* **Rhetoric:** Traditionalists (Elder Sila) frame the mission as "Better to die with a clean soul than live as contaminants."
 
-Benal's Upgrades (Sensory): His hearing is a burden. It's not "super-hearing" like in a comic book; it's an unfiltered flood he must actively manage. This is a key character trait.
+## Plot Specifics
 
-Marek's Philosophy (Brancher): He is not a villain. He is a pragmatic, loving father who believes the "mission" is a "noble lie." His core value is here-and-now survival. His core emotion toward Benal is pity.
+### The Inventory (Scene 4.2 & 4.3)
+* **Keo's Gear:** Carries a 2.5m croc-spike, a razor-club, and a chert knife. He is **unsuited**.
+* **Teva's Gear:** Suited. Carries a croc-spike.
+* **Benal's Gear:** Suited. Carries a razor-club (awkwardly) and a sling. He forgot protein, only brought "journey-pan" (cycad flatbread).
+* **Medical Supplies:** Benal is carrying the salves and chemical-pods.
 
-Nest Details: Confirmed as 30m high in Araucaria (monkey puzzle) trees, with woven vine walls, fern privacy screen dividers between rooms, and roof thatch to protect from flybeaks.
+### Mathematics (Scene 2.2)
+* **The Equation:** $T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot (f_{drift}?)$.
+* **The Theory:** Benal posits the Founders anchored to a point in *space*, not *spacetime*, failing to account for cosmic expansion/drift. This is the "Asymptotic Noise" he hears.
 
-## Scene 2.3
-Location: The "Yazhi Pool" is now a canon location within the Enclave village core. It's a fenced/barricaded section of a natural creek, not an artificial trough.
+## Character Nuance & Themes (Established in Act 1)
 
-Characterization (Teva): Her "cold rage" manifests as emotional detachment, numbness, and a terrifyingly cold, precise anger (rather than hot-tempered yelling). She is a "precision" language user when teaching.
+### Teva: The "Monsters" Dichotomy (Scene 3.1)
+* **Thematic Mantra:** Teva frames the conflict as "Monsters in the water" (tangible threats like crocs, which the village fears) vs. "Monsters in the blood" (the virus/infection, which the village ignores).
+* **Motivation:** Her journey is explicitly driven by the belief that the adults are fighting the wrong monster.
 
-Thematic Line: The "monsters in the blood" vs. "monsters in the water" is the central thematic driver for Teva's motivation.
+### Benal & Marek (Scene 2.2)
+* **Marek's Attitude:** Marek is not a villain; he views the mission as a "Noble Lie." His primary emotion toward Benal is **pity**, not malice. This pity is Benal's primary antagonist.
+* **Benal's Sensory Burden:** His hearing is treated as an "unfiltered assault" that he must actively manage, not a passive superpower.
 
-Plot: The plan to recruit Keo and Benal is now fully formed in Teva's mind before she confronts them in Beat 3. She is the plan's architect.
+### Keo: The Custodian's Guilt (Scene 4.1)
+* **Theft Weight:** Keo views the theft of the suits not just as a crime, but as a destruction of his parents' specific role as Custodians. This specific guilt (destroying their reputation) will weigh on him.
 
-## Scene 3.1
-
-Canon Names: Elder Hesh and Elder Sila are now the primary voices of the Traditionalist Council.
-
-The "First Walk": This is now the canon term for the original, disastrous 80km migration from Genesis to the Enclave.
-
-First Walk Stats: Left Genesis with 200 people, arrived at Enclave with 94. (Loss of 106).
-
-Elana's Role: Her grief is now a key catalyst, cementing the "paralysis" for Keo.
-
-Council Chamber: Confirmed as a small, claustrophobic recess with no carvings, by deliberate choice.
-
-## Scene 3.2
-Teva's Motivation: It's a combination of her grandmother's failure (emotional drive) and a cold, tactical assessment of her and Keo's upgrades (practical drive).
-
-Keo's Agreement: It's not a "brave" choice. It's a compulsive one, driven by his inability to let her die alone. His panic of going is simply less powerful than his panic of staying.
-
-Teva's Characterization: Her "cold rage" (from outline) manifests here as "cold, structural certainty." She is the "architect" of the plan (from decision logs).
-
-## Scene 3.3
-
-Kiva Entrance (Canon): It is a natural cleft, draped with a heavy ceratops hide.
-
-Enclave Environment (Canon): The night often fills with bioluminescent insects.
-
-Teva's Pitch (Canon): She explicitly lists their shared baseline upgrades (immunity, metabolism, venom resistance) and her specific navigation/survival upgrades (magnetism, proprioception) as the reason the "First Walk" statistics don't apply to them.
-
-Keo's Experience (Canon): He has been outside the border tangle on patrols and has a concrete, sensory-based fear of the apex predators.
+## Character Connections
+* **Liaso:** A Watcher, identified as Benal's cousin. (Scene 4.2).
+* **Joram & Riel:** Keo's parents. Riel has the proximity sense; Joram is the heavy sleeper.
