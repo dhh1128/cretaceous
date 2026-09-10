@@ -5,45 +5,125 @@ This document breaks down the 15-beat outline (v10) into a granular, 40-scene li
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
 
-## ACT 1: THE FAILING WORLD (Beats 1-4)
+## ACT 1: THE FAILING WORLD (Beats 1-4) — RESCENED, 14 scenes
 
-### BEAT 1: COLD OPEN (The Catalyst)
+*Rescened 2026-09-07 against `prompts/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
 
-1.1 [Day 1 - Evening] [TEVA] [Vitarium (Kiva)] [HIGH (Grief & Rage)] - Teva watches the dimming cultures as her grandmother fails the protocol. The yazhi dies. Teva's internal rage solidifies.
-* **B-Story Note:** Surface Teva's core trauma. The death of the yazhi, Alira, should be an emotional echo of her past losses, solidifying her motivation: **Rage vs. Council**.
+Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §5. **Plants** are entries in the misjudgment ledger (`act-1-context.md` §IV) or the knowledge ledger (`knowledge-ledger.md`).
 
-### BEAT 2: UNSETTLED NORMALCY & SET-UP
+Act 1 runs from an evening to the pre-dawn of the day after next — **about thirty-six hours.** The crisis is a fuse, not a season.
 
-2.1 [Day 2 - Morning] [KEO] [Enclave Perimeter] [LOW (Anxiety)] - Keo trains Noli. His bravado (masking anxiety) is evident.
-* **B-Story Note:** Establish Keo’s **Bravado Mask** and his exceptional **Mental Projection** ability through his interaction with Noli. The underlying anxiety about the crisis must simmer beneath his confident exterior.
+---
 
-2.2 [Day 2 - Morning] [BENAL] [Family Dwelling] [LOW (Frustration)] - Benal studies his math. His parent's dismissal ("do something real"). His shame/isolation.
-* **B-Story Note:** Directly address **Benal's Shame** and intellectual **Isolation**. Marek's (Benal's father) pity, not malice, is Benal's primary antagonist. His theoretical work is framed as "useless" compared to the practical survival of the Branchers.
+### EPIGRAPH 1 — CDC alert *(written, `content/superseded/01.1.md:1-5`)*
 
-2.3 [Day 2 - Morning] [TEVA] [Village Center (Yazhi Pool)] [LOW (Cold Rage)] - Teva drills yazhi on croc protocols. Her internal monologue contrasts the "useless" drill with the real threat (the plague). [Milieu: A sudden, driving, warm rainstorm. The rain comes down in sheets, and the yazhi (Joss, Miri) huddle under a leaking fern-thatch roof. Teva welcomes the respite from her overheating.]
-* **B-Story Note:** Define Teva's **Thematic Mantra**: "Monsters in the water" (crocs) vs. "Monsters in the blood" (the plague). Her internal rage focuses on the adults fighting the wrong monster.
+### 1.1 — [LONG] [Day 1, evening] [TEVA] [Vitarium] — *canon, `content/superseded/01.1.md`*
+**Ladders:** E4 P1 S2 X3
+Omya fails the protocol. Alira dies. Teva's rage solidifies.
+**Plants:** Omya submitting to a public test she will fail (misjudgment) · Teva's mother Lumea, dead of the same thing after the same treatment · the Vitarium's color diagnostics.
 
-### BEAT 3: THE DEBATE (Public & Private)
+### 1.2 — [MEDIUM, ~1000] [Day 1, night] [TEVA] [Kiva → village] — **NEW**
+**Ladders:** E6 P1 S4 X3
+**Alira's returning.** The rite, in full, and it is the first one in the book — so it teaches the reader the single strangest fact about this culture at the moment it hurts most. See `milieu-brief.md` §4.
 
-3.1 [Day 2 - Evening] [KEO] [Council Chamber] [RISING (Frustration)] - Keo attends the public Council meeting. He witnesses the adults' paralysis and fear.
-* **B-Story Note:** **Skills Clash (Generational)**. Keo judges the Council's paralysis and fear. He sees their adherence to Traditionalist rhetoric (Elder Sila's "clean soul" speech) as intellectual weakness.
+The child laid out and covered. The formal mourning, whatever its form is. The balm. And then, within an hour, **nothing under the mat** — and the sharp chemical smell that is engineered specifically *not* to be carrion, so that nothing comes.
 
-3.2 [Day 2 - Night] [KEO] [Clandestine Location (Kiva entrance)] [RISING (Adrenaline)] - Teva confronts him. "I'm going." Her conviction is terrifying. [Milieu: Teva confronts him in the 'echoing, narrow cleft' leading to the Vitarium, where their whispers are 'unnaturally loud'. The air is 'visibly damp' (mist) from the rain.]
-* **B-Story Note:** Establish the **Unrequited Romance** from Keo's perspective. Teva's resolve is his primary motivation for the journey.
+**Job:** three at once. It gives the reader the Enclave as a place rather than a chamber. It puts the first rung on the social ladder — a community that failed in public and is now performing its most solemn ritual over the consequence. And it establishes the returning before the mudwalk, so that **Keo's unsuited body is legible as a risk** at 4.2 and every day thereafter.
+**Also:** Teva has watched this before, for her mother, and the reader should feel that without being told.
+**Note:** somewhere in the village, before or after, life is going on — food cooking, **someone laughing.** The laughter she hears and does not join is the first statement of her comic scarcity (`humour-plan.md`). Do not have her react to it.
+**Ends on:** she doesn't go home.
 
-3.3 [Day 2 - Night] [KEO] [Clandestine Location] [RISING (Resolve)] - Benal arrives, insisting he go. He is visibly terrified, but his one chance at vindication is stronger than his fear. Keo agrees (loyalty, crush, and now, respect). [Milieu: Benal arrives, 'his tall frame shaking,' clutching a 'biodegradable data-slate'. He's 'gasping' from the run, his poor endurance obvious.]
-* **B-Story Note:** Establish **Intellectual Respect**. Keo sees Benal's fear but is "awed" by his courage, validating Benal's abstract motive over physical limits.
+---
 
-### BEAT 4: BREAK INTO TWO (The Theft)
+### 2.1 — [MEDIUM] [Day 2, dawn] [KEO] [Perimeter] — *revise `content/superseded/02.1.md`*
+**Ladders:** E3 P2 S2 X2 — **rest beat, deliberately**
+Keo trains Noli. Bravado over a bad night.
+**Add:** two of Noli's four comic beats. Seed *"we'll be fine"* as a tic the others will later throw back at him.
 
-4.1 [Day 2 - Late Night] [KEO] [His Dwelling (Night)] [HIGH (Guilt)] - Keo looks at his sleeping parents. The weight of his betrayal (the guilt) is the scene's focus. [Milieu: He looks at his parents sleeping on 'woven fern-fiber mats'. He can smell the 'faint, musky scent of their Explorer's gear' (pheromone barrier, sweat, leather) and it fills him with guilt.]
-* **B-Story Note:** **Shared Guilt (Keo's Weight)**. The guilt is specifically tied to destroying his parents', Joram and Riel's, reputation as Custodians, rather than just the crime of theft.
+### 2.2 — [MEDIUM] [Day 2, morning] [BENAL] [Family dwelling] — *revise `content/superseded/02.2.md`*
+**Ladders:** E4 P1 S3 X3
+Benal's mathematics. Marek's *"do something real."*
+**Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not appear at beat 8.
+**Plants:** fact O goes ironic. The reader will connect this scene to 3.1; Benal never will.
 
-4.2 [Day 2 - Late Night] [KEO] [Suit Repository] [EXTREME (Heist Tension)] - The physical act of the theft. Gazes longingly at metal-tipped spears and other old-tech weapons, but knows that to take them would be the ultimate taboo, has to be satisfied with bio-safe weapons. Nearly getting caught. [Milieu: He takes 'bio-safe' weapons: a '2.5-meter croc-spike' and a 'razor-club'. He has to force himself not to look at the forbidden 'old-tech' metal spears, machetes, and shock-prods.]
-* **B-Story Note:** **Commitment to Heresy**. The choice to leave the "old-tech" weapons establishes the constraints of the Traditionalist mission (avoiding paradoxes) and Keo's current compliance with that ideology, despite the theft.
+### 2.3 — [LONG, ~2000] [Day 2, morning] [KEO] [The family nest] — **NEW — the most important new scene in the novel**
+**Ladders:** E5 P1 S4 X3
+**Keo with Joram and Riel, awake, talking.** The morning after a child died. Currently his parents never speak to him anywhere in the book, which is why the parent-nuance arc has nothing under it.
+**Must carry:**
+- **Yara**, the dead sister. **Her name is said once, here** (decision, 2026-09-09) — the reader gets that she existed, plainly, and that is all. What stays unsaid is *how* she died: the croc, the water, the parents watching. That lands later. The scene's own instrument for her is one small thing Riel does — the fourth water gourd, filled for three people, never remarked on (`foreshadow-and-motif.md` #11).
+- The protectiveness Keo reads as distrust, rendered so the reader can read it as grief.
+- Their competence. They are Explorers; Hesh's numbers are *their* numbers, and they know exactly what is out there.
+- **Charm.** This is a family that loves each other and has jokes. The reader has to want it back.
+- Why Keo has never been given a suit.
+**Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant beat 14 pays.
 
-4.3 [Day 2 - Pre-Dawn] [KEO] [Perimeter] [EXTREME (Resolve)] - Meeting Teva/Benal. Slipping past the watchers. The final, irreversible step into the jungle. [Milieu: A dense, ground-level fog rolls in. As they move, they freeze at the sharp, clicking vocalizations of an *Acheroraptor* pack hunting inside the fog, just meters away (a 'dread' encounter).]
-* **B-Story Note:** **The Final Step**. The physical proximity of the *Acheroraptor* pack (razortails) immediately validates the fear-driven decision to steal the suits.
+### 2.4 — [LONG, ~1800] [Day 2, afternoon] [TEVA] [Omya's dwelling] — **NEW — the other missing organ**
+**Ladders:** E7 P1 S4 X5
+**Teva with Omya, in a lucid hour.** The reader has never met the woman whose disappearance drives the protagonist.
+**Must carry:**
+- Omya sharp, exacting, funny. *"Precision, Teva. We are scientists, not shamans"* — quoted as memory in 1.1, delivered live here.
+- The Keeper work dramatized. Teva knows fragments of it; that's why she's dangerous later.
+- Lumea named by her mother.
+- Something about the founders that will later contradict Sila.
+- **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §4 and `milieu-brief.md` §5.
+**Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what beat 10's *"I left her while she's disappearing"* currently has nothing behind.
+
+### 2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool] — *was 2.3 — now `content/superseded/02.5.md`*
+**Ladders:** E5 P3 S3 X3
+Croc drill in driving warm rain. *Monsters in the water* against *monsters in the blood.*
+**Add:** a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh.
+**Milieu:** the rainstorm, the leaking fern-thatch — already allocated here, spent elsewhere.
+**And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc vibration sensing** (`tech-rules.md`): Teva makes a yazhi put a hand flat on the ground and feel her own footsteps. Four micrometers, said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 3.
+**Do not mention Yara here.** The reader should be able to assemble it later without help.
+
+---
+
+### EPIGRAPH 2 — Joint Command memo, the Chicxulub Solution authorized
+
+### 3.1 — [LONG] [Day 2, evening] [KEO] [Council Chamber] — *canon, `content/superseded/03.1.md`*
+**Ladders:** E5 P2 S5 X4
+The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
+**Now lands harder** because we met Joram and Riel that morning: their silence is a choice by people we know.
+**Plants:** Hesh's arithmetic, unrefuted (he is book 2's antagonist) · Sila energized where everyone else is weary · Joram's face holding only fear (`content/superseded/03.1.md:70`).
+
+### 3.2 — [SHORT, ~700] [Day 2, evening] [BENAL] [Outside the chamber] — **NEW**
+**Ladders:** E5 P1 S5 X4
+Marek after the debate. He fought in public and lost. Senae gets a line.
+**The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding 2.2 and 3.1 together — can see a man who was right and unheard. Fact O at full pressure.
+
+### 3.3 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva] — *was 3.2 — now `content/superseded/03.3.md`*
+**Ladders:** E6 P2 S5 X4
+Teva: *"I'm going."* Not a request.
+**Add:** the intimacy layer's first real rung. Keo's crush is on the page, unspoken, and he misreads her entirely.
+
+### 3.4 — [MEDIUM] [Day 2, night] [KEO] [Same] — *was 3.3 — now `content/superseded/03.4.md`*
+**Ladders:** E6 P2 S5 X4
+Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
+**Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.
+
+---
+
+### EPIGRAPH 3 — the vector program brief: **the upgrades ARE the deliverable**
+
+*Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to 12.1.*
+
+### 4.1 — [MEDIUM] [Day 2, late night] [KEO] [His dwelling] — *canon, `content/superseded/04.1.md`*
+**Ladders:** E7 P3 S7 X4
+Stealing food from his sleeping parents. Guilt, specifically — shame at destroying their standing, not fear of the jungle.
+
+### 4.2 — [MEDIUM] [Day 2, late night] [KEO] [The Repository] — *canon, `content/superseded/04.2.md`*
+**Ladders:** E7 P4 S8 X4
+The theft. The taboo shelf. The third suit left on the rack.
+**Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until 10.1.
+
+### 4.3 — [LONG] [Day 2, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
+**Ladders:** E6 P6 S8 X4
+Suiting up, the septic gel, past the watcher, through the gap. Razortails clicking in the fog.
+**Ends the act** in the middle of a threat.
+
+---
+
+**Act 1 totals:** 14 scenes, ~15,800 words. Four canon scenes unchanged, three revised, **four new**, three renumbered.
 
 ## ACT 2: THE MUDWALK (Beats 5-10)
 
@@ -54,7 +134,7 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 ### BEAT 6: FUN & GAMES (The "Promise of the Premise")
 
-6.1 [Day 3] [TEVA] [Riverbank] [SPIKING (Dread)] - The trio argues about how to cross the first river. Teva's navigation skills and suit give her the authority. [Milieu: The first major rains have begun. The river is visibly swollen, fast, and opaque with mud. The bank is slick, black mud littered with rotting ferns and broken, plate-sized Ginkgo leaves. The rain plasters Teva's hair to her face, but she's grateful it's refilling their water-gourds and washing away the nutty, oily scent of the dried crawlers and piñons in their fieldpacks.]
+6.1 [Day 3] [TEVA] [Riverbank] [SPIKING (Dread)] - The trio argues about how to cross the first river. Teva's navigation skills and suit give her the authority. [Milieu: The first major rains have begun. The river is visibly swollen, fast, and opaque with mud. The bank is slick, black mud littered with rotting ferns and broken, plate-sized Ginkgo leaves. The rain plasters Teva's hair to her face, but she's grateful it's refilling their water-gourds and washing away the nutty, oily scent of the dried crawlers and pinyons in their fieldpacks.]
 * **B-Story Note:** **Skills Clash (Practical vs. Bravado)**. Teva’s magnetic sense and proprioception establish her as the competent leader/navigator. She internally dismisses Keo’s unsuited bravado as a dangerous liability near the water (the **Primary Threat**).
 
 6.2 [Day 3] [TEVA] [First River] [SPIKING (Panic)] - The crossing. A croc brushes her suit. She fights her suit's thermals and her own terror. [Milieu: A steady, light-to-medium rain continues, 'stippling' the surface and masking their vibrations. She fights the 'warm, suffocating press' of the suit as the croc brushes her, its hide feeling like a rough log.]
@@ -85,13 +165,13 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 ### BEAT 8: BAD GUYS CLOSE IN
 
-8.1 [Day 8] [TEVA] [Jungle Undergrowth] [HIGH (Dread)] - The shadow of the Quetzalcoatlus passes overhead. They hide. Teva is now terrified of the sky. [Milieu: A drenching, cold rain. They are trapped between the low-flying *Quetzalcoatlus* and a living carpet of 'hell ants' (*Haidomyrmecinae*) moving 'like a single, flowing oil-slick'. Benal, his eyes wide, whispers, "Sky or ground. Pick your death," and Teva whispers back, "Shut up, Benal," but she feels a flash of dark, shared humor. Keo also snorts.]
+8.1 [Day 8] [TEVA] [Jungle Undergrowth] [HIGH (Dread)] - The shadow of the Quetzalcoatlus passes overhead. They hide. Teva is now terrified of the sky. [Milieu: A drenching rain. They are trapped between the low-flying *Quetzalcoatlus* and a living carpet of 'hell ants' (*Haidomyrmecinae*) moving 'like a single, flowing oil-slick'. Benal, his eyes wide, whispers, "Sky or ground. Pick your death," and Teva whispers back, "Shut up, Benal," but she feels a flash of dark, shared humor. Keo also snorts.]
 * **B-Story Note:** **Shared Humor / Terror**. The shared, dark humor provides brief, cathartic release from the mounting dread.
 
 8.2 [Day 8] [KEO] [Gulch/Ravine] [HIGH (Reckless Rage)] - Keo's injury. He takes a stupid risk trying to climb (e.g., against a pack of Razortails), driven by grief over Noli. [Milieu: The ground is slick, unstable clay from the rain, causing his fall. He was climbing to get a 'lookout', falling onto 'sharp-edged limestone scree' and 'bright red *Gnetophyte* berries'.]
 * **B-Story Note:** **Hubris Crash**. Keo's injury is the direct consequence of his **unsuited state** and his unresolved **Grief/Rage** over Noli's death. He is forced into vulnerability.
 
-8.3 [Day 8 - Night] [TEVA] [Camp (Night)] [HIGH (Exhaustion)] - Tending Keo's wound. Her suit is failing. The "POV Irony" scene (caring for him, while we know he has a crush). As she's tending Keo's wound, he groans, "Careful," and Teva, her hands shaking from cold, snaps, "Be quiet or be bait. Your choice." [Milieu: The cold, miserable, all-night rain continues, threatening Teva's failing thermal regulation. They huddle under a 'leaking roof of waxy fern fronds'.]
+8.3 [Day 8 - Night] [TEVA] [Camp (Night)] [HIGH (Exhaustion)] - Tending Keo's wound. Her suit failed yesterday, to the heat, and she is walking unshelled. The "POV Irony" scene (caring for him, while we know he has a crush). As she's tending Keo's wound, he groans, "Careful," and Teva, her hands shaking from hunger and two days without proper sleep, snaps, "Be quiet or be bait. Your choice." [Milieu: The warm, miserable, all-night rain continues — it is not cold and nobody should say it is; what is failing is Teva, from hunger and exhaustion, and she feels it as cold when the others do not. They huddle under a 'leaking roof of waxy fern fronds'.]
 * **B-Story Note:** **POV Irony / Caretaker Climax**. Teva's emotional state (exhaustion, rising fear, but forced competence) conflicts with Keo's perception of her. She embodies the compassionate role, which develops the **Romance Subtext** through action, not words.
 
 8.4 [Day 8 - Night] [KEO] [Camp (Night/Fever)] [DISORIENTATION] - Keo's Temporal Flash (the symbol). He's feverish, dismisses it. [Milieu: His Temporal Flash is 'a gleaming, impossible symbol' and the 'smell of ozone and the ocean,' mixed with the 'bitter, herbal taste' of the salve on his wound. Through the fever-haze, he's vaguely aware of Benal sitting watch, his frail form a surprisingly steady silhouette against the rain, and Keo feels a wave of pure gratitude.]
@@ -105,7 +185,7 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 9.2 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Panic)] - The storm hits. The raft is tossing. [Milieu: The full fury of the cyclone hits. The raft is an 'old-tech' remnant, 'corroded polymer and metal,' and the waves are 'black, moving mountains'.]
 * **B-Story Note:** **Thematic Fear**. Benal's most primal fear is realized: chaos, drowning, and physical helplessness.
 
-9.3 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and piñons—is gone, lost to the sea.]
+9.3 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
 * **B-Story Note:** **Intellectual Loss**. The loss of his fieldpack (and his theoretical work) symbolizes the loss of his last physical connection to his **Vindication** arc, reinforcing his belief in failure.
 
 9.4 [Day 12 - Dawn] [BENAL] [Coral Bank (Genesis Site)] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' and 'black volcanic rock'. Small, iridescent crabs scatter.]
@@ -113,12 +193,15 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 ### BEAT 10: DARK NIGHT OF THE SOUL
 
-10.1 [Day 12] [TEVA] [Archive (Flooded Section)] [DESPAIR (Cold)] - Huddling, freezing. The disorientation is strong.
+10.1 [Day 12] [TEVA] [Archive (Flooded Section)] [DESPAIR (Cold)] - Huddling. Wet skin, wind off the cyclone's back half, eighteen hours of it — the one genuine chill in the book, and it is evaporative, not the sea. Teva worst, still hollowed out by the poisoning. The disorientation is strong.
 * **B-Story Note:** **B-Story Climax: Chosen Family Forged**. The trio's mutual, honest confessions of **Guilt** (Keo), **Shame** (Benal's pity), and **Despair** (Teva’s grandmother). Teva provides the emotional **Bridge Speech**, transforming them from allies into a **Chosen Family** unit. Her flash reveals the ancestors’ *fear* and *grief*, planting the first seed of her **Nuance** arc.
 
 ## ACT 3: GENESIS & THE RETURN (Beats 11-15)
 
 ### BEAT 11: BREAK INTO THREE
+
+> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `prompts/act-3-context.md` §0 — beats 12, 13 and 14 each need splitting.
+
 
 11.1 [Day 12 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
 * **B-Story Note:** **Vindication (Part 1)**. Immediate, physical validation of their journey's purpose. The **Intellectual** triumph of finding the *solution* is a brief, shared high.
@@ -130,10 +213,13 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 ### BEAT 13: THE RETURN (The Heretic's Ride)
 
-13.1 [Day 13 - Morning] [KEO] [Skiff (Return Trip)] [EXTREME (Action / Adrenaline)] - They find a functional old-tech skiff. The chase sequence, ending with Keo defeating/evading the *Quetzalcoatlus*.
+13.1 [Day 13 - Morning] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
 * **B-Story Note:** **Hubris to Competence / Embrace of Hard Tech**. Keo's action climax: he successfully pilots the forbidden **old-tech** to defeat the monster that broke his confidence, completing his arc and confirming his commitment to the "heretical" way forward.
 
 ### BEAT 14: THE CONFRONTATION
+
+> Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `prompts/knowledge-ledger.md`.
+
 
 14.1 [Day 13 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
 * **B-Story Note:** **Maturation Climax / Nuance Forged**. Keo’s perspective focuses on his parents’ reaction (vindicated pride). Teva's accusation is softened by her internal epiphany: seeing the Council's paralyzed fear and realizing the lie was born from grief, not malice, completing her **Rage to Nuance** arc. Benal stands vindicated.

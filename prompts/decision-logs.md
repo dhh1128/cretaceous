@@ -1,56 +1,130 @@
-# Cretaceous - Decision Log (v3)
+# Cretaceous - Decision Log (Acts 1.1 - 4.3)
 
-This document tracks specific narrative decisions made during drafting that are not fully captured in the Milieu Brief or Character Profiles. Consult this to ensure continuity in future chapters.
+## 1. Current Status (The "Save State")
 
-## World-Building & Mechanics
+### Location & Time (End of Scene 4.3)
+* **Time:** Late Night / Pre-Dawn (Day 2). The village was asleep ("0100 was still an hour away" in 4.1, time has passed since). Fog is thick.
+* **Position:** Immediately outside the Enclave perimeter (Border-Tangle), approximately 50-100 meters into the jungle.
+* **Immediate Situation:** Hiding in the mist. An **Acheroraptor (Razortail)** has been detected clicking nearby.
+* **Weather:** High humidity, thick ground fog (visibility ~3 meters).
 
-### The Vitarium (Scene 1.1)
-* **Gel Color Coding:**
-    * **Rust-Red:** T-Cell Activation Vector (Immunity). The critical failure point.
-    * **Blue:** Lysine/Digestive protocols (Nutritional/Pan).
-* **Sensory Detail:** The smell of failure is described as "sweet, denatured-protein decay."
+### Inventory & Loadout
+* **Keo (Unsuited):**
+    * **Clothing:** Tough-woven fiber tunic and leggings (stingburn resistant). Hadrosaur hide boots with pressed bark soles.
+    * **Weapons:**
+        * 2.5-meter **Croc-Spike** (tipped with Deinosuchus tooth).
+        * **Tooth-knife** (a large theropod tooth, serrated, in a leather sheath on his belt). Shaft and bindings archaea-treated: dry is dormant, sustained wetting wakes them.
+        * **Fieldpack:** Contains the group's supplies.
+        * **Coil fiber-cord** (in pack).
+        * **Spare water skin** (in pack).
+    * **Food:** 3 strips of "Journey-pan" (flatbread), 2 handfuls of roasted/salted crawlers (greasy pouch).
+    * **Physical Status:** Covered in "septic gel" (T-Rex musk/carrion synthesis) on exposed skin. Suffering from "leaden weight" headache from controlling Noli.
 
-### Old-Tech & Repository (Scene 4.2)
-* **Location:** The Repository is a bunker dug *beneath* the roots of a massive coniferale, secured by a limestone slab with a counterweight system (air bladder assist).
-* **Containment Protocol:** Old-tech weapons are wrapped in bindings impregnated with "dormant, engineered archaea." If the weekly nutrient balm is missed (or the item is lost/abandoned), the archaea activate and dissolve the metal/polymer into organic sludge. This prevents paradoxes from lost gear.
-* **Suit Activation:** Suits are step-in. Secured by pulling an "old-tech sealant tab" which hisses shut.
+* **Teva (Suited):**
+    * **Gear:** **Old-Tech Environmental Suit** (Size: Small/Teva's). Biofilm is scarred/patchy but functional.
+    * **Weapons:** **Croc-Spike**, **Knife**.
+    * **Food:** "Journey-pan" and crawlers.
+    * **Physical Status:** Suit chromatophores active (charcoal/lichen/fog-white camouflage). Thermal system green. Covered in septic gel on exposed parts.
 
-### Telepathy & Population (Scene 2.1)
-* **Census:** The Enclave population is established as exactly **941 minds** at the start of the story.
-* **Projection Limits:** Keo's mental projection requires "partitioning" his mind. It causes physical symptoms (pressure behind eyes).
+* **Benal (Suited):**
+    * **Gear:** **Old-Tech Environmental Suit** (Size: Large). **Compromised:** One shoulder capacitor is red-lined; shock grid is compromised.
+    * **Weapons:**
+        * **Razor-club** (Heavy head, slotted with razortail teeth).
+        * **Sling** (in pack).
+    * **Medical:** Salves (stingburn/wounds) and **2 Chemical-pods**.
+    * **Food:** "Journey-pan" only (Forgot the protein).
+    * **Physical Status:** Suit chromatophores active. Experiencing sensory relief (suit filters insect noise). Trembling from fear/adrenaline. Covered in septic gel on exposed parts.
 
-## History & Lore
+* **Noli (sicklefoot — a small dromaeosaurid; never named by binomial):**
+    * **Appearance:** dark, **iridescent** plumage. This resolves the apparent conflict rather than picking a winner: iridescent feathers genuinely read differently by light, so **"mud-brown" in daylight (scene 2.1) and "purple-black" at night (scene 4.3) are both canon and both true.** Use the light to decide which.
+    * **Status:** Psychically pinned by Keo to prevent fleeing the septic gel smell.
 
-### The "First Walk" (Scene 3.1)
-* **Timeline:** It took the Founders 3 years of scouting to find the Enclave site.
-* **Casualties:** They lost 106 souls (out of ~200) despite having environmental suits and plasma cutters.
-* **Rhetoric:** Traditionalists (Elder Sila) frame the mission as "Better to die with a clean soul than live as contaminants."
+## 2. World-Building Facts (Established in Prose)
 
-## Plot Specifics
+### Mechanics & Tech
+* **Old-Tech Suits:**
+    * **Appearance:** Look heavy (20kg) but are impossibly light (3kg). Living material (biofilm) over graphene core.
+    * **Activation:** Step-in. Seals via an "old-tech sealant tab" that hisses shut.
+    * **Camouflage:** Chromatophores ripple and match environment (active camo).
+    * **Sensory:** Filters background noise (insect thrum), allowing "upgraded" sensors (like Benal) to think clearly.
+* **The Repository:**
+    * **Access:** Stone slab with hidden release-grip and air-bladder counterweights.
+    * **Preservation Protocol:** Taboo items (metal) are wrapped in bindings impregnated with dormant **engineered archaea**. If not treated with weekly nutrient-balm, archaea activate and dissolve the item to sludge.
+* **Mental Projection (Keo):**
+    * Requires "partitioning" the mind.
+    * Physical toll: Pressure/ache behind the eyes.
+    * Can "drive" intent (e.g., *Heel*, *Quiet*, *Hunt*) into Noli.
+* **Proximity Sense (Riel/Keo):**
+    * Described as a "tingling pressure" or "mind's hand tracing the shape of the space."
+    * Can differentiate mind types (warm coals = humans; cold burrowing = grounders).
+* **The River Barriers:**
+    * A bend of the river runs **through** the Enclave. Log pylons driven into the bed between large limestone boulders at the upstream and downstream boundaries; a grating of smaller poles dropped from above into slots; weirs of piled unmodified boulders; netting. Multiple redundant layers.
+    * **Raisable** — a sealed river silts and clogs, so opening it is an operation with a crew.
+    * Untreated wood in warm water, so the whole structure is rotting continuously and under permanent replacement.
+    * **Imperfect.** A grating that stops a 10 m *Deinosuchus* passes a juvenile, which then grows up inside. Constrictors get through. This is how **Yara** died.
+* **The Barrier (Pheromones):**
+    * **Composition:** Synthesis of T. rex musk and necrotic tissue/sepsis.
+    * **Function:** Signals "Wounded Alpha" to predators (avoidance) but causes terror in lower animals (Noli).
+  
+### Suit Mechanics & Limits
+* **Audio/Sensory:** The suit does not "boost" volume; it has dampeners to filter the deafening jungle noise. Benal uses this to *isolate* sounds, not amplify them.
+* **The "Open Air" Rule:** Nose and mouth are open in every configuration, so characters smell the world immediately and are vulnerable to facial injury, bites and UV. The helmet protects skull and neck; a flip-down **eye shield** covers brow to cheekbone and carries the HUD. **No faceplate, no seal, no atmospheric control.** Shield down buys data and eye protection; shield up buys peripheral vision, a clear view in rain, and letting the others read your eyes. See `kb/worldbuilding/safety-suits.md`.
+* **No strength augmentation.** The suit removes penalties — carries its own load, supports joints passively, cools, filters noise, turns walk-ending injuries into bruises. Benal is not stronger, he is harder to stop.
+* **Feeding Ritual:** A key "campfire" activity. Characters must give suits some water (can be dirty; often this need is supplied by rain or wading/swimming) and also find a modest source of sugars every couple days -- more often if self healing features of the suit are active.
 
-### The Inventory (Scene 4.2 & 4.3)
-* **Keo's Gear:** Carries a 2.5m croc-spike, a razor-club, and a chert knife. He is **unsuited**.
-* **Teva's Gear:** Suited. Carries a croc-spike.
-* **Benal's Gear:** Suited. Carries a razor-club (awkwardly) and a sling. He forgot protein, only brought "journey-pan" (cycad flatbread).
-* **Medical Supplies:** Benal is carrying the salves and chemical-pods.
+### Terminology & Flora/Fauna
+* **Flora:**
+    * *Coniferale:* Massive trees, "Emergent Layer," used for nests.
+    * *Stone-Cycad:* Staple food.
+    * *Lightmold/Mycelial Lattices:* Cultivated bioluminescence (Yellow-green or Rust-Red/Blue for diagnostics).
+* **Fauna:**
+    * *Acheroraptor:* "Razortail." Clicking vocalization (bone on stone). Pack hunters.
+    * *Deinosuchus:* "Croc." Detects vibration (4 micrometers).
+    * *Quetzalcoatlus:* "Flybeak."
+    * *Alamosaurus:* "Saropo."
+    * *Grounder:* Generic term for small prey (multituberculates).
+    * *Crawlers:* Insect protein source.
 
-### Mathematics (Scene 2.2)
-* **The Equation:** $T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot (f_{drift}?)$.
-* **The Theory:** Benal posits the Founders anchored to a point in *space*, not *spacetime*, failing to account for cosmic expansion/drift. This is the "Asymptotic Noise" he hears.
+### Mathematics & Science
+* **The Equation:** $T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot (f_{drift}?)$
+* **Benal’s Theory:** The Founders anchored to a point in *space*, not *spacetime*, failing to account for cosmic expansion/drift. He calls the interference "Asymptotic Noise."
 
-## Character Nuance & Themes (Established in Act 1)
+## 3. Character & Lore Decisions
 
-### Teva: The "Monsters" Dichotomy (Scene 3.1)
-* **Thematic Mantra:** Teva frames the conflict as "Monsters in the water" (tangible threats like crocs, which the village fears) vs. "Monsters in the blood" (the virus/infection, which the village ignores).
-* **Motivation:** Her journey is explicitly driven by the belief that the adults are fighting the wrong monster.
+### Backstory & History
+* **The "First Walk":**
+    * Founders took 3 years to find the Enclave site.
+    * **Casualties:** Lost 106 souls (started with ~200).
+    * **Tech Used:** They had environmental suits, old-tech rifles, and plasma cutters (which failed to save them).
+* **The Enclave:**
+    * **Population:** 941 minds.
+    * **Ideology:** "Clean Soul" (Sila) vs. "Contaminants." The fear of Paradox (Grandfather Paradox) drives the ban on tech.
+* **The Virus ("Lethe" / L-9):**
+    * Mortality: 99.97%.
+    * **The Vitarium:** Diagnostic lights correspond to protocols. **Rust-Red** = T-Cell Activation (Immunity). **Blue** = Lysine/Digestive.
+    * **Current Crisis:** The "Seeding" (immunity upgrade) failed for Alira.
 
-### Benal & Marek (Scene 2.2)
-* **Marek's Attitude:** Marek is not a villain; he views the mission as a "Noble Lie." His primary emotion toward Benal is **pity**, not malice. This pity is Benal's primary antagonist.
-* **Benal's Sensory Burden:** His hearing is treated as an "unfiltered assault" that he must actively manage, not a passive superpower.
+### Character Specifics
+* **Keo:**
+    * **Motivation:** Guilt over destroying parents' reputation as Custodians.
+    * **Hubris:** Deliberately chose *not* to take the third suit to prove he doesn't need a "crutch."
+    * **Dead sister, Yara** — taken by a croc, near water, under their parents' care. She is why Joram and Riel are as protective as they are, and why Keo reads that protection as distrust. She is also the private meaning of the refused suit: he is proving he can survive what she could not.
+* **Teva:**
+    * **Motivation:** "Monsters in the blood" (virus) vs. "Monsters in the water." Driven by grandmother (Omya)'s dementia and Alira's death.
+    * **Dead mother, Lumea** — two years ago, bite then infection then a Seeding that didn't take. Carried the magnetic sense Teva inherited. **She died of what kills Alira in 1.1, after the treatment that is now failing** — which is why 1.1 lands on Teva as rage rather than grief. Father **Daven** died earlier still.
+    * **Role:** The strategist/Leader.
+* **Benal:**
+    * **Family:** Father is **Marek** (who views Benal with pity). Cousin is **Liaso** (Watcher).
+    * **Traits:** Height 190cm. Hearing is an "assault." Sees the Mission as real, contrary to Marek's "Noble Lie."
+* **Noli:**
+    * **Bond:** Keo must actively mentally "cage" her panic. She acts as an extension of his will.
 
-### Keo: The Custodian's Guilt (Scene 4.1)
-* **Theft Weight:** Keo views the theft of the suits not just as a crime, but as a destruction of his parents' specific role as Custodians. This specific guilt (destroying their reputation) will weigh on him.
-
-## Character Connections
-* **Liaso:** A Watcher, identified as Benal's cousin. (Scene 4.2).
-* **Joram & Riel:** Keo's parents. Riel has the proximity sense; Joram is the heavy sleeper.
+### Minor Characters Established
+* **Omya:** Teva's grandmother, last Master Keeper (dementia).
+* **Rano:** Journeyman Keeper (competent but lacks the "spark").
+* **Joram & Riel:** Keo's parents (Custodians/Explorers). Riel has proximity sense; Joram is a heavy sleeper.
+* **Elana:** Mother of the deceased baby, Alira.
+* **Alira:** The dead yazhi (2.5 years old).
+* **Elder Sila:** Traditionalist leader (female).
+* **Elder Hesh:** Pragmatist elder (male).
+* **Liaso:** Watcher, Benal's cousin.

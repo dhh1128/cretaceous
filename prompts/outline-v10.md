@@ -7,7 +7,7 @@ Structural Device: Archival Fragments (Modern Day News)
 
 Purpose: To deliver the objective backstory of the pandemic and the original mission.
 
-Placement: Used as epigraphs before each Act or major chapter block (e.g., ~4-5 times in the novel).
+Placement: Used as epigraphs before each Act or major chapter block (e.g., ~8-15 times in the novel).
 
 Content Example (for Act 1): News Headline: "GLOBAL PANDEMIC CONFIRMED: ORIGIN UNKNOWN." Body: A short, clipped paragraph about the virus's 99.9% mortality and the failure of all countermeasures.
 
@@ -35,7 +35,7 @@ Rationale (Teva's Backstory): This scene is intensely personal for Teva. Her own
 [Fear Level: Low (Simmering Anxiety)]
 Instead of a flashback, the next day there is an attempt to return to normalcy, but the crisis hangs over everyone.
 
-[POV: Keo] We see Keo trying tofind comfort in training Noli, but he's distracted and unsettled, masking his anxiety with a "we'll be fine" bravado.
+[POV: Keo] We see Keo trying to find comfort in training Noli, but he's distracted and unsettled, masking his anxiety with a "we'll be fine" bravado.
 
 [POV: Benal] We see Benal trying to focus on his "useless" temporal mathematics. His Brancher parent interrupts, dismissing his work: "Still staring at those dead symbols? Do something real." This establishes his family conflict: his parents pity his abstract work, seeing it as a symptom of his physical frailty.
 
@@ -96,7 +96,9 @@ Rationale (The Predator): Using a large pterosaur creates a "boss-level" threat.
 [POV: Teva] [Fear Level: High (Persistent Dread)]
 The journey gets harder. Keo is injured in an encounter he would have survived with a suit (Q#19). Teva (from her POV) has to step up, pushing down her own rising fear to be a caretaker.
 
-Teva's suit is damaged, compromising her thermal regulation. She nearly dies.
+Teva's suit saturates and fails under the Day 7 sun. Its job in this climate is cooling, so the failure is heat, not cold (`kb/worldbuilding/safety-suits.md`), and stripping it off is the right move at the price of her camouflage, her sensors and the body-bag failsafe.
+
+What nearly kills her comes later and is her own doing. Noli's death takes the grounders off the menu, and by Day 9 there is no protein and no time; Teva overrules Keo and leaches the cycad mash short. It puts her down on Day 10 and Keo carries her — the protector who spent Days 8–9 being carried. Her venom resistance does not cover a plant glycoside. **She is the one who decides, and this is the decision that teaches her she can be wrong.**
 
 The persistent predator that stalks them is the same pterosaur. Its shadow passing overhead forces them to hide and travel under cover, pushing them into more dangerous ground-level terrain. Teva is now terrified of the sky.
 
@@ -114,7 +116,7 @@ Rationale (Protagonist Competence): Having them plan to find the old raft makes 
 
 10. Dark Night of the Soul:
 [POV: Teva] [Fear Level: Despair (Cold & Hopeless)]
-Keo, Teva, and Ben huddle in a flooded, unstable section of Genesis. They are soaked, freezing (especially Teva), and defeated. The disorientation is now strong.
+Keo, Teva, and Ben huddle in a flooded, unstable section of Genesis. They are soaked, wind-chilled and defeated — Teva worst, still hollowed out by the poisoning. The disorientation is now strong.
 
 Temporal Flash (Emotional Core): As they huddle in despair, the flashes become overwhelming and specific, linked to their inner conflicts:
 
@@ -156,7 +158,7 @@ Rationale (The "Lie"): The kids' initial, emotional reaction (especially from Te
 
 13. THE RETURN (The Heretic's Ride):
 [POV: Keo] [Fear Level: Extreme (Action / Adrenaline)]
-They find a functional old-tech skiff. This is their only way to get back in time.
+They find two derelict old-tech wigs — neither flyable. Keo wakes the flight-training AI, which walks them through cannibalizing one into the other. This is their only way home. Full spec: `kb/worldbuilding/the-wig.md`.
 
 This is their first act of open heresy.
 
@@ -164,7 +166,7 @@ The journey back is a fast, high-octane "chase" sequence. The vehicle is loud an
 
 Action Climax: The Quetzalcoatlus from Beat 7 spots them and gives chase. This is Keo's redemption. He's not just running; he's piloting. He's no longer the grieving, shattered boy; he's a focused leader using tech to fight the monster that mental projection couldn't. He successfully evades/defeats it (e.g., by luring it into a Mosasaur attack or a canyon wall).
 
-Rationale (Pacing & Theme): The skiff solves the "return journey" pacing problem and serves as a critical thematic beat (embracing heretical hard-tech).
+Rationale (Pacing & Theme): The wig solves the "return journey" pacing problem and serves as a critical thematic beat (embracing heretical hard-tech).
 
 Rationale (Character Arc): This is Keo's action climax, where he faces the same threat that broke him (Beat 7) and wins, completing his "Hubris to Humility to Competence" arc.
 
@@ -192,7 +194,7 @@ Potential Sequel Arcs (Book 2 & 3)
 
 (Rationale: These arcs are the logical, direct consequence of the revelations in Beat 12 & 14).
 
-The Schism (Political Arc): The revelation splits their society. The Council/Traditionalists brand the trio heretics and suppress the truth. The Branchers are galvanized. This brews a civil conflict over control of Genesis and the hard-tech skiff.
+The Schism (Political Arc): The revelation splits their society. The Council/Traditionalists brand the trio heretics and suppress the truth. The Branchers are galvanized. This brews a civil conflict over control of Genesis and the hard-tech wig.
 
 The Search (Intellectual/Action Arc): The primary quest for Book 2 is to re-establish the "signal" and solve the "second jump" equation. This will require them to protect and use Genesis, putting them in direct conflict with the Council. The "flashes" (temporal disorientation) become a key plot device for Benal to decipher.
 
@@ -200,5 +202,5 @@ The "Lost Colony" (Mystery Arc): Who are the Lost Colonists in 67mya? What did t
 
 Benal's Solution (Intellectual Arc): Benal's "double jump" theory is confirmed. Now he must execute it. He must figure out how to send the "signal" that the first group received, and then make the jump himself. This becomes the trilogy's technical endgame.
 
-The Ticking Clock (Threat Arc): The 2-3 decade impact window hangs over everything, accelerating all conflicts. The asteroid is the ultimate, non-negotiable deadline.
+The Ticking Clock (Threat Arc): The impact window — about two decades, plus or minus one, and unpinnable — hangs over everything, accelerating all conflicts. The asteroid is the ultimate, non-negotiable deadline, and the fact that nobody can date it precisely is what makes it unbearable rather than merely urgent. The sequels narrow it.
 
