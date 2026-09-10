@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 2026-09-10
 ---
 
 # Cretaceous — Writing Style

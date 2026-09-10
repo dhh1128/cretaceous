@@ -41,7 +41,7 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | `milieu-brief.md` | world facts the scene touches |
 | `world-bible.md`, `kb/worldbuilding/*` | everything else about the world |
 | `minor-characters.md` | cast, names, ages, established facts |
-| `tech-rules.md` | how the technology behaves |
+| `tech-rules.md` | how the technology behaves — **and check its audit table for a gap assigned to this scene.** A capability taught here for the first time, cost-free, is an obligation, not a suggestion: 2.3 owes accelerated healing and its price, 2.5 owes croc vibration sensing, 4.3 owes suit thermal management and suit feeding. A scene that skips its teaching leaves a later scene exploiting a capability the reader has never seen |
 | `body-and-resources.md`, `journey-calendar.md` | physical state, food, water, weather, time of day |
 | `style-canon.md` | verbatim Hardman passages — the voice target |
 | `writing-style.md`, `word-choice-expert.md` | prose rules |

@@ -36,12 +36,11 @@ The story runs fourteen days. A child dies in the Vitarium because the last Mast
 | `foreshadow-and-motif.md` | plants paired with payoffs, signal levels, motif budgets | **no** |
 | `tech-rules.md` | every capability audited for where its rule is taught and where it is exploited | **no** |
 | `minor-characters.md` | everyone but the three; four `[provisional]` names | **no** |
-| `world-bible.md` | — | **delete.** It is a summary that concedes it loses every disagreement with the files it summarizes |
 | `scene-maps/` | forward maps and invention ledgers, one per scene | scene 1.1 only, unapproved |
 
 ### `prompts/` — what you hand a model
 
-`style-canon.md` (verbatim passages from Daniel's two novels — the voice target, and the primary instrument), `writing-style.md` (the prose rules), `ai-tells-blacklist.md` (defects found in real generated drafts, in Daniel's own words — run as a gate before he sees anything), plus four role prompts: `logic-checker.md`, `repetition-hawk.md`, `word-choice-expert.md`, `youre-a-ya-author.md`.
+`style-canon.md` (verbatim passages from Daniel's two novels — the voice target, and the primary instrument), `writing-style.md` (the prose rules), `ai-tells-blacklist.md` (defects found in real generated drafts, in Daniel's own words — run as a gate before he sees anything), plus three role prompts: `logic-checker.md`, `repetition-hawk.md`, `word-choice-expert.md`.
 
 ### `kb/` — reference
 
@@ -61,4 +60,16 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 2. **Approve the rows of `knowledge-ledger.md`.**
 3. **Rewrite the scene list** to the approved count. Much of the open-question backlog gets worked off here rather than in the abstract.
 4. **Thirty-five open questions**, in `plan/open-questions.md` — twelve carried over, twelve restored after being removed without answers, five reopened, and the rest raised during the 2026-09-10 review.
-5. The remaining unapproved layers, in any order.
+5. **Renumber, and retire "beat" as an organizing term.** Approved 2026-09-10, deferred until the rescene because the scene count goes from 38 to roughly 60 and every number moves then anyway. Four units, and nothing else:
+
+   - **Act** — three.
+   - **Chapter** — the reader-facing unit, the thing you finish before putting the book down. Holds one or more scenes. This has never existed and was asked for at the start of the project.
+   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **sequentially, 1 to 60**, so a scene number is an address and carries no other claim.
+   - **Move** — one action by one party inside a scene. What the scene maps enumerate.
+
+   The present numbering is beat-major, so `4.3` means the third scene of beat 4, which sits inside Act 1 — the first digit is not an act and reads as though it were. **The fifteen "beats" are Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. The structure is demoted to **an analysis note** — a check that the story would also work as a film, which is a fair test — and stops being the organizing principle or the address system.
+
+   **Scope: 392 scene references across 25 files, and 40 Snyder labels.** `methodology-theory.md` §8 records that this corpus has already suffered layer drift from a renumber that did not sweep everything, so this is a scripted sweep with a verification pass, not hand-editing.
+
+6. **Tag scene obligations `@2.3` across the layers**, once the rewrite has settled the numbering. Every line in any layer that assigns work to a scene gets the tag, so `grep -rn '@2\.3' plan/` returns that scene's complete obligation set. The scene map's layers-joined table is then generated rather than hand-assembled, and phase 3 gains an invariant: every tagged obligation has a move. Deferred until after the rewrite because half the numbers will move.
+7. The remaining unapproved layers, in any order.

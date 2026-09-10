@@ -87,7 +87,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 **Preferences inflate into laws.** Something he said once in passing comes back as *never*, *not one, not ever*, *one per act*. The content is usually fine and the modality is invented — and a model obeys grammar, so a quota gets spent against like a budget. The test: does the rule cite something? His critique, a measurement against his own novels, a physical fact? If yes it keeps its force. If not it is a guideline, and should read like one.
 
-**Summary files generate contradictions and nothing else.** Four have been deleted — three act-context files and, pending, `world-bible.md`, which opened by conceding that it loses every disagreement with the file it summarized. A file that restates another file will drift from it, and then a drafter picks whichever it read last. Point at the authority instead.
+**Summary files generate contradictions and nothing else.** Six have been deleted. The clearest case opened by conceding that it loses every disagreement with the file it summarized. A file that restates another file will drift from it, and then a drafter picks whichever it read last. Point at the authority instead.
 
 **The corpus is full of decisions nobody made.** Yesterday's rewrites bundled real decisions of his with large numbers of unrequested changes, and the real decisions made the commits look legitimate. Examples found in one day: an exact population replacing a deliberate vagueness, accents stripped from every name in the name file, a calendar arguing against a season pivot and then scheduling one three times, a character's dead sibling changing cause of death.
 

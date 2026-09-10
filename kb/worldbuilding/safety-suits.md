@@ -16,6 +16,8 @@ Origin: built before the upgrade system worked, to keep the original settlers al
 
 A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 5–8 mm thick. **2–3 kg** for a full suit — it looks like it should weigh twenty and doesn't, and that discrepancy is worth a beat the first time someone handles one.
 
+`[?]` **How they should read on the page: bio-functional, sleek, grounded.** Not cyberpunk, not a mech, not robotic. They are living equipment that a person steps into, and the prose should not reach for the vocabulary of powered armor.
+
 **Helmet, yes. Faceplate, never.** The hood is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
 
 The helmet carries a **flip-down eye shield**: a single transparent curve from brow to cheekbone, for impact, debris and UV. It is not a seal and never was. **Nose and mouth are open to the air at all times, in every configuration.** There is no atmospheric control of any kind — no filtration, no recycling, no regulation.

@@ -79,7 +79,7 @@ Each carries a count and a spacing. **A motif that appears in every chapter is w
 
 ### Counting — around 8 to 10 appearances, evenly spread. The numbers in this section are targets for spacing, not caps.
 
-The strongest available and it is already everywhere without having been noticed. Riel folds her fingers down one at a time. Hesh does the First Walk arithmetic. Twelve suits, ten that work, eleven if Sarel's is repairable. Eighty kilometers. Eighty percent of a protocol, which is worth nothing. Position one-oh-seven.
+The strongest available and it is already everywhere without having been noticed. Riel gives a number where anyone else would give an impression. Hesh does the First Walk arithmetic. Twelve suits, ten that work, eleven if Sarel's is repairable. Eighty kilometers. Eighty percent of a protocol, which is worth nothing. Position one-oh-seven.
 
 **Counting is how this society holds itself together — and the one number nobody can produce is the impact date.** That is the motif's payoff and it needs no comment: the culture that counts everything cannot count the only thing that matters.
 

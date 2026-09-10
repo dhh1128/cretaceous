@@ -85,7 +85,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 | **L** | Teva's mother died of what kills Alira | delivered | **1.1** | the wet rattle, twice, two years apart |
 | **M** | Keo had a sister | delivered | **2.3, beat 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** |
 | **M2** | a croc took her while their parents watched | delivered | **4.1** | *the world that had killed his sister*, against the Repository he is about to rob |
-| **N** | the protectiveness is guilt | accumulated | **2.3** (Riel's exactness about the dead), **3.1** (they stand apart *because they know the number*), **completed 4.1** | the smell of their gear and the rationed food, with the fourth gourd behind it |
+| **N** | the protectiveness is guilt | accumulated | **2.3** (the fourth gourd, filled and never remarked on), **3.1** (they stand apart *because they know the number*), **completed 4.1** | the smell of their gear and the rationed food, with the fourth gourd behind it |
 | **O** | Marek is right | delivered | **3.1** | the man who said *do something real* at home is shouting for Genesis. **The reader holds 2.2 and 3.1 together; Benal cannot** |
 | **P** | drift, not deceit | delivered *(as the correction)* | **epigraph 13** | the coda, in the same channel that planted the false reading at epigraph 11 |
 | **Q** | Omya's public submission is duty, not vanity | accumulated | **1.1** plants, **2.4** completes | 1.1: she gives back a stretch of protocol word-perfect and Rano lets it past, because it is not the part he needs. 2.4: she recites the whole sky and cannot hold a fold |
