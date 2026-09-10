@@ -101,9 +101,9 @@ Rationale (The Predator): Using a large pterosaur creates a "boss-level" threat.
 [POV: Teva] [Fear Level: High (Persistent Dread)]
 The journey gets harder. Keo is injured in an encounter he would have survived with a suit (Q#19). Teva (from her POV) has to step up, pushing down her own rising fear to be a caretaker.
 
-Teva's suit saturates and fails under the Day 7 sun. Its job in this climate is cooling, so the failure is heat, not cold (`kb/worldbuilding/safety-suits.md`), and stripping it off is the right move at the price of her camouflage, her sensors and the body-bag failsafe.
+Teva's suit saturates and fails under the Day 10 sun. Its job in this climate is cooling, so the failure is heat, not cold (`kb/worldbuilding/safety-suits.md`), and stripping it off is the right move at the price of her camouflage, her sensors and the body-bag failsafe.
 
-What nearly kills her comes later and is her own doing. Noli's death takes the grounders off the menu, and by Day 9 there is no protein and no time; Teva overrules Keo and leaches the cycad mash short. It puts her down on Day 10 and Keo carries her — the protector who spent Days 8–9 being carried. Her venom resistance does not cover a plant glycoside. **She is the one who decides, and this is the decision that teaches her she can be wrong.**
+What nearly kills her comes later and is her own doing. Noli's death takes the grounders off the menu, and by Day 12 there is no protein and no time; Teva overrules Keo and leaches the cycad mash short. It puts her down on Day 13 and Keo carries her — the protector who spent Days 14–12 being carried. Her venom resistance does not cover a plant glycoside. **She is the one who decides, and this is the decision that teaches her she can be wrong.**
 
 The persistent predator that stalks them is the same pterosaur. Its shadow passing overhead forces them to hide and travel under cover, pushing them into more dangerous ground-level terrain. Teva is now terrified of the sky.
 

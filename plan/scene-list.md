@@ -153,54 +153,54 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 6.4 [Day 5] [BENAL] [Deep Jungle] [PARALYZING (Panic)] - The Madtsoiidae (constrictor) attack. Pure, silent terror. Keo/Teva save him. [Milieu: The constrictor is 'the color of dead leaves and shadow.' Its attack is 'crushing, breathless silence,' and all he smells is 'the snake's musky reek and his own terror'.]
 * **B-Story Note:** **Reliance / Debt**. Benal’s fear is paralyzing. His salvation by his friends' physical skills deepens his realization of his physical failure and his dependence on their **Chosen Family** strength.
 
-6.5 [Day 7] [KEO] [Open Savanna] [LOW (Hubris)] - The sunfever trek. Keo (no suit) feels fine, pushing the pace. His bravado is high. He forces a grin at Benal, who is still pale from the snake attack (6.4), "Next time, try not to look so delicious. You're making them hungry." [Milieu: Brutal, unfiltered, midday sun; shimmering heat. The 'savanna' is a sea of 'head-high ferns and cycads'. In the distance, he spots a herd of *Kritosaurus*, 'their calls like low, mournful horns'. His throat is parchment-dry, and he knows they're down to their last half-canteen of water; they need rain, or they'll be in crisis by nightfall.]
+6.5 [Day 10] [KEO] [Open Savanna] [LOW (Hubris)] - The sunfever trek. Keo (no suit) feels fine, pushing the pace. His bravado is high. He forces a grin at Benal, who is still pale from the snake attack (6.4), "Next time, try not to look so delicious. You're making them hungry." [Milieu: Brutal, unfiltered, midday sun; shimmering heat. The 'savanna' is a sea of 'head-high ferns and cycads'. In the distance, he spots a herd of *Kritosaurus*, 'their calls like low, mournful horns'. His throat is parchment-dry, and he knows they're down to their last half-canteen of water; they need rain, or they'll be in crisis by nightfall.]
 * **B-Story Note:** **Unrequited Romance / Hubris Climax**. Keo's internal monologue is dominated by his pride in his **Thermal Regulation** upgrade and his desire to prove himself capable to Teva without the "crutch" of the suit. This is the apex of his **Hubris** arc.
 
-6.6 [Day 7] [TEVA] [Open Savanna] [HIGH (Weakness)] - Same trek, her POV. Her suit is struggling with thermal load. She is dizzy, near collapse, but hides it. [Milieu: Her POV: The suit's HUD is 'flickering with red heat warnings.' The sun is 'a physical weight,' and the *Kritosaurus* calls are 'a dull, throbbing headache'.]
+6.6 [Day 10] [TEVA] [Open Savanna] [HIGH (Weakness)] - Same trek, her POV. Her suit is struggling with thermal load. She is dizzy, near collapse, but hides it. [Milieu: Her POV: The suit's HUD is 'flickering with red heat warnings.' The sun is 'a physical weight,' and the *Kritosaurus* calls are 'a dull, throbbing headache'.]
 * **B-Story Note:** **Skills Clash (Vulnerability)**. Teva must hide her **Poor Thermal Regulation** failure, ironically making her (the suited one) more vulnerable than Keo.
 
 ### BEAT 7: MIDPOINT (Noli's Death)
 
-7.1 [Day 7 - Night] [KEO] [Camp (Open Clearing)] [LOW (Content)] - A rare moment of peace. Keo is playing with Noli, sharing food. [Milieu: The star-gazing scene: a windless, perfectly clear night. They are eating 'roasted 'grounder' meat' and 'sweet, mealy 'dinosaur-fruit' (*Annonaceae*)'. Noli proudly drags a fresh-killed grounder into camp. Keo roasts the small mammal, and they share the precious carne with foraged 'dinosaur-fruit', a rare and risky feast far better than their dry "journey-pan".]
+7.1 [Day 10 - Night] [KEO] [Camp (Open Clearing)] [LOW (Content)] - A rare moment of peace. Keo is playing with Noli, sharing food. [Milieu: The star-gazing scene: a windless, perfectly clear night. They are eating 'roasted 'grounder' meat' and 'sweet, mealy 'dinosaur-fruit' (*Annonaceae*)'. Noli proudly drags a fresh-killed grounder into camp. Keo roasts the small mammal, and they share the precious carne with foraged 'dinosaur-fruit', a rare and risky feast far better than their dry "journey-pan".]
 * **B-Story Note:** **False Peace**. Establish the trio as a functional unit and Noli as a key part of their internal camaraderie before the crisis.
 
-7.2 [Day 8 - Dawn] [KEO] [Camp (Open Clearing)] [SHOCK] - The Quetzalcoatlus attack. It's over in seconds. The sky is empty. [Milieu: The *Quetzalcoatlus* attacks at dawn, using the 'low, blinding sun at its back' to mask its approach. It is a 'sudden, impossible shadow' that moves 'faster than thought'. The pterosaur was almost certainly drawn by the scent of Noli's kill from the night before.]
+7.2 [Day 11 - Dawn] [KEO] [Camp (Open Clearing)] [SHOCK] - The Quetzalcoatlus attack. It's over in seconds. The sky is empty. [Milieu: The *Quetzalcoatlus* attacks at dawn, using the 'low, blinding sun at its back' to mask its approach. It is a 'sudden, impossible shadow' that moves 'faster than thought'. The pterosaur was almost certainly drawn by the scent of Noli's kill from the night before.]
 * **B-Story Note:** **Noli's Loss**. The failure is absolute and vertical. Keo's **Mental Projection** is utterly useless, shattering his confidence and marking the end of the "adventure."
 
-7.3 [Day 8 - Dawn] [KEO] [Camp (Open Clearing)] [GRIEF (Numb)] - The silence. Teva moves his pack for him. Benal just sits nearby. Their quiet, physical presence is the first act of true compassion. [Milvieu: The 'deafening, ringing silence' after the attack. Keo is staring at a single, 'blood-spattered purple feather' from Noli. Benal just sits, 'methodically picking a fern apart'.]
+7.3 [Day 11 - Dawn] [KEO] [Camp (Open Clearing)] [GRIEF (Numb)] - The silence. Teva moves his pack for him. Benal just sits nearby. Their quiet, physical presence is the first act of true compassion. [Milvieu: The 'deafening, ringing silence' after the attack. Keo is staring at a single, 'blood-spattered purple feather' from Noli. Benal just sits, 'methodically picking a fern apart'.]
 * **B-Story Note:** **Chosen Family Bond**. The compassion from Teva and Benal in his grief moves their relationship past **Shared Guilt** into a truly positive bond.
 
 ### BEAT 8: BAD GUYS CLOSE IN
 
-8.1 [Day 8] [TEVA] [Jungle Undergrowth] [HIGH (Dread)] - The shadow of the Quetzalcoatlus passes overhead. They hide. Teva is now terrified of the sky. [Milieu: A drenching rain. They are trapped between the low-flying *Quetzalcoatlus* and a living carpet of 'hell ants' (*Haidomyrmecinae*) moving 'like a single, flowing oil-slick'. Benal, his eyes wide, whispers, "Sky or ground. Pick your death," and Teva whispers back, "Shut up, Benal," but she feels a flash of dark, shared humor. Keo also snorts.]
+8.1 [Day 11] [TEVA] [Jungle Undergrowth] [HIGH (Dread)] - The shadow of the Quetzalcoatlus passes overhead. They hide. Teva is now terrified of the sky. [Milieu: A drenching rain. They are trapped between the low-flying *Quetzalcoatlus* and a living carpet of 'hell ants' (*Haidomyrmecinae*) moving 'like a single, flowing oil-slick'. Benal, his eyes wide, whispers, "Sky or ground. Pick your death," and Teva whispers back, "Shut up, Benal," but she feels a flash of dark, shared humor. Keo also snorts.]
 * **B-Story Note:** **Shared Humor / Terror**. The shared, dark humor provides brief, cathartic release from the mounting dread.
 
-8.2 [Day 8] [KEO] [Gulch/Ravine] [HIGH (Reckless Rage)] - Keo's injury. He takes a stupid risk trying to climb (e.g., against a pack of Razortails), driven by grief over Noli. [Milieu: The ground is slick, unstable clay from the rain, causing his fall. He was climbing to get a 'lookout', falling onto 'sharp-edged limestone scree' and 'bright red *Gnetophyte* berries'.]
+8.2 [Day 11] [KEO] [Gulch/Ravine] [HIGH (Reckless Rage)] - Keo's injury. He takes a stupid risk trying to climb (e.g., against a pack of Razortails), driven by grief over Noli. [Milieu: The ground is slick, unstable clay from the rain, causing his fall. He was climbing to get a 'lookout', falling onto 'sharp-edged limestone scree' and 'bright red *Gnetophyte* berries'.]
 * **B-Story Note:** **Hubris Crash**. Keo's injury is the direct consequence of his **unsuited state** and his unresolved **Grief/Rage** over Noli's death. He is forced into vulnerability.
 
-8.3 [Day 8 - Night] [TEVA] [Camp (Night)] [HIGH (Exhaustion)] - Tending Keo's wound. Her suit failed yesterday, to the heat, and she is walking unshelled. The "POV Irony" scene (caring for him, while we know he has a crush). As she's tending Keo's wound, he groans, "Careful," and Teva, her hands shaking from hunger and two days without proper sleep, snaps, "Be quiet or be bait. Your choice." [Milieu: The warm, miserable, all-night rain continues — it is not cold and nobody should say it is; what is failing is Teva, from hunger and exhaustion, and she feels it as cold when the others do not. They huddle under a 'leaking roof of waxy fern fronds'.]
+8.3 [Day 11 - Night] [TEVA] [Camp (Night)] [HIGH (Exhaustion)] - Tending Keo's wound. Her suit failed yesterday, to the heat, and she is walking unshelled. The "POV Irony" scene (caring for him, while we know he has a crush). As she's tending Keo's wound, he groans, "Careful," and Teva, her hands shaking from hunger and two days without proper sleep, snaps, "Be quiet or be bait. Your choice." [Milieu: The warm, miserable, all-night rain continues — it is not cold and nobody should say it is; what is failing is Teva, from hunger and exhaustion, and she feels it as cold when the others do not. They huddle under a 'leaking roof of waxy fern fronds'.]
 * **B-Story Note:** **POV Irony / Caretaker Climax**. Teva's emotional state (exhaustion, rising fear, but forced competence) conflicts with Keo's perception of her. She embodies the compassionate role, which develops the **Romance Subtext** through action, not words.
 
-8.4 [Day 8 - Night] [KEO] [Camp (Night/Fever)] [DISORIENTATION] - Keo's Temporal Flash (the symbol). He's feverish, dismisses it. [Milieu: His Temporal Flash is 'a gleaming, impossible symbol' and the 'smell of ozone and the ocean,' mixed with the 'bitter, herbal taste' of the salve on his wound. Through the fever-haze, he's vaguely aware of Benal sitting watch, his frail form a surprisingly steady silhouette against the rain, and Keo feels a wave of pure gratitude.]
+8.4 [Day 11 - Night] [KEO] [Camp (Night/Fever)] [DISORIENTATION] - Keo's Temporal Flash (the symbol). He's feverish, dismisses it. [Milieu: His Temporal Flash is 'a gleaming, impossible symbol' and the 'smell of ozone and the ocean,' mixed with the 'bitter, herbal taste' of the salve on his wound. Through the fever-haze, he's vaguely aware of Benal sitting watch, his frail form a surprisingly steady silhouette against the rain, and Keo feels a wave of pure gratitude.]
 * **B-Story Note:** **Shame/Gratitude**. Keo's vulnerability forces him to rely on Benal's silent watchfulness, generating a wave of **gratitude** that cuts through his earlier hubris and arrogance.
 
 ### BEAT 9: ALL IS LOST (The Offshore Journey)
 
-9.1 [Day 11] [BENAL] [The Coast] [HIGH (Dread)] - They find the raft. It's a wreck. Benal's absolute terror of the open water. [Milieu: They arrive at low tide: 'a kilometer of treacherous, croc-infested mudflats.' On the horizon: the 'wall of black' of an approaching tropical cyclone. Solution: Benal spots a 'path of chaos'—massive sea turtles laying eggs, creating a 'frenzied distraction' for the crocs, giving them a corridor.]
+9.1 [Day 14] [BENAL] [The Coast] [HIGH (Dread)] - They find the raft. It's a wreck. Benal's absolute terror of the open water. [Milieu: They arrive at low tide: 'a kilometer of treacherous, croc-infested mudflats.' On the horizon: the 'wall of black' of an approaching tropical cyclone. Solution: Benal spots a 'path of chaos'—massive sea turtles laying eggs, creating a 'frenzied distraction' for the crocs, giving them a corridor.]
 * **B-Story Note:** **Skills Clash (Intellectual Value)**. Benal's **Superb Smell/Hearing** allows him to detect the chaos of the coast (croc paths, egg-laying turtles) and propose a clever, pragmatic solution, proving his value in a survival context.
 
-9.2 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Panic)] - The storm hits. The raft is tossing. [Milieu: The full fury of the cyclone hits. The raft is an 'old-tech' remnant, 'corroded polymer and metal,' and the waves are 'black, moving mountains'.]
+9.2 [Day 14 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Panic)] - The storm hits. The raft is tossing. [Milieu: The full fury of the cyclone hits. The raft is an 'old-tech' remnant, 'corroded polymer and metal,' and the waves are 'black, moving mountains'.]
 * **B-Story Note:** **Thematic Fear**. Benal's most primal fear is realized: chaos, drowning, and physical helplessness.
 
-9.3 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
+9.3 [Day 14 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
 * **B-Story Note:** **Intellectual Loss**. The loss of his fieldpack (and his theoretical work) symbolizes the loss of his last physical connection to his **Vindication** arc, reinforcing his belief in failure.
 
-9.4 [Day 12 - Dawn] [BENAL] [Genesis Site — a spit of land ringed by coral] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' — **not volcanic rock**; `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of platform limestone, marl and evaporites over a Carboniferous granitic basement, with no volcanics anywhere on the Yucatan platform. Small, iridescent crabs scatter.]
+9.4 [Day 15 - Dawn] [BENAL] [Genesis Site — a spit of land ringed by coral] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' — **not volcanic rock**; `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of platform limestone, marl and evaporites over a Carboniferous granitic basement, with no volcanics anywhere on the Yucatan platform. Small, iridescent crabs scatter.]
 * **B-Story Note:** **Ultimate Defeat**. The collective belief that they have failed their mission and sacrificed their families for nothing.
 
 ### BEAT 10: DARK NIGHT OF THE SOUL
 
-10.1 [Day 12] [TEVA] [Archive (Flooded Section)] [DESPAIR (Cold)] - Huddling. Wet skin, wind off the cyclone's back half, eighteen hours of it — the one genuine chill in the book, and it is evaporative, not the sea. Teva worst, still hollowed out by the poisoning. The disorientation is strong.
+10.1 [Day 15] [TEVA] [Archive (Flooded Section)] [DESPAIR (Cold)] - Huddling. Wet skin, wind off the cyclone's back half, eighteen hours of it — the one genuine chill in the book, and it is evaporative, not the sea. Teva worst, still hollowed out by the poisoning. The disorientation is strong.
 * **B-Story Note:** **B-Story Climax: Chosen Family Forged**. The trio's mutual, honest confessions of **Guilt** (Keo), **Shame** (Benal's pity), and **Despair** (Teva’s grandmother). Teva provides the emotional **Bridge Speech**, transforming them from allies into a **Chosen Family** unit. Her flash reveals the ancestors’ *fear* and *grief*, planting the first seed of her **Nuance** arc.
 
 ## ACT 3: GENESIS & THE RETURN (Beats 11-15)
@@ -210,17 +210,17 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 > **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §4 — beats 12, 13 and 14 each need splitting.
 
 
-11.1 [Day 12 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
+11.1 [Day 15 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
 * **B-Story Note:** **Vindication (Part 1)**. Immediate, physical validation of their journey's purpose. The **Intellectual** triumph of finding the *solution* is a brief, shared high.
 
 ### BEAT 12: FINALE (The Revelation)
 
-12.1 [Day 12 - Afternoon] [BENAL] [Temporal Lab] [AWE -> INTELLECTUAL DREAD] - They find the logs of the perfect arrival. Benal connects his equation to the temporal flash, realizing the "Noble Lie" and the "impossible new mission".
+12.1 [Day 15 - Afternoon] [BENAL] [Temporal Lab] [AWE -> INTELLECTUAL DREAD] - They find the logs of the perfect arrival. Benal connects his equation to the temporal flash, realizing the "Noble Lie" and the "impossible new mission".
 * **B-Story Note:** **Vindication (Part 2)**. The final validation of Benal’s "useless" work. His intellectual ability is now the most important resource, shifting the power dynamic in the trio.
 
 ### BEAT 13: THE RETURN (The Heretic's Ride)
 
-13.1 [Day 13 - Morning] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
+13.1 [Day 16 - Morning] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
 * **B-Story Note:** **Hubris to Competence / Embrace of Hard Tech**. Keo's action climax: he successfully pilots the forbidden **old-tech** to defeat the monster that broke his confidence, completing his arc and confirming his commitment to the "heretical" way forward.
 
 ### BEAT 14: THE CONFRONTATION
@@ -228,10 +228,10 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 > Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `plan/knowledge-ledger.md`.
 
 
-14.1 [Day 13 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
+14.1 [Day 16 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
 * **B-Story Note:** **Maturation Climax / Nuance Forged**. Keo’s perspective focuses on his parents’ reaction (vindicated pride). Teva's accusation is softened by her internal epiphany: seeing the Council's paralyzed fear and realizing the lie was born from grief, not malice, completing her **Rage to Nuance** arc. Benal stands vindicated.
 
 ### BEAT 15: FINAL IMAGE
 
-15.1 [Day 13 - Night] [KEO] [Council Chamber] [DETERMINATION] - The stunned Council and their parents. The trio stands together, no longer children.
+15.1 [Day 16 - Night] [KEO] [Council Chamber] [DETERMINATION] - The stunned Council and their parents. The trio stands together, no longer children.
 * **B-Story Note:** **The New Schism**. The final image of the trio standing as a unified, powerful unit—a **Chosen Family**—now facing the political fallout of their actions, ready to lead the *new* mission.

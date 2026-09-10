@@ -36,14 +36,14 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 10 | Teva's mother died of what kills Alira | 1.1 | the confession | 10.1 | faint |
 | 11 | **Four water gourds, filled for three people** | 2.3 | Yara | later in 2.3 | **none — never remarked on** |
 | 12 | "We'll be fine" | 2.1 | after the midpoint nobody can say it, and someone tries | 8.3 | faint |
-| 13 | Liaso's story: a T. rex watched him for an hour | 3.4 | the single distant sighting | Day 10 | none |
-| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, 12.1 | the Day 14 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
+| 13 | Liaso's story: a T. rex watched him for an hour | 3.4 | the single distant sighting | Day 13 | none |
+| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, 12.1 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
 | 14 | The temporal flash symbol | 8.4 | the signal the heretics received | 12.1 | **overt** |
 | 15 | Marek dismissive at home / fighting in the chamber | 2.2 / 3.1 | Benal understands his father | 14.1 | none |
-| 16 | **The river crossed easily in low water** | Day 3 | in flood; the way home is not the way out | Day 11 | faint |
-| 17 | Benal's shoulder capacitor red-lined at the theft | 4.2 | it dies, and he hides it | Day 8 | none |
-| 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 9 decision, Day 10 collapse | none |
-| 19 | Grounders are Noli's catch | Days 3–7 | **after Day 8 nobody catches them, and the food changes** | Day 9 | none |
+| 16 | **The river crossed easily in low water** | Day 3 | in flood; the way home is not the way out | Day 14 | faint |
+| 17 | Benal's shoulder capacitor red-lined at the theft | 4.2 | it dies, and he hides it | Day 11 | none |
+| 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
+| 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
 | 20 | The suits are fed sugar | 4.3 | the honey is split between four mouths and two suits | Day 6 | none |
 | 21 | **The river gratings pass anything small, which grows up inside** | 2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | 2.3 / 10.1 | none |
 | 22 | The gratings must be raised to open the river | 2.5 or 4.x | **flying the wig means opening the croc barrier, every time** | 15.1, book 2 | none |

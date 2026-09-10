@@ -36,7 +36,7 @@ That is roughly **two days of food for three people, for a nine-day walk.** Whic
 
 **They cannot forage enough, and this is worth being honest about.** Three teenagers walking 8–12 km a day over broken ground, carrying packs, in heat, need something on the order of 3,500–5,000 kcal each. Opportunistic foraging in woodland — fruit, snails, pinyons, the occasional grounder — returns a few hundred to perhaps 1,500 kcal a day per person, and that is on good days with time to spend. **They run a deficit the entire journey.** Over nine days that is several kilos each, and by the coast they are visibly diminished: loose belts, sharp faces, cold at night, slow to stand.
 
-**And the consequence nobody has planned: the journey out is only survivable one way.** They arrive at the coast without the reserves to walk back. Somebody should work this out around Day 7 or 8 and not say it, and somebody else should say it on Day 11. It is a stakes escalation that costs nothing to add and it makes the wig a rescue rather than a convenience.
+**And the consequence nobody has planned: the journey out is only survivable one way.** They arrive at the coast without the reserves to walk back. Somebody should work this out around Day 10 or 8 and not say it, and somebody else should say it on Day 14. It is a stakes escalation that costs nothing to add and it makes the wig a rescue rather than a convenience.
 
 **The suits compete with them for sugar.** Canon: the biofilm needs water and a modest source of sugars every couple of days, more when it is repairing damage. So found fruit is split between people and suits, and Benal — whose suit is already compromised — is feeding his while going hungry. Nobody should comment on this more than once.
 
@@ -48,7 +48,7 @@ Keo and Teva both have profound accelerated healing, which would defuse every in
 
 More urgent than food, and it inverts across the journey.
 
-**Days 3 and 7** are dry and hot, and water is the problem — Day 7 in particular, where the scene list already has them down to a half canteen on the savanna, with heat killing Teva and no shade.
+**Days 3 and 7** are dry and hot, and water is the problem — Day 10 in particular, where the scene list already has them down to a half canteen on the savanna, with heat killing Teva and no shade.
 
 **Days 4–6 and 8–10** are wet, and water is everywhere, which solves drinking and creates every other problem: soaked constantly, nothing dries, foot rot, gear degrading, and the rivers they have to cross rising behind them.
 
@@ -81,9 +81,9 @@ Taken from viking and cordimancy, where **somebody is always doing something wit
 
 **The exceptions are the disasters, and they should be caused by the doctrine breaking.**
 
-- **Day 7, the savanna.** They march through midday because **there is nowhere to lay up** — a fern savanna has no shade, and stopping in it is worse than crossing it. The doctrine cannot be followed, and Teva pays. This is much better than Keo simply pushing too hard: the terrain removes the option, and his hubris only decides *how fast*.
-- **Day 11.** They march into the dark to reach the coast ahead of the storm.
-- **Day 8.** They stop before dusk because Keo cannot go on, and camping early in bad ground is its own danger.
+- **Day 10, the savanna.** They march through midday because **there is nowhere to lay up** — a fern savanna has no shade, and stopping in it is worse than crossing it. The doctrine cannot be followed, and Teva pays. This is much better than Keo simply pushing too hard: the terrain removes the option, and his hubris only decides *how fast*.
+- **Day 14.** They march into the dark to reach the coast ahead of the storm.
+- **Day 11.** They stop before dusk because Keo cannot go on, and camping early in bad ground is its own danger.
 
 ## 3. The chain — day by day
 
@@ -95,12 +95,16 @@ Distances match `journey-calendar.md`. **Nothing resets between days.**
 | **4** | 10 | rations gone by evening. First forage — snails, stonefruit, mushrooms Benal vouches for | everywhere, and undrinkable half the time | soft skin from constant wet; the first hot spot that will become a real foot problem; bites multiplying on Keo | the elation is gone and the arithmetic arrives. First open doubt | steady, joyless. The first day that is only walking |
 | **5** | 8 | thin. Snails again, and the joke about snails stops being funny | plentiful | **the constrictor.** Benal: chest wall bruised the width of a body, breathing shallow for four days. Teva: thrown, shoulder wrenched — she calls it nothing. Keo: hands torn on scale | shattered, then welded. Surviving it together does more than any conversation | slow after; they make three km in the afternoon and stop early |
 | **6** | 12 | **honey.** Grounders Noli catches. Fruit. The only day they eat enough | good, and a place to wash | bruises coloring; foot problem eases in the dry; Benal's chest still wrong | **the peak of Act 2.** Fed, dry, warm, laughing | **their best day, and it is because they are happy** |
-| **7** | 10 | full from yesterday, which is why they push | **half a canteen by afternoon.** This is the crisis | **Teva: sunfever.** Dizzy, dry, hiding it. Suit thermal system saturating. **Keo: burned** — unsuited, no shade, UV all day. He does not notice until night | Keo at hubris peak, flying. Teva concealing collapse. Benal enduring and watching them both | fast, and fast is the mistake |
-| **8** | **4** | nobody eats | rain solves water and solves nothing else | **Noli. Then Keo's fall** — limestone scree, deep laceration to the thigh or flank, cracked rib, the ankle wrenched. Bleeding into a wet dressing. Teva unshelled since yesterday's saturation, and the rain is the first mercy she has had | **the floor.** Nobody wants to move and they move four kilometers | barely moving. They stop before dark because Keo cannot go on |
-| **9** | 6 | almost nothing. **The grounders stop, because Noli caught them** — and this is the day Teva short-leaches the mash | plentiful | Keo febrile — infection, and the healing upgrade burning through reserves he does not have. Teva carrying two packs. Benal takes watches he cannot afford | grinding. This is the day the reader should feel the walk | slow, and every kilometer is negotiated |
-| **10** | 10 | forage returns — carcass beetles, fruit, fish, and none of it stays down for Teva | clearing | **the mash comes due at six to twelve hours: Teva vomiting, cramping, and losing water she cannot spare.** Keo's wound closing fast and costing him everything; he is thin, cold, quiet — starvation cold, not weather. **Keo carries her** | hollow. Moving well, nobody talking. The bond is real and nobody has energy for it | steady, silent, efficient |
-| **11** | **12** | ovos at the turtle beach — the last real meal | brackish, then salt | cuts from rudist shell; salt in everything open | **dread.** The sea, then the wall of black | **their longest day, and it is fear that does it.** Their two fastest days are 6 and 11 — one from joy, one from terror, and that pairing is worth the reader noticing |
-| **12** | — | nothing. Everything lost with the raft | none | battered, cut, wind-chilled and wretched — **Teva worst**, two days past the poisoning and still emptied out. *(Not hypothermia: the sea is 28–32 °C. The chill is evaporative, off wet skin in cyclone wind.)* | despair, then the confessions | trapped |
+| **7** | **3** | still eating well off Day 6 | plentiful — they are standing beside a river and cannot use it without going near it | whole, rested, suits working. Nothing is wrong with any of them, which is the point | **the floor drops out.** Not from injury — from arriving at the water. Arguing, counting, planning, discarding plans. Nobody sleeps | **they stop.** Three kilometers and then nothing |
+| **8** | **5** | they eat before, because nobody knows about after | the crossing is not a drink | everyone soaked; Keo's projection headache at its worst — he holds two tonnes of panicking animal through the whole of it | **the highest they ever get.** They did the thing they could not do | slow to start, fast once committed, and then they walk until dark to get away from it |
+| **9** | 10 | forage thinning; the last of what Day 6 gave them | showers; plentiful | Benal's chest still sore from Day 5; first hot spot on Keo's foot | quiet and enormously pleased with themselves. This is the last of that | steady. Ground breaking up |
+| **10** | 6 | full from the good day, which is why they push, which is why they push | **half a canteen by afternoon.** This is the crisis | **Teva: sunfever.** Dizzy, dry, hiding it. Suit thermal system saturating. **Keo: burned** — unsuited, no shade, UV all day. He does not notice until night | Keo at hubris peak, flying. Teva concealing collapse. Benal enduring and watching them both | fast, and fast is the mistake |
+| **11** | **4** | nobody eats | rain solves water and solves nothing else | **Noli. Then Keo's fall** — limestone scree, deep laceration to the thigh or flank, cracked rib, the ankle wrenched. Bleeding into a wet dressing. Teva unshelled since yesterday's saturation, and the rain is the first mercy she has had | **the floor.** Nobody wants to move and they move four kilometers | barely moving. They stop before dark because Keo cannot go on |
+| **12** | 6 | almost nothing. **The grounders stop, because Noli caught them** — and this is the day Teva short-leaches the mash | plentiful | Keo febrile — infection, and the healing upgrade burning through reserves he does not have. Teva carrying two packs. Benal takes watches he cannot afford | grinding. This is the day the reader should feel the walk | slow, and every kilometer is negotiated |
+| **13** | 8 | forage returns — carcass beetles, fruit, fish, and none of it stays down for Teva | clearing | **the mash comes due at six to twelve hours: Teva vomiting, cramping, and losing water she cannot spare.** Keo's wound closing fast and costing him everything; he is thin, cold, quiet — starvation cold, not weather. **Keo carries her** | hollow. Moving well, nobody talking. The bond is real and nobody has energy for it | steady, silent, efficient |
+| **14** | — | ovos at the turtle beach — the last real meal | brackish, then salt | cuts from rudist shell; salt in everything open | **dread.** The sea, then the wall of black | **their longest day, and it is fear that does it.** Their two fastest days are 6 and 11 — one from joy, one from terror, and that pairing is worth the reader noticing |
+| **15** | — | nothing. Everything lost with the raft | none | battered, cut, wind-chilled and wretched — **Teva worst**, two days past the poisoning and still emptied out. *(Not hypothermia: the sea is 28–32 °C. The chill is evaporative, off wet skin in cyclone wind.)* | despair, then the confessions | trapped |
+| **16–18** | — | **clams, and fish Benal can hear in the shallows.** The first sufficiency since Day 6 | **none. Genesis has no fresh water** — they drink what the cyclone left standing, and that is the clock | recovering, slowly and incompletely. Keo's wound closing properly for the first time. Teva keeping food down by Day 17 | rising, and complicated by what they learn | at rest, and it is the only rest in the book |
 
 ## 3b. Suit degradation
 
@@ -124,14 +128,14 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 | 3 | river silt in the ankle seams; chromatophores lag by a beat after | lag the same; he notices, she doesn't |
 | 4–5 | biofilm dying along the pack straps where it abrades | **constrictor: left elbow seal compromised, integrity ~40%.** Plating groaned and held |
 | 6 | **fed properly** — honey and fruit, split between four mouths and two suits, and somebody says so out loud | biofilm begins repairing the elbow, drawing sugar he cannot spare |
-| 7 | **thermal saturation on the savanna.** The system loses and she cooks inside her own protection | thermal fine; his regulation is good and the suit barely has to work |
-| 8 | unshelled since Day 7; she is carrying it rather than wearing it, and the rain is the only reason she can walk at all | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
-| 9–10 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
-| 11 | mudflat silt, then salt | salt in the open elbow |
-| 12 | **immersion.** Biofilm dying in sheets, and she has been out of the suit since Day 7 anyway. What the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
-| 13 | a dead gray skin she is still wearing because taking it off is worse | the same |
+| 10 | **thermal saturation on the savanna.** The system loses and she cooks inside her own protection | thermal fine; his regulation is good and the suit barely has to work |
+| 11 | unshelled since Day 10; she is carrying it rather than wearing it, and the rain is the only reason she can walk at all | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
+| 12–13 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
+| 14 | mudflat silt, then salt | salt in the open elbow |
+| 15 | **immersion.** Biofilm dying in sheets, and she has been out of the suit since Day 10 anyway. What the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
+| 16 | a dead gray skin she is still wearing because taking it off is worse | the same |
 
-**Two beats worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 8, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
+**Two beats worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
 
 ## 3c. Weapons are on a clock, and the weather winds it
 
@@ -144,9 +148,9 @@ The weather turns after Day 3, so **they walk out with good gear and the rains s
 | 3 | dry, sound. The crossing soaks everything and the hot afternoon dries it again — the last time that works |
 | 4–5 | first sustained wet. Keeping the spears off the ground and out of the rain becomes a daily chore with no good solution |
 | 6 | **the good day dries the gear as well as the people.** One more reason it is the deposit |
-| 7 | bone dry and fine — the savanna is good for exactly one thing |
-| 8–10 | three days of rain with nowhere to dry anything. **Bindings going soft, shafts spongy at the ferrule.** A croc-spike that fails at the wrong moment is available and has not been spent |
-| 11 | salt water finishes whatever is left |
+| 10 | bone dry and fine — the savanna is good for exactly one thing |
+| 11–13 | three days of rain with nowhere to dry anything. **Bindings going soft, shafts spongy at the ferrule.** A croc-spike that fails at the wrong moment is available and has not been spent |
+| 14 | salt water finishes whatever is left |
 
 **Two consequences worth taking.** River crossings acquire a second cost — you carry the thing that dissolves in water *through water*. And it compounds §1: they reach the coast short of calories **and** short of weapons, which is one more reason the walk home was never possible.
 
@@ -162,15 +166,15 @@ It is also the first time the reader understands, viscerally, what the suits are
 
 ### Sleep
 
-Three of them, so watches are three hours each and nobody gets an unbroken night after Day 3. **Cumulative sleep debt is the quiet driver of everything on Days 8–10** — the bad decisions, the short tempers, the missed sightlines. It should never be named as a cause and should be visible in every symptom.
+Three of them, so watches are three hours each and nobody gets an unbroken night after Day 3. **Cumulative sleep debt is the quiet driver of everything on Days 14–13** — the bad decisions, the short tempers, the missed sightlines. It should never be named as a cause and should be visible in every symptom.
 
 Where they sleep is a decision with a cost every night: elevation is safer and exhausting to reach; the ground is easy and lethal; a defensible spot is usually a wet one.
 
 ## 4. Rules
 
-1. **Nothing resets.** An injury on Day 5 is present on Day 11 unless something healed it, and healing was paid for.
+1. **Nothing resets.** An injury on Day 5 is present on Day 14 unless something healed it, and healing was paid for.
 2. **Hunger is cumulative and boring, which is why it must be shown in behavior rather than stated.** Arguments about nothing. Staring at food that isn't there. Somebody eating something they know is a bad idea.
 3. **Every injury has an owner and a cost.** No generic scrapes. If it does not change what someone can do, do not write it.
 4. **Pace is evidence.** The reader will not do the arithmetic but they will feel a four-kilometer day. Distances are in `journey-calendar.md` and are not negotiable at the keyboard.
-5. **Morale and energy are different axes and must not track.** Day 6 is high on both; Day 10 is functional and hollow; Day 3 is exhausted and elated; Day 7 is energised and doomed.
+5. **Morale and energy are different axes and must not track.** Day 6 is high on both; Day 13 is functional and hollow; Day 3 is exhausted and elated; Day 10 is energised and doomed.
 6. **The two fastest days are the happiest and the most frightened.** Do not lose that.

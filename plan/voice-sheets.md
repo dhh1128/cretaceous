@@ -34,9 +34,9 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **The trajectory, and it is his arc in miniature.** The instructing register is the verbal form of his hubris, so it breaks where the hubris breaks.
 
-- **Days 1–7, defended.** Imperatives, often stacked. Answers directly and too fast. Never asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
-- **Day 8, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humour-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
-- **Days 9–14, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 14, and doing what it says.
+- **Days 1–10, defended.** Imperatives, often stacked. Answers directly and too fast. Never asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
+- **Day 11, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humour-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
+- **Days 15–19, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 19, and doing what it says.
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
 
@@ -44,7 +44,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **Never says.** That he is frightened. Anything about Yara. Anything about Teva.
 
-**Funny about** other people's misfortune, affectionately, and his own overconfidence. Dies at Day 8.
+**Funny about** other people's misfortune, affectionately, and his own overconfidence. Dies at Day 11.
 
 ---
 
@@ -60,19 +60,19 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **The guard is conditional, not a personality.** It is up with adults, with strangers, and with anyone who might do something about it. It comes down with the yazhi she teaches, in the dark, when she is too tired to hold it, and — the one that matters — **after somebody else has been vulnerable first.** A person who is guarded under conditions is a person. A person who is guarded always is furniture.
 
-**She has to give something away early, unprompted.** `character-arcs.md` puts her one real self-disclosure on Day 12, at *"I left her while she's disappearing"* — which is 85% of the way through a book the reader has spent with someone who will not talk. **Day 6 is the place for a smaller one**: the only easy day, the deposit everything after it draws on, and the natural home for a guarded person volunteering something nobody asked for.
+**She has to give something away early, unprompted.** `character-arcs.md` puts her one real self-disclosure on Day 15, at *"I left her while she's disappearing"* — which is 85% of the way through a book the reader has spent with someone who will not talk. **Day 6 is the place for a smaller one**: the only easy day, the deposit everything after it draws on, and the natural home for a guarded person volunteering something nobody asked for.
 
 **The trajectory.** Her terseness is the verbal form of her rage, and her arc is rage → nuance.
 
 - **Days 1–6, defended.** Assertions to the bone. Questions only when she needs something from you.
-- **Days 7–10, cracking.** Day 9 she decides and is wrong, and Day 10 puts her down. Being carried is a thing she cannot conceal, and concealment was the whole apparatus.
-- **Days 11–14, changed.** She asks questions she does not need the answer to. That is the whole shift and it should be almost invisible.
+- **Days 13–13, cracking.** Day 12 she decides and is wrong, and Day 13 puts her down. Being carried is a thing she cannot conceal, and concealment was the whole apparatus.
+- **Days 19–19, changed.** She asks questions she does not need the answer to. That is the whole shift and it should be almost invisible.
 
 **What does not change.** She still says less than she means. What she loses is the belief that saying more is dangerous.
 
 **Never says — and this is about the other two, not about the reader.** She does not tell Keo or Benal that she is tired, cold, hurt or afraid, ever. **In her own POV the reader feels all of it in full.** An earlier version made this absolute in both directions, which left nobody inside her head for a third of the book. The concealment is from the cast; the reader is ahead of them.
 
-**Her warmth is in what she does, never in what she says**, and it points at people weaker than her. She drills the yazhi. She cleans Keo's wound on Day 8. She sees what Benal is for. Nobody remarks on any of it, least of all her.
+**Her warmth is in what she does, never in what she says**, and it points at people weaker than her. She drills the yazhi. She cleans Keo's wound on Day 11. She sees what Benal is for. Nobody remarks on any of it, least of all her.
 
 **Funny about** almost nothing — roughly one joke to Benal's six. When she lands one it is flat, hostile and dry, and it surprises everyone including her. The planned model is *"Be quiet or be bait. Your choice."* **[designed]**, and note that it arrives while she is caring for him, because that is the only way she has of saying anything warm.
 
@@ -92,7 +92,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **The tell, and it is real.** He stammers when frightened — *"I… I heard you. I was… waiting."* **[drafted]** — and **the stammer vanishes the moment he is on his own subject**: *"It's temporal anchoring. It's drift mechanics. It's the reason our ancestors couldn't just jump back."* **[drafted]** Fluency is the signal that he has stopped being afraid, and it is the fastest way to show him growing.
 
-**The trajectory is different from the other two, and deliberately so.** His arc is about being *heard*, not about changing how he speaks. So the sentences stay long and the clauses stay subordinate from Day 1 to Day 14. **What changes is how often the stammer appears and who is listening.** Day 2 he is explaining to a father who is not listening. Day 14 he is explaining to a room that has to.
+**The trajectory is different from the other two, and deliberately so.** His arc is about being *heard*, not about changing how he speaks. So the sentences stay long and the clauses stay subordinate from Day 1 to Day 19. **What changes is how often the stammer appears and who is listening.** Day 2 he is explaining to a father who is not listening. Day 19 he is explaining to a room that has to.
 
 **What does not change.** Everything about the shape. That is the point.
 
@@ -158,7 +158,7 @@ Three channels — Keo's projection into animals, the proximity sense, and the A
 
 **1. Nobody explains their own cleverness.** In *viking* a good idea arrives as a *question*, is resisted, and then the recognition happens on somebody else's face. **This matters most for Benal**, because his arc is being right, and a boy who narrates his own correctness is insufferable. He proposes in the interrogative and somebody else's face does the rest. Note also that *viking* follows the winning idea with *"Nobody looked at Rafa"* — the credit is withheld.
 
-**2. Physiology costs a character the floor.** Somebody is cut off mid-argument by their own lungs, somebody else takes the floor, and they have to fight their way back in. The body business goes *after* the line, so it reads as the price of having spoken. Benal's chest after the constrictor, Keo's fever on Day 9, and Teva's failing breath on Day 7 should all do this — not as description, but as something that costs them an argument.
+**2. Physiology costs a character the floor.** Somebody is cut off mid-argument by their own lungs, somebody else takes the floor, and they have to fight their way back in. The body business goes *after* the line, so it reads as the price of having spoken. Benal's chest after the constrictor, Keo's fever on Day 12, and Teva's failing breath on Day 10 should all do this — not as description, but as something that costs them an argument.
 
 ---
 
@@ -181,5 +181,5 @@ Standing refusals for this novel:
 2. **Indirect answers at plot-critical moments are the norm**, not a flourish.
 3. **Register is a thermometer.** Benal's stammer, Keo's *Ben*/*Benal*, Teva's word count. The reader tracks these without knowing it.
 4. **No coined words.** `kb/worldbuilding/lingo.md` is a closed list of fifteen and its first rule is *do not coin new colony vocabulary*. If a scene seems to need a word that is not there, that is a note for Daniel, not a license. This applies to dialogue as much as to narration.
-5. **Nobody here is articulate about their own feelings.** An exception is something to be earned rather than reached for. The nearest anyone comes is Day 12, and even there it comes out sideways.
+5. **Nobody here is articulate about their own feelings.** An exception is something to be earned rather than reached for. The nearest anyone comes is Day 15, and even there it comes out sideways.
 6. **A line any of the three could have said is a line none of them should say.** That is the test this file exists to make possible.
