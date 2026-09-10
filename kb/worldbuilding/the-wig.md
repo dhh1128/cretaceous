@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 # The wig
 
 **CANON.** The old-tech vehicle at Genesis that carries them home on Day 14. Beat 13, the action climax, and the largest act of heresy in the novel. Supersedes all references to a "skiff."

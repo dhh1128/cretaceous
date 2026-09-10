@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 # Journey calendar — days, distance, weather, light, temperature
 
 Planning layers B1 (timeline spine) and B7 (weather score), book-wide. Weather is a **score**, written for the whole novel like a soundtrack: every day chosen for dramatic function, for contrast with its neighbors, and for meteorological coherence. It is not decided at the keyboard.
@@ -8,7 +12,7 @@ Granularity is the **day**, not the scene, so this survives the Act 2 and Act 3 
 
 ## 1. Two bugs in the existing schedule
 
-**The calendar is off by one day from 4.3 onward.** `scene-list-v4.md` tags 4.2 as *Day 2, late night* and 4.3 as *Day 2, pre-dawn* — but pre-dawn after late night is the following morning. 5.1 then reads *Day 2, morning*, and 6.1 reads *Day 3*, so everything downstream inherits the slip. **Corrected: 4.3 and 5.1 are Day 3.**
+**The calendar is off by one day from 4.3 onward.** `scene-list.md` tags 4.2 as *Day 2, late night* and 4.3 as *Day 2, pre-dawn* — but pre-dawn after late night is the following morning. 5.1 then reads *Day 2, morning*, and 6.1 reads *Day 3*, so everything downstream inherits the slip. **Corrected: 4.3 and 5.1 are Day 3.**
 
 **The Dark Night of the Soul happens in the morning.** 9.4 washes them up at *Day 12, dawn*; 10.1 is *Day 12*; 11.1 is *Day 12, morning*. So the emotional nadir of the novel — the confessions, the chosen family forged, Teva's bridge speech — gets perhaps two hours, in daylight, between a dawn arrival and a mid-morning discovery.
 
@@ -139,7 +143,7 @@ They leave on the last of a dry spell and the rain arrives behind them, so the j
 
 So when a character feels cold — and they should, often — it is coming from **inside** them. Starvation impairs thermoregulation, and by Day 9 they are several kilos down (`body-and-resources.md` §1). Blood loss does it. Exhaustion does it. Teva's broken regulation does it worst. That is why `body-and-resources.md` can say *cold at night*, *thin, cold, quiet* and be exactly right, while "cold rain" is wrong: the first is a body failing and the second is a claim about the sky. **Write the symptom, never the climate.** The one genuine external chill in the book is evaporative — wet skin, wind, eighteen hours of cyclone tail on Day 12 — and even that is misery rather than a mechanism of death.
 
-**Never remark on weather that is doing nothing.** The reader can fill in ordinary mud, ordinary damp, ordinary heat. See `writing-style-v2.md` — the Cretaceous only earns description where it is strange.
+**Never remark on weather that is doing nothing.** The reader can fill in ordinary mud, ordinary damp, ordinary heat. See `writing-style.md` — the Cretaceous only earns description where it is strange.
 
 ## 4. The night sky, and the thing they cannot find
 

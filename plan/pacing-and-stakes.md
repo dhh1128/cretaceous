@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Pacing and the four stake ladders
 
 Planning layer. Sets scene count, scene sizing, and the four stakes curves — which are one problem, because the ladders are what tell you where scenes are needed.
@@ -6,7 +10,7 @@ Planning layer. Sets scene count, scene sizing, and the four stakes curves — w
 
 ## 1. Where we actually are
 
-`scene-list-v4.md` calls itself a 40-scene list. It contains **34**, and the distribution is the whole diagnosis:
+`scene-list.md` calls itself a 40-scene list. It contains **34**, and the distribution is the whole diagnosis:
 
 | beats | scenes |
 |---|---|

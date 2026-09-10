@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # CRETACEOUS - WORLD BIBLE (Master Reference)
 
 ## I. THE PROSE FILTER (Strict Style Enforcement)

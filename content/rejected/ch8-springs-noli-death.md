@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 They found the springs by accident.
 
 The jungle, for a kilometer, had thinned from a dense, wet green to a sparse, almost brittle forest. The air grew drier. The ground under Keo's boots turned chalky and warm.

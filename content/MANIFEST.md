@@ -1,6 +1,10 @@
+---
+approval: unapproved
+---
+
 # Content manifest
 
-One file per scene, named `BB.S.md` where `BB` is the zero-padded beat and `S` the scene within it, matching `plan/scene-list-v4.md`. Zero-padding keeps beats 10–15 sorting after 09.
+One file per scene, named `BB.S.md` where `BB` is the zero-padded beat and `S` the scene within it, matching `plan/scene-list.md`. Zero-padding keeps beats 10–15 sorting after 09.
 
 ## `superseded/` — NOT canon, NOT a style exemplar
 
@@ -15,15 +19,15 @@ They are **edited AI drafts, not Daniel's composition** — the git history is a
 | ≤5 words | **43%** | 26% | — |
 | ≥30 words | **0.4%** | 2.8% | 2.2% |
 
-Over-corrected into staccato — the exact failure `writing-style-v2.md` warns about, at 43% short sentences where "rare" was the instruction.
+Over-corrected into staccato — the exact failure `writing-style.md` warns about, at 43% short sentences where "rare" was the instruction.
 
-**Their worldbuilding has been harvested into the canon docs** (`.ignored/content-harvest.md`) and survives without them. They are retained for reference during redrafting only. **Do not draw voice, rhythm, or scene boundaries from them.**
+**Their worldbuilding has been harvested into the canon docs** and survives without them. They are retained for reference during redrafting only. **Do not draw voice, rhythm, or scene boundaries from them.**
 
 Two contradictions found between these scenes, which is the strongest argument against treating them as authoritative: **Alira is two and a half in 01.1 and three weeks old in 02.1**, and the **nests are thirty meters up in 04.1 and fifteen in 02.2**.
 
 ### The superseded scenes
 
-Numbering follows the **rescened** Act 1 in `plan/scene-list-v4.md` — 14 scenes, of which four are new and unwritten. Files renumbered 2026-09-07; the old numbers are in the last column.
+Numbering follows the **rescened** Act 1 in `plan/scene-list.md` — 14 scenes, of which four are new and unwritten. Files renumbered 2026-09-07; the old numbers are in the last column.
 
 | file | scene | POV | day | words | was |
 |---|---|---|---|---|---|
@@ -76,6 +80,6 @@ So the escalation was reordered in the drafting and nobody noticed. The scene li
 
 This matters beyond tidiness: the scene list's order puts the **first river crossing early**, so that "water is death" is proven to the reader before the stakes climb, and saves the **savanna** for the hubris climax. The drafted order spends the savanna first and lands the river after the constrictor, which flattens both.
 
-**2. The scenes are running about 40% under length.** `writing-style-v2.md` targets ~1,800 words per scene, for 40 scenes and a 70–100k novel. The canon scenes average **1,058**. At that rate the finished book lands near 42k — a middle-grade length, not a YA novel.
+**2. The scenes are running about 40% under length.** `writing-style.md` targets ~1,800 words per scene, for 40 scenes and a 70–100k novel. The canon scenes average **1,058**. At that rate the finished book lands near 42k — a middle-grade length, not a YA novel.
 
 That is not a call to pad. It is evidence for the layers that aren't in the plan yet: interiority, the misjudgment evidence, the intimacy beats, humour, and the sensory allocation all take room, and their absence is *why* the scenes are short. The gap between 1,058 and 1,800 is roughly the size of the material the emotional spine needs.

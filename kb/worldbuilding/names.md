@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 ## Names
 Names evolved from a **White Sands, New Mexico origin population** across **206 years** of isolation — a soundscape that is earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. **Familiar yet distinctly not contemporary**, plausible from a Southwestern mix of Anglo, Hispanic and Indigenous roots.
 

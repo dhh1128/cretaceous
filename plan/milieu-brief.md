@@ -1,6 +1,10 @@
+---
+approval: provisional 2026-09-10
+---
+
 # Cretaceous — Milieu Brief
 
-**v1.0**, 2026-09-07. Rebuilt from milieu-brief-0.6 and reconciled against `outline-v10.md`, `scene-list-v4.md` and the prose in `content/superseded/01.1.md`–`04.3.md`. Decisions and their reasoning are logged in `.ignored/repair-log.md`.
+**v1.0**, 2026-09-07. Rebuilt from milieu-brief-0.6 and reconciled against `outline.md`, `scene-list.md` and the prose in `content/superseded/01.1.md`–`04.3.md`. 
 
 ## How to use this file
 
@@ -15,8 +19,8 @@
 | Benal's equation | `kb/worldbuilding/benals-equation.md` |
 | the wig | `kb/worldbuilding/the-wig.md` |
 | names | `kb/worldbuilding/names.md` |
-| plot, beats, rationale | `plan/outline-v10.md` → `plan/scene-list-v4.md` |
-| prose style | `prompts/writing-style-v2.md` |
+| plot, beats, rationale | `plan/outline.md` → `plan/scene-list.md` |
+| prose style | `prompts/writing-style.md` |
 
 If this file and one of those disagree, **the specialist file wins** and the discrepancy is a defect to be reported, not a choice to be made at the keyboard.
 
@@ -60,23 +64,25 @@ They left Genesis because it had no fresh water, no stable shelter, brutal coast
 
 **The land is a low-relief coastal plain with no highlands at all**, so the water on it is slow, shallow and everywhere. **Exactly one crossing is a genuine channel that cannot be avoided** — Day 3 — and everything else is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. A set-piece crossing spends enormous credibility and there is only enough for one. See `plan/journey-calendar.md` §3.
 
-**Genesis itself** is a **spit of emergent land ringed by coral** (Daniel, 2026-09-10), in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. *An earlier version had it part-submerged and exposed only at low tide, which a tidal bank cannot reconcile with two hundred founders arriving there, living there three years, and leaving an archive, a temporal lab and two wigs on it.* Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
+**Genesis itself** is a **spit of emergent land ringed by coral**, in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. It is land, not a tidal bank — two hundred founders arrived there, lived there three years, and left an archive, a temporal lab and two wigs on it. Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
 
-**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Tylosaurus*, dyrosaurid marine crocodiles, Cretaceous sharks and plesiosaurs are all present in these waters. They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there. *(Restored 2026-09-10 — the roster had been cut without being put to Daniel.)*
+**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Tylosaurus*, dyrosaurid marine crocodiles, Cretaceous sharks and plesiosaurs are all present in these waters. They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
 
 **Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year, nearly all to protocol violations.
 
 ## 4. The Enclave
 
-**Nine hundred to a thousand people.** Infant mortality is high and some upgrades reduce fertility. **The vagueness is deliberate** (Daniel, 2026-09-10): it is not plausible that anyone would know the exact figure at a given moment, and no scene should give one.
+**Nine hundred to a thousand people.** Infant mortality is high and some upgrades reduce fertility. **The vagueness is deliberate:** it is not plausible that anyone would know the exact figure at a given moment, and no scene gives one.
 
 **Origin stock:** the White Sands area of New Mexico — Latino and Mexican, Navajo and Pueblo, plus military and scientific personnel from around the world. This produced both the gene pool and the language. See `lingo.md`.
 
 **Governance:** a Council of elders, elected annually by all adults. Terms are long in practice but not permanent; age, health and alliance shift the membership. The Council decides, allocates and mediates.
 
-**Layout.** Two to four kilometers across. A village core about half a kilometer wide, built as roofed tree houses — *nests* — **twelve to fifteen meters up** in the monkey-puzzle conifers. **The height is chosen, not maximal** (correction, Daniel, 2026-09-10): high enough that nothing on the ground reaches them, and no higher, because at that height the trunks are still thick and steady and there is **thirty meters of canopy above** for cover from anything flying. The old figure of thirty meters put them in the whipping tips of the trees, exposed to the sky and swaying hard — wrong on both counts. The roofs handle what gets through the cover. The kiva is nearby.
+**Layout.** Two to four kilometers across. A village core about half a kilometer wide, built as roofed tree houses — *nests* — **twelve to fifteen meters up** in the monkey-puzzle conifers. **The height is chosen, not maximal:** high enough that nothing on the ground reaches them, and no higher, because at that height the trunks are still thick and steady and there is **thirty meters of canopy above** for cover from anything flying. The old figure of thirty meters put them in the whipping tips of the trees, exposed to the sky and swaying hard — wrong on both counts. The roofs handle what gets through the cover. The kiva is nearby.
 
-**The kiva has two openings, and the second one is why the cave was chosen** (Daniel, 2026-09-10). It is a large natural dissolution cave — *not* a cenote; those are post-impact collapse along the crater ring and do not exist yet. A sloping cleft along a bedding plane lets a person walk down rather than be lowered, and **the ceratops hide hangs there**, keeping animals out. Ten to fifteen meters up there is a collapse hole, too high to climb and not meant as a way in. Together they make a chimney: cool air in low, smoke out high — and `§6` lists two centuries of cooking fires as an unguardable trace risk, so that cave burns things routinely and would be uninhabitable without it. The hole also drops **one shaft of daylight** onto a talus cone of fallen rock, so there are plants growing in a cave, a wet patch nobody stores anything on, and a light that crosses the floor through the day and goes out in the evening. **The Vitarium is unaffected**, being a deep cleft off the side, and is therefore dark for a reason rather than by assertion.
+**The kiva has two openings, and the second one is why the cave was chosen.** It is a large natural dissolution cave — *not* a cenote; those are post-impact collapse along the crater ring and do not exist yet. A sloping cleft along a bedding plane lets a person walk down rather than be lowered, and **the ceratops hide hangs there**, keeping animals out. Ten to fifteen meters up there is a collapse hole, too high to climb and not meant as a way in. Together they make a chimney: cool air in low, smoke out high — and `§6` lists two centuries of cooking fires as an unguardable trace risk, so that cave burns things routinely and would be uninhabitable without it. The hole also drops **one shaft of daylight** onto a talus cone of fallen rock, so there are plants growing in a cave, a wet patch nobody stores anything on, and a light that crosses the floor through the day and goes out in the evening. **The Vitarium is unaffected**, being a deep cleft off the side, and is therefore dark for a reason rather than by assertion.
+
+Nests are reached by **notched rope ladders**, and inside they are divided by **fern screens**. `[?]`
 
 **Nests are multi-room platforms slung between conifers on ropes and pulleys**, linked by **canopy-walks**. **The rig self-compensates**: when one tree bends, the ropes give and the platform slides on the pulley to rebalance. So the nests do **not** lean constantly or dramatically. What a person actually experiences is breezes, **creaking rope**, and small adjustments underfoot. Do not write the sway as a recurring texture; it is not what living there feels like.
 
@@ -100,7 +106,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **The perimeter** on land is the *border-tangle*: felled trees woven into a rough palisade fifteen meters high, plus planted growth, boulders, and whatever the terrain gives. Rivers are barred with driven stakes, stone weirs and netting in redundant layers. Watchers patrol constantly. Pheromone barriers weep from ceramic nodules along the tangle — a synthesized compound of *T. rex* musk and necrotic tissue that reads to a predator as *wounded alpha, keep clear*, and terrifies smaller animals outright. Nobody pretends the perimeter is sound. It is inspected and repaired forever, and it is breached.
 
-**Domestic animals.** Five to ten hadrosaurs, two to four tonnes each, kept inside and fed on cultivated food, used for heavy labour — hauling stone, uprooting, damming, turning the cycad mills. Directing them requires mental projection. Semi-wild herds graze nearby, and Explorers with strong projection go out to recruit animals for a job and release them after. Possibly some ground-dwelling birds for eggs. **Nothing else is domesticated** — no pack animals, no working predators. Cretaceous mammals top out rabbit-sized.
+**Domestic animals.** Five to ten hadrosaurs, two to four tonnes each, kept inside and fed on cultivated food, used for heavy labor — hauling stone, uprooting, damming, turning the cycad mills. Directing them requires mental projection. Semi-wild herds graze nearby, and Explorers with strong projection go out to recruit animals for a job and release them after. Possibly some ground-dwelling birds for eggs. **Nothing else is domesticated** — no pack animals, no working predators. Cretaceous mammals top out rabbit-sized.
 
 **Food.** The staple is starch from the cultivated *stone-cycad*, prized for a rock-dense starchy core. Processing is a multi-day operation to strip the toxins, and it is communal and social: the core is mashed to a fibrous pulp in a natural limestone basin — trodden underfoot for small batches, or worked under boulders dragged by harnessed hadrosaurs for bulk (§6); the raw pulp is a gray-brown sludge that smells sharply acrid and **will poison you**; it is basketed and leached in running water for one to three days, then dried to a clean, pale, neutral starch that smells like cassava flour. Mixed with water and baked, it caramelizes into *pan* — dense flatbread, dark crackling crust, chewy off-white interior. **When a character eats acrid gray mash, that is unprocessed pulp, and it means scarcity, desperation, or a breakdown in the food system.**
 
@@ -263,7 +269,9 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **Proximity sense** in practice: a tingling pressure, a mind's hand tracing the shape of a space. Sleeping people register as **warm banked coals**. A burrowing animal is a **cold spark**, thirty meters down.
 
-**That is the whole of it.** Presence and kind, at short range. **This is not a culture of telepaths** (Daniel, 2026-09-10). An earlier version of this file grew a village-wide shared-mood web out of these two sentences — nine hundred forty-one minds thrumming at a shared frequency, a death felt from the perimeter — and he did not recognize a word of it. It had come from one atmospheric line a drafting model wrote in `content/superseded/02.1.md:19`. Nobody senses mood, nobody feels a death across the Enclave, and grief here is as private as it is anywhere.
+**That is the whole of it.** Presence and kind, at short range.
+
+**This is not a culture of telepaths, and the limits matter more than the ability.** Nobody senses mood. Nobody feels a death across the Enclave. There is no shared frequency, no village-wide web, and grief here is as private as it is anywhere. Do not extend the proximity sense past presence and kind at close range; it has been extended before, and the extension does not survive contact with how these people actually live.
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 
@@ -281,7 +289,7 @@ As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 7
 
 ## 9. Characters
 
-Full arcs, beat placement and rationale live in `outline-v10.md`. Here: the facts a scene needs.
+Full arcs, beat placement and rationale live in `outline.md`. Here: the facts a scene needs.
 
 ### Keo — 16–18, male, POV
 
@@ -301,7 +309,7 @@ His mask is bravado. *"We'll be fine."*
 
 Average height, sturdy, 165 cm.
 
-Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in both directions, and only one of them can kill her** (Daniel, 2026-09-10). She cannot shed heat, and in a humid hothouse that is the direction with a body count — it is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). She also cannot hold heat, and that shows up wherever the environment is abnormal for this world: the limestone kiva, and Genesis after the storm, dank and half-submerged. **That direction is misery, not danger.** It is copeable — get dry, find a covering, sit in the sun when it comes back — and there is no deep, persistent cold anywhere on this planet to kill her with. The sea is 28–32 °C, rain lands near 22 °C.
+Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in both directions, and only one of them can kill her.** She cannot shed heat, and in a humid hothouse that is the direction with a body count — it is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). She also cannot hold heat, and that shows up wherever the environment is abnormal for this world: the limestone kiva, and Genesis after the storm, dank and half-submerged. **That direction is misery, not danger.** It is copeable — get dry, find a covering, sit in the sun when it comes back — and there is no deep, persistent cold anywhere on this planet to kill her with. The sea is 28–32 °C, rain lands near 22 °C.
 
 **And the suit is no help to her when she is cold, because it is a cooler and not a heater.** The one piece of technology built for her thermal problem addresses only the half that kills.
 
@@ -345,7 +353,7 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 
 ## 11. Genuinely open
 
-**This list is incomplete and the full register is `.ignored/the-48-questions.md`, which currently holds 35 open questions.** An earlier pass cut the old brief's 48 down to the twelve below on the grounds that the rest were answered. Twenty were; **twelve were removed without being answered anywhere**, and five more that the pass called answered had in fact been decided without asking Daniel. He ruled on 2026-09-10 that all twelve removals were mistakes and that the reopened five are genuinely open. Restoring them into this file is outstanding work. The twelve below are the subset that was never in dispute.
+**This list is a subset. The full register is `plan/open-questions.md`, which holds 35.** Folding the rest back into this file is outstanding work. The twelve below are the ones that were never in dispute.
 
 1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*. What remains open inside it: the **form of the mourning** before the balm is applied (words, silence, who speaks, who touches), and where a culture with no graves carries its grief.
 2. **Religion and spirituality**, if any. Reverence for the future? Ancestor regard for the founders? Or maintained secular rationalism, which would be the more interesting choice.

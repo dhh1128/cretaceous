@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 # Milieu allocation — biome, species, and sensory budget
 
 Planning layer B6, book-wide. The world is a finite set of striking things, and **each one is assigned to one or two days and is off-limits elsewhere.** This is the root fix for the repetition failure: you cannot edit repetition out efficiently, because by the time it is visible it is load-bearing. Allocate it away first.
@@ -107,7 +111,7 @@ Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wall
 
 ### Edible things, and what they cost
 
-Food is labour. Nothing here is picked.
+Food is labor. Nothing here is picked.
 
 | food | where | the cost |
 |---|---|---|
@@ -155,6 +159,6 @@ Each of these is owned once. The number is the day.
 
 1. **One showcase per species** is the working budget. After its day, it is a shape, a sound, a smell or an absence.
 2. **The Enclave's biology is worked; the outside is not.** Everything at home is cultivated, maintained, kill-switched. That contrast is the fastest way to convey what they have built.
-3. **Describe what no reader has experienced.** Ordinary mud, rain, blisters and heat are free — the reader supplies them. Spend words on the ferocity of a gaze in a treeline, the texture of croc hide, the taste of cycad mash. See `writing-style-v2.md`.
+3. **Describe what no reader has experienced.** Ordinary mud, rain, blisters and heat are free — the reader supplies them. Spend words on the ferocity of a gaze in a treeline, the texture of croc hide, the taste of cycad mash. See `writing-style.md`.
 4. **Day 6 is the reserve of pleasure.** It holds the saropo herd, the good water, the oaks, the one harmless croc, the bioluminescence. Every awful thing after it is paid for out of that day.
-5. **Check against `description-reports.md` before spending anything**, which tracks what the canon scenes have already described and in what words.
+5. **Check what has already been described before spending anything.** `prompts/writing-style.md` requires a description report per scene; the cumulative register is built from those as accepted prose accumulates.

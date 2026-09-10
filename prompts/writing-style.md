@@ -1,11 +1,17 @@
-# Cretaceous - Writing Style Guide (v2)
+---
+approval: unapproved
+---
 
-This document defines the workflow, tone, voice, and stylistic rules for the novel Cretaceous.
+# Cretaceous — Writing Style
+
+The workflow, tone, voice and stylistic rules for the novel. Daniel's document, largely unchanged since November. Read alongside `style-canon.md`, which is the verbatim voice target this annotates, and `ai-tells-blacklist.md`, which is the gate a draft passes before he sees it.
+
+*Formerly `writing-style-v2.md`.*
 
 ## Core Workflow: The Scene-by-Scene Method
 This is the primary workflow for generating the novel. We will not write in "chapters," but in "scenes."
 
-Rule: The novel will be built one scene at a time, based on the numbering in the scene-list-v1.md file. (e.g., We will write "Scene 2.1," then "Scene 2.2," etc.).
+Rule: The novel will be built one scene at a time, based on the numbering in `plan/scene-list.md`. (e.g., We will write "Scene 2.1," then "Scene 2.2," etc.).
 
 Target Length: **There is no per-scene word target, and the old 1,800-word figure is struck.** Scene length is derived, not budgeted — see `plan/pacing-and-stakes.md` for the three size bands and `plan/knowledge-ledger.md` for why. A scene can be very short when the reader arrives already carrying what it needs: in viking, a named crew member the reader has followed for forty chapters dies in **295 words**, and it is the right length precisely because the dread was built elsewhere. The book-level arithmetic is what binds — roughly 60 scenes to reach 70,000–100,000 words. Each time you produce a draft of a scene, please give me its word count, so I can track how it maps to this general guideline.
 
@@ -27,7 +33,7 @@ Good example: The colors were dying. Teva watched the light leak from limestone 
 ## Point of View (POV) and Internal Monologue
 This is the primary engine for character depth. We must move beyond plot and show the person experiencing the plot.
 
-Rule: The novel uses a Strict Third-Person Limited POV that rotates between key characters (Keo, Teva, Benal) by scene, as defined in the scene-list-v1.md.
+Rule: The novel uses a Strict Third-Person Limited POV that rotates between key characters (Keo, Teva, Benal) by scene, as defined in `plan/scene-list.md`.
 
 No Head-Hopping: This is the most crucial, inviolable rule. When in a character's POV, the narrative is fully embedded in their head. We never reveal the thoughts or feelings of another character. We only know what the POV character can see (another's facial expression, a flinch) or assume (which can be wrong, creating dramatic irony).
 

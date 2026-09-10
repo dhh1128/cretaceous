@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 # Environmental suits
 
 **PART 1 IS CANON.** Part 2 is the research it rests on, retained for reasoning but not authoritative. Options considered and rejected are deliberately not listed here, so that nothing in this file can be mistaken for spec. They are recoverable from git history if ever needed.

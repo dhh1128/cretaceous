@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Knowledge ledger — who knows what, when
 
 Planning layer. Tracks every load-bearing fact in three columns — **what the reader knows, what the trio knows, what the Enclave knows** — and the scene where each changes hands.
@@ -90,7 +94,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 **Rows Q, R and S moved here from `act-1-context.md` §IV, 2026-09-10, when that file was deleted as a summary of other files.** Its misjudgment table was the only place in the corpus assigning per-adult reader evidence to a scene, which is this ledger's job, so it was doing it twice and in one case wrongly.
 
-**The defect that move exposes.** `act-1-context.md` §IV assigned Omya's evidence to 1.1 as *"she submits to being tested in front of witnesses."* **Scene 1.1 cannot deliver that.** The novel is strict third limited (`writing-style-v2.md:30-32`), so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with 2.4 as the completion scene**, not delivered at 1.1.
+**The defect that move exposes.** `act-1-context.md` §IV assigned Omya's evidence to 1.1 as *"she submits to being tested in front of witnesses."* **Scene 1.1 cannot deliver that.** The novel is strict third limited (`writing-style.md:30-32`), so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with 2.4 as the completion scene**, not delivered at 1.1.
 
 **Worth checking the other rows for the same defect** — a reader payment assigned to a scene whose POV cannot carry it. Row O survives, because Hesh states the First Walk number aloud in 3.1 and the reader can connect it in the moment. The rest have not been checked.
 

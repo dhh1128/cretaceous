@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Voice sheets
 
 Planning layer B12. Per-character idiolect, **derived from the canon prose rather than invented**, so these are descriptions of what is already on the page and not a new set of rules to violate.

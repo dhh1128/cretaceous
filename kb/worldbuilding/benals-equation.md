@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 # Benal's equation
 
 **CANON.** Converted from a chat transcript; the reasoning is retained, the conversational framing is gone. One open issue is flagged at the end and belongs to the science-plausibility pass.

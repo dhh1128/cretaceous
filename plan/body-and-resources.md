@@ -1,10 +1,28 @@
+---
+approval: approved 2026-09-10
+---
+
 # Body and resources — food, water, injury, fatigue, morale, pace
 
 Planning layer. The physical continuity chain for the mudwalk, day by day. This is what makes a survival novel feel true — readers of survival fiction track resources whether or not they notice they are doing it — and it is the layer that makes logical impossibilities impossible.
 
-Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocation.md` §3b. Loadout at departure: `plan/decision-logs.md`.
+Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocation.md` §3b. Loadout at departure: §0 below.
 
 ---
+
+## 0. What they walk out with
+
+`[?]` **Position at the act boundary:** 50–100 m beyond the border-tangle, pre-dawn of Day 3, ground fog to about three meters, razortails clicking nearby.
+
+**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a deinosuchus tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord and a spare water skin in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
+
+**Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. Septic gel on what is exposed.
+
+**Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club and a sling. Salves and two chemical pods. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
+
+**Noli** — held by projection against her terror of the barrier smell.
+
+**Two of these are the seeds of everything in §3b.** Teva starts with a damaged biofilm and Benal starts with a dead capacitor, so neither suit is sound on Day 3 and the degradation schedule is a decline from an already-compromised start rather than from new.
 
 ## 1. The loadout is nowhere near enough, and that is the engine of Act 2
 
@@ -88,7 +106,7 @@ Distances match `journey-calendar.md`. **Nothing resets between days.**
 
 **The suits start as protection and end as ballast, and that is the arc.** They begin the journey reading to the reader as safety; by Genesis they are barely working, and the trio's competence has had to replace the technology. That rhymes with everything else in the book — a society leaning on relics it cannot maintain — and it is the reason the suits must be allowed to fail.
 
-Starting condition, per `decision-logs.md`: **Teva's** biofilm is already scarred and patchy, thermal green. **Benal's** has a red-lined shoulder capacitor and a compromised shock grid — he has the worse suit and the greater dependence, which is cruel and correct.
+Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, thermal green. **Benal's** has a red-lined shoulder capacitor and a compromised shock grid — he has the worse suit and the greater dependence, which is cruel and correct.
 
 ### How they fail
 

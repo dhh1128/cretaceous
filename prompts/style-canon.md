@@ -1,6 +1,10 @@
+---
+approval: unapproved
+---
+
 # Style canon
 
-**Verbatim passages from Daniel Hardman's two hand-written novels.** This ships with every drafting call. It is the primary instrument; `writing-style-v2.md` is the annotation on it.
+**Verbatim passages from Daniel Hardman's two hand-written novels.** This ships with every drafting call. It is the primary instrument; `writing-style.md` is the annotation on it.
 
 Sources: `~/code/me/viking/viking.md` (91,955 words) and `~/code/me/cordimancy/cordimancy.md` (124,545 words). **Viking is closer to Cretaceous's target voice** — cordimancy is more meditative, more theologically dense, more adult — so the weighting here is about two to one, and cordimancy passages appear where they do something viking doesn't.
 

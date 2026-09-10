@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Methodology: getting from a plan to prose
 
 *Started 2026-09-10. A living document — updated as evidence arrives, and intended to outlive this novel.*
@@ -6,7 +10,7 @@
 
 This is a **theory with tests**. It states what we believe about producing long-form fiction from a planned foundation, what evidence supports each belief, and what result would falsify it. It is written to be portable: the second reader is whoever runs this on *The Clanless* or on a Cretaceous sequel, and the claims are stated so that they can fail there.
 
-It is **not** a production plan for Cretaceous. That is `.ignored/process-design-v2.md`, which has phases, a division of labour, and a schedule. The relationship is that this file holds the claims and that file is one instantiation of them for one book. Where they disagree, this file records the disagreement and the evidence; it does not silently overrule.
+It is **not** a production plan for Cretaceous. That is `scene-build-runbook.md`, which has phases and a procedure. The relationship is that this file holds the claims and that file is one instantiation of them for one book. Where they disagree, this file records the disagreement and the evidence; it does not silently overrule.
 
 Every claim below carries a status:
 
@@ -23,7 +27,7 @@ Each layer allocates something *per scene*. None of them can say **where inside 
 
 **The missing artifact is a join: a per-scene structure where every layer's allocation gets bound to a position in time.** Everything else here follows from that.
 
-Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene 2.3) immediately showed that two layers were specifying the same beat and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list-v4.md`'s "one small thing Riel does that is about her."
+Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene 2.3) immediately showed that two layers were specifying the same beat and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list.md`'s "one small thing Riel does that is about her."
 
 ## 2. The claims
 
@@ -34,7 +38,7 @@ Two independent routes, one destructive and one constructive, above.
 If each scene map states an entry state and an exit delta, then *exit state of scene N must equal entry state of scene N+1* is mechanical. Blind maps did surface real defects this way: one flagged that ~20% of a scene is description that is never used, and that a scene's stated emotional target has "no beat that alters it." Not yet run as a full-novel sweep.
 
 **C3. If state is explicit, drafting need not be sequential. — Untested.**
-Shingled drafting exists to carry continuity across chunk boundaries by dragging prose context forward. The only thing the overlap transmits is state. Make state explicit and any scene can be drafted from its own map plus its neighbours' state blocks — in any order, in parallel, and re-draftable in isolation. This is the live disagreement with `process-design-v2.md` §7 and the most valuable untested claim here.
+Shingled drafting exists to carry continuity across chunk boundaries by dragging prose context forward. The only thing the overlap transmits is state. Make state explicit and any scene can be drafted from its own map plus its neighbors' state blocks — in any order, in parallel, and re-draftable in isolation. This is the live disagreement with `process-design-v2.md` §7 and the most valuable untested claim here.
 
 **C4. Description and generation are separate properties of a schema field. — Supported.**
 `[refused]` — a character declining to answer something on the page — is useless as a descriptive discriminator: its density measures the mapper, not the scene, and it reverses between model lineages. As an *instruction* it is the strongest field tested. Three writers from three model families, given a beat reading `Neither man answers. [refused]`, all produced the refusal, none explained it, and all closed on the same wordless action. **Evaluate every field twice and cut only what fails both.**
@@ -156,7 +160,7 @@ Each states its question, its method, and what result kills the claim.
 
 **T4 — State closure sweep.** *Does the continuity invariant catch real defects at novel scale?* Derive maps for every written scene, walk §5.1 across the sequence, compare the defect list against what a human reader or the logic-checker prompt finds independently. **Not run.** Kills C2 if the sweep finds only what a careful read already finds.
 
-**T5 — Parallel drafting.** *Is shingling necessary once state is explicit?* Draft a contiguous run of scenes shingled, and the same run independently from maps plus neighbouring state blocks, and grade the seams blind. **Not run.** This is the decisive test for C3 and the one that most changes the production plan.
+**T5 — Parallel drafting.** *Is shingling necessary once state is explicit?* Draft a contiguous run of scenes shingled, and the same run independently from maps plus neighboring state blocks, and grade the seams blind. **Not run.** This is the decisive test for C3 and the one that most changes the production plan.
 
 **T6 — Prospectivity.** *Is a schema field a plan or a review?* For each line of a map, ask whether an author could have decided it before the scene existed. Lines that fail move to an `OBSERVED` block; they belong to the review layer, not the brief. Standing check, applied at every schema change. It has already caught one violation: a note that a paragraph "runs long and unadorned" is an observation about output, and became a word-share budget instead.
 
@@ -178,7 +182,7 @@ Failure modes this project has actually hit. Each cost real work.
 
 **Deriving method from the thing you are replacing.** The first version of this schema was built from the planning stack that produced the drafts being demoted. It inherited their assumptions. The second was built by mapping a scene from the author's own prose *before* writing any spec, and five of its six fields differ.
 
-**Prior AI output is not a convention.** An artifact left by an earlier session is not evidence of anyone's preference. Check provenance — `git log --diff-filter=A` — before matching a neighbour's formatting, structure, or naming.
+**Prior AI output is not a convention.** An artifact left by an earlier session is not evidence of anyone's preference. Check provenance — `git log --diff-filter=A` — before matching a neighbor's formatting, structure, or naming.
 
 **Layer drift across baselines.** Cretaceous's layers were written against three different scene lists and never reconciled, so allocations point at scene numbers that have since moved. Any renumbering must sweep every layer, and a layer that references scenes by number should say which list it was written against.
 

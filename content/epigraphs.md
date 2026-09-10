@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # The archival fragments
 
 **Draft 3, 2026-09-09.** Thirteen fragments. Governed by `plan/knowledge-ledger.md` and `plan/pacing-and-stakes.md` §5 (the species stakes ladder climbs here and nowhere else).

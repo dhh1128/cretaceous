@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Character arcs and intimacy
 
 Planning layers B2 and B10, book-wide. What each of the three wants, believes, fears and hides at every beat; where each arc turns; and the temperature of the three dyads.
@@ -15,7 +19,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | | loses | when | what replaces it |
 |---|---|---|---|
 | **Keo** | mental projection's *meaning*. The gift is intact and it could not save the one thing it was for. Then he is injured, feverish and carried — the protector becomes the burden | 7.2, then 8.2 | judgment, and eventually a machine |
-| **Teva** | her suit to the heat; then **her own judgment — she short-leaches the mash and it poisons her**. ~~Then her navigation.~~ **Struck 2026-09-10:** *"Offshore, a magnetic sense continues to function, and it's worth WAY more, since there are no other landmarks"* — and the corpus already had the counterexample, in Lumea crossing a white-out fog on the pull in her bones. What limits Teva offshore is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 9 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. Whether she needs a third loss at all is open | 7.1, Day 9–10, then 9.2 | the willingness to be wrong |
+| **Teva** | her suit to the heat; then **her own judgment — she short-leaches the mash and it poisons her**. **Her magnetic sense is not a loss and never becomes one** — offshore it is worth more than it ever was on land, because there is nothing else to steer by. What limits her is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 9 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. `[?]` Whether she needs a third loss at all is open | 7.1, Day 9–10, then 9.2 | the willingness to be wrong |
 
 **The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 8 and the grounders stop with her (foreshadow 19), so by Day 9 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, the one whose whole training is what is safe to eat — says it needs another day and does not press it, because he is injured and being carried and has stopped trusting himself (beat 9–10 below). She is the one who decides, as she has decided everything since 1.1, and the rage that makes her decisive is what makes her wrong. It puts her down on Day 10 and Keo carries her, which inverts his arc at exactly the point it needs inverting. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
 
@@ -100,7 +104,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 
 **Teva → Benal** is the one to get right, and the answer is not a rival suitor. She is drawn to his mind and **does not know what that feeling is.** Keo reads it correctly as attraction and incorrectly as settled. Benal is oblivious throughout, because he cannot conceive of being wanted.
 
-So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. **Nothing resolves in book 1** — which is a decision about how the novel ends, taken by an AI and not ratified by Daniel (flagged 2026-09-10). Treat it as the working assumption, not a settled thing. The correct engine here is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it — see the withheld-description rule in `.ignored/process-design-v2.md` §2. Do not answer the question the scene raises.
+So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. `[?]` **Nothing resolves in book 1.** The correct engine here is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it. Do not answer the question the scene raises; `voice-sheets.md` carries the standing list of what each scene refuses to answer.
 
 **Keo ↔ Benal is the strongest dyad and the least planned.** Contempt, then debt, then the silent watch on Day 8, then something neither of them names. It ends at 9 while both romantic lines end unresolved, which is the honest shape for a book about three sixteen-year-olds.
 

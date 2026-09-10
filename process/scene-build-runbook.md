@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Scene build runbook
 
 *The procedure for building one scene of Cretaceous with the whole process active. Reusable for every scene — substitute the scene number. Version 1, 2026-09-10.*
@@ -24,8 +28,8 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 
 | file | what it gives this scene |
 |---|---|
-| `scene-list-v4.md` | the scene's entry: size, day, POV, location, ladders, what it must carry, what it ends on |
-| `outline-v10.md` | the beat of the fifteen-beat structure this sits in |
+| `scene-list.md` | the scene's entry: size, day, POV, location, ladders, what it must carry, what it ends on |
+| `outline.md` | the beat of the fifteen-beat structure this sits in |
 | `act-N-context.md` | act-level job, misjudgment ledger, loadouts |
 | `pacing-and-stakes.md` | the four ladders and this scene's rung on each |
 | `character-arcs.md` | what each character wants, believes, fears and hides at this point |
@@ -36,11 +40,11 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | `milieu-allocation.md` | which sensory material is budgeted here, and which is spent elsewhere |
 | `milieu-brief.md` | world facts the scene touches |
 | `world-bible.md`, `kb/worldbuilding/*` | everything else about the world |
-| `minor-characters.md`, `decision-logs.md` | cast, names, ages, established facts |
+| `minor-characters.md` | cast, names, ages, established facts |
 | `tech-rules.md` | how the technology behaves |
 | `body-and-resources.md`, `journey-calendar.md` | physical state, food, water, weather, time of day |
 | `style-canon.md` | verbatim Hardman passages — the voice target |
-| `writing-style-v2.md`, `word-choice-expert.md` | prose rules |
+| `writing-style.md`, `word-choice-expert.md` | prose rules |
 
 If a layer's allocation refers to a scene by number, check which scene list it was written against — the layers were written against three different ones and never fully reconciled.
 
@@ -62,7 +66,7 @@ Requirements that exist because they were violated:
 
 Run the four invariants from `methodology-theory.md` §5 **against the map itself.** The 2.3 map promised a reader payment that no beat delivered, sat in the open for a day, and neither of two AI sessions noticed.
 
-1. State closure against the neighbouring scenes.
+1. State closure against the neighboring scenes.
 2. Every ledger row named in `OUT — READER` is paid by a beat.
 3. Every `[turn — READER ONLY]` corresponds to a ledger row.
 4. Every `[requires]` resolves, and its payload is still true at the far end.

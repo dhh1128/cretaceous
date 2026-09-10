@@ -1,6 +1,10 @@
+---
+approval: approved 2026-09-10
+---
+
 # Humour plan
 
-Planning layer B11. Read alongside `plan/description-reports.md` before drafting any scene.
+Planning layer B11.
 
 ## The problem, measured
 
@@ -98,7 +102,7 @@ These matter more than the registers above, because they are what a model gets w
 - **Jokes the POV character wouldn't make.** Especially Teva.
 - **Narration being funny.** The register belongs to the characters. The prose stays close third and does not wink at the reader.
 - **Explaining the joke** — a laugh described after a line, a "he was joking, mostly." Let it sit.
-- **Anachronism.** No reference outside a world these three have actually lived in. The anachronism rule in `writing-style-v2.md` applies to comedy hardest, because jokes reach for cultural furniture reflexively.
+- **Anachronism.** No reference outside a world these three have actually lived in. The anachronism rule in `writing-style.md` applies to comedy hardest, because jokes reach for cultural furniture reflexively.
 - **Charm that costs nothing.** The best comic beats should also carry plot, characterization, or foreshadowing. The scene list has room for exactly one purely delightful moment, and it should be Noli's.
 
 ## Where it goes in Act 1

@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 [ARCHIVAL FRAGMENT: 002-A]
 
 [Declassified Internal Memo: Joint Command] — The prion and nanobot approaches have both failed. The Temporal Project is now our only viable path. The Chicxulub Solution is authorized, despite the paradox risk. We go back to find an answer. We go back to save any remnants that survive the next wave. Mission briefing 0800.

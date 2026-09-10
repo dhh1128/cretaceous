@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Cretaceous
 
 **Cretaceous** is a YA survival thriller, 70–100k words, aimed at a tenth-grade reading level and planned as the first book of a trilogy. Near-future humanity discovers time travel and an unstoppable pandemic at almost the same moment, and sends two hundred scientists, soldiers and specialists sixty-six million years back to the Yucatán — to the exact spot the Chicxulub impactor will land, on the logic that whatever they build there will be erased, so nothing they do can leave a trace. Their charge is to solve the disease, learn to travel forward, and carry the answer home. The transit went wrong. Two hundred and six years later their descendants are a colony of nine hundred-odd people living in tree platforms and a limestone cave, holding a mission they have half forgotten, and the two things they no longer know are that **the genetic upgrades they give their children are the cure**, and that the asteroid is about two decades out rather than centuries.
@@ -18,13 +22,13 @@ The story runs fourteen days. A child dies in the Vitarium because the last Mast
 
 | file | what it is | approved? |
 |---|---|---|
-| `outline-v10.md` | the fifteen-beat structure, with rationale, and the sequel arcs | **yes** |
+| `outline.md` | the fifteen-beat structure, with rationale, and the sequel arcs | **yes** |
 | `milieu-brief.md` | the world: premise, mission status, the Enclave, technology, upgrades, the crisis, the cast's facts | **reviewed and corrected 2026-09-10** |
 | `journey-calendar.md` | fourteen days, distances, and the weather score | **yes** |
 | `body-and-resources.md` | food, water, injury, fatigue, pace — the physical continuity chain | **yes** |
 | `milieu-allocation.md` | biome, species and sensory budget, one showcase per thing | **yes** |
 | `humour-plan.md` | comic registers, placement, and the charm deficit | **yes** |
-| `scene-list-v4.md` | the scenes | **no — and it needs rewriting.** 38 scenes against a 60-scene proposal; Acts 2 and 3 still in the old format; Days 6, 9 and 10 unscened; its own header says 40 |
+| `scene-list.md` | the scenes | **no — and it needs rewriting.** 38 scenes against a 60-scene proposal; Acts 2 and 3 still in the old format; Days 6, 9 and 10 unscened; its own header says 40 |
 | `pacing-and-stakes.md` | scene count, the three size bands, the four stake ladders | **no — this is the gate.** The scene list cannot be rebuilt until it is settled |
 | `knowledge-ledger.md` | who knows what when, in three columns; the irony allocation; the epigraph suite | **no.** Its rows can be approved now; its payment assignments name scene numbers and must wait for the new list |
 | `character-arcs.md` | the three arcs, the losses, the dyads | **no.** Read, not formally approved. The arcs are Daniel's; the machinery under them was extrapolated |
@@ -32,14 +36,12 @@ The story runs fourteen days. A child dies in the Vitarium because the last Mast
 | `foreshadow-and-motif.md` | plants paired with payoffs, signal levels, motif budgets | **no** |
 | `tech-rules.md` | every capability audited for where its rule is taught and where it is exploited | **no** |
 | `minor-characters.md` | everyone but the three; four `[provisional]` names | **no** |
-| `decision-logs.md` | a save-state of loadout and established facts | **no.** May be a summary of `milieu-brief.md` rather than a layer |
-| `description-reports.md` | what has been described and in what words | **no.** Its spent-language register is void and must be rebuilt from accepted prose |
 | `world-bible.md` | — | **delete.** It is a summary that concedes it loses every disagreement with the files it summarizes |
 | `scene-maps/` | forward maps and invention ledgers, one per scene | scene 1.1 only, unapproved |
 
 ### `prompts/` — what you hand a model
 
-`style-canon.md` (verbatim passages from Daniel's two novels — the voice target, and the primary instrument), `writing-style-v2.md` (the prose rules), `ai-tells-blacklist.md` (defects found in real generated drafts, in Daniel's own words — run as a gate before he sees anything), plus four role prompts: `logic-checker.md`, `repetition-hawk.md`, `word-choice-expert.md`, `youre-a-ya-author.md`.
+`style-canon.md` (verbatim passages from Daniel's two novels — the voice target, and the primary instrument), `writing-style.md` (the prose rules), `ai-tells-blacklist.md` (defects found in real generated drafts, in Daniel's own words — run as a gate before he sees anything), plus four role prompts: `logic-checker.md`, `repetition-hawk.md`, `word-choice-expert.md`, `youre-a-ya-author.md`.
 
 ### `kb/` — reference
 
@@ -58,5 +60,5 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 1. **Approve `pacing-and-stakes.md`.** Everything downstream waits on it.
 2. **Approve the rows of `knowledge-ledger.md`.**
 3. **Rewrite the scene list** to the approved count. Much of the open-question backlog gets worked off here rather than in the abstract.
-4. **Thirty-five open questions**, listed in `.ignored/the-48-questions.md` — twelve carried over, twelve restored after being removed without answers, five reopened, and the rest raised during the 2026-09-10 review.
+4. **Thirty-five open questions**, in `plan/open-questions.md` — twelve carried over, twelve restored after being removed without answers, five reopened, and the rest raised during the 2026-09-10 review.
 5. The remaining unapproved layers, in any order.

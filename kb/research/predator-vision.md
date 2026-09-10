@@ -1,3 +1,7 @@
+---
+approval: approved 2026-09-10
+---
+
 Q:
 
 What is known or theorized about the vision of dinosaurs? What is known about the vision of crocodiles or snakes? Do they see in color? Do they see into the infrared, sensing heat?

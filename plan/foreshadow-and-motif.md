@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Foreshadow, Chekhov, and motif
 
 Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both directions, each carrying a **signal level**; and every motif on a count and a spacing budget.
@@ -92,7 +96,7 @@ They are a civilization organized entirely around leaving no evidence that it ex
 The mantra is stated early and then **never defended**, because the book proves it five separate ways and the reader assembles the proof themselves:
 
 1. **Crocs.** The primary threat, and mental projection barely touches a hungry one.
-2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Struck 2026-09-10: an earlier version had her magnetic sense stop working offshore, which is backwards. A heading is worth most where there are no landmarks. Not her thermal failure either — the lethal half of that is heat, and there is no cold water in this world.)*
+2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Not her magnetic sense, which is worth more offshore than on land — a heading matters most where there are no landmarks. Not her thermal failure either; the lethal half of that is heat, and there is no cold water in this world.)*
 3. **The weapons.** Archaea in the shafts wake on sustained wetting. Water eats the things you defend yourself with.
 4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the raft, the fieldpack, and Benal's mathematics.
 5. **Yara.** Eleven meters of open water she had crossed a hundred times.

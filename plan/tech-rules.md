@@ -1,3 +1,7 @@
+---
+approval: unapproved
+---
+
 # Tech rules — taught before exploited
 
 Planning layer B5. Every capability in the book audited for **where its rule is taught** and **where the rule is exploited**, plus its cost.

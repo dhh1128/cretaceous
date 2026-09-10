@@ -1,7 +1,12 @@
-# Cretaceous - Draft Beat Sheet (v10)
+---
+approval: approved 2026-09-10
+---
 
-This beat sheet outlines the major plot points and includes the core rationale behind each structural decision.
-v10 adds structural notes for "Archival Fragments" (epigraphs) and "Temporal Flashes" (backstory visions).
+# Cretaceous — Outline
+
+The fifteen-beat structure, with the core rationale behind each decision, plus the two structural devices: **Archival Fragments** (the epigraph channel) and **Temporal Flashes** (backstory delivered as present-tense events rather than memory).
+
+*Formerly `outline-v10.md`.*
 
 Structural Device: Archival Fragments (Modern Day News)
 
