@@ -1,397 +1,99 @@
-Q:
+# Environmental suits
 
-I am writing a science fiction novel where time travelers go back to the late cretaceous near the site of the imminent Chicxulub meteor impact. I am positing that these humans where bio-engineered suits that have chromatophores, giving them the ability to camouflage like octopi. I am wondering if, given vision and ability to sense temperature, this would be effective against the predators they would likely encounter, and what other defensive mechanisms they might need.
+**PART 1 IS CANON.** Part 2 is the research it rests on, retained for reasoning but not authoritative. Options considered and rejected are listed in `attic.md`, not here, so that nothing in this file can be mistaken for spec.
 
-A:
+Origin: built before the upgrade system worked, to keep the original settlers alive — they were too old to be Seeded. Two hundred were brought back. **Twelve remain.** The rest failed or were destroyed across 206 years, and each loss has a story attached. They are the most precious old-tech the colony has, individually inventoried, and Keo's parents are their custodians.
 
-This is a fascinating scenario! Let me analyze the effectiveness of chromatophore camouflage and what additional defenses would be needed.
+---
 
-## Effectiveness of Chromatophore Camouflage
+## Part 1 — Canon
 
-**Against visual detection**: This would be **highly effective** against most Cretaceous predators:
+### Form factor
 
-- Large theropods like *Tyrannosaurus rex* likely had excellent color vision (probably tetrachromatic), so your octopus-style camouflage would need to be quite sophisticated - but if it can match colors in real-time like cephalopods, it should work well when stationary
-- The real challenge is **movement** - predators are highly attuned to motion. Even perfectly camouflaged prey give themselves away when moving
-- Many Cretaceous dinosaurs may have seen into UV ranges, so your chromatophores would need to cover UV wavelengths too, or they'd appear as UV-absorbing silhouettes
+A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 5–8 mm thick. **2–3 kg** for a full suit — it looks like it should weigh twenty and doesn't, and that discrepancy is worth a beat the first time someone handles one.
 
-**Against thermal detection**: Here's where you have a problem - chromatophores won't help at all. Your time travelers would still radiate body heat (37°C/98.6°F) and be warm-blooded creatures in a landscape of variable-temperature reptiles.
+**Helmet, yes. Faceplate, never.** The hood is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
 
-## What Would Defeat the Camouflage
+The helmet carries a **flip-down eye shield**: a single transparent curve from brow to cheekbone, for impact, debris and UV. It is not a seal and never was. **Nose and mouth are open to the air at all times, in every configuration.** There is no atmospheric control of any kind — no filtration, no recycling, no regulation.
 
-1. **Smell**: This is probably the **biggest threat**. Many theropods likely had excellent olfaction (we know *T. rex* had enormous olfactory bulbs). Your chromatophores do nothing about scent.
+Everything that follows from that is deliberate. The wearer smells the world directly, always. The lower face can be bitten, stung and cut. Faces stay readable to each other, and to the reader. **A character who wants their scent hidden smears the pheromone barrier on their own skin**; the suit will not do it for them.
 
-2. **Motion detection**: Sudden movements would break the illusion instantly.
+The shield down or up is a real trade, which is what makes it usable in a scene. **Down:** eye protection, and the data display (below). **Up:** full peripheral vision, no rain-beading or fog on the curve, and your friends can see your eyes.
 
-3. **Thermal signature**: As mentioned, against any creature with heat-sensing abilities.
+Sealing is a step-in with a self-closing tab that hisses shut. Sizes are fixed and non-adjustable, which is why the theft is a problem of matching bodies to inventory.
 
-4. **Sound**: Footsteps, breathing, equipment noise.
+### Construction, outermost inward
 
-5. **Magnetic field disruption**: Some dinosaurs may have had magnetoreception (like modern birds). High-tech equipment could potentially interfere.
+- **Living skin, ~1 mm.** A biofilm of engineered human chromatophore cells, cephalopod-style. Self-repairing, because the cells divide. It ripples and matches the surrounding light within a second or two. It covers UV as well as visible wavelengths, which matters because much of the fauna sees into UV. Healthy film is faintly bioluminescent; a dead patch is a visible dead patch until it regrows.
+- **Structural layer, ~2 mm.** Three carbon-nanotube weaves, each offset 60° from the last, with a graphene film laminated between the first and second and the whole impregnated with a shear-thickening polymer — liquid until struck, rigid on impact.
+- **Impact layer, 3–5 mm.** Aerogel foam beneath the structure.
+- **Inner layer.** Thermoelectric generation against the skin, plus moisture wicking.
 
-## Additional Defensive Mechanisms to Consider
+### Power and thermal
 
-**Scent masking/elimination**:
-- Suits that filter and neutralize human body odors
-- Perhaps even release local plant/soil chemical signatures to blend in
-- Recycling/capturing all exhaled breath
+Hybrid generation, roughly **10–15 W** continuous, with capacitors that can burst to about 100 W: photovoltaic film beneath the chromatophore layer, thermoelectric off the body-to-ambient differential, piezoelectric fibers off movement, and a small biofuel contribution from the living layer's metabolism.
 
-**Thermal management**:
-- Heat-dispersing systems that gradually release body heat at ambient temperature
-- Thermal camouflage layers that match surrounding environmental temperatures
-- Active cooling systems for the suit exterior
+The suit's **primary job in this climate is cooling, not warming.** Phase-change reservoirs absorb excess body heat and release it gradually through the extremities; the outer surface sits within 1–2 °C of ambient, which is what makes the wearer thermally invisible. In heavy load — heat, exertion, sun — the system saturates, and a saturated suit is a hot box. That is the failure Teva is hiding.
 
-**Movement discipline**:
-- Protocols for freeze-response when predators are near
-- Moving only when predators are distracted or looking away
-- Slow, deliberate movements that mimic plant motion in wind
+### Sensors and data
 
-**Sound suppression**:
-- Padded, silent footwear
-- Breathing regulators that minimize sound
-- White noise generators that mask sounds with ambient noise
+Chemical (predator pheromones), vibration (footfalls through the ground), electromagnetic (bioelectric fields of nearby animals), short-range proximity.
 
-**Behavioral defenses**:
-- Avoiding game trails and water sources where predators hunt
-- Staying in dense vegetation where camouflage is most effective
-- Using elevation (climbing) since most large theropods couldn't climb
+Two data channels, and which one you're on is a choice with a cost.
 
-**Emergency active defenses**:
-- Ultrasonic or subsonic deterrents (frequencies that cause discomfort)
-- Flash-bang style sensory overload devices (bright UV flashes could be especially effective against tetrachromatic vision)
-- Chemical irritants (capsaicin-like compounds)
-- Electric shock systems for close encounters
+**Eye shield down:** a heads-up display projected onto the inner surface of the shield. The rich channel — sensor returns, suit status, bearings.
 
-**Technology-based**:
-- Portable force fields or energy barriers (if your tech level supports it)
-- Drone decoys that can draw attention away
-- Holographic projections to confuse predators
+**Shield up, or helmet down:** haptic pulses through the weave, plus a bioluminescent display woven into the forearm fabric. Coarser, and reading it is a physical act — a character checking status has to stop and look at their arm, which a scene can use.
 
-## Story Considerations
+**No holograms, and nothing projected into the world.** The display exists on the shield and on the forearm; it does not float in the air, and the suit never draws on the landscape.
 
-For narrative tension, you might consider:
+The suit also **dampens** ambient sound rather than amplifying it. It filters the jungle's insect wall, which is what lets Benal isolate a single sound and think. It does not make anything louder.
 
-- **Suit failures** at critical moments (power loss, damage from vegetation)
-- **Trade-offs**: Maybe perfect camouflage requires remaining absolutely still, creating dilemmas
-- **Learning curve**: Characters discovering through trial and error what works against different predator types
-- **Environmental challenges**: Camouflage works great in forest, but what about open floodplains or beaches?
+### Active defenses
 
-The late Cretaceous environment would have included *T. rex*, various dromaeosaurids (raptors), and smaller opportunistic predators. Each would present different challenges - the small ones might be more numerous and harder to avoid, while the large ones would be catastrophic if camouflage failed.
+An electric shock grid through the conductive fibers, ruptureable chemical deterrent capsules, ultrasonic emitters, and a disorienting bioluminescent UV flash. All of these are capacitor-limited, single-use or near it, and loud in every sense — using one is a decision with consequences, not a button.
 
-Q:
+### The failsafe — a suit is also a body bag
 
-Help me imagine environmental suits that could be extremely light and tough, yet integrated with chromatophores and numerous other safety and protective features. Could they be woven from bucky-ball fibers or similar? Could they have a living "skin" atop such a substrate, where the skin consisted of cells that are bio-engineered bacteria carrying chromatophore tech? Could the suit be powered by solar absorption and/or by the body heat of the wearer, and/or by motion which generated disturbances in magnetic waves? Could the suit hide body heat, like today's mylar space blankets? Which characteristics of the suit would be helpful, and which would be problematic?
+**Every suit carries the same dormant archaea as the taboo old-tech in the Repository**, and for the same reason. An abandoned suit — unmaintained, or with a dead wearer in it — wakes them. The suit is reduced to sterile sludge within a few hours, **and it consumes whatever is inside it first**, before the culture exhausts itself and dies.
 
-A:
+So wearing a suit outside the perimeter is only half about surviving. The other half is **evidence cleanup**, and everyone knows it.
 
-This is an excellent foundation for hard sci-fi! Let me explore the engineering possibilities and trade-offs:
+**Why it matters even though every colonist already carries the gut bacteria** (see `milieu-brief.md` §7): a body left to dissolve on its own dissolves *where it lies*. A body taken by a predator does not. It is carried, torn, distributed, and some fraction of it ends up somewhere the bacteria never reach. **The suit's job is containment** — it keeps the dissolution complete and in one place.
 
-## Structural Layer: Carbon Nanotube/Graphene Fabric
+That is the actual charge against going unsuited, and it is a cultural one rather than a safety one: *if you die out there, and something eats you, you may leave a piece of yourself in the record.* Reckless rather than treasonous — but it is the kind of recklessness this society finds hard to forgive, and Keo knows it when he leaves the third suit on the rack.
 
-**Benefits:**
-- Carbon nanotube fibers or graphene sheets could be incredibly strong (theoretically 100x stronger than steel) yet lighter than Kevlar
-- Flexible enough for full range of motion
-- Could be woven in multiple layers with different orientations for tear resistance
-- Excellent thermal conductivity (important for heat management)
-- Can be made electrically conductive for integrated systems
+**Trigger and override.** The suit reads the wearer's vitals through the inner layer. Confirmed absence of pulse and temperature, sustained past a margin, wakes the archaea. **There is an override**, because the margin is not long enough to be safe for someone merely unconscious, and knowing the override is ordinary Explorer knowledge — which Keo has and the other two do not. *(An unconscious suited character and a suit beginning its count is available as a set-piece; it has not been spent. See `body-and-resources.md`.)*
 
-**Challenges:**
-- Manufacturing consistency - defects in CNT fibers drastically reduce strength
-- Puncture resistance vs. cutting resistance trade-off (great against slashing, but sharp points could slip between fibers)
-- Abrasion over time in rough terrain
+### Maintenance — "the Feeding"
 
-## Living Bio-Engineered "Skin" Layer
-
-This is brilliantly conceived! Here's how it could work:
-
-**Design concept:**
-- Modified bacterial or eukaryotic cells engineered with chromatophore proteins (borrowing from cuttlefish, octopi)
-- Cells arranged in a living biofilm matrix atop the structural layer
-- Nutrient channels in the substrate deliver sustenance
-- Cells communicate via quorum sensing or bioelectric signals for coordinated color changes
-
-**Benefits:**
-- Self-repairing - cells divide to replace damaged areas
-- Adaptive - can evolve/adjust to local environment
-- Low power requirements compared to electronic displays
-- Can potentially incorporate multiple functions (camouflage, antimicrobial properties, sensory feedback)
-
-**Challenges:**
-- **Keeping it alive**: Cells need nutrients, waste removal, stable pH, appropriate temperature
-- **Response time**: Bacterial chromatophores might be slower than cephalopod neurons (though engineered cells could be faster)
-- **Vulnerability to injury**: A deep cut could kill a patch of cells, creating a visible dead zone until regeneration
-- **Environmental contamination**: What if local Cretaceous bacteria infect or outcompete your engineered cells?
-- **Immune response**: The wearer's body touching the living layer could trigger reactions
-- **Time travel implications**: Are you introducing potentially invasive biotech to the Cretaceous?
-
-## Power Systems: Hybrid Approach
-
-**1. Photovoltaic absorption:**
-- Ultra-thin perovskite or organic solar cells integrated into outer layer
-- **Benefit**: Unlimited power in daylight
-- **Problem**: Dinosaurs had UV vision - solar cells would likely absorb/reflect UV differently than natural surfaces, making the suit visible in UV spectrum
-- **Workaround**: Overlay the chromatophore layer OVER the solar cells, so it masks their UV signature
-
-**2. Thermoelectric generation:**
-- Use the temperature differential between body heat (37°C) and ambient temperature
-- Thermoelectric materials at the interface between structural layer and wearer
-- **Benefit**: Constant power generation
-- **Problem**: Works best with large temperature differentials; less effective in warm Cretaceous climate
-- **Realistic output**: Might generate 1-5 watts continuously (enough for low-power systems)
-
-**3. Piezoelectric/magnetostrictive generation:**
-- Piezoelectric fibers woven into fabric generate electricity from movement/flexing
-- **Benefit**: Walking, breathing, any motion generates power
-- **Problem**: Power output is minimal - good for supplemental power, not primary
-- **Realistic use**: Charging capacitors for burst-power needs (sensors, emergency signals)
-
-**4. Biofuel cells:**
-- If you have a living bacterial layer, it could be engineered to generate electricity as a metabolic byproduct
-- Some bacteria naturally produce electricity (like *Geobacter*)
-- **Benefit**: Constant low-level generation, synergy with living skin
-- **Problem**: Low power density
-
-## Thermal Management: Hiding Body Heat
-
-**Challenges with simple insulation:**
-- Mylar/reflective barriers would work but create problems:
-  - Heat buildup inside the suit (hyperthermia risk in warm Cretaceous climate)
-  - No heat escape means you'd need active cooling
-  - Surface temperature would be ambient, but suit would get thicker (less mobility)
-
-**Better solution - Active thermal camouflage:**
-- **Phase-change materials**: Embedded layers that absorb excess body heat, then release it slowly/gradually
-- **Thermoelectric cooling**: Use some of your generated power to actively cool the outer surface
-- **Distributed heat release**: Network of microchannels that disperse heat across large surface area over time, preventing hot spots
-- **Variable thermal conductivity**: Smart materials that can switch between insulating and conducting modes
-
-**Practical approach:**
-- Outer surface maintained at ambient + 1-2°C (barely detectable)
-- Excess heat stored temporarily in phase-change reservoirs
-- Heat released gradually through extremities (hands, feet) when safe
-- In emergencies, suit can "dump" heat rapidly through vents
-
-**Trade-off:** Perfect thermal camouflage vs. wearer comfort. You'd need:
-- Active cooling undergarment for the human
-- Heat exchangers
-- More power consumption
-- Added weight/complexity
-
-## Integrated Safety Features
-
-**Sensory systems:**
-- **Chemical sensors**: Bacterial layer could include cells sensitive to predator pheromones or chemical signatures
-- **Vibration sensors**: Piezoelectric fibers detect footfalls, giving early warning
-- **Electromagnetic sensing**: Detect bioelectric fields of approaching animals
-- **Radar/lidar**: Microburst sensors for proximity detection
+The suits are alive and must be fed. Water, which can be dirty, and which rain or a river crossing often supplies. Sugars every couple of days, more often if the biofilm is repairing damage, usually from fruit. Occasionally the suit signals for something else. This is a campfire ritual and a source of ordinary domestic texture, and it is also a clock: a suit that goes unfed degrades.
 
-**Defensive systems:**
-- **Electric shock grid**: Conductive CNT fibers can deliver stunning charge (powered by capacitors)
-- **Chemical deterrents**: Pressurized capsules in suit fabric that release irritants when ruptured
-- **Ultrasonic emitters**: Micro-speakers woven into fabric
-- **Bioluminescent flash**: Engineer some bacterial cells for bright, disorienting UV flash
+### What the suit does NOT do
 
-**Life support:**
-- **Filtration**: Bacterial layer with antimicrobial properties
-- **Moisture management**: Hydrophobic/hydrophilic zones for sweat wicking
-- **Atmospheric filtering**: If Cretaceous atmosphere differs from modern
-- **Medical monitoring**: Biosensors tracking wearer's vitals
-
-## Problematic Characteristics to Address
+This section is the most important one in the file, and every item is deliberate.
 
-**1. Contamination risk:**
-- Introducing engineered organisms to the Cretaceous could have timeline implications
-- Solution: Sterility protocols, self-destruct mechanism in cells if suit is compromised, or temporal "quarantine" effect
+- **It does not make you stronger — it removes penalties.** *(Provisional; under discussion. See repair register D1.)* There are no actuators, and the power budget forbids them: 10–15 W is a bicycle lamp, while walking costs a human on the order of 100 W of mechanical output and a meaningful assist would need several hundred. So Benal's peak strength is unchanged. What the suit does instead is stop things from taking strength away from him. It carries its own weight and distributes pack load across the weave instead of onto his shoulders and spine. It supports his joints under load, the way athletic taping does — passive, no power. It keeps him from overheating. It filters the insect wall so he can think. And it converts injuries that would end his walk into bruises. **He is not stronger; he is harder to stop.** That is what makes an 80 km mudwalk believable for a fragile boy, and it leaves his frailty intact, which his arc needs.
+- **It does not filter your breath, hide your scent, or purify air.** Scent management is the pheromone barrier, applied by hand.
+- **It does not stop a determined large predator.** The fabric may survive a bite; the wearer will not. Crushing force passes straight through. Camouflage is the defense; the armor is for incidental harm.
+- **It does not hide movement.** Camouflage works when you are still. Motion breaks it, and crocs and mosasaurs read vibration regardless of what you look like.
+- **It does not make you quiet.** No white-noise generation, no sound masking.
+- **It does not talk to you.** No voice, no AI, no interpretation. It reports; the wearer decides.
 
-**2. Maintenance in the field:**
-- Living cells need feeding - do travelers carry nutrient packs?
-- What if the bacterial layer dies in a region?
-- Solution: Redundant cell populations, cells engineered to enter spore state under stress
+### Protection, honestly
 
-**3. UV-visibility problem:**
-- If dinosaurs see UV and your suit doesn't perfectly replicate UV signatures, you're visible
-- Solar cells, synthetic materials often have distinctive UV properties
-- Solution: Chromatophore layer must include UV-active pigments
-
-**4. Power management:**
-- All those systems draw power, but your generation is limited
-- Need priority hierarchy: camouflage > sensors > life support > defenses
-- Solution: Advanced capacitor storage, power-sipping components, manual override options
-
-**5. Electromagnetic signature:**
-- All this tech creates EM fields that could be detectable by animals with magnetoreception
-- Solution: EM shielding (adds weight), or accept this limitation
+Excellent against slashing — claws skate off. Very good against fangs; a snake strike will not get through three offset weaves and a laminate, which is why Benal survives outside at all. Good against blunt impact within limits: the wearer still takes the force, and still breaks. Moderate against a medium predator's bite — fabric holds, tissue does not. Useless against anything large and committed.
 
-**6. Complexity = failure points:**
-- More systems = more things that can break
-- Solution: Redundancy, modular design, graceful degradation
-
-## Optimal Design Philosophy
+---
 
-I'd suggest a **layered, biomimetic approach**:
-
-1. **Inner layer**: Thermoelectric generator + moisture-wicking comfort layer
-2. **Structural layer**: CNT/graphene weave (2-3mm thick), incorporating piezoelectric fibers
-3. **Thermal management layer**: Phase-change materials + cooling channels
-4. **Power storage**: Ultra-capacitor mesh distributed throughout
-5. **Living skin**: 1mm biofilm of engineered chromatophore cells, with embedded sensors
-6. **Protective coating**: Transparent, abrasion-resistant layer (like a self-healing polymer)
-
-**Total thickness**: ~5-8mm (about like a wetsuit)
-**Weight**: Perhaps 2-3 kg for full body suit
-**Power budget**: ~10-15 watts generation, with capacitor bursts up to 100W for emergency systems
-
-Q:
-
-Tell me about slash- and puncture-resistance of the structural layer. Since these fibers are stronger than kevlar, would a blow from a semi-blunt instrument (e.g., a rock) leave this layer pretty undamaged? Would it be easy for a snake's fang to penetrate, or would it provide some protection against something that sharp?
-
-A:
+## Part 2 — Research notes (not canon)
 
-Excellent questions! The mechanical properties of CNT/graphene fabrics are complex and quite different from conventional materials. Let me break down the real-world physics:
-
-## Strength vs. Toughness vs. Hardness
+Retained because the reasoning behind the spec is worth having when a scene tests it.
 
-First, a crucial distinction: **tensile strength** (resistance to pulling/stretching) is different from **puncture resistance** and **impact resistance**.
-
-Carbon nanotubes have extraordinary tensile strength - a perfect CNT fiber could theoretically withstand ~100 GPa of tensile stress. But this doesn't automatically translate to other forms of protection.
-
-## Blunt Impact (Rock Strike)
-
-**Performance: GOOD to EXCELLENT**
-
-- A woven CNT fabric would **distribute force** across the weave, much like Kevlar does
-- The flexibility of the weave allows it to deform and absorb energy rather than crack
-- **Key advantage**: Unlike rigid armor, fabric can spread impact across a larger area
-
-**What would happen:**
-- Minor strike: Fabric deforms, springs back, possibly zero damage
-- Major strike (T. rex tail whip, falling rock): 
-  - Force distributes across weave
-  - Wearer still feels impact (bruising, potential broken bones underneath)
-  - Fabric itself likely survives intact unless catastrophic force
-  - Multiple layers with different weave orientations would help
-
-**Limitation**: The fabric protects itself, but **doesn't eliminate the kinetic energy** - it just spreads it. The wearer still experiences the force. Think of it like a bulletproof vest: stops the bullet, but you still get a brutal bruise and possibly broken ribs.
-
-**Solution for your suit**: 
-- Add a **shear-thickening gel layer** underneath (like D3O armor) that's liquid normally but solidifies on impact
-- Or aero-gel foam that compresses to absorb energy
-- This adds bulk but dramatically improves blunt trauma protection
-
-## Puncture Resistance (Snake Fangs)
+**Why camouflage alone is insufficient.** Chromatophores handle vision, and vision is the least of it. Large theropods likely had excellent color vision, probably tetrachromatic, and many taxa likely saw into UV — hence the requirement that the film be UV-active, or the wearer reads as a UV-absorbing silhouette. But **smell is the real exposure**: *T. rex* had very large olfactory bulbs, and no amount of color-matching addresses scent. Motion breaks camouflage instantly for any visual predator. Thermal signature is handled by the phase-change system, not the chromatophores, which do nothing for heat.
 
-**Performance: MODERATE to PROBLEMATIC**
-
-Here's where it gets interesting - and potentially problematic:
-
-**The weave problem:**
-- Woven fabrics have **gaps between fibers**
-- A sharp point can slip between fibers without breaking them (like pushing a needle through cloth)
-- Tighter weave = better puncture resistance BUT less flexibility and breathability
-- Even Kevlar can be penetrated by ice picks and needles despite stopping bullets
-
-**Snake fang geometry:**
-- Fangs are hypodermic needles - narrow, sharp, designed to slip through tissue
-- Late Cretaceous would have had various snakes, though large constrictors and venomous species were just evolving
-- A fang could potentially **slide between CNT fibers** without breaking them
-
-**Ways to improve puncture resistance:**
-
-1. **Multi-directional weave**: 
-   - 3D weaving or multiple offset layers
-   - Each layer oriented differently so gaps don't align
-   - 3-4 layers might stop most punctures
-
-2. **Hybrid weave**:
-   - CNT fibers for strength + graphene sheets for coverage
-   - Graphene is essentially 2D - no gaps in a sheet
-   - Problem: Pure graphene sheets are brittle; they'd need to be composite
-
-3. **Filled weave**:
-   - Weave impregnated with shear-thickening polymer
-   - Liquid normally (flexible), hardens instantly under rapid pressure (like a strike)
-   - This is actually used in some modern stab-resistant armor
-
-4. **Laminated construction**:
-   - Woven CNT layer + bonded graphene film + woven layer
-   - The graphene acts as a puncture barrier
-   - Trade-off: Less flexible, more rigid
-
-## Realistic Assessment for Your Suit
-
-**Against a determined predator bite (Velociraptor-sized theropod):**
-
-A simple woven CNT suit would provide:
-- ✓ Excellent slash protection (claws raking across would likely not tear it)
-- ✓ Good protection against blunt trauma (within limits)
-- ✗ **Vulnerable to puncture** from teeth, especially with the force of a bite
-- ✗ Even if fabric doesn't tear, the **pressure** from teeth could cause severe crushing injury
-
-**The pressure problem:**
-- A 30kg dromaeosaur might bite with 500-1000 Newtons of force
-- Concentrated on tooth points (maybe 4-5mm² contact area)
-- That's ~20-40 MPa of pressure on your skin/flesh
-- The fabric might survive, but you'd have deep tissue damage, broken bones, internal bleeding
-
-**Against snake fangs specifically:**
-
-- Small snake (< 1 meter): Multiple-layer CNT weave would likely **stop it** ✓
-- Large constrictor (2+ meters): 
-  - Might penetrate if strike is perpendicular to fabric
-  - Even if fangs don't penetrate, constriction force would be the real danger
-  - Suit needs to resist compression, not just puncture
-
-## Optimal Design for Dinosaur Defense
-
-Given the threat environment, I'd suggest:
-
-**Base structural layer** (2mm):
-- 3-layer CNT weave, each layer offset 60° from the others
-- Graphene film laminated between 1st and 2nd layer
-- Impregnated with shear-thickening polymer
-
-This gives you:
-- **Slash resistance**: Exceptional - claws would skate off
-- **Puncture resistance**: Very good against fangs, good against teeth
-- **Blunt impact**: Moderate - the shear-thickening helps
-
-**Add impact absorption layer** (3-5mm):
-- Aerogel foam or D3O-type material underneath
-- Protects against blunt trauma, crushing
-
-**Critical vulnerability zones** (neck, inner thighs, wrists):
-- Additional reinforcement
-- Perhaps rigid graphene plate inserts (like the motorcycle armor in riding suits)
-- Trade-off: Less mobility, but these are kill zones
-
-## The Inconvenient Truth
-
-Even with advanced materials, **a determined large predator** (adult T. rex, large dromaeosaur pack) would likely:
-1. Bite through with enough force (multi-ton bite force)
-2. Cause lethal crushing damage even if fabric holds
-3. Shake and tear - the suit might survive but the human inside wouldn't
-
-**This is actually good for your story** - it means:
-- Camouflage is CRITICAL (can't fight, must hide)
-- Suit provides protection against "incidental" threats (stepping on a snake, brush with vegetation, small predators)
-- Adds tension: suit is amazing tech but not invincible
-- Characters must still be smart, careful, and lucky
-
-## Practical Story Implementation
-
-The suit might realistically protect against:
-- ✓ Venomous snake strikes (fangs can't penetrate)
-- ✓ Small predator attacks (< 20kg animals)
-- ✓ Vegetation hazards (thorns, sharp leaves)
-- ✓ Minor accidents (falls, scrapes)
-- ✓ Slashing attacks from claws
-- ⚠ Medium predator bites (fabric holds but crushing injury)
-- ✗ Large predator determined attack (fabric might tear, crushing would be severe)
-- ✗ Sustained attack (eventually overwhelmed)
-
-**Narrative possibilities:**
-- Character gets bitten but suit saves them - though they have massive bruising and maybe cracked ribs
-- Suit tears in exactly the wrong place at the wrong time
-- Puncture from unexpected source (sharp plant? stepping on bone?)
-- Suit works perfectly but they're still in mortal danger from the force of an attack
-
-Would you like me to explore any particular threat scenario in more detail?
+**Why the weave is layered.** Carbon nanotube fiber has extraordinary *tensile* strength, which does not transfer to puncture resistance. Woven fabrics have gaps; a sharp point can slip between fibers without breaking any of them, which is why even Kevlar stops bullets and not ice picks. Three offset layers misalign the gaps, the laminated graphene film has no gaps at all, and the shear-thickening impregnation stiffens under rapid load. That combination is what turns "strong" into "puncture-resistant."
+
+**Why armor doesn't save you.** A 30 kg theropod bites with perhaps 500–1000 N concentrated on a few square millimetres of tooth point — on the order of tens of megapascals against flesh. The fabric distributes force rather than eliminating it, exactly like a ballistic vest: the projectile stops and the ribs still break. Against multi-tonne bite force the question is academic.
+
+**Standing vulnerabilities, useful as story pressure.** The living layer needs feeding and dies in patches when cut. Local microbes could in principle outcompete the engineered cells. Photovoltaic and synthetic materials have UV signatures the chromatophore layer has to mask. Every subsystem draws from a small power budget, so there is a real priority order — camouflage first, then sensors, then defenses. And complexity is failure points: after 206 years, the twelve survivors are each degraded in their own particular way, which is why Keo has to choose between them in the Repository and why Benal's has a red-lined shoulder capacitor.

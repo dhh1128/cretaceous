@@ -1,112 +1,83 @@
-```markdown
-# Glossary of Drifted Terms — Cretaceous Colony English
+# Drifted vocabulary — Cretaceous Colony English
 
-| Lexeme | Definition | Etymology / Drift Note |
-|---------|-------------|------------------------|
-| **solarim** | portable solar panel used for charging devices | from *solar panel* → clipped + pseudo-Latin suffix -im |
-| **purif** | water purification tablet or filter | from *purifier* → shortened and reanalyzed as noun |
-| **sparkbat** | compact electrical weapon, similar to a stun baton | blend of *spark* + *baton/bat* |
-| **flamekit** | fire-starting tools (flint, magnesium, etc.) | from *flame kit* → merged form |
-| **campa** | a semi-permanent shelter or settlement | from *camp* + Spanish influence (*campa* = field) |
-| **foilwrap** | metallic food storage sheet | contraction of *aluminum foil wrap* |
-| **healfoam** | antiseptic expanding wound sealant | from *healing foam* |
-| **stingburn** | skin irritation from insect bite or sun exposure | compound drift from *sting* + *burn* |
-| **crawlers** | general term for small ground arthropods | colloquial reanalysis of *crawling insects* |
-| **flybeak** | small pterosaur; name applied generically to flying animals | from *fly* + *beak* |
-| **saurin** | any medium-sized herbivorous dinosaur | truncation of *dinosaur* + analogical plural *-in* |
-| **hornback** | ceratopsian dinosaur species | descriptive English compound replacing Latin species name |
-| **longneck** | sauropod dinosaur | calque from modern colloquialism for *Brachiosaurus* etc. |
-| **snapjaw** | crocodilian or large aquatic predator | from *snapping jaw* |
-| **razortail** | small predatory theropod | descriptive neologism, replaces scientific binomial |
-| **skywing** | bird or birdlike reptile | compound replacing *avian* or species names |
-| **glassleaf** | plant with translucent fronds | descriptive drift; probably a fern or cycads species |
-| **firevine** | plant with reddish stems; used for cordage | local coined name from color resemblance |
-| **stonefruit** | edible Cretaceous drupe-like fruit | semantic shift from existing English *stone fruit* |
-| **rootmilk** | milky sap extracted from tuberous roots | new compound for plant-derived drink |
-| **sunpot** | solar oven or heat concentrator | from *sun pot* → merged form |
-| **lightcell** | photovoltaic storage unit | drifted synonym of *battery* |
-| **cellbank** | community energy storage facility | metaphorical extension of *power bank* |
-| **gennie** | any small power generator | phonetic simplification of *generator* |
-| **screener** | portable radiation or toxin detector | semantic drift from *screen device* |
-| **masker** | breathing or filtration mask | analogical noun from *mask* |
-| **dustlung** | chronic respiratory disease from volcanic ash or dust | compound modeled on *black lung* |
-| **bluelips** | hypoxia; oxygen deprivation symptom | colloquial descriptive medical term |
-| **bloodfade** | severe anemia or hemorrhage | idiomatic compound replacing *blood loss* |
-| **critterpox** | zoonotic rash disease spread by reptiles or insects | blend of *critter* + *pox* |
-| **sunfever** | heatstroke | folk term replacing *hyperthermia* |
-| **shadecloth** | woven canopy material | compound simplification |
-| **skinguard** | sunblock ointment | analogy to *lifeguard* → protector compound |
-| **bandmesh** | woven fiber used for bandages or clothing | from *bandage mesh* |
-| **needler** | hypodermic injector device | drifted noun from *needle* |
-| **dataslate** | portable computing tablet (archaic relic) | from sci-fi/technical *data slate* |
-| **slater** | operator of remaining computing equipment | back-formation from *dataslate* |
-| **linkhub** | central communications tower | simplification of *network hub* |
-| **chatter** | radio or short-range communication | from existing slang *radio chatter* |
-| **patchline** | field wiring for power or data | compound simplification |
-| **sparkline** | power conduit or cable | repurposed technical term |
-| **fireglass** | lens used to focus sunlight for ignition | descriptive reanalysis |
-| **meatbug** | large edible insect species | folk compound replacing species name |
-| **scuttlefish** | small amphibious creature (ancestor of modern crocodylians) | reanalyzed descriptive |
-| **scalehen** | feathered theropod kept for eggs or meat | analogical from *chicken* |
-| **warmback** | small herbivorous dinosaur kept as pack animal | compound descriptive |
-| **clawhound** | domesticated predator species | analogy to *hound*, descriptive |
-| **stormbell** | early warning device for approaching storms | compound metaphor |
-| **grounder** | small burrowing mammal-like reptile | semantic extension of *ground animal* |
-| **skyflash** | lightning | poetic compound survives as everyday term |
-| **dripcatch** | rain collection system | from *drip catcher* |
-| **mudskin** | waterproof clothing | analogy to *snakeskin* |
-| **night-light** | phosphorescent insect used for illumination | reinterpreted modern compound |
-| **torchcap** | solar-charged headlamp | compound simplification |
-| **sparkcell** | small battery unit | analogical extension from *fuel cell* |
-| **chargeron** | energy unit (folk physics) | reinterpretation of *charge + electron* |
-| **dustwalk** | long overland trek through barren terrain | compound simplification |
-| **fieldpack** | standard rucksack for explorers | existing term retained, semantic narrowing |
-| **carryplate** | lightweight storage container | new compound replacing *mess tin* |
-| **cookpit** | enclosed area for food preparation | folk back-formation from *cockpit* |
-| **graincake** | baked ration food | descriptive compound |
-| **nutsoya** | high-protein cultivated crop | blending of *nut* + *soy* + simplification |
-| **greenshake** | drink made from ground leaves | compound descriptive |
-| **leafsalt** | mineral seasoning extracted from halophytic plants | new compound |
-| **fermi-pot** | small nuclear power unit (historic relic) | named after *Fermi* → clipped |
-| **sparkfarm** | solar array field | analogy to *wind farm* |
-| **breath-tank** | portable oxygen device | analogical compound |
-| **wingseed** | plant with samara-like seeds | descriptive term |
-| **shellbird** | early diving bird species | compound replacement for Latin name |
-| **crocoline** | genetic descendant of crocodilian stock | clipped root from *crocodile line* |
-| **razorfish** | small aquatic predator with sharp fins | descriptive renaming |
-| **glowmoss** | bioluminescent moss species | new compound |
-| **bloodvine** | red-sap plant used medicinally | color-based folk name |
-| **stingerfly** | large predatory wasp | descriptive renaming |
-| **hiveworm** | social larval insect species | compound replacement |
-| **shellbug** | beetle or roach | simplification of taxonomic term |
-| **wingcat** | large gliding reptile | colloquial compound |
-| **skytooth** | aerial predator, likely a raptor | folk descriptive |
-| **muddrake** | semi-aquatic reptile | analogy to *drake* (duck) |
-| **thornback** | armored dinosaur species | compound replacement |
-| **gater** | crocodilian | clipping from *alligator* |
-| **snapper** | generic predator (land or sea) | drifted from *snapping turtle* |
-| **flatfish** | Cretaceous aquatic species, flat-bodied | retained common English morphology |
-| **heat-glass** | greenhouse panel or transparent oven lid | descriptive compound |
-| **windwall** | barrier built to break storms | new compound |
-| **stormskin** | heavy waterproof outerwear | descriptive term |
-| **suncloak** | lightweight heat-reflective garment | poetic drift |
-| **biter** | predatory animal | semantic extension of *biter* |
-| **runner** | small herbivore prey animal | extended meaning |
-| **seedkit** | packet of stored seeds | compound simplification |
-| **growhouse** | structure for cultivating crops | from *greenhouse* drift |
-| **domehouse** | semi-permanent communal shelter | from *geodesic dome* simplification |
-| **firepit** | open hearth for cooking | preserved modern term |
-| **grubpot** | communal cooking pot | folk compound |
-| **dustburner** | improvised fuel stove | compound descriptive |
-| **skyshade** | canopy used for shade | compound descriptive |
-| **watcher** | scout or lookout | semantic extension |
-| **daycount** | calendar record or log | simplification of *day counter* |
-| **histbook** | preserved record from early settlers | clipped form of *history book* |
-| **old-tech** | any surviving modern device | compound descriptive |
-| **brightmetal** | any corrosion-resistant alloy | folk compound replacing *stainless steel* |
-| **darkglass** | opaque solar collector or visor | reinterpreted compound |
-| **steelvine** | cable plant or metallic cord | metaphorical compound |
+**CANON.** This list is closed. Terms not on it are not colony vocabulary, and inventing new ones during drafting is a defect, not a flourish. The previous version of this file held 108 generated terms that contradicted the milieu brief roughly forty times; everything cut is preserved with reasons in `attic.md`.
+
+## The principle
+
+206 years, an educated population, no illiteracy. The language hasn't gone far. Drift shows as **habituation, not degradation** — calling a *Deinosuchus* a "croc" is exactly what a modern biologist does calling *Tyrannosaurus rex* "T. rex". These people are scientists who have lived somewhere a long time.
+
+So the prose **code-switches**. Casual register under stress and in daily speech; precision register when the subject demands it, and the switch itself characterizes:
+
+> "Watch the bank — croc." … "*Deinosuchus* reads a four-micrometer vibration. The buddy system isn't tradition, it's a hard-data response to its integumentary sensors."
+
+The budget is deliberately small. A dozen taught words, doing four jobs: showing that **time has passed**, showing **where these people came from**, showing **habituation**, and carrying a little **tech texture**. Every additional word is load on the reader for diminishing return.
 
 ---
-**Note:** This glossary models plausible phonological and semantic drift after ~250 years in isolation, preserving English readability while showing simplification, analogical reanalysis, and hybridization with Spanish and folk compounding tendencies.
-```
+
+## The fifteen
+
+Each of these must be taught by context on first use — never glossed, never explained by the narration. The scene of first use is assigned in the terminology ledger.
+
+### Cultural roots — where they came from
+
+The colony seeded from the White Sands area: Latino and Mexican, Navajo and Pueblo, plus military and scientific personnel. Five words carry that whole history, which is why they are worth their cost.
+
+| term | meaning | drift |
+|---|---|---|
+| **yazhi** | young child, before the True Name ceremony; also a term of endearment | Navajo *yazhi*, "small one" |
+| **kiva** | the limestone cave that holds the Vitarium and the Council Chamber | Pueblo, ceremonial chamber |
+| **pan** | the staple flatbread, baked from leached cycad starch | Spanish. Compounds freely: **journey-pan**, the dense travel ration |
+| **carne** | meat from hunted animals, as against farmed insect protein | Spanish |
+| **pinyon** | pine nut, from the monkey-puzzle conifers | Spanish, and already current in the American Southwest — costs the reader nothing |
+
+### Habituation — folk taxonomy
+
+Five animals, each load-bearing: the primary threat, the recurring pack threat, the labor animal, the midpoint villain, and Noli's kind.
+
+| term | meaning | drift |
+|---|---|---|
+| **croc** | any large crocodilian, principally *Deinosuchus* | clipping. **The most-used word in the book** — "water is death" is about this animal |
+| **razortail** | small pack-hunting theropod, *Acheroraptor* | descriptive compound replacing the binomial |
+| **saropo** | the titanosaur *Alamosaurus*, used for heavy labor | phonetic wear from *sauropod*. The clearest single demonstration that time has passed |
+| **flybeak** | **any** pterosaur — from the thing that scratches on the roof-thatch to the ten-meter *Quetzalcoatlus* that takes children | descriptive compound. **The ambiguity is deliberate and it is the point:** you hear the word and you do not yet know which kind. A boy not even looking up at a small one is characterization of how routine they are, and it makes the midpoint worse. |
+| **sicklefoot** | Noli's kind — a small dromaeosaurid, coyote-sized, feathered, **never named by binomial** | descriptive compound, from the killing claw carried clear of the ground. Distinguishes her kind from the razortails that hunt them without importing taxonomy |
+
+### Environment and survival
+
+| term | meaning | drift |
+|---|---|---|
+| **stingburn** | the wound and spreading infection from a venomous bite | compound. Load-bearing: it kills Alira, and Benal's poor venom resistance is the gap it exploits |
+| **sunfever** | heatstroke | folk medical term. Load-bearing: Teva's failed thermal regulation |
+| **mudwalk** | a long overland trek through difficult terrain | compound. The name of Act 2 |
+
+### Technology
+
+| term | meaning | drift |
+|---|---|---|
+| **old-tech** | any surviving artifact of the original colonists — metal, polymer, electronics. Taboo outside the Enclave | compound. **The most load-bearing word in the novel**; the whole schism is an argument about it |
+| **lightcell** | power storage cell | compound. Gives the taboo something small and concrete — Sila's "one lost lightcell" at `content/superseded/03.1.md:17` is the taboo in a single object |
+| **wig** | the ground-effect craft at Genesis | **acronym worn down into a noun** — WIG, wing-in-ground-effect — exactly the way *saropo* wore down from *sauropod*. **A word with no referent**: they have it because their ancestors did, and nobody alive has seen one. See `the-wig.md` |
+
+---
+
+## Free compounds
+
+These are self-explaining English and cost the reader nothing on first sight, so they don't count against the budget and don't need teaching. Use them naturally; don't invent siblings for them.
+
+**grounder** (small mammal or lizard, prey) · **crawler** (edible arthropod) · **watcher** (perimeter lookout) · **fieldpack** (explorer's rucksack) · **stonefruit** (Cretaceous drupe) · **lightmold** (cultivated bioluminescent mycelial lattice) · **croc-spike**, **razor-club**, **tooth-knife** (the bio-safe weapons) · **border-tangle** (the perimeter palisade) · **nest** (a tree dwelling)
+
+## Precision-register vocabulary
+
+Not drift — these are the words the colony *kept*, and using them correctly is what shows the reader that this is a scientific mission rather than a devolved tribe. Never simplify them: *apoptosis*, *viral vector*, *protein fold*, *amino acid*, *protocol*, *chromatophore*, *integumentary*, *proprioception*, *necrosis*, *lymphatic*, *synthesis*, *culture*, *sequencing*.
+
+## Proper nouns
+
+Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**, **Enclave**, **the Repository**, **the Seeding**, **the Barrier**, **the First Walk**, **Traditionalist**, **Brancher**, **Keeper**, **Explorer**.
+
+---
+
+## Rules for the drafting model
+
+1. **Do not coin new colony vocabulary.** If a scene seems to need a word that isn't here, that's a note for Daniel, not a license.
+2. **Never gloss.** "The yazhi cried, and Teva picked up the child" teaches the word and never stops the narrative. A sentence that explains a term is a defect.
+3. **One name per referent.** A croc is never also a snapjaw.

@@ -1,55 +1,62 @@
-This is a great question. The equation is a perfect example of the "linguistic duality" (code-switching) from the milieu brief, but for mathematics. It's designed to be a compelling piece of storytelling, blending real-world physics with a narrative mystery.
+# Benal's equation
 
-To a reader with a math or physics background, this equation tells a fascinating story. Here’s a breakdown of what the terms signify and why it's "believable" in a sci-fi context.
+**CANON.** Converted from a chat transcript; the reasoning is retained, the conversational framing is gone. One open issue is flagged at the end and belongs to the science-plausibility pass.
 
-### The "Believable" Part (The Hook for Savvy Readers)
+## The equation
 
-The core of the equation, and the part that lends it immediate credibility, is this component:
+$$T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot f_{drift}(?)$$
 
-$$\sqrt{1 - \frac{v^2}{c^2}}$$
+It appears in the text as a written artifact — on Benal's slate, later etched at Genesis. **The narration never explains it.** The reader is meant to grasp its *shape*: a known part, and a part with a question mark on it.
 
-Any reader with first-year physics knowledge will instantly recognize this. It’s the **Lorentz factor** (or, more precisely, its reciprocal, gamma), the heart of Albert Einstein's **Special Theory of Relativity**.
+## The terms
 
-* **What it means:** This formula describes **time dilation**. It calculates how time ($T$) passes for an object moving at a certain velocity ($v$) relative to an observer, where ($c$) is the constant speed of light.
-* **Why it's here:** Its presence is a massive piece of world-building. It tells the reader that the Enclave's "time travel" is not magic. It's rooted in 21st-century physics. The original scientists clearly understood that to travel in time, you must (at a minimum) solve the problems of relativistic velocity. It's the "hook" that makes the science feel "hard" and grounded.
+**$T_o$, origin time.** The anchor. The fixed event they measure from — the moment of arrival, or the impact itself as a fixed point in the record.
 
----
+**$T_d$, destination time.** What Benal is trying to compute. Where, or rather *when*, they actually are.
 
-### The "Story" Part (Breaking Down the Terms)
+**$\sqrt{1 - v^2/c^2}$, the Lorentz factor.** Real physics, and the reason the prop works: any reader who took a year of undergraduate physics recognizes it on sight. It says the colony's time travel is not magic — it descends from twentieth-century relativity, and the original scientists understood that any transit at relativistic parameter carries a dilation term. This is the load-bearing credibility of the whole device.
 
-The rest of the equation builds a narrative *on top* of that real-world physics:
+**$f_{drift}$, the missing function.** Benal's entire arc compressed into one variable.
 
-$T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot (f_{drift}?)$
+## The problem
 
-Let's look at the "characters" in this story:
+The equation ought to work and does not. The $T_d$ it predicts does not match what they can observe. So a term is missing, and Benal is trying to find it.
 
-* **$T_o$ (Origin Time):** This is the baseline, the constant. It represents the "Time Zero" of the mission—the moment of their arrival, or the "fixed event" of the Chicxulub impact itself. It's the "anchor" they are trying to measure *from*.
+**His hypothesis, stated in scene 2.2:** *"They anchored to a point in space, not a point in spacetime. The anchor is unmoored."*
 
-* **$T_d$ (Destination Time):** This is the *result* Benal is trying to calculate. It's the "Drifted Time" or "Actual Time." If $T_o$ is "where we started," $T_d$ is "where (or when) we *actually* are now."
+The founders were brilliant and reasoned as though space held still. It does not. **In 66 million years the solar system travels something like a quarter of an orbit around the galactic center** — one galactic year runs roughly 225 to 250 million years — and the galaxy itself is moving within the Local Group. Across that span, "the same place" is not a statement that means anything. $f_{drift}$ is Benal's attempt at the correction, and the residue he cannot resolve he calls **asymptotic noise**.
 
-* **$\sqrt{1 - \frac{v^2}{c^2}}$ (The Classical Solution):** This is the "known" part of the problem. The original scientists built this into the equation, presumably to account for the velocity of their transit. It's the "textbook" answer.
+*(Note for the science pass: cosmological expansion is the wrong mechanism here and should not be used — gravitationally bound systems don't participate in it, so it does not stretch Earth's orbit, the solar system, or the galaxy. Ordinary galactic motion is both correct and far larger. Benal's insight is unchanged; only the mechanism under it is.)*
 
----
+## What the drift is actually an error *in*
 
-### The "Problem" Part (The Narrative Conflict)
+This is the load-bearing consequence, and it drives the novel's master clock.
 
-This is the most important part of the equation from a story perspective:
+Whatever the founders anchored to plainly worked **spatially** — they arrived in the Yucatan, on the right planet, at the right point on its surface. So the residual error cannot be about place.
 
-* **$(f_{drift}?)$ (The "Fudge Factor" / The Mystery):** This is Benal's entire character arc in one variable.
+It is about **when**. $f_{drift}$ is the uncertainty in their own epoch. **The colony does not know precisely when it is.**
 
-A math-savvy reader will see the equation and think: "Okay, $T_d = T_o \cdot (\text{Lorentz Factor})$... but that's a *simple* relationship. It doesn't account for... well, *anything* else."
+Everything follows from that. Nobody can date the impact closer than *about two decades, plus or minus one*, not because the astronomy is hard but because their own position on the timeline is uncertain, and Benal is the only person alive trying to compute it. That is why the Council has a genuine argument rather than a foolish one — you cannot plan a civilization around ±50% — and it is why Benal's "useless" abstraction turns out to be the most important work anyone is doing. The equation is not set dressing. It is the mechanism behind the deadline, the schism, and his vindication, all at once.
 
-Benal's genius (and his frustration) is that he recognizes this. The equation *should* work, but it *doesn't*. The "real" $T_d$ doesn't match the $T_d$ the equation predicts. Therefore, there must be a missing variable.
+**Why the founders' error is good for the story.** It is small, understandable and fatal: they were neither stupid nor villainous, and they missed one term. That is the shape of every other mistake in this book, including the parents', and the rhyme is deliberate.
 
-This is Benal's $(f_{drift}?)$. He's trying to find the "function of drift." And in Scene 2.2, *he gives us his hypothesis for what it is*:
+## What it pays off
 
-> "They didn't account for **cosmic expansion**... They anchored to a point in *space*, not a point in *spacetime*. The anchor is... unmoored."
+The equation is the mechanism behind the beat-12 revelation. There is no *return anchor* — travel is not symmetrical, forward and backward are not the same operation, and the anchor is to an origin the traveler must have departed from. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
 
-This is a *brilliant* and highly believable sci-fi concept.
+And the second jump, to 67 Mya, was launched on a signal the heretics received: the symbol Keo sees in his flash at beat 8.
 
-* **The Original Sin:** The original scientists (in their genius) used Special Relativity.
-* **The Fatal Flaw:** They *forgot* to use **General Relativity**. Special Relativity works in a static, flat universe. But our universe is *not* static; it's expanding.
-* **Benal's Struggle:** Over 66 million years, that "tiny" error (ignoring the universe's expansion) has compounded. The "point in space" they anchored to is no longer where they think it is. The "anchor" has "drifted" on the current of spacetime itself.
-* **What is $(f_{drift}?)$?** It's Benal's attempt to calculate a 66-million-year-long General Relativity correction. He's trying to quantify the "asymptotic noise" and "cosmic expansion" that the original team dismissed or forgot.
+## Rules for the prose
 
-**Conclusion:** The equation is the perfect "prop." It's not "real math," but it's built from real, recognizable physics. It immediately tells a sophisticated reader that Benal is smart, the problem is non-trivial, and the original, brilliant scientists made a tiny, fundamental error that has doomed their descendants—an error only Benal's "useless" abstract work can fix.
+1. **Never explain it.** No character delivers a lecture. Benal talks in fragments, to himself, and the reader assembles the shape from his frustration.
+2. **He is stuck for most of the book**, and being stuck is characterizing — it is why Marek can call the work useless and why Benal half believes him.
+3. **The fieldpack loss at 9.3 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically.
+4. Use the notation sparingly and as an *image* — something seen on a slate, something etched in metal — not as text to be parsed.
+
+## Open issue for the science pass
+
+The Lorentz factor is a relation between proper time and coordinate time for a moving observer. Using it directly to yield a *destination epoch* conflates two different quantities, and a physics-literate reader may catch that.
+
+The recoverable reading, and the one to adopt: **the factor describes the transit itself.** The jump is not instantaneous; it carries a velocity-like parameter, and dilation during transit is then a genuine term rather than a borrowed one. That reading holds together and costs nothing.
+
+Flagged rather than silently fixed, because the notation may want adjusting once the temporal-mechanics layer is planned, and because the claim that this equation rewards a savvy reader is only worth making if it survives one.

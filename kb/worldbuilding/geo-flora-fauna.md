@@ -93,7 +93,7 @@
 ### **4.3 Pterosaurs & Aves (Birds)**
 
 * *Quetzalcoatlus northropi*: Feathered Serpent God. One of the largest flying animals of all time, with a 10-11 meter wingspan, it behaved like a terrestrial stalker, hunting small dinosaurs on the ground.21  
-* *Muzquizopteryx coahuilensis*: Wing from Múzquiz. A smaller, coastal pterosaur with a 2-meter wingspan, belonging to the Nyctosauridae family and adapted for soaring over the sea.24  
+* *Muzquizopteryx coahuilensis*: Wing from Muzquiz. A smaller, coastal pterosaur with a 2-meter wingspan, belonging to the Nyctosauridae family and adapted for soaring over the sea.24  
 * *Avisaurus archibaldi*: Bird Lizard. A member of the Enantiornithes ("opposite birds"), a common group of toothed birds that went extinct with the dinosaurs.26  
 * *Hesperornis regalis*: Western Bird. A large, flightless, toothed diving bird, similar to a modern loon or cormorant, that hunted fish in coastal waters.25  
 * *Neornithes indet.*: Ancestors of Modern Birds. Small birds related to modern waterfowl (Anseriformes) and shorebirds were present, possessing toothless beaks.27

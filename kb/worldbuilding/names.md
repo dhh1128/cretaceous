@@ -1,5 +1,9 @@
 ## Names
-Here’s a curated list of **names evolved from an Albuquerque-origin isolate**—200–300 years of drift yielding a soundscape that’s earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. These names are meant to be **familiar yet distinctly not contemporary**, plausible in a world that’s evolved from a Southwestern melting pot of Anglo, Hispanic, and Indigenous roots.
+Names evolved from a **White Sands, New Mexico origin population** across **206 years** of isolation — a soundscape that is earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. **Familiar yet distinctly not contemporary**, plausible from a Southwestern mix of Anglo, Hispanic and Indigenous roots.
+
+**This file is the source for the cast.** Every named character draws from these lists — Keo, Benal, Marek, Rano, Liaso from the male table; Teva, Alira, Omiya→Omya, Noeli→Noli from the female. New characters take names from here, and a name in use is struck from availability in `prompts/minor-characters.md`.
+
+**The in-world rule about reuse.** This culture has no graves and no bones — see `prompts/milieu-brief.md` §4. **A dead person's name may be given again only once nobody living remembers them**, because memory is the only monument available, and reusing a name while someone still carries the first one dims them. Roughly three generations, enforced by nothing but everyone's opinion, and contested in particular cases. **Yara, Lumea and Daven are therefore unavailable inside the novel**, and so is Alira, for a long time.
 
 ---
 
@@ -9,20 +13,20 @@ Here’s a curated list of **names evolved from an Albuquerque-origin isolate**�
 | ------------------------------- | --------------------------------------------------------------------------------- |
 | **Taren**                       | From *Taron* or *Terrence*; softened vowel shift common in contact languages.     |
 | **Miloq** (pronounced MEE-lohk) | Possibly from *Milo* + local phonetic suffix like Navajo diminutive *-q*.         |
-| **Davén**                       | Derived from *David* + Spanish stress pattern; resembles modern *Dah-VEHN*.       |
-| **Josan**                       | Blend of *José* + *Jason*; natural fusion in bilingual communities.               |
+| **Daven**                       | Derived from *David* + Spanish stress pattern; resembles modern *Dah-VEHN*.       |
+| **Josan**                       | Blend of *Jose* + *Jason*; natural fusion in bilingual communities.               |
 | **Keo**                         | Shortened from *Keone* or *Kehone*, Hawaiian loan possibly via military diaspora. |
 | **Rilas**                       | From *Elias* or *Riley*; consonant shift and reanalysis.                          |
-| **Névan**                       | Evolved from *Nevaeh* or *Evan*; normalized spelling/pronunciation.               |
+| **Nevan**                       | Evolved from *Nevaeh* or *Evan*; normalized spelling/pronunciation.               |
 | **Taylo**                       | Dropped final -r from *Taylor*, as r-coloring weakens over time.                  |
 | **Marek**                       | Borrowed through Polish immigrants, retained for distinctness.                    |
 | **Areno**                       | Perhaps from *Aaron* + Spanish suffix -o.                                         |
 | **Benal**                       | Shortened/shifted from *Benaldez* or *Benito*, simplified over time.              |
 | **Sorren**                      | From *Soren*; doubling of r reflects orthographic drift.                          |
-| **Liaso**                       | From *Elias* + vowel-insertion pattern for ease (*Líaso*).                        |
+| **Liaso**                       | From *Elias* + vowel-insertion pattern for ease (*Liaso*).                        |
 | **Camren**                      | From *Cameron*; shortened and normalized spelling.                                |
 | **Rano**                        | Derived from *Raymond* or *Reynaldo*, losing medial consonant clusters.           |
-| **Téjo**                        | Possibly from *Teo* (Theo) + Spanish diminutive suffix.                           |
+| **Tejo**                        | Possibly from *Teo* (Theo) + Spanish diminutive suffix.                           |
 | **Omarin**                      | From *Omar* + *Marin*, common Hispanic fusion.                                    |
 | **Dalen**                       | Retains Anglo roots (*Dale*), but smoother with final -n.                         |
 | **Joro**                        | Possibly from *George* + vowel harmony; echoes Esperanto-like simplicity.         |
@@ -37,15 +41,15 @@ Here’s a curated list of **names evolved from an Albuquerque-origin isolate**�
 | **Marielu**         | From *Maria Luisa*, fused and reduced.                                                |
 | **Senae** (seh-NAY) | From *Sienna* or *Selena*, adapted to more nasal vowel.                               |
 | **Alira**           | Blend of *Aliyah* + *Mira*.                                                           |
-| **Téva**            | Possibly from *Tessa* + *Eva*.                                                        |
+| **Teva**            | Possibly from *Tessa* + *Eva*.                                                        |
 | **Noeli**           | From *Noelle* + *Noelani*, reduced final vowel.                                       |
-| **Yarae** (YAH-ray) | From *Yara* + Spanish -e feminine ending.                                             |
+| **Yara**            | Retained unaltered; one of the few names the drift left alone.                         |
 | **Lumea**           | Possibly from *Luna* + *Maya*; bright, airy phonetics.                                |
 | **Risaen**          | From *Risa* + *Raquel* influence; nasal suffix evolved.                               |
 | **Caleen**          | Descended from *Colleen* or *Carleen*, smoothing vowel.                               |
 | **Adira**           | Retained from Hebrew *Adira* meaning “strong”; likely survival from religious naming. |
 | **Mionna**          | From *Mia* + *Ionna*, hybrid of English/Spanish phonology.                            |
-| **Tahléa**          | Evolved from *Talia* or *Thalia*, accent on long vowel.                               |
+| **Tahlea**          | Evolved from *Talia* or *Thalia*, accent on long vowel.                               |
 | **Seren**           | From *Serena*, truncated with Welsh-like form.                                        |
 | **Junel**           | From *June* + *Janelle*.                                                              |
 | **Areni**           | From *Ariana* or *Irene*, consonant simplification.                                   |
@@ -67,17 +71,17 @@ Here’s a curated list of **names evolved from an Albuquerque-origin isolate**�
 | **Benroe**  | Blend of *Benitez* + *Monroe*.                                             |
 | **Cheska**  | Derived from *Chavez* or *Francesca*, phonetic simplification.             |
 | **Delar**   | From *De la Rosa* or *Delgado*, shortened.                                 |
-| **Mareen**  | From *Marín* or *Moreno*, vowel drift.                                     |
-| **Ortave**  | From *Ortega* + *Chávez*, fusion.                                          |
+| **Mareen**  | From *Marin* or *Moreno*, vowel drift.                                     |
+| **Ortave**  | From *Ortega* + *Chavez*, fusion.                                          |
 | **Sando**   | From *Sandoval* or *Santos*, truncation pattern.                           |
 | **Renik**   | Anglo name from *Renwick*, shortened.                                      |
-| **Tomasel** | From *Tomás* + diminutive *-el*.                                           |
-| **Caydena** | From *Cardeña* or *Cayden*, hybrid.                                        |
+| **Tomasel** | From *Tomas* + diminutive *-el*.                                           |
+| **Caydena** | From *Cardena* or *Cayden*, hybrid.                                        |
 | **Vallin**  | From *Valdez* or *Valentine*.                                              |
 | **Perru**   | From *Perry* or *Peru*, vowel rounding.                                    |
 | **Nosan**   | From *Nolan* or *Sosa*, assimilation.                                      |
 | **Darre**   | From *Darrow* or *Duarte*, final vowel loss.                               |
 | **Leveno**  | Possibly from *Levine* + *Moreno*, hybrid.                                 |
-| **Chano**   | Common nickname from *Sebastián*; became a surname.                        |
+| **Chano**   | Common nickname from *Sebastian*; became a surname.                        |
 | **Miquen**  | From *Miquel* or *Mikens*, phonological blend.                             |
 | **Torla**   | From *Torres* or *Torrance*, vowel smoothing.                              |
