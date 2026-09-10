@@ -6,7 +6,7 @@ Benal, walking point, had stopped. "Chemical," he said, his voice tinny through 
 
 Keo sniffed. Benal was right. The air held a faint tang, like a gennie running too hot.
 
-"Smells like it's going to blow," Keo said. He nudged Noli forward with a gentle push in her mind. The dromaeosaur was wary, her feathers tight.
+"Smells like it's going to blow," Keo said. He nudged Noli forward with a gentle push in her mind. The bambiraptor was wary, her feathers tight.
 
 "It's geothermal," Benal said, stepping into a wide clearing. "Not a generator. Hydrogen sulfide."
 
