@@ -25,7 +25,8 @@ Act 1 runs from an evening to the pre-dawn of the day after next — **about thi
 
 ### 1.1 — [LONG] [Day 1, evening] [TEVA] [Vitarium] — *canon, `content/superseded/01.1.md`*
 **Ladders:** E4 P1 S2 X3
-Omya fails the protocol. Alira dies. Teva's rage solidifies.
+Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage solidifies.
+**Elana is the crisis walking through the door.** The scene opens on a failing test in a clean room, and a mother forces her way into it carrying a dying child — which is a violation of the place, because **the Vitarium is a culture chamber and not somewhere the sick are brought.** Nobody stops her. She holds the arm out for them to look at, and demands the rust-red by name and by dose, because the whole Enclave has been talking about that vector for weeks and every parent with an unSeeded child knows what it is. Then her demand dries into sobbing and the child dies on the floor among the lines that should have saved her.
 **Plants:** Omya submitting to a public test she will fail (misjudgment) · Teva's mother Lumea, dead of the same thing after the same treatment · the Vitarium's color diagnostics.
 
 ### 1.2 — [MEDIUM, ~1000] [Day 1, night] [TEVA] [Kiva → village] — **NEW**
@@ -94,7 +95,7 @@ The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 
 ### 3.2 — [SHORT, ~700] [Day 2, evening] [BENAL] [Outside the chamber] — **NEW**
 **Ladders:** E5 P1 S5 X4
-Marek after the debate. He fought in public and lost. Senae gets a line.
+Marek after the debate. He fought in public and lost. Lunet gets a line.
 **The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding 2.2 and 3.1 together — can see a man who was right and unheard. Fact O at full pressure.
 
 ### 3.3 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva] — *was 3.2 — now `content/superseded/03.3.md`*

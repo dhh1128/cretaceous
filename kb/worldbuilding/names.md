@@ -43,7 +43,7 @@ Names evolved from a **White Sands, New Mexico origin population** across **206 
 | Name                | Theoretical Etymology                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------- |
 | **Marielu**         | From *Maria Luisa*, fused and reduced.                                                |
-| **Senae** (seh-NAY) | From *Sienna* or *Selena*, adapted to more nasal vowel.                               |
+| ~~**Senae**~~ | **Struck.** A name ending in *-ae* is a spelling and pronunciation problem for the reader, and a name that needs a pronunciation note in this file needs one in the reader's head. |
 | **Alira**           | Blend of *Aliyah* + *Mira*.                                                           |
 | **Teva**            | Possibly from *Tessa* + *Eva*.                                                        |
 | **Noeli**           | From *Noelle* + *Noelani*, reduced final vowel.                                       |

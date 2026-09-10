@@ -2,6 +2,8 @@
 approval: unapproved
 ---
 
+> *Rejected: out of order against the scene list. The river crossing belongs early, so that *water is death* is proven to the reader before the stakes climb.*
+
 The river.
 
 It was a churning, brown expanse, three hundred meters across at its narrowest, smelling of silt and decay.

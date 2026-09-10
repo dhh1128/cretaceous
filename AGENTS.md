@@ -69,7 +69,7 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 
 The procedure is `process/scene-build-runbook.md`. Two things in it are load-bearing and both have been violated:
 
-**The map is approved before any prose exists.** Phase 4 is a hard stop — the forward map plus the invention ledger go to him together, and you wait. Objecting to a beat costs him a sentence; objecting to the drafted version of the same beat costs him a paragraph and you a rewrite. *(Skipped on 2026-09-10, which is why `content/01.1.md` exists ahead of an unapproved map.)*
+**The map is approved before any prose exists.** Phase 4 is a hard stop — the forward map plus the invention ledger go to him together, and you wait. Objecting to a beat costs him a sentence; objecting to the drafted version of the same beat costs him a paragraph and you a rewrite. *(This has been skipped once, and the prose written out of order was discarded — which is the cheapest possible outcome and not one to rely on.)*
 
 **Nothing reaches him that has not passed the mechanical checks.** The blacklist, the logic checker, the repetition hawk, the four invariants, and the invention audit. Spending his attention on defects a checklist catches is the most expensive mistake available here.
 
@@ -79,7 +79,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 - **US English, everywhere** — prose, notes, ledgers, commit messages, chat. This has been corrected more than once and it keeps coming back, because a literary register pulls toward British spellings. Grep before delivering: `grep -InE '\b(colour|centre|realise|organise|recognise|behaviour|favour|defence|grey|whilst|analyse|metre|artefact|fibre|offence|practise|learnt|travelled|modelling|labelled|summarise|kilometre|neighbour|labour|travelled|towards)\b'`
 - **Never hard-wrap markdown.** One line per paragraph, however long.
-- **Where things go.** Scene maps and invention ledgers in `plan/scene-maps/`. Drafted prose in `content/`. Working analyses that outlive a session but are not canon in `.ignored/`, which is gitignored. Do not leave loose untracked files in the repo root.
+- **Where things go.** Scene maps and invention ledgers in `plan/scene-maps/` (created when the first one is built; the directory is empty). Drafted prose in `content/`. Working analyses that outlive a session but are not canon in `.ignored/`, which is gitignored. Do not leave loose untracked files in the repo root.
 - **Do not invent organizing schemes.** Ask before adding a folder or a naming convention. *(A `process/` directory was created on 2026-09-10 without being asked for.)*
 - **`kb/worldbuilding/lingo.md` is a closed list of fifteen words.** Coining colony vocabulary during drafting is a defect, not a flourish. If a scene seems to need a word that is not there, that is a note for Daniel.
 

@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 2026-09-10
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -50,26 +50,26 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.
 
-### The reverse index — `[requires]`, written on the dependent beat
+### The reverse index — `[requires]`, written on the dependent move
 
 **Every pointer in the table above is written at the plant end, and that is the wrong end for the way plants actually break.**
 
 A plant is rarely destroyed by someone editing the plant. It is destroyed by someone cutting, moving or rewriting it while working on something else entirely — and the payoff then fails **silently, in a scene nobody was looking at.** A forward-only pointer is invisible from where the damage shows up.
 
-So every payoff beat also carries **`[requires <scene>.<beat>]`**, and the check becomes symmetric and mechanical:
+So every payoff move also carries **`[requires <scene>.<move>]`**, and the check becomes symmetric and mechanical:
 
-1. Every `requires` resolves to a beat that still exists.
+1. Every `requires` resolves to a move that still exists.
 2. Every `plants →` has a matching `requires` at the far end.
 3. An unmatched pair on either side is a broken chain, **found by walking the maps rather than by rereading the novel.**
 
-**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the beat survives at 2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
+**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the move survives at 2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
 
 > `[requires 2.2 — Benal's mathematics shown as dismissable]`
 > `[requires 2.3.17 — four gourds filled for three people, unremarked]`
 
-That converts a link check into a **contract**: the dependent beat states what it needs, and anyone editing the source can see what they would break. Pointer integrity is not semantic integrity, and every serious continuity failure this project has found — the helmet, Alira's age, the season pivot — was semantic with the addresses intact.
+That converts a link check into a **contract**: the dependent move states what it needs, and anyone editing the source can see what they would break. Pointer integrity is not semantic integrity, and every serious continuity failure this project has found — the helmet, Alira's age, the season pivot — was semantic with the addresses intact.
 
-**An unresolved `requires` is a work queue.** A dependent beat naming a scene that does not exist yet is telling you what must be written before this scene can be, which is the build order falling out of the annotation for free.
+**An unresolved `requires` is a work queue.** A dependent move naming a scene that does not exist yet is telling you what must be written before this scene can be, which is the build order falling out of the annotation for free.
 
 **This generalizes past foreshadowing.** The same mechanism carries the reader-payment chains in `knowledge-ledger.md` — fact O's payment at 3.1 carries `[requires 2.2]`, and fact N's completion scene carries `[requires 2.3, 3.1, 4.1]`, naming the contributions it completes. Retroactive plants are allowed and encouraged — cordimancy tells the legend of the seedling *after* the reader has already seen the impossible oak, so it lands as recognition rather than setup.
 

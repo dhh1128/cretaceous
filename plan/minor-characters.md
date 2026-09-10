@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 2026-09-10
 ---
 
 # Character register
@@ -40,7 +40,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Marek** — father. A Brancher. Dismisses Benal's mathematics: *"Still staring at those dead symbols? Do something real."* His weapon is pity, not contempt, and he is **the only adult publicly demanding action** — the man who says "do something real" at home is the man shouting for Genesis in the Council chamber. He is right, and his son cannot hear him.
 
-**Senae** — mother. **[provisional name]** Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
+**Lunet** — mother. `[?]` *(name)* Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
 
 **Liaso** — cousin. On Watcher duty the night of the theft; nearly catches Keo at the Repository. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
 
@@ -81,5 +81,5 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 ## Names still available
 
 Male: Taren, Miloq, Josan, Rilas, Nevan, Taylo, Areno, Sorren, Camren, Tejo, Omarin, Dalen, Joro, Kaisan.
-Female: Marielu, Yara *(spent)*, Tahlea, Seren, Junel, Areni, Velin, Nalay, Kesa, Lunet, Mionna, Caleen, Risaen, Adira *(avoid — collides with Alira)*.
+Female: *(names ending in* -ae *are struck — they are a spelling and pronunciation problem for the reader.)* Marielu, Yara *(spent)*, Tahlea, Seren, Junel, Areni, Velin, Nalay, Kesa, Mionna, Caleen, Risaen, Adira *(avoid — collides with Alira)*.
 Surnames: unused so far. The colony may not use them; that is undecided.

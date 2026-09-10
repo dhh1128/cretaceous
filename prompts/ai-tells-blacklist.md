@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved 2026-09-10
 ---
 
 # AI tells — the blacklist
@@ -41,7 +41,7 @@ approval: unapproved
 
 > "pale square" — third use of pale in 500 words.
 
-**Rule.** A content word landing three times inside ~500 words is a flag to check, not an automatic cut — some repetition is load-bearing and some is invisible. What he caught was a word doing no work on its third appearance. See also `repetition-hawk.md`.
+**Rule.** A content word landing three times inside ~500 words is a flag to check, not an automatic cut — some repetition is load-bearing and some is invisible. What he caught was a word doing no work on its second or third appearance. And it wasn't good on the first appearance, either. See also `repetition-hawk.md`.
 
 ## 5. Detail introduced and never used
 
@@ -50,7 +50,7 @@ approval: unapproved
 > "Anyone could see that" does nothing and should be cut.
 > What is the relevance of "Neither apologized". Seems like a non-sequitur.
 
-**Rule.** Every concrete detail earns its place by doing one of three jobs: making the environment vivid, making a character better understood, or surfacing subtext. A detail doing none of these is filler, and filler reads as an AI padding to a word count.
+**Rule.** Concrete details should earn their place by doing a meaningful job. For example, it could make the environment vivid, make a character better understood, or surface subtext. Saying that something is blue just to add a word is the failure mode. A detail doing none of these is filler, and filler reads as an AI padding to a word count.
 
 ## 6. Specifics that slow the reader without paying
 
@@ -78,7 +78,7 @@ approval: unapproved
 
 > I think "with the insult settling into him" is overkill. We can tell that he feels insulted because we said "That made it worse" just above. Plus it's redundant with "wanted the suit more fiercely", which comes after and is better.
 
-**Rule.** State an emotional fact once, in its strongest form. Naming it again afterwards is the narration distrusting the reader.
+**Rule.** State an emotional fact once, in its strongest form. Or better yet, show/imply the emotion. Naming it (again, afterwards) is the narration distrusting the reader.
 
 ## 10. Implausible somatic description
 

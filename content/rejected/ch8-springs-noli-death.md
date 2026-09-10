@@ -2,6 +2,8 @@
 approval: unapproved
 ---
 
+> *Rejected: Noli's death is relocated and unearned — moved to the sulfur springs at midday, before the charm that has to make it cost something.*
+
 They found the springs by accident.
 
 The jungle, for a kilometer, had thinned from a dense, wet green to a sparse, almost brittle forest. The air grew drier. The ground under Keo's boots turned chalky and warm.

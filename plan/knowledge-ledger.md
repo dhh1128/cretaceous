@@ -18,7 +18,7 @@ One table, two jobs. As continuity, it enforces that no character acts on inform
 
 A fourth exists and is worth using sparingly: **shared confusion**, where both reader and character receive something neither understands. The temporal flashes are this, and it's what makes Benal's connection land as recognition rather than exposition.
 
-**The rule: irony is the default, surprise is the exception.** A surprise lasts a paragraph; dread lasts four hundred pages. The old plan back-loaded nearly every mystery into beats 11–12, which stacks three revelations into two scenes and produces a data dump wearing a reveal's clothes.
+**The rule: irony is the default, surprise is the exception.** A surprise lasts a paragraph; dread lasts four hundred pages. The old plan back-loaded nearly every mystery into moves 11–12, which stacks three revelations into two scenes and produces a data dump wearing a reveal's clothes.
 
 **The test for spending a surprise: does it recontextualize, or does it merely startle?** A surprise earns its cost by changing the meaning of what came before. Noli's death currently just happens; it should retroactively make Keo's confidence look like the thing that killed her.
 
@@ -62,28 +62,28 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 
 ## The reader-payment column
 
-**Every ironic fact has a scene where the reader's side lands, and until now this ledger never said where.** It records acquisition for *characters* and treats the reader's side as a phase of the book — "Act 1, accumulating" — which is not a position and therefore not schedulable. A structure map of scene 2.3 exposed this: its hinge is a beat where **no character changes at all**, and the turn belongs to the reader alone.
+**Every ironic fact has a scene where the reader's side lands, and until now this ledger never said where.** It records acquisition for *characters* and treats the reader's side as a phase of the book — "Act 1, accumulating" — which is not a position and therefore not schedulable. A structure map of scene 2.3 exposed this: its hinge is a move where **no character changes at all**, and the turn belongs to the reader alone.
 
-Every ironic row implies at least one such beat, and none of them was assigned.
+Every ironic row implies at least one such move, and none of them was assigned.
 
 ### Delivered versus accumulated
 
 The proposed check was *every ironic row named in exactly one scene*. That is right for most rows and wrong for two, so the column has two kinds:
 
-- **Delivered** — one scene, one beat. The reader gets it and does not get it again. Re-delivering reads as the narrative distrusting them.
+- **Delivered** — one scene, one move. The reader gets it and does not get it again. Re-delivering reads as the narrative distrusting them.
 - **Accumulated** — several scenes, each adding evidence, plus a named **completion scene** after which the reader has enough to have revised. Without a named completion, "accumulating" is a wish.
 
 ### Assignments
 
-| # | fact | kind | reader's side is paid at | the beat |
+| # | fact | kind | reader's side is paid at | the move |
 |---|---|---|---|---|
 | **B** | the upgrades are the cure | delivered | **epigraph 5**, immediately before the theft | The deliverable statement, read cold. *Any confusion on this point will be fatal to the mission* |
 | **D** | carry it forward, don't send it | accumulated | seeded **epigraph 3** (*sent to work*), seeded **epigraph 5** (*what returns is the platform*), **completed epigraph 13** | the coda, plainly, to a dead woman |
 | **E** | ~two decades, not centuries | delivered | **epigraph 9**, the global alert | not stated — inferred from a fourth wave and no further guidance |
 | **F** | they don't know what year it is | delivered | **epigraph 7**, targeting confidence | *will not be resolvable from the far side* |
-| **K** | the flashes are real | delivered | **8.4** | Keo dismisses it as fever in the same beat the reader stops being able to |
+| **K** | the flashes are real | delivered | **8.4** | Keo dismisses it as fever in the same move the reader stops being able to |
 | **L** | Teva's mother died of what kills Alira | delivered | **1.1** | the wet rattle, twice, two years apart |
-| **M** | Keo had a sister | delivered | **2.3, beat 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** |
+| **M** | Keo had a sister | delivered | **2.3, move 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** |
 | **M2** | a croc took her while their parents watched | delivered | **4.1** | *the world that had killed his sister*, against the Repository he is about to rob |
 | **N** | the protectiveness is guilt | accumulated | **2.3** (the fourth gourd, filled and never remarked on), **3.1** (they stand apart *because they know the number*), **completed 4.1** | the smell of their gear and the rationed food, with the fourth gourd behind it |
 | **O** | Marek is right | delivered | **3.1** | the man who said *do something real* at home is shouting for Genesis. **The reader holds 2.2 and 3.1 together; Benal cannot** |
@@ -102,7 +102,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 ### `IN — READER` is computed, never authored
 
-For any scene, *what the reader arrives carrying* is derivable: every row paid or contributed in an earlier scene. **It must be derived and never hand-written.** A hand-written line can drift from this table, and a drifted one is worse than none — it asserts the reader knows something they were never told, and every downstream beat built on it is then built on a fiction.
+For any scene, *what the reader arrives carrying* is derivable: every row paid or contributed in an earlier scene. **It must be derived and never hand-written.** A hand-written line can drift from this table, and a drifted one is worse than none — it asserts the reader knows something they were never told, and every downstream move built on it is then built on a fiction.
 
 **Compute it, or leave it empty.** It becomes computable the moment the 60-scene list exists, which is one more reason that list is on the critical path.
 
@@ -111,7 +111,7 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 1. **Every ironic row appears in exactly one scene's `OUT — READER`** — or, if accumulated, in its completion scene's, with the contributing scenes listed.
 2. **A row in zero scenes is a fact the reader never actually receives.** This is the failure that hides best, because the plan asserts the irony and the prose never delivers it.
 3. **A row in several scenes, uncompleted, is repetition** — telling the reader what they already hold.
-4. **Every `[turn — READER ONLY]` beat must correspond to a row here.** A reader-only turn with no ledger entry is a scene whose hinge nobody planned.
+4. **Every `[turn — READER ONLY]` move must correspond to a row here.** A reader-only turn with no ledger entry is a scene whose hinge nobody planned.
 
 **Note what the M / M2 split buys.** Yara's *name* is paid at 2.3 and the *manner of her death* at 4.1. Without the column that split is invisible, and somebody re-pays the whole fact at 10.1 — where the trio learn it, and where the reader would then be told twice.
 
@@ -168,7 +168,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 **Why paper survived the archaea failsafe:** *Genesis predates the failsafe.* The taboo is a colony invention, not a founder instruction — one more piece of evidence for drift, sitting in plain sight.
 
-**Two beats this opens that aren't yet in the plan.**
+**Two moves this opens that aren't yet in the plan.**
 
 1. **They cannot carry it all.** Three exhausted teenagers choose which records come home, under time pressure, and that choice shapes their society permanently. Belongs at 12.1 or 13.1.
 2. **The coda is a fragment they leave behind.** The correction of the false solution is read by the reader over their shoulders while they pick up something else and go. The characters walk away from the answer; the reader holds it; and the rest of the cache is still out there, offshore and unstable, which is exactly the contested territory book 2 needs.

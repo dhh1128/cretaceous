@@ -27,7 +27,7 @@ Each layer allocates something *per scene*. None of them can say **where inside 
 
 **The missing artifact is a join: a per-scene structure where every layer's allocation gets bound to a position in time.** Everything else here follows from that.
 
-Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene 2.3) immediately showed that two layers were specifying the same beat and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list.md`'s "one small thing Riel does that is about her."
+Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene 2.3) immediately showed that two layers were specifying the same move and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list.md`'s "one small thing Riel does that is about her."
 
 ## 2. The claims
 
@@ -35,16 +35,16 @@ Independent support: an adversarial review of the fourteen layers by a non-Claud
 Two independent routes, one destructive and one constructive, above.
 
 **C2. Continuity is checkable from structure alone, without reading prose. — Provisional.**
-If each scene map states an entry state and an exit delta, then *exit state of scene N must equal entry state of scene N+1* is mechanical. Blind maps did surface real defects this way: one flagged that ~20% of a scene is description that is never used, and that a scene's stated emotional target has "no beat that alters it." Not yet run as a full-novel sweep.
+If each scene map states an entry state and an exit delta, then *exit state of scene N must equal entry state of scene N+1* is mechanical. Blind maps did surface real defects this way: one flagged that ~20% of a scene is description that is never used, and that a scene's stated emotional target has "no move that alters it." Not yet run as a full-novel sweep.
 
 **C3. If state is explicit, drafting need not be sequential. — Untested.**
 Shingled drafting exists to carry continuity across chunk boundaries by dragging prose context forward. The only thing the overlap transmits is state. Make state explicit and any scene can be drafted from its own map plus its neighbors' state blocks — in any order, in parallel, and re-draftable in isolation. This is the live disagreement with `process-design-v2.md` §7 and the most valuable untested claim here.
 
 **C4. Description and generation are separate properties of a schema field. — Supported.**
-`[refused]` — a character declining to answer something on the page — is useless as a descriptive discriminator: its density measures the mapper, not the scene, and it reverses between model lineages. As an *instruction* it is the strongest field tested. Three writers from three model families, given a beat reading `Neither man answers. [refused]`, all produced the refusal, none explained it, and all closed on the same wordless action. **Evaluate every field twice and cut only what fails both.**
+`[refused]` — a character declining to answer something on the page — is useless as a descriptive discriminator: its density measures the mapper, not the scene, and it reverses between model lineages. As an *instruction* it is the strongest field tested. Three writers from three model families, given a move reading `Neither man answers. [refused]`, all produced the refusal, none explained it, and all closed on the same wordless action. **Evaluate every field twice and cut only what fails both.**
 
 **C5. A structure map does not carry duration. — Supported.**
-Three writers put a scene's turn on the right beat, belonging to the right person, and all three spent a paragraph where the author spent one sentence. Duration is missing at beat scale. It is also missing at scene scale: Daniel's account of why a major character's death runs 295 words is that the reader has carried the anticipation for half a novel, and dwelling would dampen it. The map's own format hides this — a beat taking one sentence looks identical to a beat taking a paragraph — which is why all three expanded and none noticed.
+Three writers put a scene's turn on the right move, belonging to the right person, and all three spent a paragraph where the author spent one sentence. Duration is missing at move scale. It is also missing at scene scale: Daniel's account of why a major character's death runs 295 words is that the reader has carried the anticipation for half a novel, and dwelling would dampen it. The map's own format hides this — a move taking one sentence looks identical to a move taking a paragraph — which is why all three expanded and none noticed.
 
 **C6. The reader is a party to the scene and must be tracked like one. — Supported.**
 Two independent findings landed here. A forward map produced a scene whose hinge changes no character at all: the reader learns something the POV misses and the parents already knew. And C5's duration finding is unstatable without recording what the reader arrives carrying. `knowledge-ledger.md` has eleven ironic rows — facts the reader holds and the characters do not — and until now recorded acquisition for characters and nothing for the reader.
@@ -53,11 +53,11 @@ Two independent findings landed here. A forward map produced a scene whose hinge
 This was the main risk against the whole approach: that a map detailed enough to write from degrades drafting into inflating each line into a paragraph. Four drafts, three model families, two scenes: none reproduced the staccato that made the existing Cretaceous drafts unusable, and several landed within noise of the author's own sentence profile. Whatever causes that failure, it is not having a plan.
 
 **C8. Brief grain drives sentence rhythm. — WITHDRAWN.**
-Reported 2026-09-09 on a single controlled pair: a coarser map produced 34.0% short sentences against a finer map's 24.2%. **The control was confounded** — the two maps came from different mappers, so grain and map authorship varied together. A larger manipulation (1 beat per 100 words against 1 per 24, same scene, same model, same target) produced 21.5% against 19.5%, both on target. Four times the manipulation, one tenth the effect.
-*What replaced it:* nothing yet. The staccato remains unexplained. A live successor claim — that **total specification** matters rather than its division into beats — is compatible with all the data and untested. See §7.
+Reported 2026-09-09 on a single controlled pair: a coarser map produced 34.0% short sentences against a finer map's 24.2%. **The control was confounded** — the two maps came from different mappers, so grain and map authorship varied together. A larger manipulation (1 move per 100 words against 1 per 24, same scene, same model, same target) produced 21.5% against 19.5%, both on target. Four times the manipulation, one tenth the effect.
+*What replaced it:* nothing yet. The staccato remains unexplained. A live successor claim — that **total specification** matters rather than its division into moves — is compatible with all the data and untested. See §7.
 
 **C9. Forward grain and derived grain are different quantities. — Supported.**
-Maps derived from finished prose cluster at one beat per 27–38 words. A forward map of an unwritten scene came in at one per 100, and not through laziness: a derived map records every move that *happened*, a forward map records every move an author can *decide* before writing. Most of a derived map's content is discovered in the writing. Any rule that sets a beat target for briefs from measurements of finished prose is asking briefs to invent structure they have no basis for choosing.
+Maps derived from finished prose cluster at one move per 27–38 words. A forward map of an unwritten scene came in at one per 100, and not through laziness: a derived map records every move that *happened*, a forward map records every move an author can *decide* before writing. Most of a derived map's content is discovered in the writing. Any rule that sets a move target for briefs from measurements of finished prose is asking briefs to invent structure they have no basis for choosing.
 
 ## 3. The pipeline
 
@@ -66,12 +66,12 @@ Four stages. Each answers a different question, and the point of the split is th
 ```
 scene list        intent      why this scene exists; what it must carry
      ↓
-forward map       decisions   ~1 beat / 100 words · the join table · IN, SPINE, beats, OUT
+forward map       decisions   ~1 move / 100 words · the join table · IN, SPINE, moves, OUT
      ↓
 invention ledger  authorize   everything the scene must invent, proposed for a
                               yes/no before any prose exists  ← author checkpoint
      ↓
-beat sheet        expansion   ~1 beat / 25-30 words · invents the undecided moves · structure only
+move sheet        expansion   ~1 move / 25-30 words · invents the undecided moves · structure only
      ↓
 prose             voice       one pass, one mind holding the scene at once
 ```
@@ -92,7 +92,7 @@ prose             voice       one pass, one mind holding the scene at once
 
 **The expansion stage is the newest and least established.** Its rationale: somebody must invent the moves that lie between the decided ones — the specific deflection, the gesture, the interruption. Currently that is the drafter, inventing structure and producing sentences simultaneously under a word target. The expansion stage moves that invention somewhere with no obligation to produce a sentence, and makes it reviewable before any prose exists.
 
-Its case does not rest on rhythm (see C8). It rests on what it produced: given a forward map beat reading *"Riel fills the gourds, counting aloud. There are four,"* the expansion returned *"Riel stops one gourd at the same marked line as the others"* and, later, *"Riel holds the dipper above the fourth gourd until it empties"* and *"the water line trembles in all four gourds as the nest sways."* Three moves that deepen a plant the plan says must never be remarked on, none decidable at forward-map altitude.
+Its case does not rest on rhythm (see C8). It rests on what it produced: given a forward map move reading *"Riel fills the gourds, counting aloud. There are four,"* the expansion returned *"Riel stops one gourd at the same marked line as the others"* and, later, *"Riel holds the dipper above the fourth gourd until it empties"* and *"the water line trembles in all four gourds as the nest sways."* Three moves that deepen a plant the plan says must never be remarked on, none decidable at forward-map altitude.
 
 **Drafting stays one pass.** Factoring the *decisions* into layers is the whole method; factoring the *writing* into layers gives committee prose. This is not in dispute.
 
@@ -114,17 +114,17 @@ SPINE  the one continuous thing the scene hangs on — a hand-task, an
        argument, an approaching threat, a list of objects. May be handed
        off mid-scene; say so if it is. Some scenes have none.
 
-1..n   beats: one move by one party, in order. The world is a party.
-       A feeling is not a beat.
+1..n   moves: one move by one party, in order. The world is a party.
+       A feeling is not a move.
        types:  [image] [ledger] [spine] [body] [refused] [turn] [opens] [closes]
        turn:   name who it happens to. Often not the speaker. May be a
                silent listener, or READER ONLY.
-       links:  [answers N] · [pays <scene>.<beat>] · [plants → <scene>]
-               [requires <scene>.<beat> — what it needs to still be true]
-                 written on the DEPENDENT beat, and carrying a payload:
+       links:  [answers N] · [pays <scene>.<move>] · [plants → <scene>]
+               [requires <scene>.<move> — what it needs to still be true]
+                 written on the DEPENDENT move, and carrying a payload:
                  `[requires 2.3.17 — four gourds filled for three, unremarked]`
                  not `[requires 2.3.17]`. See §5.4.
-       duration: mark beats that run long (`~15% of scene`) AND beats that
+       duration: mark moves that run long (`~15% of scene`) AND moves that
                must land in a single sentence. Both directions.
 
 OUT    deltas only, against IN
@@ -142,11 +142,11 @@ Checkable by walking the maps. No prose is read.
 1. **State closure.** Exit state of scene N equals entry state of scene N+1. Catches time, weather, injury, inventory, and location drift.
 2. **Ledger payment.** Every ironic row in the knowledge ledger is either *delivered* — named in exactly one scene's `OUT — READER` — or *accumulated*, contributed to by several scenes and completed in exactly one named completion scene. Named nowhere means the reader never gets it. Named twice as delivered means the narrative is telling them what they already know.
 3. **Scheduled arrivals.** Every `[turn — READER ONLY]` corresponds to a ledger row. Catches a map inventing a payment the ledger does not know it owes.
-4. **Dependency symmetry.** Every `[requires]` resolves to a beat that still exists, and every `[pays]`/`[plants]` has a matching `[requires]` at the far end. Plants are rarely broken by editing the plant; they are broken by moving or cutting it while working on something else, and a forward-only pointer is invisible from where the damage appears.
+4. **Dependency symmetry.** Every `[requires]` resolves to a move that still exists, and every `[pays]`/`[plants]` has a matching `[requires]` at the far end. Plants are rarely broken by editing the plant; they are broken by moving or cutting it while working on something else, and a forward-only pointer is invisible from where the damage appears.
 
-   **And every `requires` states what it needs, not just where it lives.** Address resolution catches deletion and movement. It does not catch the failure this corpus has actually suffered: someone edits the source beat, it survives at the same address, and now reads *"Riel fills three gourds and mentions a fourth."* The pointer resolves, the check passes, the plant is dead. Every serious continuity failure here has been of that kind with addresses intact throughout — a suit with no faceplate in one file and a visor, regulator and filter in three others; a child two and a half years old in one scene and three weeks in the next; a calendar declaring no season pivot beside its own table naming the last day of the dry season. **Pointer integrity is not semantic integrity.** The payload converts a link check into a contract: the dependent beat states what it needs, and anyone editing the source can see what they would break without knowing who depends on them.
+   **And every `requires` states what it needs, not just where it lives.** Address resolution catches deletion and movement. It does not catch the failure this corpus has actually suffered: someone edits the source move, it survives at the same address, and now reads *"Riel fills three gourds and mentions a fourth."* The pointer resolves, the check passes, the plant is dead. Every serious continuity failure here has been of that kind with addresses intact throughout — a suit with no faceplate in one file and a visor, regulator and filter in three others; a child two and a half years old in one scene and three weeks in the next; a calendar declaring no season pivot beside its own table naming the last day of the dry season. **Pointer integrity is not semantic integrity.** The payload converts a link check into a contract: the dependent move states what it needs, and anyone editing the source can see what they would break without knowing who depends on them.
 
-   **Corollary — an unresolved `requires` is a work queue.** A beat naming a scene that does not exist yet is telling you what has to be written first. Walk the maps, collect the unresolved pointers, and build order falls out of the annotation rather than being chosen. That matters most for a book drafted out of order: a sequence that depends on something unwritten announces itself before anyone drafts it.
+   **Corollary — an unresolved `requires` is a work queue.** A move naming a scene that does not exist yet is telling you what has to be written first. Walk the maps, collect the unresolved pointers, and build order falls out of the annotation rather than being chosen. That matters most for a book drafted out of order: a sequence that depends on something unwritten announces itself before anyone drafts it.
 
 ## 6. Tests
 
@@ -156,7 +156,7 @@ Each states its question, its method, and what result kills the claim.
 
 **T2 — Generative.** *Can a scene be written from a map, and what does the map fail to determine?* Give the same map to writers from different model families; whatever they disagree on is what the map does not carry. **Run 2026-09-09.** Yielded C4, C5 and C7.
 
-**T3 — Expansion stage.** *Does the beat sheet earn its existence?* Same scene, same model, same target: draft from the forward map, and draft from an expanded beat sheet. **Run 2026-09-10**, partially. Rhythm: indistinguishable, both on target. Content: the expansion invented material the forward map could not specify. **Not yet judged blind by Daniel, which is the judgment that decides the stage.** If the expansion earns nothing, the stage does not exist.
+**T3 — Expansion stage.** *Does the move sheet earn its existence?* Same scene, same model, same target: draft from the forward map, and draft from an expanded move sheet. **Run 2026-09-10**, partially. Rhythm: indistinguishable, both on target. Content: the expansion invented material the forward map could not specify. **Not yet judged blind by Daniel, which is the judgment that decides the stage.** If the expansion earns nothing, the stage does not exist.
 
 **T4 — State closure sweep.** *Does the continuity invariant catch real defects at novel scale?* Derive maps for every written scene, walk §5.1 across the sequence, compare the defect list against what a human reader or the logic-checker prompt finds independently. **Not run.** Kills C2 if the sweep finds only what a careful read already finds.
 
@@ -166,11 +166,11 @@ Each states its question, its method, and what result kills the claim.
 
 ## 7. What we do not know
 
-- **What causes the staccato.** 41.6% short sentences in the existing drafts against ~26% in the target. Not underspecification (C8). The live hypothesis is total specification rather than beat count, untested.
+- **What causes the staccato.** 41.6% short sentences in the existing drafts against ~26% in the target. Not underspecification (C8). The live hypothesis is total specification rather than move count, untested.
 - **Whether the expansion stage survives blind judgment** (T3).
 - **Whether shingling is necessary** (T5, C3).
-- **Whether beat density has any regularity at all.** It is not measurable in absolute terms — two mappers under identical instructions on identical text differ by ~30%. It may be measurable as a within-author ratio; the one measurement showed an author varying density across scenes by ~2.85× and generated prose by 1.2–1.7×, carried almost entirely by a single pair.
-- **How to verify an accumulated ledger payment.** A delivered row is checkable — one beat, one scene. "The reader now has enough to have revised" is a judgment, and the completion-scene mechanism makes it *locatable* without making it *verifiable*.
+- **Whether move density has any regularity at all.** It is not measurable in absolute terms — two mappers under identical instructions on identical text differ by ~30%. It may be measurable as a within-author ratio; the one measurement showed an author varying density across scenes by ~2.85× and generated prose by 1.2–1.7×, carried almost entirely by a single pair.
+- **How to verify an accumulated ledger payment.** A delivered row is checkable — one move, one scene. "The reader now has enough to have revised" is a judgment, and the completion-scene mechanism makes it *locatable* without making it *verifiable*.
 
 ## 8. Standing hazards
 
@@ -192,7 +192,7 @@ Failure modes this project has actually hit. Each cost real work.
 
 *The test is the provenance test aimed at force rather than content: does the rule cite something?* "Complete sentences in narration" cites a line-by-line critique. "Cold is not a hazard" cites 28–32 °C water. Those keep their force. A rule citing nothing becomes a guideline with its reasoning visible, so a drafter can tell when breaking it is right.
 
-**Measurements become targets.** A number stated as a finding gets read as an instruction. A per-scene word target, a beat-count target, a sentence-length target: all three appeared here, and all three were wrong, because the right value is set by the job and the context and not by an average.
+**Measurements become targets.** A number stated as a finding gets read as an instruction. A per-scene word target, a move-count target, a sentence-length target: all three appeared here, and all three were wrong, because the right value is set by the job and the context and not by an average.
 
 ## 9. Applying this to a new novel
 

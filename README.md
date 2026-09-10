@@ -36,7 +36,6 @@ The story runs fourteen days. A child dies in the Vitarium because the last Mast
 | `foreshadow-and-motif.md` | plants paired with payoffs, signal levels, motif budgets | **no** |
 | `tech-rules.md` | every capability audited for where its rule is taught and where it is exploited | **no** |
 | `minor-characters.md` | everyone but the three; four `[provisional]` names | **no** |
-| `scene-maps/` | forward maps and invention ledgers, one per scene | scene 1.1 only, unapproved |
 
 ### `prompts/` — what you hand a model
 
@@ -48,7 +47,7 @@ The story runs fourteen days. A child dies in the Vitarium because the last Mast
 
 ### `content/` — prose
 
-`MANIFEST.md` explains the layout. `epigraphs.md` holds the thirteen archival fragments. `superseded/` is the ten drafted Act 1 scenes, retained for reference only. `rejected/` is labeled failures, kept because they are useful negatives. `01.1.md` is the first scene drafted under the new process.
+`epigraphs.md` holds the thirteen archival fragments. `superseded/` is the ten drafted Act 1 scenes, retained for reference only. `rejected/` is labeled failures, kept because they are useful negatives, each carrying a line saying why it was rejected. **No approved prose exists yet** — the novel has not been written.
 
 ### `.ignored/` — working documents, untracked
 

@@ -52,26 +52,26 @@ If a layer's allocation refers to a scene by number, check which scene list it w
 
 ## Phase 2 — Forward map
 
-Build the scene structure map per `methodology-theory.md` §4. Roughly one beat per 100 words of intended prose. This is the join table: every allocation from phase 1 gets bound to a **position**, not just to the scene.
+Build the scene structure map per `methodology-theory.md` §4. Roughly one move per 100 words of intended prose. This is the join table: every allocation from phase 1 gets bound to a **position**, not just to the scene.
 
 Requirements that exist because they were violated:
 
 - **Every character present gets a `wants` line.** Not just the POV. A character with no want is furniture, and Daniel will hate them.
 - **A world-facts block in IN** — the physical facts of the location the scene will touch, stated so the drafter never has to invent them. Where things are kept. Where animals sleep. Heights, distances, temperature, light.
-- **Beats state what a move *does*, not what it looks like.** "Riel describes a stretch of ground: distances, terrain, one hazard" produced non-sequitur drivel because the beat had a shape and no function.
+- **Moves state what a move *does*, not what it looks like.** "Riel describes a stretch of ground: distances, terrain, one hazard" produced non-sequitur drivel because the move had a shape and no function.
 - **Voice traits carry a scope.** "Riel counts" without bounds metastasized into a whole family obsessed with precision measurement.
 - **Every `[requires]` carries a payload** — what it needs to still be true, not just where it lives.
 
 ## Phase 3 — Check the map, before anything else
 
-Run the four invariants from `methodology-theory.md` §5 **against the map itself.** The 2.3 map promised a reader payment that no beat delivered, sat in the open for a day, and neither of two AI sessions noticed.
+Run the four invariants from `methodology-theory.md` §5 **against the map itself.** The 2.3 map promised a reader payment that no move delivered, sat in the open for a day, and neither of two AI sessions noticed.
 
 1. State closure against the neighboring scenes.
-2. Every ledger row named in `OUT — READER` is paid by a beat.
+2. Every ledger row named in `OUT — READER` is paid by a move.
 3. Every `[turn — READER ONLY]` corresponds to a ledger row.
 4. Every `[requires]` resolves, and its payload is still true at the far end.
 
-Then re-read the scene-list entry and confirm every "must carry" item has a beat.
+Then re-read the scene-list entry and confirm every "must carry" item has a move.
 
 ## Phase 4 — Invention ledger — **STOP HERE**
 
