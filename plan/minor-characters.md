@@ -1,6 +1,6 @@
 # Character register
 
-Everyone but the three protagonists and Noli, who are in `prompts/milieu-brief.md` §9. Names are drawn from `kb/worldbuilding/names.md`; a name used here is spent.
+Everyone but the three protagonists and Noli, who are in `plan/milieu-brief.md` §9. Names are drawn from `kb/worldbuilding/names.md`; a name used here is spent.
 
 Entries marked **[provisional]** were decided during the 2026-09-07 corpus repair to close a gap, are reasoned in `.ignored/repair-log.md`, and are cheap to change.
 
@@ -24,7 +24,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Omya** — grandmother. The last Master Keeper, with dementia. Some days lucid, some days not; can recite most of the synthesis protocol and drop a critical step. Submits to being tested in public, which costs her everything and which she does anyway, because three Masters are required and she is the only one left.
 
-**She is also the last of the Watch, and nobody has noticed.** Keepers hold a memorized sky, drilled and verified nightly for 206 years, precise enough that anything new in it would be obvious — see `prompts/milieu-brief.md` §5. A watch that finds nothing is indistinguishable from a watch that is not happening, so while the whole colony measures the death of the synthesis protocol, this half of her is going unmeasured and unmourned. **The impactor could already be findable and there is nobody left who would know.**
+**She is also the last of the Watch, and nobody has noticed.** Keepers hold a memorized sky, drilled and verified nightly for 206 years, precise enough that anything new in it would be obvious — see `plan/milieu-brief.md` §5. A watch that finds nothing is indistinguishable from a watch that is not happening, so while the whole colony measures the death of the synthesis protocol, this half of her is going unmeasured and unmourned. **The impactor could already be findable and there is nobody left who would know.**
 
 **And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:49`) because Teva was being trained for this.
 
@@ -48,11 +48,11 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Sila** — Elder, female, Traditionalist. *"Better to die with a clean soul than to live as contaminants."* Sits at the center of the dais; **where everyone else in the room looks weary, the crisis energizes her** (`content/superseded/03.1.md:17`), which is the tell. She is unmoved even by Elana — *"The grief is raw. But the protocol…"*
 
-**She is descended from Dr. Cecilia Arroyo**, the mission's lead geneticist and the recurring voice of the epigraphs — and her name is Cecilia worn down across 206 years. The colony remembers Arroyo as a near-saint of the Mission, and Sila speaks for her constantly. The reader has Arroyo's actual letters, which are warm, doubting and mostly about her sister's garden. **Sila is therefore the proof of drift rather than an exception to it**: sincerely misrepresenting the person she most reveres. See `prompts/knowledge-ledger.md`.
+**She is descended from Dr. Cecilia Arroyo**, the mission's lead geneticist and the recurring voice of the epigraphs — and her name is Cecilia worn down across 206 years. The colony remembers Arroyo as a near-saint of the Mission, and Sila speaks for her constantly. The reader has Arroyo's actual letters, which are warm, doubting and mostly about her sister's garden. **Sila is therefore the proof of drift rather than an exception to it**: sincerely misrepresenting the person she most reveres. See `plan/knowledge-ledger.md`.
 
 **She is the adult who does not change.** Not redeemed, not softened, exactly what the teenagers thought. Without her the nuance arc becomes cheap absolution and reads as a lesson being administered. She is also deliberately *not* the sequel antagonist: she is fully known by the end of her first scene, and a zealot who cannot be argued with is a wall rather than an opponent.
 
-**But she is right about the danger, and that is what makes her worth writing.** See `prompts/milieu-brief.md` §6 — the trace risks are genuinely unsolvable. Trackways, hearth charcoal, two centuries of occupation deposits in the kiva floor, middens, a cultivated cycad strain that is a genetic artifact walking around loose. Sila is not paranoid; she is looking at a list nobody can fix and choosing rigidity because rigidity is the only available response.
+**But she is right about the danger, and that is what makes her worth writing.** See `plan/milieu-brief.md` §6 — the trace risks are genuinely unsolvable. Trackways, hearth charcoal, two centuries of occupation deposits in the kiva floor, middens, a cultivated cycad strain that is a genetic artifact walking around loose. Sila is not paranoid; she is looking at a list nobody can fix and choosing rigidity because rigidity is the only available response.
 
 **Her error is not factual. It is the conclusion she draws from correct premises**, and the conclusion is monstrous: *better to die with a clean soul than to live as contaminants*, said in a week when children are dying for want of a vector. Correct about the world, wrong about what a person owes another person. That is a far better antagonist than a fool, it keeps her entirely unredeemed, and it distinguishes her precisely from Hesh — who is also right on the facts, but whose conclusion is defensible.
 
@@ -60,7 +60,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: the First Walk left Genesis with two hundred and reached the Enclave with ninety-four, across three years, with rifles and plasma cutters. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
 
-**He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has twenty years and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `prompts/act-1-context.md` §IV.
+**He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has twenty years and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `plan/knowledge-ledger.md`, rows N–S.
 
 ## The bereaved
 

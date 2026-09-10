@@ -7,9 +7,9 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 ## ACT 1: THE FAILING WORLD (Beats 1-4) — RESCENED, 14 scenes
 
-*Rescened 2026-09-07 against `prompts/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
+*Rescened 2026-09-07 against `plan/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
 
-Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §5. **Plants** are entries in the misjudgment ledger (`act-1-context.md` §IV) or the knowledge ledger (`knowledge-ledger.md`).
+Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §5. **Plants** are entries in `knowledge-ledger.md`, whose rows N–S carry the misjudgment ledger.
 
 Act 1 runs from an evening to the pre-dawn of the day after next — **about thirty-six hours.** The crisis is a fuse, not a season.
 
@@ -188,7 +188,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 9.3 [Day 11 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
 * **B-Story Note:** **Intellectual Loss**. The loss of his fieldpack (and his theoretical work) symbolizes the loss of his last physical connection to his **Vindication** arc, reinforcing his belief in failure.
 
-9.4 [Day 12 - Dawn] [BENAL] [Coral Bank (Genesis Site)] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' and 'black volcanic rock'. Small, iridescent crabs scatter.]
+9.4 [Day 12 - Dawn] [BENAL] [Genesis Site — a spit of land ringed by coral] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' — **not volcanic rock**; `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of platform limestone, marl and evaporites over a Carboniferous granitic basement, with no volcanics anywhere on the Yucatan platform. Small, iridescent crabs scatter.]
 * **B-Story Note:** **Ultimate Defeat**. The collective belief that they have failed their mission and sacrificed their families for nothing.
 
 ### BEAT 10: DARK NIGHT OF THE SOUL
@@ -200,7 +200,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 11: BREAK INTO THREE
 
-> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `prompts/act-3-context.md` §0 — beats 12, 13 and 14 each need splitting.
+> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §4 — beats 12, 13 and 14 each need splitting.
 
 
 11.1 [Day 12 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
@@ -218,7 +218,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 14: THE CONFRONTATION
 
-> Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `prompts/knowledge-ledger.md`.
+> Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `plan/knowledge-ledger.md`.
 
 
 14.1 [Day 13 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".

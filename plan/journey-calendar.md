@@ -68,7 +68,9 @@ The dependency order:
 
 **The existing scene list gets this wrong at 6.1** — "the first major rains have begun, the river visibly swollen, fast, and opaque with mud" — and it breaks the trick that same list specifies. Struck.
 
-### There is no season pivot, and there does not need to be one
+### There are no seasons and no pivot — only weather that changes
+
+**Daniel's ruling, 2026-09-10:** *"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* Where earlier drafts of this file said *season*, read *a run of days with similar weather*; the novel is fourteen days long and nothing seasonal is observable inside it. The language below has been corrected to say what it means.
 
 I over-egged this and the research contradicts it. `geo-flora-fauna.md:44` says rainfall was **"moderate and relatively evenly distributed throughout the year, suggesting a pattern of wet and dry seasons rather than a constant monsoon."** A dramatic seasonal turn observable inside fourteen days is not supported.
 
@@ -106,14 +108,14 @@ They do not get lucky nine times. They get lucky once, at the one place luck was
 
 ### The score
 
-They leave at the end of the dry season and the rains arrive behind them, so the journey worsens as it goes and weather is an escalation instrument rather than scenery. The cyclone is the season's peak, not a coincidence.
+They leave on the last of a dry spell and the rain arrives behind them, so the journey worsens as it goes and weather is an escalation instrument rather than scenery. The cyclone is the wet spell at its worst, not a coincidence.
 
 | day | sky and air | temperature | light | dramatic function |
 |---|---|---|---|---|
 | **1** | overcast, dead still, no rain | hot, close | failing; the Vitarium lit only by its own cultures | pressure with no release. The stillness is the point — nothing outside acknowledges what happened inside. |
 | **2** | clear dawn → heat building → **afternoon convective storm** → clearing at dusk → night mist → **ground fog before dawn** | hot, then the storm cools it, then damp cold before light | hard morning slats through the vine walls; storm-dark; then a scoured evening; then three meters of visibility | The whole day is one coherent system, and it is already right in the drafts: afternoon storm, evening clearing, radiative cooling, dawn fog. **The fog is what lets them leave.** |
-| **3** | fog burns off → **dead still, hot, cloudless. The last day of the dry season.** | hot and rising | glare after fog; then a river like a sheet of metal | **The languid day.** Low glassy water, and everything in it listening. Mechanically required by the decoy (§3). Also the **insect day** — still, hot, post-storm air is when the biters are worst, so the crossing is fought while they are being eaten. |
-| **4** | **the wet season arrives.** Rain on and off, and it does not properly stop for two days | warm, saturating | **bright overhead, blind at chest height** — see the canopy note in `milieu-allocation.md` | The season closes behind them. Benal's sensory assault at maximum: rain on a raised hood, everything loud, and the thing he cannot do is *see*. |
+| **3** | fog burns off → **dead still, hot, cloudless. The last dry day.** | hot and rising | glare after fog; then a river like a sheet of metal | **The languid day.** Low glassy water, and everything in it listening. Mechanically required by the decoy (§3). Also the **insect day** — still, hot, post-storm air is when the biters are worst, so the crossing is fought while they are being eaten. |
+| **4** | **the rain arrives.** On and off, and it does not properly stop for two days | warm, saturating | **bright overhead, blind at chest height** — see the canopy note in `milieu-allocation.md` | The dry ground closes behind them. Benal's sensory assault at maximum: rain on a raised hood, everything loud, and the thing he cannot do is *see*. |
 | **5** | heavy overcast, no wind | warm, airless | lowest light of the book outside a cave | **Ambush weather.** The constrictor is the color of dead leaves and shadow, and there is no shadow-free ground. |
 | **6** | **clear, dry, a breeze** | warm and bearable | good light all day | **The gift.** The only easy day in the novel. Give it to charm, to Noli, to the intimacy layer, to the inside jokes. Everything after Day 7 is paid for out of what this day deposits. |
 | **7** | cloudless | **brutal** | shadowless midday; heat shimmer | Kills Teva slowly and flatters Keo. The one day the sun is the antagonist. |
@@ -129,9 +131,11 @@ They leave at the end of the dry season and the rains arrive behind them, so the
 
 **No two adjacent days share a register.** The table above never repeats a sky twice running, and any rescene must preserve that.
 
-**Weather is differentially dangerous, and that is the instrument.** Heat is Teva's enemy and Keo's flattery — and heat is her *only* climatic enemy, because her thermal failure runs one way. Rain is Benal's enemy, because it is *noise*, and Keo's, because he is unsuited and then injured. Fog favors them. Sun favors the flybeak. **Every weather assignment should hurt at least one of the three and help at least one.** A day that hurts everyone equally is a day the weather is doing nothing.
+**Weather is differentially dangerous, and that is the instrument.** Heat is Teva's enemy and Keo's flattery — and heat is the only weather that can *kill* her, though not the only weather she feels. Rain is Benal's enemy, because it is *noise*, and Keo's, because he is unsuited and then injured. Fog favors them. Sun favors the flybeak. **Every weather assignment should hurt at least one of the three and help at least one.** A day that hurts everyone equally is a day the weather is doing nothing.
 
-**Cold is a symptom in this book, never a climate.** This world has no cold in it to threaten anyone. Maastrichtian tropical shelf water runs 28–32 °C, mean annual air temperature is 20–24 °C (`kb/worldbuilding/geo-flora-fauna.md`), and rain lands near the wet-bulb — call it 22 °C, which is a warm shower. Nobody is killed by weather that is merely wet, no matter how long it lasts, and **cold-water shock is not available at any depth they can reach**: the response needs water below about 15 °C and there is none.
+**Cold is real, and it is never lethal.** This world has no cold in it that can threaten anyone. Maastrichtian tropical shelf water runs 28–32 °C, mean annual air temperature is 20–24 °C (`kb/research/geo-flora-fauna.md`), and rain lands near the wet-bulb — call it 22 °C, which is a warm shower. Nobody is killed by weather that is merely wet, no matter how long it lasts, and **cold-water shock is not available at any depth they can reach**: the response needs water below about 15 °C and there is none.
+
+**Where cold does show up, it is a place rather than a sky, and Teva feels it first.** A limestone cave. Wet skin in cyclone wind. Both are abnormal for this world, both are miserable, and both are survivable by ordinary means — getting dry, finding a covering, waiting for the sun. Write the discomfort and its cost in concentration and morale; do not write it as a threat to anyone's life, and do not let the suit solve it, because the suit is a cooler.
 
 So when a character feels cold — and they should, often — it is coming from **inside** them. Starvation impairs thermoregulation, and by Day 9 they are several kilos down (`body-and-resources.md` §1). Blood loss does it. Exhaustion does it. Teva's broken regulation does it worst. That is why `body-and-resources.md` can say *cold at night*, *thin, cold, quiet* and be exactly right, while "cold rain" is wrong: the first is a body failing and the second is a claim about the sky. **Write the symptom, never the climate.** The one genuine external chill in the book is evaporative — wet skin, wind, eighteen hours of cyclone tail on Day 12 — and even that is misery rather than a mechanism of death.
 
@@ -147,7 +151,7 @@ And Benal knows what it would take. You would need instruments, and the instrume
 
 ### The Watch, and what Omya is also losing
 
-See `prompts/milieu-brief.md` §5. **Sky-watching is a Keeper duty**, and the Keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one Keeper to the next and checked against the real sky every clear night for 206 years. They are not looking *for* the impactor, which no unaided eye can see. They maintain a reference exact enough that **anything which was not there before becomes obvious.**
+See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty**, and the Keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one Keeper to the next and checked against the real sky every clear night for 206 years. They are not looking *for* the impactor, which no unaided eye can see. They maintain a reference exact enough that **anything which was not there before becomes obvious.**
 
 **And nobody has noticed that the Watch is dying too**, because a watch that finds nothing is indistinguishable from a watch that is not happening. The whole colony is measuring the loss of the synthesis protocol. The other half of Omya is going unmeasured.
 

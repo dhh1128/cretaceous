@@ -26,7 +26,7 @@ The failure this exists to prevent: every character sounding like the same compe
 
 **Tics.** Commands rather than requests. Present tense. Names the thing and stops.
 
-**Never says.** Anything about her own body — not tired, not cold, not hurt, not afraid. This is absolute and it is how the reader tracks her decline, because it can only be shown from outside.
+**Never says.** Anything about her own body — not tired, not cold, not hurt, not afraid. Hold this hard — it is how the reader tracks her decline, because it can only be shown from outside.
 
 **Answers** with an instruction, or with the shortest true thing.
 
@@ -42,7 +42,7 @@ The failure this exists to prevent: every character sounding like the same compe
 
 **Answers** with data, and with rhetorical questions that are really arguments — *"Will you use your magnetic sense to navigate a command prompt?"*
 
-**Funny about:** death, immediately, in the flattest possible register, and **he does not know he is being funny.** *"Sky or ground. Pick your death."* He carries the book. See `prompts/humour-plan.md`.
+**Funny about:** death, immediately, in the flattest possible register, and **he does not know he is being funny.** *"Sky or ground. Pick your death."* He carries the book. See `plan/humour-plan.md`.
 
 ## The adults
 
@@ -113,4 +113,4 @@ Standing refusals for this novel:
 2. **Indirect answers at plot-critical moments are the norm**, not a flourish. A character answering the question they were asked is the exception.
 3. **Register is a thermometer.** Benal's stammer, Keo's *Ben*/*Benal*, Teva's word count. The reader tracks these without knowing it.
 4. **Nonce verb coinages in dialogue are encouraged and must fire exactly once** — see `kb/worldbuilding/lingo.md` §4. A coinage that recurs has become a dialect word, which is the failure the cordimancy dossier warns about.
-5. **No character is articulate about their own feelings.** Not one, not ever. The nearest anyone comes is 10.1, and even there it comes out sideways.
+5. **Nobody here is articulate about their own feelings.** An exception is something to be earned rather than reached for. The nearest anyone comes is 10.1, and even there it comes out sideways.

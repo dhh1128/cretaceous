@@ -4,7 +4,7 @@ Planning layer B6, book-wide. The world is a finite set of striking things, and 
 
 It is also the richness instrument. A world feels large when each scene shows one new true thing, not when one scene shows twenty.
 
-Granularity is the **day and the biome band**, so this survives the Act 2 and Act 3 rescene. Calendar and weather: `prompts/journey-calendar.md`. Source inventory: `kb/worldbuilding/geo-flora-fauna.md`.
+Granularity is the **day and the biome band**, so this survives the Act 2 and Act 3 rescene. Calendar and weather: `plan/journey-calendar.md`. Source inventory: `kb/research/geo-flora-fauna.md`.
 
 ---
 
@@ -69,7 +69,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *Muzquizopteryx* | 11 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
 | sea turtles, nesting | 11 | already allocated to 9.1 as the croc distraction. |
 | *Mosasaurus* | 11 | night, the raft. |
-| ***Tyrannosaurus rex*** | **10, once, at distance** | **Never a close encounter, in this book.** It is present in every scene by smell — the Barrier is synthesised from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 10 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
+| ***Tyrannosaurus rex*** | **10, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesised from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 10 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
 
 **Not allocated, held in reserve:** *Albertosaurus*, *Coahuilaceratops*, *Bravoceratops*, *Magnapaulia*, *Avisaurus*, *Alphadon*, *Meniscoessus*, *Coniophis*, *Polyglyphanodon*. Do not spend these without moving something else off the list.
 
@@ -153,7 +153,7 @@ Each of these is owned once. The number is the day.
 
 ## 6. Rules
 
-1. **One showcase per species.** After its day, it is a shape, a sound, a smell or an absence.
+1. **One showcase per species** is the working budget. After its day, it is a shape, a sound, a smell or an absence.
 2. **The Enclave's biology is worked; the outside is not.** Everything at home is cultivated, maintained, kill-switched. That contrast is the fastest way to convey what they have built.
 3. **Describe what no reader has experienced.** Ordinary mud, rain, blisters and heat are free — the reader supplies them. Spend words on the ferocity of a gaze in a treeline, the texture of croc hide, the taste of cycad mash. See `writing-style-v2.md`.
 4. **Day 6 is the reserve of pleasure.** It holds the saropo herd, the good water, the oaks, the one harmless croc, the bioluminescence. Every awful thing after it is paid for out of that day.

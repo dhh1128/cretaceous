@@ -1,6 +1,6 @@
 # Humour plan
 
-Planning layer B11. Read alongside `prompts/act-1-context.md` and `prompts/description-reports.md` before drafting any scene.
+Planning layer B11. Read alongside `plan/description-reports.md` before drafting any scene.
 
 ## The problem, measured
 
@@ -61,7 +61,7 @@ Four beats before the midpoint remains a reasonable floor. But **write the opini
 ## Budget and placement
 
 - **Roughly one comic beat per scene through Act 1 and the first half of Act 2.** Not a joke — a beat, which may be one line or a piece of business.
-- **Placement is immediately before or immediately after peak tension, never during.** A joke inside a crisis dissolves the crisis. A joke on the far side of one is release, and a joke just before one is the thing the reader will remember when it goes wrong.
+- **Placement is before or after peak tension rather than inside it.** A joke inside a crisis tends to dissolve the crisis. A joke on the far side of one is release, and a joke just before one is the thing the reader will remember when it goes wrong.
 - **The frequency should fall after the midpoint and not recover** — except Benal's, which rises. That crossing is the point.
 - Act 3 gets almost none until the final image, where one small callback does more than a paragraph.
 

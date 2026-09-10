@@ -1,6 +1,6 @@
 # Drifted vocabulary — Cretaceous Colony English
 
-**CANON.** This list is closed. Terms not on it are not colony vocabulary, and inventing new ones during drafting is a defect, not a flourish. The previous version of this file held 108 generated terms that contradicted the milieu brief roughly forty times; everything cut is preserved with reasons in `attic.md`.
+**CANON.** This list is closed. Terms not on it are not colony vocabulary, and inventing new ones during drafting is a defect, not a flourish. The previous version of this file held 108 generated terms that contradicted the milieu brief roughly forty times; everything cut is recoverable from git history.
 
 ## The principle
 

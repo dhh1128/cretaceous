@@ -73,9 +73,9 @@ That converts a link check into a **contract**: the dependent beat states what i
 
 Each carries a count and a spacing. **A motif that appears in every chapter is wallpaper.**
 
-### Counting — 8 to 10 appearances, evenly spread
+### Counting — around 8 to 10 appearances, evenly spread. The numbers in this section are targets for spacing, not caps.
 
-The strongest available and it is already everywhere without having been noticed. Riel folds her fingers down one at a time. Hesh does the First Walk arithmetic. 941 minds. Twelve suits, ten that work, eleven if Sarel's is repairable. Eighty kilometers. Eighty percent of a protocol, which is worth nothing. Position one-oh-seven.
+The strongest available and it is already everywhere without having been noticed. Riel folds her fingers down one at a time. Hesh does the First Walk arithmetic. Twelve suits, ten that work, eleven if Sarel's is repairable. Eighty kilometers. Eighty percent of a protocol, which is worth nothing. Position one-oh-seven.
 
 **Counting is how this society holds itself together — and the one number nobody can produce is the impact date.** That is the motif's payoff and it needs no comment: the culture that counts everything cannot count the only thing that matters.
 
@@ -85,14 +85,14 @@ The Council chamber's bare walls, "a monument to erasure." The archaea that diss
 
 They are a civilization organized entirely around leaving no evidence that it existed — and its whole purpose is to be remembered by the future it is trying to save. That is the book's grimmest joke and it should never be stated.
 
-**Do not let any character articulate this.** It is available to the reader from the accumulation, and one line of commentary would kill it.
+**Better if no character articulates this.** It is available to the reader from the accumulation, and a line of commentary would probably kill it.
 
 ### Water is death — not a motif, a physical law, and it should never be argued for
 
 The mantra is stated early and then **never defended**, because the book proves it five separate ways and the reader assembles the proof themselves:
 
 1. **Crocs.** The primary threat, and mental projection barely touches a hungry one.
-2. **Teva.** Offshore, the magnetic sense that made her the leader is worth nothing. Water is where her competence dies. *(Not her thermal failure — that runs one way, toward heat, and there is no cold water in this world. See `journey-calendar.md` §3.)*
+2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Struck 2026-09-10: an earlier version had her magnetic sense stop working offshore, which is backwards. A heading is worth most where there are no landmarks. Not her thermal failure either — the lethal half of that is heat, and there is no cold water in this world.)*
 3. **The weapons.** Archaea in the shafts wake on sustained wetting. Water eats the things you defend yourself with.
 4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the raft, the fieldpack, and Benal's mathematics.
 5. **Yara.** Eleven meters of open water she had crossed a hundred times.
@@ -119,7 +119,7 @@ Nothing else in the novel states it. Not the narration, not the epigraphs, not B
 ## 4. Rules
 
 1. **Signal level defaults to none.** If a plant needs a paragraph break to be noticed, it is the wrong plant.
-2. **Never revisit a plant to remind the reader.** One placement, one payoff.
+2. **Revisiting a plant to remind the reader usually kills it.** One placement, one payoff, unless there is a reason.
 3. **A motif appearance that does no other work is decoration.** Every instance of counting must also be characterization, plot, or tension.
 4. **Two overt guns, and both are objects** — the third suit on the rack, and the symbol in the flash. Everything else is buried.
-5. **Check `prompts/knowledge-ledger.md` before planting.** A plant is only foreshadowing if the reader is in a position to hold it; if the fact is already ironic, the plant is doing something else and should be labeled as such.
+5. **Check `plan/knowledge-ledger.md` before planting.** A plant is only foreshadowing if the reader is in a position to hold it; if the fact is already ironic, the plant is doing something else and should be labeled as such.

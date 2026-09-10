@@ -1,6 +1,6 @@
 # Content manifest
 
-One file per scene, named `BB.S.md` where `BB` is the zero-padded beat and `S` the scene within it, matching `prompts/scene-list-v4.md`. Zero-padding keeps beats 10–15 sorting after 09.
+One file per scene, named `BB.S.md` where `BB` is the zero-padded beat and `S` the scene within it, matching `plan/scene-list-v4.md`. Zero-padding keeps beats 10–15 sorting after 09.
 
 ## `superseded/` — NOT canon, NOT a style exemplar
 
@@ -23,7 +23,7 @@ Two contradictions found between these scenes, which is the strongest argument a
 
 ### The superseded scenes
 
-Numbering follows the **rescened** Act 1 in `prompts/scene-list-v4.md` — 14 scenes, of which four are new and unwritten. Files renumbered 2026-09-07; the old numbers are in the last column.
+Numbering follows the **rescened** Act 1 in `plan/scene-list-v4.md` — 14 scenes, of which four are new and unwritten. Files renumbered 2026-09-07; the old numbers are in the last column.
 
 | file | scene | POV | day | words | was |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Numbering follows the **rescened** Act 1 in `prompts/scene-list-v4.md` — 14 sc
 
 **10,579 words written across 10 of 14 Act 1 scenes.** Four unwritten, ~5,100 words, which brings Act 1 to roughly 15,800.
 
-**2.3 and 2.4 are the priority.** Keo's parents have never spoken to him on the page and Omya has never spoken to Teva, so the two relationships the novel's emotional arc rests on have never been dramatized. See `prompts/pacing-and-stakes.md` §2.
+**2.3 and 2.4 are the priority.** Keo's parents have never spoken to him on the page and Omya has never spoken to Teva, so the two relationships the novel's emotional arc rests on have never been dramatized. See `plan/pacing-and-stakes.md` §2.
 
 ## `rejected/` — labeled negatives, retained per the design's negative-canon
 

@@ -1,6 +1,6 @@
 # Environmental suits
 
-**PART 1 IS CANON.** Part 2 is the research it rests on, retained for reasoning but not authoritative. Options considered and rejected are listed in `attic.md`, not here, so that nothing in this file can be mistaken for spec.
+**PART 1 IS CANON.** Part 2 is the research it rests on, retained for reasoning but not authoritative. Options considered and rejected are deliberately not listed here, so that nothing in this file can be mistaken for spec. They are recoverable from git history if ever needed.
 
 Origin: built before the upgrade system worked, to keep the original settlers alive — they were too old to be Seeded. Two hundred were brought back. **Twelve remain.** The rest failed or were destroyed across 206 years, and each loss has a story attached. They are the most precious old-tech the colony has, individually inventoried, and Keo's parents are their custodians.
 

@@ -64,10 +64,27 @@ scene list        intent      why this scene exists; what it must carry
      ↓
 forward map       decisions   ~1 beat / 100 words · the join table · IN, SPINE, beats, OUT
      ↓
+invention ledger  authorize   everything the scene must invent, proposed for a
+                              yes/no before any prose exists  ← author checkpoint
+     ↓
 beat sheet        expansion   ~1 beat / 25-30 words · invents the undecided moves · structure only
      ↓
 prose             voice       one pass, one mind holding the scene at once
 ```
+
+### The invention ledger (Daniel's design, 2026-09-10)
+
+**The problem it solves is the economics of correction.** Drafting 2.3 cost him 8,600 words of reading and thousands of words of critique to produce 2,000 words of unusable prose — and that ratio is the failure mode this whole project exists to escape. The largest single cause was **unsubstantiated invention**: a drafter with gaps in its brief invented sleeping arrangements, a set of twins, a character's age, where a suit is stored, and the temperature at dawn — and then built further material on top of each invention, so every correction required unwinding a small structure rather than replacing a word.
+
+**Inverting it is cheap.** Before drafting, enumerate everything the scene will have to invent that no canon file substantiates, and put it to the author as a list. Design rules, all learned from what went wrong:
+
+1. **Propose, don't ask.** An open question makes the author do the work. A proposal makes him scan and object, which is an order of magnitude cheaper and is what he asked for.
+2. **Mark provenance on every line** — *grounded* (a canon file says it, cite the file) or *invented* (nothing says). Only the invented lines need his attention; the grounded ones are there so he can catch a bad citation.
+3. **A few words is the whole budget for an answer.** If a line needs a paragraph to settle, it is a design question and belongs in the scene list, not here.
+4. **Write every answer back to canon.** Otherwise the same question is invented again in the next scene, differently. This is the property that makes the ledger shrink: by scene 40 most of what scene 1 had to invent is established, and the pass gets cheaper as the book proceeds.
+5. **Unlisted invention is the failure.** The pass is judged on what it failed to *ask about*, not on the quality of its proposals. A drafter that invents something absent from the ledger means the ledger pass was incomplete.
+
+**Claim C10 — a pre-draft invention ledger reduces total author cost per scene. Untested.** Falsifier: run it on one scene and count the author's words in and read in, against the 2.3 baseline of ~8,600 read and thousands written. If the total is not dramatically lower, the stage does not earn its checkpoint.
 
 **The expansion stage is the newest and least established.** Its rationale: somebody must invent the moves that lie between the decided ones — the specific deflection, the gesture, the interruption. Currently that is the drafter, inventing structure and producing sentences simultaneously under a word target. The expansion stage moves that invention somewhere with no obligation to produce a sentence, and makes it reviewable before any prose exists.
 
@@ -167,6 +184,10 @@ Failure modes this project has actually hit. Each cost real work.
 
 **Pointer integrity is not semantic integrity.** A cross-reference check that only resolves addresses reports a green corpus while the thing being pointed at has been rewritten into uselessness. Every cross-reference states what it needs, not just where it lives. See §5.4.
 
+**Preferences inflate into laws.** A thing the author said once, in passing, comes back as *never*, *not one, not ever*, *must not*, *one per act*. The content is usually fine and the **modality** is invented — and a drafting model obeys grammar, so a quota gets spent against like a budget. Caught 2026-09-10, when `character-arcs.md`'s "one touch per act" caused a scene ledger to record that a character touched nobody because the act's touch was "spent elsewhere." Nobody decided that; the sentence shape did.
+
+*The test is the provenance test aimed at force rather than content: does the rule cite something?* "Complete sentences in narration" cites a line-by-line critique. "Cold is not a hazard" cites 28–32 °C water. Those keep their force. A rule citing nothing becomes a guideline with its reasoning visible, so a drafter can tell when breaking it is right.
+
 **Measurements become targets.** A number stated as a finding gets read as an instruction. A per-scene word target, a beat-count target, a sentence-length target: all three appeared here, and all three were wrong, because the right value is set by the job and the context and not by an average.
 
 ## 9. Applying this to a new novel
@@ -179,6 +200,32 @@ Order matters; each step depends on the last.
 4. **Write one forward map**, and run T6 on it. If most lines fail prospectivity, the schema is a review format and not a brief format.
 5. **Run T2 and T3** before writing briefs at volume.
 6. Only then plan the layers, and pin every allocation to a scene *and a position*.
+
+## 11. The flywheel
+
+**The process is not a pipeline that gets run. It is a flywheel that gets loaded, run, and improved, once per scene, sixty times.** Daniel's framing, 2026-09-10, and the reason this document exists at all rather than living in someone's context window.
+
+Each cycle: **LOAD** (`process/scene-build-runbook.md` phase 0 — read this file and the blacklist before touching the scene) → **RUN** (phases 1–8) → **IMPROVE** (phase 9 — update this file, the runbook, and the blacklist). A session that skips the improve step has taken from the process without paying back into it, and the next session pays for that.
+
+**Three loops turn, and each converts a one-time cost into a permanent asset.**
+
+| loop | input | asset | what falls |
+|---|---|---|---|
+| **canon** | invention-ledger answers written back to the world files | a world that answers its own questions | ledger items per scene |
+| **method** | the retro after each scene | this document and the runbook | rediscovery; repeated mistakes |
+| **craft** | Daniel's critique of each draft | `ai-tells-blacklist.md` | repeat defects per draft |
+
+The canon loop is the one with the steepest curve. Scene 1 must invent almost everything about its location; scene 40 inherits nearly all of it. If the ledger is not shrinking by the tenth scene, the write-back step in phase 5 is not happening.
+
+**The ratchet.** A flywheel without one spins backwards. Here it is the status labels in §2 and the corpses kept in §7 and §8: a claim that was tested and withdrawn stays visible with its post-mortem, so no later session re-derives it, re-believes it, and re-acts on it. **Deleting a withdrawn claim is the single most damaging edit anyone can make to this file.** Two false findings have already been produced and retracted inside one session; the cost of a retraction is small and the cost of a silent re-adoption is not.
+
+**Measurement.** Three numbers, recorded in the §10 log at every retro, all of them proxies for the only thing that matters — how much of Daniel's attention a usable scene costs:
+
+1. **invention-ledger items** put to him before drafting
+2. **author words read** — how much prose he had to read
+3. **author words written** — how much critique he had to write
+
+The baseline, and it is deliberately a bad one: **scene 2.3, 2026-09-10 — 0 ledger items, ~8,600 words read, thousands written, and the output was unusable.** Every subsequent scene is measured against that. If the numbers do not fall, the flywheel is not turning, and the right response is to fix the procedure rather than to try harder at the scene.
 
 ## 10. Log
 

@@ -10,12 +10,12 @@ Kept in one file because they are one system: the intimacy is not a subplot runn
 
 **Models escalate. This book must not.** From the cordimancy dossier: the god grants Toril no new power, and he then loses the magic he had, and spends the last 60% of the book powerless — which is what makes the ending mean anything.
 
-Each of the three must **lose a capability they were defined by**, and it must not come back:
+The shape being aimed at is that each of the three **loses a capability they were defined by**, and does not get it back. A target, not a quota — if one of them keeps something and the book is better for it, the book wins:
 
 | | loses | when | what replaces it |
 |---|---|---|---|
 | **Keo** | mental projection's *meaning*. The gift is intact and it could not save the one thing it was for. Then he is injured, feverish and carried — the protector becomes the burden | 7.2, then 8.2 | judgment, and eventually a machine |
-| **Teva** | her suit to the heat; then **her own judgment — she short-leaches the mash and it poisons her**; then her navigation. **Offshore, a magnetic sense is worth nothing** — the one skill that made her the leader is irrelevant on water | 7.1, Day 9–10, then 9.2 | the willingness to be wrong |
+| **Teva** | her suit to the heat; then **her own judgment — she short-leaches the mash and it poisons her**. ~~Then her navigation.~~ **Struck 2026-09-10:** *"Offshore, a magnetic sense continues to function, and it's worth WAY more, since there are no other landmarks"* — and the corpus already had the counterexample, in Lumea crossing a white-out fog on the pull in her bones. What limits Teva offshore is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 9 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. Whether she needs a third loss at all is open | 7.1, Day 9–10, then 9.2 | the willingness to be wrong |
 
 **The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 8 and the grounders stop with her (foreshadow 19), so by Day 9 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, the one whose whole training is what is safe to eat — says it needs another day and does not press it, because he is injured and being carried and has stopped trusting himself (beat 9–10 below). She is the one who decides, as she has decided everything since 1.1, and the rage that makes her decisive is what makes her wrong. It puts her down on Day 10 and Keo carries her, which inverts his arc at exactly the point it needs inverting. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
 
@@ -79,7 +79,7 @@ Benal's is the cruellest and the best: he is stripped of the two things that mad
 
 ## 3. The three dyads
 
-Temperature 0–10. **They must not move together.**
+Temperature 0–10. **They should not all move together** — when they do, the reader stops registering any of them separately.
 
 | beat | Keo→Teva | Teva→Benal | Keo↔Benal |
 |---|---|---|---|
@@ -100,13 +100,13 @@ Temperature 0–10. **They must not move together.**
 
 **Teva → Benal** is the one to get right, and the answer is not a rival suitor. She is drawn to his mind and **does not know what that feeling is.** Keo reads it correctly as attraction and incorrectly as settled. Benal is oblivious throughout, because he cannot conceive of being wanted.
 
-So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. **Nothing resolves in book 1.** The correct engine here is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it — see the withheld-description rule in `.ignored/process-design-v2.md` §2. Do not answer the question the scene raises.
+So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. **Nothing resolves in book 1** — which is a decision about how the novel ends, taken by an AI and not ratified by Daniel (flagged 2026-09-10). Treat it as the working assumption, not a settled thing. The correct engine here is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it — see the withheld-description rule in `.ignored/process-design-v2.md` §2. Do not answer the question the scene raises.
 
 **Keo ↔ Benal is the strongest dyad and the least planned.** Contempt, then debt, then the silent watch on Day 8, then something neither of them names. It ends at 9 while both romantic lines end unresolved, which is the honest shape for a book about three sixteen-year-olds.
 
 ### Rules
 
-1. **No declarations.** The closest anyone comes is on the good day, and he doesn't.
-2. **Physical proximity is the whole instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for eleven nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
-3. **Jealousy is a misreading**, always, and the reader should see the misreading before Keo does.
-4. **One touch per act, and it should be functional** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. The functional touch that lasts a half-beat too long does more than any embrace.
+1. **Declarations are the wrong instrument here.** The closest anyone comes is on the good day, and he doesn't. A strong default rather than a ban; a scene that earns one has earned it.
+2. **Physical proximity is the main instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for eleven nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
+3. **Jealousy is usually a misreading**, and where it is, the reader should see the misreading before Keo does.
+4. **Touch is rationed, and functional when it comes** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. Roughly one an act is the rate that feels right; it is a sense of scarcity, not a budget with a balance to spend down. The functional touch that lasts a half-beat too long does more than any embrace.

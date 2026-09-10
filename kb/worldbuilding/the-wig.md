@@ -96,7 +96,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
 
-**The flood is the runway.** The cyclone put eighty kilometers of shallow standing water across a low-relief plain — see `prompts/journey-calendar.md` §3 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
+**The flood is the runway.** The cyclone put eighty kilometers of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §3 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
 
 **Obstacles, in order of how they must be handled:**
 
@@ -131,7 +131,7 @@ On Day 14 there is floodwater everywhere, and almost all of it is easy. **The ri
 
 ### Where it comes down
 
-**A bend of the river runs through the Enclave** — see `prompts/milieu-brief.md` §4. That is why there is a tangle to clear on the way in, and it is why there is water on the far side of it.
+**A bend of the river runs through the Enclave** — see `plan/milieu-brief.md` §4. That is why there is a tangle to clear on the way in, and it is why there is water on the far side of it.
 
 The reach inside the perimeter is barred at both ends: log pylons driven between boulders, a droppable pole grating, weirs, netting. **The wig comes over the tangle by almost nothing and settles onto the inside reach**, between the two barriers, running out to a stop against the near bank.
 

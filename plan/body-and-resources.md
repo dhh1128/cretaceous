@@ -2,7 +2,7 @@
 
 Planning layer. The physical continuity chain for the mudwalk, day by day. This is what makes a survival novel feel true — readers of survival fiction track resources whether or not they notice they are doing it — and it is the layer that makes logical impossibilities impossible.
 
-Calendar and distances: `prompts/journey-calendar.md`. Forage: `prompts/milieu-allocation.md` §3b. Loadout at departure: `prompts/decision-logs.md`.
+Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocation.md` §3b. Loadout at departure: `plan/decision-logs.md`.
 
 ---
 
@@ -73,7 +73,7 @@ Distances match `journey-calendar.md`. **Nothing resets between days.**
 
 | day | km | food | water | body | morale | pace |
 |---|---|---|---|---|---|---|
-| **3** | 8 | rations, most of them | last dry-season water; the river is the first real drink | scrapes from the ridge; Benal vomits from adrenaline; **Keo's projection headache — pressure behind the eyes, then a leaden weight**; everyone soaked after the crossing; **first bites on Keo** | terrified-elated. They got out. They got past crocs. It is briefly the best day of their lives | disrupted but adrenal — fast in bursts, stopped often |
+| **3** | 8 | rations, most of them | the last of the dry-spell water; the river is the first real drink | scrapes from the ridge; Benal vomits from adrenaline; **Keo's projection headache — pressure behind the eyes, then a leaden weight**; everyone soaked after the crossing; **first bites on Keo** | terrified-elated. They got out. They got past crocs. It is briefly the best day of their lives | disrupted but adrenal — fast in bursts, stopped often |
 | **4** | 10 | rations gone by evening. First forage — snails, stonefruit, mushrooms Benal vouches for | everywhere, and undrinkable half the time | soft skin from constant wet; the first hot spot that will become a real foot problem; bites multiplying on Keo | the elation is gone and the arithmetic arrives. First open doubt | steady, joyless. The first day that is only walking |
 | **5** | 8 | thin. Snails again, and the joke about snails stops being funny | plentiful | **the constrictor.** Benal: chest wall bruised the width of a body, breathing shallow for four days. Teva: thrown, shoulder wrenched — she calls it nothing. Keo: hands torn on scale | shattered, then welded. Surviving it together does more than any conversation | slow after; they make three km in the afternoon and stop early |
 | **6** | 12 | **honey.** Grounders Noli catches. Fruit. The only day they eat enough | good, and a place to wash | bruises coloring; foot problem eases in the dry; Benal's chest still wrong | **the peak of Act 2.** Fed, dry, warm, laughing | **their best day, and it is because they are happy** |
@@ -107,7 +107,7 @@ Starting condition, per `decision-logs.md`: **Teva's** biofilm is already scarre
 | 4–5 | biofilm dying along the pack straps where it abrades | **constrictor: left elbow seal compromised, integrity ~40%.** Plating groaned and held |
 | 6 | **fed properly** — honey and fruit, split between four mouths and two suits, and somebody says so out loud | biofilm begins repairing the elbow, drawing sugar he cannot spare |
 | 7 | **thermal saturation on the savanna.** The system loses and she cooks inside her own protection | thermal fine; his regulation is good and the suit barely has to work |
-| 8 | unshelled since Day 7; she is carrying it rather than wearing it, and the rain is the only reason she can walk at all | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows |
+| 8 | unshelled since Day 7; she is carrying it rather than wearing it, and the rain is the only reason she can walk at all | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
 | 9–10 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
 | 11 | mudflat silt, then salt | salt in the open elbow |
 | 12 | **immersion.** Biofilm dying in sheets, and she has been out of the suit since Day 7 anyway. What the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
@@ -119,7 +119,7 @@ Starting condition, per `decision-logs.md`: **Teva's** biofilm is already scarre
 
 Shafts, handles and bindings are archaea-treated: **dry is dormant, sustained wetting wakes them.** Not a splash, not a river crossing — wet and *staying* wet. See `milieu-brief.md` §6.
 
-The season turns after Day 3, so **they walk out with good gear and the rains start eating it.** Days 4–5 and 8–10 are wet and nothing dries.
+The weather turns after Day 3, so **they walk out with good gear and the rains start eating it.** Days 4–5 and 8–10 are wet and nothing dries.
 
 | day | gear |
 |---|---|

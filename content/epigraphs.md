@@ -1,6 +1,6 @@
 # The archival fragments
 
-**Draft 3, 2026-09-09.** Thirteen fragments. Governed by `prompts/knowledge-ledger.md` and `prompts/pacing-and-stakes.md` §5 (the species stakes ladder climbs here and nowhere else).
+**Draft 3, 2026-09-09.** Thirteen fragments. Governed by `plan/knowledge-ledger.md` and `plan/pacing-and-stakes.md` §5 (the species stakes ladder climbs here and nowhere else).
 
 **These are documents, not fiction.** They deliberately do not use the novel's voice. The style canon does not apply.
 
@@ -8,7 +8,7 @@
 
 **1. The kill rate is 99.97% *of those infected*, not of humanity.** Draft 1 read as total extinction, which makes the mission incoherent — you cannot carry a cure forward to an empty planet. Near-certain death once infected, a lower attack rate, and **spread in waves across years**. That buys a two-year correspondence, a sister who is genuinely well for a while, and a terror that is about *catching* it.
 
-**2. The order was backwards.** Draft 1 opened on *pandemic in all twelve bio-regions* and then ran ordinary letters about tomatoes. **The all-regions alert is now fragment 8** — the floor dropping out, late in Act 2 — and the novel opens on an early bulletin instead. The suite runs chronologically through a collapse: ordinary life → the decision → the work → the sister failing → total → departure → schism → the truth.
+**2. The order was backwards.** Draft 1 opened on *pandemic in all twelve bio-regions* and then ran ordinary letters about tomatoes. **The all-regions alert is now fragment 9** — the floor dropping out, late in Act 2 — and the novel opens on an early bulletin instead. The suite runs chronologically through a collapse: ordinary life → the decision → the work → the sister failing → total → departure → schism → the truth.
 
 **3. They are messages, not letters** — which solves a problem draft 1 had and never noticed. Physical letters sent to Marisol would be at *Marisol's*, so how are they in the Genesis archive? Messages have a sent folder, and the sent folder went into the working files with everything else. **And the routing metadata becomes a second channel:** the headers narrate the collapse while the bodies stay about a garden.
 
@@ -241,9 +241,9 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 **The species ladder runs on two channels at once.** In the message bodies: tomatoes → *you are well* → the sentence about being tired → five weeks of nothing → dead. In the headers, without a word of narration: **queued 2d → 6d → 14d → 31d, UNDELIVERED, NO ROUTE.** The world ends in the metadata while the sisters talk about a garden.
 
-**The last message Marisol could have read, she didn't.** Fragment 9 is marked UNDELIVERED. Cece asks for one line, even a bad one, and it never arrives — and the reason is not that Marisol declined to answer.
+**The last message Marisol could have read, she didn't.** Fragment 10 is marked UNDELIVERED. Cece asks for one line, even a bad one, and it never arrives — and the reason is not that Marisol declined to answer.
 
-**The false solution is fragment 10, and it is innocent.** A records-management ruling. The reader will read it as *they chose what to bury and what to keep* and be wrong. It is the **mechanism of the drift**: doctrine went to the permanent archive and survived; instructions stayed in working files and rotted. Nobody lied. The wrong things lasted.
+**The false solution is fragment 11, and it is innocent.** A records-management ruling. The reader will read it as *they chose what to bury and what to keep* and be wrong. It is the **mechanism of the drift**: doctrine went to the permanent archive and survived; instructions stayed in working files and rotted. Nobody lied. The wrong things lasted.
 
 **Which is why the messages survive at all.** They were personal, so they were in the working files — so they are at Genesis and not in the colony's degraded copies. **The truth is in fragment 12 because nobody thought to edit a dead woman's inbox.**
 

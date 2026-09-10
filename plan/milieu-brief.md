@@ -10,13 +10,12 @@
 |---|---|
 | environmental suits | `kb/worldbuilding/safety-suits.md` |
 | colony vocabulary | `kb/worldbuilding/lingo.md` — a **closed** list of fifteen |
-| flora, fauna, geology, climate | `kb/worldbuilding/geo-flora-fauna.md` |
-| predator senses | `kb/worldbuilding/predator-vision.md` |
+| flora, fauna, geology, climate | `kb/research/geo-flora-fauna.md` |
+| predator senses | `kb/research/predator-vision.md` |
 | Benal's equation | `kb/worldbuilding/benals-equation.md` |
 | the wig | `kb/worldbuilding/the-wig.md` |
 | names | `kb/worldbuilding/names.md` |
-| cut material, preserved | `kb/worldbuilding/attic.md` |
-| plot, beats, rationale | `prompts/outline-v10.md` → `prompts/scene-list-v4.md` |
+| plot, beats, rationale | `plan/outline-v10.md` → `plan/scene-list-v4.md` |
 | prose style | `prompts/writing-style-v2.md` |
 
 If this file and one of those disagree, **the specialist file wins** and the discrepancy is a defect to be reported, not a choice to be made at the keyboard.
@@ -59,21 +58,29 @@ They left Genesis because it had no fresh water, no stable shelter, brutal coast
 
 **The overland route** runs through open-canopy woodland with sightlines of a meter or two at chest height, **slow rivers, swamps and marshes** holding the primary threat, limestone country with caves but **no cenotes** — those postdate the impact — coastal wetland of ferns and salt-tolerant palms that is *not* mangrove, since true mangroves are 50 million years away, and stretches of open fern savanna where nothing conceals you. Eleven days out at 8–9 km per day, which is what the scene list schedules.
 
-**The land is a low-relief coastal plain with no highlands at all**, so the water on it is slow, shallow and everywhere. **Exactly one crossing is a genuine channel that cannot be avoided** — Day 3 — and everything else is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. A set-piece crossing spends enormous credibility and there is only enough for one. See `prompts/journey-calendar.md` §3.
+**The land is a low-relief coastal plain with no highlands at all**, so the water on it is slow, shallow and everywhere. **Exactly one crossing is a genuine channel that cannot be avoided** — Day 3 — and everything else is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. A set-piece crossing spends enormous credibility and there is only enough for one. See `plan/journey-calendar.md` §3.
 
-**Genesis itself** is a coral bank in 10–20 m of water, part submerged, part exposed at low tide, ringed by dangerous current and cutting formations, inside marine predator territory. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
+**Genesis itself** is a **spit of emergent land ringed by coral** (Daniel, 2026-09-10), in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. *An earlier version had it part-submerged and exposed only at low tide, which a tidal bank cannot reconcile with two hundred founders arriving there, living there three years, and leaving an archive, a temporal lab and two wigs on it.* Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
+
+**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Tylosaurus*, dyrosaurid marine crocodiles, Cretaceous sharks and plesiosaurs are all present in these waters. They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there. *(Restored 2026-09-10 — the roster had been cut without being put to Daniel.)*
 
 **Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year, nearly all to protocol violations.
 
 ## 4. The Enclave
 
-**941 people.** Infant mortality is high and some upgrades reduce fertility.
+**Nine hundred to a thousand people.** Infant mortality is high and some upgrades reduce fertility. **The vagueness is deliberate** (Daniel, 2026-09-10): it is not plausible that anyone would know the exact figure at a given moment, and no scene should give one.
 
 **Origin stock:** the White Sands area of New Mexico — Latino and Mexican, Navajo and Pueblo, plus military and scientific personnel from around the world. This produced both the gene pool and the language. See `lingo.md`.
 
 **Governance:** a Council of elders, elected annually by all adults. Terms are long in practice but not permanent; age, health and alliance shift the membership. The Council decides, allocates and mediates.
 
-**Layout.** Two to four kilometers across. A village core about half a kilometer wide, built as roofed tree houses — *nests* — some thirty meters up in the monkey-puzzle conifers, which handles ground predators; the roofs handle what comes from the air. The kiva is nearby. Nests are **multi-room platforms taut-slung between conifers** and linked by **canopy-walks**, and the whole structure moves — **everyone leans with the sway without noticing they are doing it.** Around that, a cultivated ring of crops, managed groves and insect farms out to a kilometer or so. Beyond that a patrolled buffer with grazing for the domestic herd, to the perimeter.
+**Layout.** Two to four kilometers across. A village core about half a kilometer wide, built as roofed tree houses — *nests* — **twelve to fifteen meters up** in the monkey-puzzle conifers. **The height is chosen, not maximal** (correction, Daniel, 2026-09-10): high enough that nothing on the ground reaches them, and no higher, because at that height the trunks are still thick and steady and there is **thirty meters of canopy above** for cover from anything flying. The old figure of thirty meters put them in the whipping tips of the trees, exposed to the sky and swaying hard — wrong on both counts. The roofs handle what gets through the cover. The kiva is nearby.
+
+**The kiva has two openings, and the second one is why the cave was chosen** (Daniel, 2026-09-10). It is a large natural dissolution cave — *not* a cenote; those are post-impact collapse along the crater ring and do not exist yet. A sloping cleft along a bedding plane lets a person walk down rather than be lowered, and **the ceratops hide hangs there**, keeping animals out. Ten to fifteen meters up there is a collapse hole, too high to climb and not meant as a way in. Together they make a chimney: cool air in low, smoke out high — and `§6` lists two centuries of cooking fires as an unguardable trace risk, so that cave burns things routinely and would be uninhabitable without it. The hole also drops **one shaft of daylight** onto a talus cone of fallen rock, so there are plants growing in a cave, a wet patch nobody stores anything on, and a light that crosses the floor through the day and goes out in the evening. **The Vitarium is unaffected**, being a deep cleft off the side, and is therefore dark for a reason rather than by assertion.
+
+**Nests are multi-room platforms slung between conifers on ropes and pulleys**, linked by **canopy-walks**. **The rig self-compensates**: when one tree bends, the ropes give and the platform slides on the pulley to rebalance. So the nests do **not** lean constantly or dramatically. What a person actually experiences is breezes, **creaking rope**, and small adjustments underfoot. Do not write the sway as a recurring texture; it is not what living there feels like.
+
+Around that, a cultivated ring of crops, managed groves and insect farms out to a kilometer or so. Beyond that a patrolled buffer with grazing for the domestic herd, to the perimeter.
 
 ### The river runs through it, and that is why the site was chosen
 
@@ -87,7 +94,7 @@ They left Genesis because it had no fresh water, no stable shelter, brutal coast
 
 **And it does not work.** A grating sized to stop a ten-meter *Deinosuchus* passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene 2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
-**It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`prompts/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement, and nobody in that family has ever needed it explained.
+**It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement, and nobody in that family has ever needed it explained.
 
 **The barrier is rotting the entire time.** Untreated wood in warm water has a short life, so the pylons and grating are under continuous replacement — two centuries of unbroken labor to hold one line that has never fully held. That is the Enclave in miniature.
 
@@ -220,7 +227,7 @@ Shafts, handles and bindings are **soaked in an archaea solution and dried.** Dr
 
 Dry, dry-ish, and alive. Three states of *still in use*.
 
-**And this puts their weapons on a clock that the weather winds.** The season turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 8–10 are wet and nothing dries. **Keeping the spears dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. River crossings get worse in a new way: you have to carry the thing that dissolves in water *through water*. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
+**And this puts their weapons on a clock that the weather winds.** The weather turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 8–10 are wet and nothing dries. **Keeping the spears dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. River crossings get worse in a new way: you have to carry the thing that dissolves in water *through water*. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
 
 **Deepest of all, it makes the mantra literal.** *Water is death* is not a slogan about crocs. It is a physical law with five separate mechanisms: the crocs, Teva's thermal collapse, the dissolution of every weapon they carry, the sea that Genesis sits in, and Yara.
 
@@ -256,17 +263,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **Proximity sense** in practice: a tingling pressure, a mind's hand tracing the shape of a space. Sleeping people register as **warm banked coals**. A burrowing animal is a **cold spark**, thirty meters down.
 
-### The Enclave is a felt mental web, and this changes more than it looks
-
-**Nine hundred forty-one minds, and everyone can feel them.** Not thoughts — presence, and mood. The village thrums at a shared frequency, and right now that frequency is fear.
-
-**So a death is felt, not reported.** Alira dying registered from the perimeter as *a jagged tear* in the web. Keo did not need to see the body and nobody needed to be told.
-
-Three consequences, and none has been used:
-
-1. **Grief here is communal and involuntary.** There is no such thing as a private loss. When Elana breaks, everyone within range is inside it whether they want to be or not — which is part of why the adults are so paralyzed, and why the kiva went silent.
-2. **The Enclave feels like *somewhere* from the inside** in a way no wall can convey, and losing that feeling is what leaving costs.
-3. **Walking out of the perimeter means walking out of the web.** For the first time in their lives the three of them are **alone in their own heads.** That should register once, on Day 3, and never be mentioned again.
+**That is the whole of it.** Presence and kind, at short range. **This is not a culture of telepaths** (Daniel, 2026-09-10). An earlier version of this file grew a village-wide shared-mood web out of these two sentences — nine hundred forty-one minds thrumming at a shared frequency, a death felt from the perimeter — and he did not recognize a word of it. It had come from one atmospheric line a drafting model wrote in `content/superseded/02.1.md:19`. Nobody senses mood, nobody feels a death across the Enclave, and grief here is as private as it is anywhere.
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 
@@ -274,7 +271,7 @@ Three consequences, and none has been used:
 
 ## 8. The crisis
 
-A flood during storm season killed **two of the three Master Keepers** at once. The survivor is Omya, Teva's grandmother, and she has dementia — lucid some days, lost on others, able to recite most of the synthesis protocol perfectly and then drop a critical step.
+A flood during a stretch of bad weather killed **two of the three Master Keepers** at once. The survivor is Omya, Teva's grandmother, and she has dementia — lucid some days, lost on others, able to recite most of the synthesis protocol perfectly and then drop a critical step.
 
 As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 70–80% of the process, and their best compound *almost* works. Cultures are dimming and slowing. The most fragile are dead. No Seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it.
 
@@ -304,7 +301,11 @@ His mask is bravado. *"We'll be fine."*
 
 Average height, sturdy, 165 cm.
 
-Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in one direction only — she cannot shed heat**, which in a humid hothouse is the direction that kills. This is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). **Cold is not a hazard in this world and must never be written as one.** The sea is 28–32 °C, rain lands near 22 °C, and the coldest thing available is still air in a cave. What she does feel, and more than the others do, is cold *as a symptom* — of starvation, blood loss, exhaustion. See §3 of `prompts/journey-calendar.md`.
+Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in both directions, and only one of them can kill her** (Daniel, 2026-09-10). She cannot shed heat, and in a humid hothouse that is the direction with a body count — it is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). She also cannot hold heat, and that shows up wherever the environment is abnormal for this world: the limestone kiva, and Genesis after the storm, dank and half-submerged. **That direction is misery, not danger.** It is copeable — get dry, find a covering, sit in the sun when it comes back — and there is no deep, persistent cold anywhere on this planet to kill her with. The sea is 28–32 °C, rain lands near 22 °C.
+
+**And the suit is no help to her when she is cold, because it is a cooler and not a heater.** The one piece of technology built for her thermal problem addresses only the half that kills.
+
+She feels cold as a *symptom* too — of starvation, blood loss, exhaustion — and more than the others do. See §3 of `plan/journey-calendar.md`.
 
 **Her excellent venom resistance does not cover ingested plant toxins**, and this matters. Venoms are proteins delivered under the skin; the cycad glycosides are small molecules that do their damage in the gut and liver. Different mechanism, no crossover — and she is the one who should have been safe, which is what makes it land.
 
@@ -344,12 +345,12 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 
 ## 11. Genuinely open
 
-The old brief carried 48 questions, most long since answered by `outline-v10.md` and `scene-list-v4.md` and never crossed off, which invited a drafting model to re-decide settled things. These are the ones actually still open.
+**This list is incomplete and the full register is `.ignored/the-48-questions.md`, which currently holds 35 open questions.** An earlier pass cut the old brief's 48 down to the twelve below on the grounds that the rest were answered. Twenty were; **twelve were removed without being answered anywhere**, and five more that the pass called answered had in fact been decided without asking Daniel. He ruled on 2026-09-10 that all twelve removals were mistakes and that the reopened five are genuinely open. Restoring them into this file is outstanding work. The twelve below are the subset that was never in dispute.
 
 1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*. What remains open inside it: the **form of the mourning** before the balm is applied (words, silence, who speaks, who touches), and where a culture with no graves carries its grief.
 2. **Religion and spirituality**, if any. Reverence for the future? Ancestor regard for the founders? Or maintained secular rationalism, which would be the more interesting choice.
 3. **Art, music, story.** What 206 years produced. Currently a blank, and it is where charm and inside jokes would live.
-4. **Population genetics.** 941 people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
+4. **Population genetics.** Nine hundred-odd people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
 5. **Education.** How knowledge transmits, on biodegradable records, and who decides what is essential — which is the mechanism by which the mission got corrupted, so it is worth knowing.
 6. **Keo's sister** — name, age, cause of death.
 7. **Teva's father** — dead, absent, or present.

@@ -41,11 +41,11 @@
 ### 1. Technology (Hard vs. Soft)
 * **Old-Tech (Hard):** Metal/Plastic. **Taboo.** Hoarded in the **Repository** (bunker under conifer roots). Protected by "dormant archaea" that dissolve items if abandoned.
 * **Bio-Safe (Soft):**
-    * *Weapons:* Croc-spike (hardwood + *Deinosuchus* tooth), razor-club (razortail teeth), **tooth-knife** (a theropod tooth — **no knapped stone, ever**), atl, sling (**unmodified pebbles only**), blowgun with engineered neurotoxin. **Shafts and bindings are archaea-treated: dry is dormant, sustained wetting wakes them.** See `prompts/milieu-brief.md` §6.
+    * *Weapons:* Croc-spike (hardwood + *Deinosuchus* tooth), razor-club (razortail teeth), **tooth-knife** (a theropod tooth — **no knapped stone, ever**), atl, sling (**unmodified pebbles only**), blowgun with engineered neurotoxin. **Shafts and bindings are archaea-treated: dry is dormant, sustained wetting wakes them.** See `plan/milieu-brief.md` §6.
     * *Suits:* Graphene core (Old-Tech relic) covered in living chromatophore skin (Bio-Tech). **Rationale:** Active camouflage is required to survive.
 
 ### 2. The Enclave
-* **Population:** **941 minds**. High infant mortality.
+* **Population:** **900–1000**. High infant mortality.
 * **Food:**
     * *Stone-Cycad:* Staple. Smells acrid/sour when raw (toxic); earthy/chewy when baked into "Pan."
 * **Safety:** "Water is Death." Pheromone barriers. Buddy system mandatory.

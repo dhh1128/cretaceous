@@ -97,7 +97,7 @@
     * **Casualties:** Lost 106 souls (started with ~200).
     * **Tech Used:** They had environmental suits, old-tech rifles, and plasma cutters (which failed to save them).
 * **The Enclave:**
-    * **Population:** 941 minds.
+    * **Population:** 900–1000.
     * **Ideology:** "Clean Soul" (Sila) vs. "Contaminants." The fear of Paradox (Grandfather Paradox) drives the ban on tech.
 * **The Virus ("Lethe" / L-9):**
     * Mortality: 99.97%.

@@ -1,9 +1,9 @@
 ## Names
 Names evolved from a **White Sands, New Mexico origin population** across **206 years** of isolation — a soundscape that is earthy, vowel-rich, and slightly simplified from modern English and Spanish phonetics. **Familiar yet distinctly not contemporary**, plausible from a Southwestern mix of Anglo, Hispanic and Indigenous roots.
 
-**This file is the source for the cast.** Every named character draws from these lists — Keo, Benal, Marek, Rano, Liaso from the male table; Teva, Alira, Omiya→Omya, Noeli→Noli from the female. New characters take names from here, and a name in use is struck from availability in `prompts/minor-characters.md`.
+**This file is the source for the cast.** Every named character draws from these lists — Keo, Benal, Marek, Rano, Liaso from the male table; Teva, Alira, Omiya→Omya, Noeli→Noli from the female. New characters take names from here, and a name in use is struck from availability in `plan/minor-characters.md`.
 
-**The in-world rule about reuse.** This culture has no graves and no bones — see `prompts/milieu-brief.md` §4. **A dead person's name may be given again only once nobody living remembers them**, because memory is the only monument available, and reusing a name while someone still carries the first one dims them. Roughly three generations, enforced by nothing but everyone's opinion, and contested in particular cases. **Yara, Lumea and Daven are therefore unavailable inside the novel**, and so is Alira, for a long time.
+**The in-world rule about reuse.** This culture has no graves and no bones — see `plan/milieu-brief.md` §4. **A dead person's name may be given again only once nobody living remembers them**, because memory is the only monument available, and reusing a name while someone still carries the first one dims them. Roughly three generations, enforced by nothing but everyone's opinion, and contested in particular cases. **Yara, Lumea and Daven are therefore unavailable inside the novel**, and so is Alira, for a long time.
 
 ---
 
@@ -14,7 +14,7 @@ Names evolved from a **White Sands, New Mexico origin population** across **206 
 | **Taren**                       | From *Taron* or *Terrence*; softened vowel shift common in contact languages.     |
 | **Miloq** (pronounced MEE-lohk) | Possibly from *Milo* + local phonetic suffix like Navajo diminutive *-q*.         |
 | **Daven**                       | Derived from *David* + Spanish stress pattern; resembles modern *Dah-VEHN*.       |
-| **Josan**                       | Blend of *Jose* + *Jason*; natural fusion in bilingual communities.               |
+| **Josan**                       | Blend of *José* + *Jason*; natural fusion in bilingual communities.               |
 | **Keo**                         | Shortened from *Keone* or *Kehone*, Hawaiian loan possibly via military diaspora. |
 | **Rilas**                       | From *Elias* or *Riley*; consonant shift and reanalysis.                          |
 | **Nevan**                       | Evolved from *Nevaeh* or *Evan*; normalized spelling/pronunciation.               |
@@ -69,19 +69,19 @@ Names evolved from a **White Sands, New Mexico origin population** across **206 
 | **Tavren**  | Possibly from *Tavarez* or *Tavernier*, simplified.                        |
 | **Lomas**   | From *Lomas* (existing Hispanic surname meaning “hills”), easily retained. |
 | **Benroe**  | Blend of *Benitez* + *Monroe*.                                             |
-| **Cheska**  | Derived from *Chavez* or *Francesca*, phonetic simplification.             |
+| **Cheska**  | Derived from *Chávez* or *Francesca*, phonetic simplification.             |
 | **Delar**   | From *De la Rosa* or *Delgado*, shortened.                                 |
-| **Mareen**  | From *Marin* or *Moreno*, vowel drift.                                     |
-| **Ortave**  | From *Ortega* + *Chavez*, fusion.                                          |
+| **Mareen**  | From *Marín* or *Moreno*, vowel drift.                                     |
+| **Ortave**  | From *Ortega* + *Chávez*, fusion.                                          |
 | **Sando**   | From *Sandoval* or *Santos*, truncation pattern.                           |
 | **Renik**   | Anglo name from *Renwick*, shortened.                                      |
-| **Tomasel** | From *Tomas* + diminutive *-el*.                                           |
-| **Caydena** | From *Cardena* or *Cayden*, hybrid.                                        |
+| **Tomasel** | From *Tomás* + diminutive *-el*.                                           |
+| **Caydena** | From *Cardeña* or *Cayden*, hybrid.                                        |
 | **Vallin**  | From *Valdez* or *Valentine*.                                              |
 | **Perru**   | From *Perry* or *Peru*, vowel rounding.                                    |
 | **Nosan**   | From *Nolan* or *Sosa*, assimilation.                                      |
 | **Darre**   | From *Darrow* or *Duarte*, final vowel loss.                               |
 | **Leveno**  | Possibly from *Levine* + *Moreno*, hybrid.                                 |
-| **Chano**   | Common nickname from *Sebastian*; became a surname.                        |
+| **Chano**   | Common nickname from *Sebastián*; became a surname.                        |
 | **Miquen**  | From *Miquel* or *Mikens*, phonological blend.                             |
 | **Torla**   | From *Torres* or *Torrance*, vowel smoothing.                              |
