@@ -17,7 +17,7 @@ Three files. `checks.py` holds the logic as plain functions returning violations
 
 **A check asserts a relationship, never a value.** *"Every day named anywhere exists in the calendar"* is a check. *"The savanna is 6 km"* is a second copy of the calendar wearing a test costume: it freezes a number into a new location, and if that number was never approved the suite now enforces an invention. This is the failure the corpus has already suffered and it is the one thing that would make the suite worse than nothing.
 
-**Anything the corpus declares about itself is read from the corpus at runtime.** The day range comes from parsing the calendar's own table. The US-English word list comes from the grep command in `AGENTS.md` §5. The closed-vocabulary count comes from counting `lingo.md`'s rows. A check that hardcodes one of those is the seventh copy of a fact and it will drift.
+**Anything the corpus declares about itself is read from the corpus at runtime.** The day range comes from parsing the calendar's own table. The US-English word list comes from the grep command in `AGENTS.md` §5. A check that hardcodes one of those is the seventh copy of a fact and it will drift.
 
 ### The one place `checks.py` cheats
 
@@ -32,12 +32,16 @@ Three files. `checks.py` holds the logic as plain functions returning violations
 | `file_refs` | every `` `file.md` `` the corpus points at exists | Thirteen pointers survive into files deleted in the 2026-09-10 restructure, and each still reads as authority. |
 | `section_refs` | every `` `file.md` `` §N citation resolves to a heading numbered N | Renumbering the calendar's sections silently broke four citations. Nobody noticed for a day. |
 | `frontmatter` | every file carries exactly one of the three approval values | `AGENTS.md` §2. The scheme is worthless if a file can quietly carry no marker. |
-| `approval_not_stale` | no file's last commit postdates its approval date | `AGENTS.md` §2 gives this as a shell one-liner. It currently fires on nothing, because the whole corpus was written, approved and committed on one day — which is itself worth knowing. |
+| `approval_not_stale` | no file's last commit postdates its approval date | `AGENTS.md` §2 gives this as a shell one-liner. It fired on eleven files the first time an approved file was edited, which is the check doing its job: the contents changed, so the date has to say when. |
 | `approval_stated_once` | a file's approval state appears in its own frontmatter and nowhere else | README carried a second copy and it was wrong about five files. The column is now deleted rather than generated, and this check keeps it deleted. It matches claim phrases — *is approved*, *are recent and unapproved* — not the bare word, so *"No approved prose exists yet"* and *"four [provisional] names"* do not fire. It will also miss a trailing *"Both are unapproved"* whose files were named a sentence earlier. |
 | `us_english` | no British spellings | `AGENTS.md` §5. A literary register pulls toward them and it keeps coming back. |
 | `closed_list_uncounted` | nobody states how many terms the closed vocabulary holds | The terms are canon and the count is incidental. Four files carried a number that had been wrong since the file was created — `git show` returns sixteen at every commit that ever touched it. A fact nothing depends on is a fact that only drifts, so the number is deleted rather than corrected. |
 | `reserved_species_unspent` | species held in reserve are not spent in an active allocation | *Alphadon* and *Meniscoessus* are on the reserve list and are also the grounders Noli catches. |
 | `dated_provenance` | knowledge files carry what is true, not how it got approved | `AGENTS.md` §2: no dates, no "Daniel said", no "struck on". The pattern deliberately does not match the bare name, because *"that is a note for Daniel, not a license"* is instruction, not history. |
+| `rules_wellformed` | every ``` ```rule ``` block parses, carries its fields, and has evidence | The rule formalism, checked by the suite it feeds. See `tools/RULES.md` |
+| `species_showcase_count` | every species row names at most two days | Rule `species-one-showcase`. Currently a regression guard — nothing violates it |
+| `allocation_day_agreement` | a species carries the same day in §3 and §5 | Rule `allocation-day-agreement`. Catches three violations against the pre-repair corpus and none now |
+| `biome_covers_every_day` | every day falls inside at least one biome band | Rule `biome-covers-every-day`. Catches five against the pre-repair corpus — Days 7, 8, 9, 17 and 18 had no band at all |
 | `overt_plant_budget` | the foreshadow ledger carries the number of overt plants it budgets | The budget and the table agree today. It is here as a regression guard, and as the template for the other declared budgets. |
 
 ## Not yet built

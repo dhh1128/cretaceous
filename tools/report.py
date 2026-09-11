@@ -43,6 +43,18 @@ def main(argv: list[str]) -> int:
             print(f"| `{v.file}:{v.line}` | {v.message} |")
         print()
 
+    from checks import rules
+    if rules():
+        print("## rules\n")
+        print("Ratified rules are enforced by the suite. Proposed rules are listed with what they "
+              "would catch today, so a rule can be judged against its violations rather than its "
+              "sentence. Only Daniel ratifies -- see `tools/RULES.md`.\n")
+        for r in sorted(rules(), key=lambda r: r.id):
+            fn = CHECKS.get(r.fields.get("check", ""))
+            caught = "no checker written yet" if fn is None else f"catches {len(fn())} today"
+            print(f"- {r.render()} — {caught} — `{r.file}:{r.line}`")
+        print()
+
     return 1 if total else 0
 
 

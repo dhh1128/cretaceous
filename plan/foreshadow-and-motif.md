@@ -122,6 +122,15 @@ Nothing else in the novel states it. Not the narration, not the epigraphs, not B
 
 ## 4. Rules
 
+```rule
+id:       plant-payoff-bijection
+shape:    bijection
+every:    plant in the ledger of §2
+has:      payoff
+evidence: §2's own validator — "no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions"
+status:   proposed
+```
+
 1. **Signal level defaults to none.** If a plant needs a paragraph break to be noticed, it is the wrong plant.
 2. **Revisiting a plant to remind the reader usually kills it.** One placement, one payoff, unless there is a reason.
 3. **A motif appearance that does no other work is decoration.** Every instance of counting must also be characterization, plot, or tension.

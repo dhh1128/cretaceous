@@ -108,3 +108,25 @@ def test_dated_provenance(v):
 def test_overt_plant_budget(v):
     """The foreshadow ledger carries the number of overt plants it budgets."""
     _assert(v)
+
+
+# Rules -- see tools/RULES.md. Only ratified rules are enforced; a proposed rule is
+# reported by report.py together with what it would catch, and fails nothing.
+
+@check("rules_wellformed")
+def test_rules_wellformed(v):
+    """Every rule block parses, carries its required fields, and has evidence."""
+    _assert(v)
+
+
+def _ratified():
+    from checks import CHECKS as C, rules
+    out = [(r, C[r.fields["check"]]) for r in rules()
+           if r.ratified and r.fields.get("check") in C]
+    return [(r.id, v) for r, fn in out for v in (fn() or [None])] or [("none ratified", None)]
+
+
+@pytest.mark.parametrize("rule_id,v", _ratified(), ids=lambda x: x if isinstance(x, str) else ident(x))
+def test_ratified_rules(rule_id, v):
+    """Every ratified rule holds."""
+    assert v is None, f"{rule_id}: {v.message}"

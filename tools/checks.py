@@ -391,8 +391,153 @@ def check_overt_plant_budget() -> list[Violation]:
     return []
 
 
+# --------------------------------------------------------------------------
+# rule blocks -- see tools/RULES.md
+# --------------------------------------------------------------------------
+
+SHAPES = {
+    "cardinality": "Every {every} has {has}.",
+    "uniqueness": "No {every} appears in more than one {has}.",
+    "bijection": "Every {every} has a matching {has}, and every {has} a matching {every}.",
+    "membership": "Every {every} is drawn from {has}.",
+    "ordering": "Every {every} comes before {has}.",
+}
+REQUIRED = ("id", "shape", "every", "has", "evidence", "status")
+RULE_BLOCK = re.compile(r"^```rule\n(.*?)^```", re.M | re.S)
+
+
+@dataclass(frozen=True)
+class Rule:
+    file: str
+    line: int
+    fields: dict[str, str]
+
+    @property
+    def id(self) -> str:
+        return self.fields.get("id", "<no id>")
+
+    @property
+    def ratified(self) -> bool:
+        return self.fields.get("status", "").startswith("ratified")
+
+    def render(self) -> str:
+        tmpl = SHAPES.get(self.fields.get("shape", ""))
+        body = tmpl.format(**self.fields) if tmpl else "<unrenderable: unknown shape>"
+        return f"**{self.id}** — {body} *({self.fields.get('status', '?')})*"
+
+
+@cache
+def rules() -> tuple[Rule, ...]:
+    found = []
+    for path, lines in corpus().items():
+        text = "\n".join(lines)
+        for m in RULE_BLOCK.finditer(text):
+            line = text[: m.start()].count("\n") + 1
+            fields = {}
+            for raw in m.group(1).splitlines():
+                if ":" in raw:
+                    k, v = raw.split(":", 1)
+                    fields[k.strip()] = v.strip()
+            found.append(Rule(path, line, fields))
+    return tuple(found)
+
+
+def check_rules_wellformed() -> list[Violation]:
+    """Every rule block parses, carries the required fields, uses a known shape, has a
+    unique id, and -- if ratified -- names a checker that exists. Daniel ratifies; a
+    session that ratifies its own rule has rebuilt the trapdoor the frontmatter had."""
+    out, seen = [], {}
+    for r in rules():
+        for key in REQUIRED:
+            if key not in r.fields:
+                out.append(Violation(r.file, r.line, f"rule {r.id}: no {key!r} field"))
+        if r.fields.get("shape") not in SHAPES:
+            out.append(Violation(r.file, r.line, f"rule {r.id}: unknown shape {r.fields.get('shape')!r}"))
+        if r.id in seen:
+            out.append(Violation(r.file, r.line, f"rule id {r.id!r} is already used at {seen[r.id]}"))
+        seen[r.id] = f"{r.file}:{r.line}"
+        if not r.fields.get("evidence"):
+            out.append(Violation(r.file, r.line, f"rule {r.id}: no evidence, so it is a guideline and must not be a test"))
+        if r.ratified and r.fields.get("check") not in CHECKS:
+            out.append(Violation(r.file, r.line, f"rule {r.id} is ratified but its checker {r.fields.get('check')!r} does not exist"))
+    return out
+
+
+ALLOC = "plan/milieu-allocation.md"
+
+
+def _species_rows() -> list[tuple[int, str, list[int]]]:
+    """(line, colony name or binomial, days) for each row of the species table."""
+    rows = []
+    for n, cells in table_rows(section(ALLOC, r"Species allocation")):
+        if len(cells) < 2:
+            continue
+        # Rows read "*Quetzalcoatlus* — **flybeak**" or "*Haidomyrmecinae* — hell ants"
+        # or bare "*Mosasaurus*". The colony name is what the sensory lists use, so
+        # take the last em-dash segment, and keep a stem so Mosasaurus finds mosasaur.
+        label = plain(cells[0]).split("—")[-1].strip()
+        days = [int(x) for x in re.findall(r"\d+", plain(cells[1]))]
+        rows.append((n, label, days))
+    return rows
+
+
+def _stems(label: str) -> list[str]:
+    out = {label}
+    if label.endswith("us"):
+        out.add(label[:-2])
+    if label.endswith("s"):
+        out.add(label[:-1])
+    return sorted(out, key=len, reverse=True)
+
+
+def check_species_showcase_count() -> list[Violation]:
+    """Every species row in the allocation table names at most two days."""
+    return [Violation(ALLOC, n, f"{label} is allocated to {len(days)} days ({days})")
+            for n, label, days in _species_rows() if len(days) > 2]
+
+
+def check_allocation_day_agreement() -> list[Violation]:
+    """A species named in both the allocation table and the sensory lists carries the
+    same day in each. Section 5 says outright: "Each of these is owned once. The number
+    is the day." They disagreed in three places after the day sweep missed section 5."""
+    sensory = [(n, line) for n, line in section(ALLOC, r"Sensory allocation")
+               if "·" in line]
+    out = []
+    for _, label, days in _species_rows():
+        if not days or len(label) < 4:
+            continue
+        for n, line in sensory:
+            for stem in _stems(label):
+                hits = list(re.finditer(rf"\b{re.escape(stem)}\w*\b[^·]*?\((\d+)\)", line, re.I))
+                if not hits:
+                    continue
+                for m in hits:
+                    if int(m.group(1)) not in days:
+                        out.append(Violation(ALLOC, n, f"{label} is day {days} in the species table "
+                                                       f"and ({m.group(1)}) in the sensory lists"))
+                break                 # longest stem that matched wins
+    return out
+
+
+def check_biome_covers_every_day() -> list[Violation]:
+    """Every day the calendar has falls inside at least one biome band."""
+    covered = set()
+    for _, cells in table_rows(section(ALLOC, r"Biome bands")):
+        if len(cells) < 2:
+            continue
+        for a, b in re.findall(rf"(\d+)(?:\s*[{DASHES}]\s*(\d+))?", plain(cells[1])):
+            covered.update(range(int(a), int(b or a) + 1))
+    lo, hi = day_range()
+    missing = [d for d in range(lo, hi + 1) if d not in covered]
+    return [Violation(ALLOC, 1, f"no biome band covers day {d}") for d in missing]
+
+
 CHECKS = {
     "day_tokens": check_day_tokens,
+    "rules_wellformed": check_rules_wellformed,
+    "species_showcase_count": check_species_showcase_count,
+    "allocation_day_agreement": check_allocation_day_agreement,
+    "biome_covers_every_day": check_biome_covers_every_day,
     "calendar_owns_distances": check_calendar_owns_distances,
     "file_refs": check_file_refs,
     "section_refs": check_section_refs,

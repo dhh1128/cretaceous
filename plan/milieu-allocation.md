@@ -158,6 +158,36 @@ Each of these is owned once. The number is the day.
 
 ## 6. Rules
 
+```rule
+id:       species-one-showcase
+shape:    cardinality
+every:    species row in `plan/milieu-allocation.md` §3
+has:      at most 2 days
+evidence: §6 rule 1 of this file — "One showcase per species is the working budget" — and §3's header, "Each species gets one showcase… assigned to one or two days"
+check:    species_showcase_count
+status:   proposed
+```
+
+```rule
+id:       allocation-day-agreement
+shape:    membership
+every:    day a species carries in the sensory lists of §5
+has:      the days that species carries in the table of §3
+evidence: §5's own header — "Each of these is owned once. The number is the day." The two sections have disagreed about the flybeak, the hell ants and the mosasaur, because a scripted day sweep cannot see §5's bare parentheticals
+check:    allocation_day_agreement
+status:   proposed
+```
+
+```rule
+id:       biome-covers-every-day
+shape:    membership
+every:    day in `plan/journey-calendar.md` §1
+has:      the day ranges of the biome bands in §2 of this file
+evidence: §2 exists to give every outdoor scene a biome. Days 7, 8, 9, 17 and 18 had no band at all after the book grew to nineteen days, and nothing noticed
+check:    biome_covers_every_day
+status:   proposed
+```
+
 1. **One showcase per species** is the working budget. After its day, it is a shape, a sound, a smell or an absence.
 2. **The Enclave's biology is worked; the outside is not.** Everything at home is cultivated, maintained, kill-switched. That contrast is the fastest way to convey what they have built.
 3. **Describe what no reader has experienced.** Ordinary mud, rain, blisters and heat are free — the reader supplies them. Spend words on the ferocity of a gaze in a treeline, the texture of croc hide, the taste of cycad mash. See `writing-style.md`.
