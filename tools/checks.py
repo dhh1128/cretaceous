@@ -277,41 +277,32 @@ def check_approval_not_stale() -> list[Violation]:
     return out
 
 
-def check_readme_matches_frontmatter() -> list[Violation]:
-    """README's approval table and the files' own frontmatter are two records of the
-    same fact. They disagree for five files today, so there is no single answer to
-    which files are approved. The table should be generated, not written."""
+# A claim phrase, not the bare word: "is approved", "are recent and unapproved",
+# "is itself unapproved". This deliberately misses "No approved prose exists yet"
+# and "four [provisional] names", which are not claims about a file's marker --
+# and it will also miss a trailing "Both are unapproved" that names its files a
+# sentence earlier. A narrower net with no false alarms beats a wider one nobody
+# trusts; see tools/README.md.
+APPROVAL_WORD = re.compile(
+    r"\b(?:is|are|was|were|remains?|stays?|both are|it is|itself)\s+(?:\w+\s+){0,3}(?:un)?approved\b",
+    re.I)
+
+
+def check_approval_stated_once() -> list[Violation]:
+    """A file's approval state is stated in its own frontmatter and nowhere else.
+    README used to carry a second copy and it was wrong about five files. This
+    check exists so the copy does not come back."""
+    names = {Path(p).name for p in tracked_md()} | set(tracked_md())
     out = []
-    readme = lines_of("README.md")
-    by_name = {Path(p).name: p for p in tracked_md()}
-    for n, line in enumerate(readme, start=1):
-        m = re.match(r"^\|\s*`([\w./-]+\.md)`\s*\|.*\|\s*(.+?)\s*\|\s*$", line)
-        if not m:
+    for path, n, line in iter_lines():
+        if path == "AGENTS.md" or n <= 3:
+            continue              # AGENTS.md defines the scheme; line 2 is the marker itself
+        if not APPROVAL_WORD.search(line):
             continue
-        target = by_name.get(Path(m.group(1)).name)
-        if target is None:
-            continue
-        claim = plain(m.group(2)).lower()
-        # Order matters: "no. Its rows can be approved now" is a no, and a substring
-        # search for "approved" reads it as a yes.
-        if claim.startswith("no"):
-            says = "no"
-        elif claim.startswith("yes") or "approved" in claim or "reviewed" in claim:
-            says = "yes"
-        else:
-            says = None
-        head = lines_of(target)[1] if len(lines_of(target)) > 1 else ""
-        state = ("approved" if head.startswith("approval: approved")
-                 else "provisional" if head.startswith("approval: provisional")
-                 else "unapproved")
-        # Only clear disagreements. Provisional against "reviewed and corrected" is
-        # a difference of register, not of fact, and the table should be generated
-        # anyway -- see tools/README.md.
-        if (says == "yes" and state == "unapproved") or (says == "no" and state == "approved"):
-            out.append(Violation(
-                "README.md", n,
-                f"table says {'approved' if says == 'yes' else 'not approved'} for {m.group(1)}, "
-                f"frontmatter says {state}"))
+        named = [r for r in FILE_REF.findall(line) if r in names or Path(r).name in names]
+        if named:
+            out.append(Violation(path, n, f"states an approval state for {', '.join(named)}; "
+                                          "the frontmatter of that file is the only place it belongs"))
     return out
 
 
@@ -327,20 +318,19 @@ def check_us_english() -> list[Violation]:
     return out
 
 
-def check_lingo_closed_list() -> list[Violation]:
-    """lingo.md declares itself closed at a stated count. Count the rows and believe them."""
+def check_closed_list_uncounted() -> list[Violation]:
+    """Nobody states how many terms the closed vocabulary holds. The terms are canon;
+    the count is incidental, and four files carried a number that had been wrong since
+    the file was created. A fact nothing depends on is a fact that only drifts."""
     path = "kb/worldbuilding/lingo.md"
-    terms = [l for l in lines_of(path) if re.match(r"^\|\s*\*\*[a-z-]+\*\*", l)]
-    actual = len(terms)
-    out = []
     pattern = re.compile(r"closed\D{0,40}?\b(" + "|".join(NUMBER_WORDS) + r")\b", re.I)
+    out = []
     for p, n, line in iter_lines():
+        if "lingo" not in line and p != path:
+            continue
         for m in pattern.finditer(line):
-            if "lingo" not in line and p != path:
-                continue
-            claimed = NUMBER_WORDS[m.group(1).lower()]
-            if claimed != actual:
-                out.append(Violation(p, n, f"claims the closed list holds {claimed} terms; {path} has {actual}"))
+            out.append(Violation(p, n, f"states a count for the closed list ({m.group(1)}); "
+                                       "the list is closed, and its length is nobody's business"))
     return out
 
 
@@ -408,9 +398,9 @@ CHECKS = {
     "section_refs": check_section_refs,
     "frontmatter": check_frontmatter,
     "approval_not_stale": check_approval_not_stale,
-    "readme_matches_frontmatter": check_readme_matches_frontmatter,
+    "approval_stated_once": check_approval_stated_once,
     "us_english": check_us_english,
-    "lingo_closed_list": check_lingo_closed_list,
+    "closed_list_uncounted": check_closed_list_uncounted,
     "reserved_species_unspent": check_reserved_species_unspent,
     "dated_provenance": check_dated_provenance,
     "overt_plant_budget": check_overt_plant_budget,

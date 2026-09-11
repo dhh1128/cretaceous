@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-10
+approval: approved 2026-09-11
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -76,7 +76,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *Mosasaurus* | 14 | night, the raft. |
 | ***Tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
 
-**Not allocated, held in reserve:** *Albertosaurus*, *Coahuilaceratops*, *Bravoceratops*, *Magnapaulia*, *Avisaurus*, *Alphadon*, *Meniscoessus*, *Coniophis*, *Polyglyphanodon*. Do not spend these without moving something else off the list.
+**Not allocated, held in reserve:** *Albertosaurus*, *Coahuilaceratops*, *Bravoceratops*, *Magnapaulia*, *Avisaurus*, *Coniophis*, *Polyglyphanodon*. Do not spend these without moving something else off the list.
 
 ## 3b. Small life, forage, and nuisance — the texture layer
 

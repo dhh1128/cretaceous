@@ -74,9 +74,9 @@ def test_approval_not_stale(v):
     _assert(v)
 
 
-@check("readme_matches_frontmatter")
-def test_readme_matches_frontmatter(v):
-    """README's approval table agrees with the files' own frontmatter."""
+@check("approval_stated_once")
+def test_approval_stated_once(v):
+    """A file's approval state is stated in its own frontmatter and nowhere else."""
     _assert(v)
 
 
@@ -86,9 +86,9 @@ def test_us_english(v):
     _assert(v)
 
 
-@check("lingo_closed_list")
-def test_lingo_closed_list(v):
-    """The closed vocabulary holds the number of terms the corpus says it holds."""
+@check("closed_list_uncounted")
+def test_closed_list_uncounted(v):
+    """Nobody states how many terms the closed vocabulary holds."""
     _assert(v)
 
 

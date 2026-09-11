@@ -81,7 +81,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 - **Never hard-wrap markdown.** One line per paragraph, however long.
 - **Where things go.** Scene maps and invention ledgers in `plan/scene-maps/` (created when the first one is built; the directory is empty). Drafted prose in `content/`. Working analyses that outlive a session but are not canon in `.ignored/`, which is gitignored. Do not leave loose untracked files in the repo root.
 - **Do not invent organizing schemes.** Ask before adding a folder or a naming convention. *(A `process/` directory was created on 2026-09-10 without being asked for.)*
-- **`kb/worldbuilding/lingo.md` is a closed list of fifteen words.** Coining colony vocabulary during drafting is a defect, not a flourish. If a scene seems to need a word that is not there, that is a note for Daniel.
+- **`kb/worldbuilding/lingo.md` is a closed list, and it is closed.** Coining colony vocabulary during drafting is a defect, not a flourish. If a scene seems to need a word that is not there, that is a note for Daniel.
 
 ## 6. Standing hazards, learned the expensive way
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-10
+approval: approved 2026-09-11
 ---
 
 # Voice sheets
@@ -180,6 +180,6 @@ Standing refusals for this novel:
 1. **Attribution is `said`, or a piece of business instead of a tag.** *viking* runs 111 *said* against a single *replied*. Exotic tags are rationed to the low tens across a whole novel.
 2. **Indirect answers at plot-critical moments are the norm**, not a flourish.
 3. **Register is a thermometer.** Benal's stammer, Keo's *Ben*/*Benal*, Teva's word count. The reader tracks these without knowing it.
-4. **No coined words.** `kb/worldbuilding/lingo.md` is a closed list of fifteen and its first rule is *do not coin new colony vocabulary*. If a scene seems to need a word that is not there, that is a note for Daniel, not a license. This applies to dialogue as much as to narration.
+4. **No coined words.** `kb/worldbuilding/lingo.md` is a closed list and its first rule is *do not coin new colony vocabulary*. If a scene seems to need a word that is not there, that is a note for Daniel, not a license. This applies to dialogue as much as to narration.
 5. **Nobody here is articulate about their own feelings.** An exception is something to be earned rather than reached for. The nearest anyone comes is Day 15, and even there it comes out sideways.
 6. **A line any of the three could have said is a line none of them should say.** That is the test this file exists to make possible.

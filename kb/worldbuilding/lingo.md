@@ -18,7 +18,7 @@ The budget is deliberately small. A dozen taught words, doing four jobs: showing
 
 ---
 
-## The fifteen
+## The list
 
 Each of these must be taught by context on first use — never glossed, never explained by the narration. The scene of first use is assigned in the terminology ledger.
 

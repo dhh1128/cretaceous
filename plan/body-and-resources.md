@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-10
+approval: approved 2026-09-11
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace

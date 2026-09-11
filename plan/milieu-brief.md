@@ -1,5 +1,5 @@
 ---
-approval: provisional 2026-09-10
+approval: provisional 2026-09-11
 ---
 
 # Cretaceous — Milieu Brief
@@ -13,7 +13,7 @@ approval: provisional 2026-09-10
 | subject | authoritative file |
 |---|---|
 | environmental suits | `kb/worldbuilding/safety-suits.md` |
-| colony vocabulary | `kb/worldbuilding/lingo.md` — a **closed** list of fifteen |
+| colony vocabulary | `kb/worldbuilding/lingo.md` — a **closed** list |
 | flora, fauna, geology, climate | `kb/research/geo-flora-fauna.md` |
 | predator senses | `kb/research/predator-vision.md` |
 | Benal's equation | `kb/worldbuilding/benals-equation.md` |

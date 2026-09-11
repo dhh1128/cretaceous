@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**This file needs rewriting and is not approved.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4 — which is itself unapproved and is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right. Formerly `scene-list-v4.md`.)*
+**This file needs rewriting.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right. Formerly `scene-list-v4.md`.)*
 
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.

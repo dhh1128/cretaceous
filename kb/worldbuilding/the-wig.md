@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-10
+approval: approved 2026-09-11
 ---
 
 # The wig
@@ -10,7 +10,7 @@ approval: approved 2026-09-10
 
 ## 1. The word
 
-**WIG** — wing-in-ground-effect. A 21st-century acronym worn down into an ordinary noun across 206 years, exactly the way *saropo* wore down from *sauropod*. Term fifteen on the closed list in `lingo.md`.
+**WIG** — wing-in-ground-effect. A 21st-century acronym worn down into an ordinary noun across 206 years, exactly the way *saropo* wore down from *sauropod*. On the closed list in `lingo.md`.
 
 **Nobody in the Enclave has seen one.** They have the word because their ancestors had it, and it survives as a term with no referent — a word for a thing that is not there. When Benal says it at Genesis he is naming something he has only ever read about.
 
