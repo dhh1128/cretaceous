@@ -6,7 +6,7 @@ approval: unapproved
 
 Sets scene count, scene sizing, chapters, and the four stakes curves — which are one problem, because the ladders are what tell you where scenes are needed.
 
-**Indexed by day.** Scene numbers are being reassigned and the fifteen-unit outline structure is retiring as an address system; the fourteen days in `journey-calendar.md` are stable and are what everything here hangs on.
+**Indexed by day.** Scene numbers are being reassigned and the fifteen-unit outline structure is retiring as an address system; the nineteen days in `journey-calendar.md` are stable and are what everything here hangs on.
 
 ---
 
@@ -17,12 +17,12 @@ The scene list holds **38 scenes**: fourteen in Act 1, nineteen in Act 2, five i
 | act | days | scenes |
 |---|---|---|
 | **1** — the Enclave | 1–2 | 14 |
-| **2** — the mudwalk | 3–12 | 19 |
-| **3** — Genesis and the return | 13–14 | **5** |
+| **2** — the mudwalk | 3–15 | 19 |
+| **3** — Genesis and the return | 16–19 | **5** |
 
 **Act 3 has five scenes for a quarter of the book.** They carry the discovery of the protocols, the revelation that voids six generations, the action climax, the confrontation, and the final image — one scene apiece for every payload the novel has been building toward.
 
-**And three days of the journey have no scenes at all.** Day 6 is the only easy day in the book and the deposit that every miserable day after it draws against. Day 12 is when Teva overrules Keo on the mash. Day 13 is when it comes due and he carries her. Those are not filler days; two of them are the hinge of her arc, and none of them exists.
+**And eight days of the journey have no scenes at all.** Day 6 is the only easy day in the book and the deposit that every miserable day after it draws against. **Days 7 and 8 are the river — arriving at it and failing to enter it, then crossing it — and Day 9 is the day after.** Day 12 is when Teva overrules Keo on the mash. Day 13 is when it comes due and he carries her. **Days 17 and 18 are the rest at Genesis.** Those are not filler days; three of them are the hinge of her arc and the courage the book is built on, and none of them exists.
 
 ## 2. Why Act 1 went from ten scenes to fourteen
 
@@ -52,7 +52,7 @@ At 60 scenes that implies **roughly 35 to 45 chapters**, which for a YA thriller
 *the Vitarium ~ Teva, Day 1*
 ```
 
-The label earns its place twice over here. This is a **rotating three-POV novel**, so the reader learns whose head they are in before the first sentence rather than four lines down. And it is a **fourteen-day journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
+The label earns its place twice over here. This is a **rotating three-POV novel**, so the reader learns whose head they are in before the first sentence rather than four lines down. And it is a **nineteen-day journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
 
 **And the `§` carries the transition, which means the first clause after it does the time-skip inside itself.** No "meanwhile." No standalone "later that day." That rule is the one that makes the mark worth having, and `prompts/style-canon.md` §3 has the passages.
 
@@ -89,11 +89,11 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 | **3** | 5 | ~16 |
 | | **38** | **~61** |
 
-**Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 7 — a stretch containing the first river crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
+**Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the first river crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
 | day | now | → | what it is |
 |---|---|---|---|
-| 3 | 4 | 4 | out through the tangle, the razortails, the first river. The biggest day in the book |
+| 3 | 4 | 4 | out through the tangle, the razortails, the first day outside. The biggest day in the book |
 | 4 | 1 | 2 | the rain arrives; the walking begins in earnest |
 | 5 | 1 | 2 | the constrictor |
 | **6** | **0** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on, and it does not exist |
@@ -104,7 +104,7 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 | 14 | 3 | 3 | the mudflats, the raft, the mosasaur |
 | 15 | 2 | 4 | the eye, the failing to get in, the tail, and the confessions |
 
-**Act 3, by day.** Day 16 is Genesis and Day 19 is everything else, and both are running at two or three scenes.
+**Act 3, by day.** Days 16–18 are Genesis and Day 19 is everything else, and both are running at two or three scenes.
 
 | day | now | → | what it is |
 |---|---|---|---|
@@ -119,7 +119,7 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 
 Emotional, Physical, Social, Species. Rough 0–10, by day.
 
-*(The per-day values are an interpolation of a coarser curve. Days 4, 5, 6, 9 and 10 previously had no rating of their own, which is how a novel came to have an unscened rest day sitting inside a rising stretch.)*
+*(The per-day values are an interpolation of a coarser curve. Days 4, 5, 6, 12 and 13 previously had no rating of their own, which is how a novel came to have an unscened rest day sitting inside a rising stretch.)*
 
 | day | E | P | S | X | what moves |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **3** | 6 | 7 | 8 | 4 | out, and the first river. Terrified and elated |
 | **4** | 5 | 6 | 6 | 5 | the arithmetic arrives; first open doubt |
 | **5** | 6 | 8 | 6 | 5 | the constrictor. Shattered, then welded |
-| **6** | **3** | **3** | 5 | 5 | ***the gift.*** *Every ladder drops. This is what makes Day 10 onward cost something* |
+| **6** | **3** | **3** | 5 | 5 | ***the gift.*** *Every ladder drops. This is what makes Day 7 onward cost something* |
 | **10** | 6 | 8 | 5 | 5 | hubris at its peak, and she is dying of heat beside him |
 | **11** | **9** | 9 | 6 | 5 | Noli, then the fall |
 | **12** | 7 | 8 | 7 | 5 | she decides, and is wrong |
@@ -150,7 +150,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 **Two ladders are flat through the middle of the book.**
 
-**Social** goes dormant once they leave and does not move again until the confrontation, because the trio walks away from everyone who could raise it. Act 2 then runs on physical stakes almost alone, which is how a ten-day walk reads as walking with monsters attached.
+**Social** goes dormant once they leave and does not move again until the confrontation, because the trio walks away from everyone who could raise it. Act 2 then runs on physical stakes almost alone, which is how an eleven-day walk reads as walking with monsters attached.
 
 **Species barely moves anywhere** — 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, then 10 at the revelation. Thirteen days at a five, then a jump. It is the ladder Daniel most wants the reader to feel, and it is abstract, and abstractions do not climb on their own.
 
@@ -174,6 +174,6 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 ## 7. What to do next
 
-**Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the three missing days most of all — Day 6 because it is the deposit, Days 12 and 10 because they are the hinge of Teva's arc. Act 3 needs roughly to triple.
+**Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the three missing days most of all — Day 6 because it is the deposit, Days 12 and 13 because they are the hinge of Teva's arc. Act 3 needs roughly to triple.
 
 That rescene is also when the numbering changes: scenes become sequential 1–61, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.

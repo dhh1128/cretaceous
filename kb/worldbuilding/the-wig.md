@@ -4,7 +4,7 @@ approval: approved 2026-09-10
 
 # The wig
 
-**CANON.** The old-tech vehicle at Genesis that carries them home on Day 14. Beat 13, the action climax, and the largest act of heresy in the novel. Supersedes all references to a "skiff."
+**CANON.** The old-tech vehicle at Genesis that carries them home on Day 19. Beat 13, the action climax, and the largest act of heresy in the novel. Supersedes all references to a "skiff."
 
 ---
 
@@ -43,7 +43,7 @@ The problem this has to solve: two hundred people walked eighty kilometers, lost
 
 **Phase 3 — The sky turned out to belong to something else.** Drones were taken out of the air. **Two wigs were lost, at least one of them to a flybeak** — a ten-meter wingspan aerial predator against a slow, loud, low-flying machine is not a contest. The founders learned that flying here is survivable rather than safe, and they learned it expensively.
 
-*This is worth having in the records, because it makes the Day 14 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
+*This is worth having in the records, because it makes the Day 19 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
 
 **Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a solar charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
 
@@ -80,7 +80,7 @@ Not a general intelligence and not an oracle. **It is the wig's maintenance and 
 
 **Keo activates it, and the reason is not convenience.**
 
-Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at 12.1, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 8: useless, carried, waiting. So he wanders off, and finds something to talk to.
+Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at 12.1, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, carried, waiting. So he wanders off, and finds something to talk to.
 
 And thematically it is his: **Keo is the one who talks to minds.** Proximity sense and projection are his whole gift; he spent the novel bonded to an animal that way and lost her at the midpoint, and he has been alone in his own head ever since. The boy who talks to minds meets a mind that is not alive, and it answers.
 
@@ -100,7 +100,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
 
-**The flood is the runway.** The cyclone put eighty kilometers of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §3 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
+**The flood is the runway.** The cyclone put eighty kilometers of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
 
 **Obstacles, in order of how they must be handled:**
 
@@ -119,7 +119,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 They arrive low on charge, late in the light, and they have been hoarding the lift rotors all day for precisely this. **That is what the rotors are for, and it is a Chekhov's gun established at launch and spent at the wall.**
 
-**Guard against anticlimax.** The walk out took nine days and the return takes hours. That is only acceptable if the return is a *different* ordeal rather than a reward — faster, louder, wholly out of their control, and frightening precisely because they cannot stop.
+**Guard against anticlimax.** The walk out took eleven days, and the sea two more, and the return takes hours. That is only acceptable if the return is a *different* ordeal rather than a reward — faster, louder, wholly out of their control, and frightening precisely because they cannot stop.
 
 ## 7b. The landing, and where the wig lives afterward
 
@@ -129,7 +129,7 @@ They arrive low on charge, late in the light, and they have been hoarding the li
 
 ### Why he aims for the river specifically, and why it is the last beat of his arc
 
-On Day 14 there is floodwater everywhere, and almost all of it is easy. **The river channel is the hard target — narrow, fast, and full of the animals his culture is most afraid of.** It is also the only water that will still be there when the flood goes down. Everything else strands the machine on mud within a week.
+On Day 19 there is floodwater everywhere, and almost all of it is easy. **The river channel is the hard target — narrow, fast, and full of the animals his culture is most afraid of.** It is also the only water that will still be there when the flood goes down. Everything else strands the machine on mud within a week.
 
 **The AI tells him this, and he has to decide whether to believe it.** A machine his people call an abomination, telling him to put down in the water his people call death. Choosing to trust it is the heresy completed in a single act, and it is Keo doing arithmetic about three months from now while something is chasing him — which is exactly the competence his arc has been building toward, and the opposite of the boy who took no suit because he wanted to prove a point.
 
@@ -161,6 +161,6 @@ So it is visible to every person in the Enclave, permanently, floating on the wa
 
 At 4.2 Keo leaves a machete on a shelf because taking a single blade — bought with two lives — is unthinkable.
 
-**On Day 14 he flies home in the largest piece of forbidden technology his people have ever seen**, and sets it down in front of the Council. That is the arc measured in objects, and nobody needs to comment on it.
+**On Day 19 he flies home in the largest piece of forbidden technology his people have ever seen**, and sets it down in front of the Council. That is the arc measured in objects, and nobody needs to comment on it.
 
 It also makes the colony unable to pretend. You can argue with what three teenagers *say*. You cannot argue with a machine sitting in the open — which is the object book 2 fights over.

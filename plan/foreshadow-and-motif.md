@@ -31,7 +31,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 7 | **The archaea failsafe dissolves unmaintained old-tech** | 4.2 | **at Genesis, nothing has dissolved — the failsafe is a colony invention, not a founder instruction** | 12.1 | none |
 | 8 | The First Walk: 200 out, 94 arrived | 3.1 | their own journey costs them Noli and nearly Keo | 7–9 | none |
 | 9 | Omya taught Teva to read the stars | 1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | 2.4, Day 3 | none |
-| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | 2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Day 6/7, 12.1 | none |
+| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | 2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, 12.1 | none |
 | 9c | Nobody counts the Watch as a loss | 2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none |
 | 10 | Teva's mother died of what kills Alira | 1.1 | the confession | 10.1 | faint |
 | 11 | **Four water gourds, filled for three people** | 2.3 | Yara | later in 2.3 | **none — never remarked on** |
@@ -40,7 +40,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, 12.1 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
 | 14 | The temporal flash symbol | 8.4 | the signal the heretics received | 12.1 | **overt** |
 | 15 | Marek dismissive at home / fighting in the chamber | 2.2 / 3.1 | Benal understands his father | 14.1 | none |
-| 16 | **The river crossed easily in low water** | Day 3 | in flood; the way home is not the way out | Day 14 | faint |
+| 16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
 | 17 | Benal's shoulder capacitor red-lined at the theft | 4.2 | it dies, and he hides it | Day 11 | none |
 | 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |

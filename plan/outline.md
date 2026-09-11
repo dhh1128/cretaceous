@@ -83,9 +83,9 @@ Rationale (Friendship): The journey moves them from a negative bond (guilt) to a
 [Fear Level: Spiking during Set-Pieces]
 This is the "survival" section of the novel.
 
-[POV: Teva] Set-Piece 1: The First River Crossing. We are in Teva's head as she uses her navigation skills, fights her suit's thermal controls, and confronts the "water is death" mantra. She is terrified of crocs, but her anger at the Council (for forcing them out here) makes her push through it.
+[POV: Benal] Set-Piece 1: The Constrictor. They are forced into dense, dark jungle. A giant constrictor snake (Madtsoiidae) ambushes them. This is a "boogeyman" threat—silent, dark, and grappling. It goes for Benal, the most fragile. His fear is paralyzing. He is saved by Keo's strength and Teva's quick thinking, deepening his reliance on them.
 
-[POV: Benal] Set-Piece 2: The Constrictor. They are forced into dense, dark jungle. A giant constrictor snake (Madtsoiidae) ambushes them. This is a "boogeyman" threat—silent, dark, and grappling. It goes for Benal, the most fragile. His fear is paralyzing. He is saved by Keo's strength and Teva's quick thinking, deepening his reliance on them.
+[POV: Teva] Set-Piece 2: The River Crossing. We are in Teva's head as she uses her navigation skills and confronts the "water is death" mantra. She is terrified of crocs, but her anger at the Council (for forcing them out here) makes her push through it.
 
 [POV: Keo] Keo's hubris (no suit) is tested, but he succeeds (for now). Teva needs her suit's thermal management during a sunfever-inducing trek across an open savanna.
 
@@ -103,7 +103,7 @@ The journey gets harder. Keo is injured in an encounter he would have survived w
 
 Teva's suit saturates and fails under the Day 10 sun. Its job in this climate is cooling, so the failure is heat, not cold (`kb/worldbuilding/safety-suits.md`), and stripping it off is the right move at the price of her camouflage, her sensors and the body-bag failsafe.
 
-What nearly kills her comes later and is her own doing. Noli's death takes the grounders off the menu, and by Day 12 there is no protein and no time; Teva overrules Keo and leaches the cycad mash short. It puts her down on Day 13 and Keo carries her — the protector who spent Days 14–12 being carried. Her venom resistance does not cover a plant glycoside. **She is the one who decides, and this is the decision that teaches her she can be wrong.**
+What nearly kills her comes later and is her own doing. Noli's death takes the grounders off the menu, and by Day 12 there is no protein and no time; Teva overrules Keo and leaches the cycad mash short. It puts her down on Day 13 and Keo carries her — the protector who spent Days 11–12 being carried. Her venom resistance does not cover a plant glycoside. **She is the one who decides, and this is the decision that teaches her she can be wrong.**
 
 The persistent predator that stalks them is the same pterosaur. Its shadow passing overhead forces them to hide and travel under cover, pushing them into more dangerous ground-level terrain. Teva is now terrified of the sky.
 

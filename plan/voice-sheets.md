@@ -4,7 +4,7 @@ approval: approved 2026-09-10
 
 # Voice sheets
 
-How each character talks, and — for the three — how that changes across the fourteen days.
+How each character talks, and — for the three — how that changes across the nineteen days.
 
 **These idiolects are designed, not observed.** An earlier version of this file claimed to describe "what is already on the page." The page in question was `content/superseded/`, which `prompts/style-canon.md` says is edited AI output and explicitly not a style exemplar, so the file was recording a drafting model's habits and calling them character. Worse, its headline evidence for Keo — an imperative burst — exists in no draft and no plan. It was invented.
 
@@ -36,7 +36,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 - **Days 1–10, defended.** Imperatives, often stacked. Answers directly and too fast. Never asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
 - **Day 11, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humour-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
-- **Days 15–19, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 19, and doing what it says.
+- **Days 12–19, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 19, and doing what it says.
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
 
@@ -65,8 +65,8 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 **The trajectory.** Her terseness is the verbal form of her rage, and her arc is rage → nuance.
 
 - **Days 1–6, defended.** Assertions to the bone. Questions only when she needs something from you.
-- **Days 13–13, cracking.** Day 12 she decides and is wrong, and Day 13 puts her down. Being carried is a thing she cannot conceal, and concealment was the whole apparatus.
-- **Days 19–19, changed.** She asks questions she does not need the answer to. That is the whole shift and it should be almost invisible.
+- **Days 10–13, cracking.** Day 12 she decides and is wrong, and Day 13 puts her down. Being carried is a thing she cannot conceal, and concealment was the whole apparatus.
+- **Days 14–19, changed.** She asks questions she does not need the answer to. That is the whole shift and it should be almost invisible.
 
 **What does not change.** She still says less than she means. What she loses is the belief that saying more is dangerous.
 

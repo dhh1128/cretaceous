@@ -4,11 +4,11 @@ approval: approved 2026-09-10
 
 # Character arcs and intimacy
 
-What each of the three wants, believes, fears and hides across the fourteen days; where each arc turns; and the temperature of the three dyads.
+What each of the three wants, believes, fears and hides across the nineteen days; where each arc turns; and the temperature of the three dyads.
 
 Kept in one file because they are one system: the intimacy is not a subplot running beside the arcs, it is the arcs colliding.
 
-**Everything here is indexed by day**, because the day is the one address in this book that does not move. Scene numbers are being reassigned; `journey-calendar.md` is approved and its fourteen days are stable.
+**Everything here is indexed by day**, because the day is the one address in this book that does not move. Scene numbers are being reassigned; `journey-calendar.md` is approved and its nineteen days are stable.
 
 ---
 
@@ -30,7 +30,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 **And a fourth loss that is Teva's alone, running underneath the book.** She was being trained for the Watch — Omya taught her the stars because Keepers hold a memorized sky and check it nightly (`milieu-brief.md` §5). Her sensory upgrades failed, so she has a Keeper's memory and not a Keeper's senses: **she was supposed to inherit the sky and got part of the way, and the woman who could finish teaching her is disappearing while she walks away from her.** It gives her grief a specific object instead of a general one, and a role in book 2 beyond navigator — she holds the only fragment of the Watch anyone has left, and it is incomplete.
 
-**Benal's is the cruellest and the best:** he is stripped of the two things that made him survivable and left holding only the thing everyone called useless.
+**Benal's is the cruelest and the best:** he is stripped of the two things that made him survivable and left holding only the thing everyone called useless.
 
 ## 2. The three, day by day
 
@@ -115,6 +115,6 @@ So all three misread each other, which is the novel's whole subject arriving in 
 ### Rules
 
 1. **Declarations are the wrong instrument here.** The closest anyone comes is on the good day, and he doesn't. A strong default rather than a ban; a scene that earns one has earned it.
-2. **Physical proximity is the main instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for eleven nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
+2. **Physical proximity is the main instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for sixteen nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
 3. **Jealousy is usually a misreading**, and where it is, the reader should see the misreading before Keo does.
 4. **Touch is rationed, and functional when it comes** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. Roughly one an act is the rate that feels right; it is a sense of scarcity, not a budget with a balance to spend down. The functional touch that lasts a moment too long does more than any embrace.

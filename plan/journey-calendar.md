@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-10
+approval: approved 2026-09-11
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -23,12 +23,12 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | 5 | **the constrictor** | 8 | 26 |
 | **6** | **the gift** — the only easy day in the novel | 12 | 38 |
 | **7** | **they come to the river, and stop** | 3 | 41 |
-| **8** | **the crossing** | 5 | 46 |
-| 9 | broken country | 10 | 56 |
-| **10** | **the fern savanna** — sunfever, her suit fails, his hubris peaks. The last peaceful night | 6 | 62 |
-| **11** | **Noli at dawn. Then the fall** | 4 | 66 |
-| 12 | rain, and **the mash** | 6 | 72 |
-| 13 | it comes due; he carries her; the coastal plain | 8 | 80 |
+| **8** | **the crossing, in the middle of the afternoon** | 2 | 43 |
+| 9 | across; thinning woodland toward the savanna edge | 11 | 54 |
+| **10** | **the fern savanna** — sunfever, her suit fails, his hubris peaks. The last peaceful night | 6 | 60 |
+| **11** | **Noli at dawn. Then the fall** | 4 | 64 |
+| 12 | rain, and **the mash** | 6 | 70 |
+| 13 | it comes due; he carries her; the coastal plain | 10 | 80 |
 | **14** | mudflats, the raft, open water, the mosasaur | offshore | — |
 | **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
 | 16–18 | **Genesis.** Rest, the revelation, the wig — and the water running out | — | — |
@@ -36,7 +36,9 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **Days are skipped freely.** Not every day needs a scene, and several should have none. The calendar exists so that what *is* written sits in a coherent world, not so that every square gets filled.
 
-**The pace profile is deliberate.** Eight to twelve kilometers while they are whole. **Three on Day 7**, because they stop at the water and do not cross it. **Four on Day 11**, when Noli dies and Keo is hurt. A reader will not compute any of this, but they will feel the two days where the map barely moves.
+**The pace profile is deliberate.** Eight to twelve kilometers on an ordinary day. **Three on Day 7 and two on Day 8** — they stop at the water, and then the crossing takes an afternoon and leaves nobody able to walk afterward. **Six on Day 10**, because head-high fern is slow ground and there is nowhere to lay up. **Four on Day 11**, when Noli dies and Keo is hurt. A reader will not compute any of this, but they will feel the days where the map barely moves.
+
+**The crossing is an afternoon, not a morning.** They do not march. The morning goes on preparing and on failing to be ready, the lay-up passes in the worst heat with nobody sleeping, and they go in at the height of the afternoon — the hour the light still reaches into the water and the hour everything that hunts the bank is lying up. Afterward they sit on the far side for an hour or two because nobody can do anything else, and then move a short distance before dark. **Two kilometers in a day, and the day is the hinge of the book.**
 
 ### Why the crossing is late, and why it is once
 
@@ -76,7 +78,11 @@ The dependency order:
 | **The raft, Day 14** | building sea, then cyclone | calm | — |
 | **The run home, Day 19** | clear and hot | fog, rain | They must be visible. That is the price of the heresy |
 
-**Light rain is the baseline here and changes nothing.** This climate rains often and moderately; showers are ordinary, the ground is usually damp, and a channel on a flat plain does not notice. **Only heavy sustained rain moves water**, and there is none of it before Day 11 — so Days 4 and 5 can be as wet as they like without touching the crossing.
+**Light rain is the baseline here and changes nothing.** This climate rains often and moderately; showers are ordinary, the ground is usually damp, and a channel on a flat plain does not notice. **Only heavy sustained rain moves water**, and there is none of it before Day 11 — so Days 4 and 5 can be as wet as they like without touching the crossing. **The river has to still have a discrete channel and be crossable**, and that is the constraint the rain schedule exists to protect.
+
+**The crossing is never in rain, high water, or a swollen channel.** A stippled surface masks vibration, a current sweeps the decoy downstream and disperses the crocs it was meant to gather, and a spread river has no banks and no crossing point. Any scene that describes the river as fast, risen or opaque has broken the set-piece it belongs to.
+
+**The journey's first day outside is Day 3, and it starts before dawn.** Late night belongs to Day 2; the pre-dawn after it is Day 3. Anything tagged Day 2 pre-dawn or Day 2 morning that happens outside the border-tangle is a day behind.
 
 **What the crossing actually needs is a still day**, because the decoy depends on hearing and on flat water, not on a drought. And what closes the route home is not rain at all. It is the cyclone.
 
@@ -124,14 +130,14 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | **12** | rain, continuous | warm and saturating | gray, unchanging | Misery without incident. Keo feverish, the food changed, and **this is the day the mash goes in short-leached** |
 | **13** | clearing; heavy mist at dawn | warming | soft, returning | Recovery, and false safety |
 | **14** | **hot, glassy, no wind at all** → the wall of black on the horizon | oppressive | flat brilliant, then extinguished | The unnatural calm before a cyclone is a real signature. Benal notices the air is wrong before anyone sees the sky |
-| **15** | **the eye at dawn** — high bright cloud, no wind, birds moving wrong → **the back wall, and the back half is worse** | falling; wet and wind-driven | a lit hour, then dark for eighteen | The eye is the cruellest weather in the book: it looks exactly like deliverance. **The Dark Night happens in the tail**, which is why it gets a night instead of two hours of daylight |
+| **15** | **the eye at dawn** — high bright cloud, no wind, birds moving wrong → **the back wall, and the back half is worse** | falling; wet and wind-driven | a lit hour, then dark for eighteen | The eye is the cruelest weather in the book: it looks exactly like deliverance. **The Dark Night happens in the tail**, which is why it gets a night instead of two hours of daylight |
 | **16** | blown out; washed, scoured, brilliant | warm, clean | the first honest sunlight since Day 10 | The world after the storm, and the dry powered section. Relief-shaped, and the light is doing it |
 | **17–18** | clear, hot, coastal | hot | hard bright | Rest they have not had in two weeks, on a clock: **Genesis has no fresh water.** They can stay as long as the storm's standing water lasts, and no longer |
 | **19** | clear and hot | hot | high hard light all the way home | No weather to hide behind. The wig is loud and visible and so are they |
 
 ### Rules
 
-**No two adjacent days share a register.** Any rescene must preserve that.
+**No two adjacent days share a register**, with one exception: Days 7 and 8, where nothing changes. The weather offers them no reason to wait and no reason to go, and the sameness is the pressure. Any rescene must preserve both the rule and the exception.
 
 **Weather is differentially dangerous, and that is the instrument.** Heat is Teva's enemy and Keo's flattery — and heat is the only weather that can *kill* her, though not the only weather she feels. Rain is Benal's enemy, because it is *noise*, and Keo's, because he is unsuited and then injured. Fog favors them. Sun favors the flybeak. **Every assignment should hurt at least one of the three and help at least one.** A day that hurts everyone equally is a day the weather is doing nothing.
 
@@ -153,7 +159,7 @@ A weather layer that maps bad weather to bad feeling is a mood ring. The assignm
 - **The clear day as the killer, Day 10.** Sun as antagonist, no shelter, good weather and the worst day so far.
 - **Rain as deliverance, Day 11.** They have spent a day nearly dying of heat, and the first ten minutes of the front are the best thing that has happened to them. Teva puts her face up into it. The misery starts later, and it starts because it does not stop.
 - **Rain as mercy, Days 11–12.** Unbearable, and the only thing that clears the biting insects. Weather that hurts and helps in the same hour is worth more than either.
-- **The eye of the storm as the cruellest weather in the book, Day 15.** It looks exactly like deliverance.
+- **The eye of the storm as the cruelest weather in the book, Day 15.** It looks exactly like deliverance.
 
 **Do not let weather move to suit an emotional moment.** The temptation to refuse is Omya's lucidity ending as the storm-dark comes on in 2.4 — it ends because she tires. If Teva notices herself wanting the dark to mean something and refuses it, that is character. If the narration makes it mean something, that is pathetic fallacy.
 
@@ -179,7 +185,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 
 - **Scene 2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now.
 - **Night 3, first night out.** Teva tries the recitation alone and gets partway, then finds a gap she cannot fill, and understands that the gap is permanent.
-- **Nights 6 and 7.** Benal works out what a memorized positional sky actually *is* — a 206-year observational dataset held in one dying woman's head — and is the only person alive who would recognize it as a resource.
+- **Nights 6 and 10.** Benal works out what a memorized positional sky actually *is* — a 206-year observational dataset held in one dying woman's head — and is the only person alive who would recognize it as a resource.
 - **Genesis.** The colony had two ways to find the impactor: instruments here, the Watch at home. It lost both and only noticed one.
 - **Book 2.** Teva holds the only fragment of the sky anyone has left, and it is incomplete.
 

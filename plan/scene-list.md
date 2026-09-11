@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**This file needs rewriting and is not approved.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4 — which is itself unapproved and is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 9 and 10 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right. Formerly `scene-list-v4.md`.)*
+**This file needs rewriting and is not approved.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4 — which is itself unapproved and is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right. Formerly `scene-list-v4.md`.)*
 
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
@@ -72,7 +72,7 @@ Benal's mathematics. Marek's *"do something real."*
 - The Keeper work dramatized. Teva knows fragments of it; that's why she's dangerous later.
 - Lumea named by her mother.
 - Something about the founders that will later contradict Sila.
-- **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §4 and `milieu-brief.md` §5.
+- **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
 **Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what beat 10's *"I left her while she's disappearing"* currently has nothing behind.
 
 ### 2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool] — *was 2.3 — now `content/superseded/02.5.md`*
@@ -141,10 +141,10 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 6: FUN & GAMES (The "Promise of the Premise")
 
-6.1 [Day 3] [TEVA] [Riverbank] [SPIKING (Dread)] - The trio argues about how to cross the first river. Teva's navigation skills and suit give her the authority. [Milieu: The first major rains have begun. The river is visibly swollen, fast, and opaque with mud. The bank is slick, black mud littered with rotting ferns and broken, plate-sized Ginkgo leaves. The rain plasters Teva's hair to her face, but she's grateful it's refilling their water-gourds and washing away the nutty, oily scent of the dried crawlers and pinyons in their fieldpacks.]
+6.1 [Day 7] [TEVA] [Riverbank] [SPIKING (Dread)] - The trio argues about how to cross the first river. Teva's navigation skills and suit give her the authority. [Milieu: The first major rains have begun. The river is visibly swollen, fast, and opaque with mud. The bank is slick, black mud littered with rotting ferns and broken, plate-sized Ginkgo leaves. The rain plasters Teva's hair to her face, but she's grateful it's refilling their water-gourds and washing away the nutty, oily scent of the dried crawlers and pinyons in their fieldpacks.]
 * **B-Story Note:** **Skills Clash (Practical vs. Bravado)**. Teva’s magnetic sense and proprioception establish her as the competent leader/navigator. She internally dismisses Keo’s unsuited bravado as a dangerous liability near the water (the **Primary Threat**).
 
-6.2 [Day 3] [TEVA] [First River] [SPIKING (Panic)] - The crossing. A croc brushes her suit. She fights her suit's thermals and her own terror. [Milieu: A steady, light-to-medium rain continues, 'stippling' the surface and masking their vibrations. She fights the 'warm, suffocating press' of the suit as the croc brushes her, its hide feeling like a rough log.]
+6.2 [Day 8] [TEVA] [First River] [SPIKING (Panic)] - The crossing. A croc brushes her suit. She fights her suit's thermals and her own terror. [Milieu: A steady, light-to-medium rain continues, 'stippling' the surface and masking their vibrations. She fights the 'warm, suffocating press' of the suit as the croc brushes her, its hide feeling like a rough log.]
 * **B-Story Note:** **Shared Guilt**. Teva's internal terror is linked to the Council's paralysis and the death of the yazhi, reinforcing her conviction that they were right to leave.
 
 6.3 [Day 4] [BENAL] [Deep Jungle] [RISING (Dread)] - The environment closes in. His super-senses are overwhelmed. Claustrophobia. [Milieu: A 'bait and switch': a clearing with clouds of hand-sized, iridescent blue butterflies (Lepidoptera), followed by steaming 'sauna-heat' and swarms of 'protein-seeking' flies that crawl on his eyes and mouth.]

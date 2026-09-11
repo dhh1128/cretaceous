@@ -39,12 +39,13 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **2.3, the family nest** | 2 | **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. |
 | **The Enclave** | 1–2 | cultivated and managed. Cycad plantations, palm groves, fern gardens, insect farms, hadrosaur pens, conifer emergents holding the nests. Everything here is *worked*. **And the river bend running through it** — barred at both ends, rotting, repaired forever, and never quite holding. The one dangerous place inside the safe place. |
 | **Border-tangle and the near woodland** | 3 | the transition. Built barrier giving way to understory nobody maintains. |
-| **Open-canopy woodland** | 3–6 | the default. Conifer emergents, laurel and palm canopy, understory of cycad and fern. Rivers with horsetail stands. |
+| **Open-canopy woodland** | 3–6, 9 | the default. Conifer emergents, laurel and palm canopy, understory of cycad and fern. Rivers with horsetail stands. |
+| **The river and its banks** | 7–8 | the one channel that cannot be avoided. Two days: a bank they cannot make themselves leave, and the crossing. |
 | **Fern savanna** | 10 | head-high ferns and cycads to the horizon, no trees, nothing to hide behind or under. |
 | **Limestone broken country** | 11–12 | scree, gulches, ravines, thin soil, exposed rock. Where Keo falls. |
 | **Coastal plain and wetland** | 13–14 | *Nypa*-type palms, *Weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. Then mudflats that read as ground and are not. |
 | **Open water** | 14–15 | the raft, the storm, the bank. |
-| **Genesis** | 15–16 | coral, fossil rudist bivalves, black volcanic rock, and the interior. |
+| **Genesis** | 15–18 | coral, fossil rudist bivalves, black volcanic rock, and the interior. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |
 
 ---
@@ -56,12 +57,12 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | species | day | note |
 |---|---|---|
 | *Acheroraptor* — **razortail** | 3 | the pack escape. Established at 4.3 by sound only; seen on Day 3. |
-| *Deinosuchus* — **croc** | 3 | the first river. **The primary threat gets one full showcase and is never re-described** — after Day 3 it is a shape, a wake, an absence of birds. |
+| *Deinosuchus* — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. |
 | *Anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
 | *Madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
 | *Alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |
 | *Borealosuchus* | 6 | the 3–4 m croc, to establish that "croc" is a range and not one animal. |
-| *Ankylosaurus* or *Nodosaurus* | 6 | armoured, indifferent, unbothered by them. |
+| *Ankylosaurus* or *Nodosaurus* | 6 | armored, indifferent, unbothered by them. |
 | *Kritosaurus* / *Velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
 | *Ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
 | *Quetzalcoatlus* — **flybeak** | 11, 19 | takes Noli out of a low sun. Returns as the chase on Day 19 and nowhere between — its shadow may pass, but the animal is not shown twice in Act 2. |
@@ -73,7 +74,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *Muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
 | sea turtles, nesting | 14 | already allocated to 9.1 as the croc distraction. |
 | *Mosasaurus* | 14 | night, the raft. |
-| ***Tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesised from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
+| ***Tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
 
 **Not allocated, held in reserve:** *Albertosaurus*, *Coahuilaceratops*, *Bravoceratops*, *Magnapaulia*, *Avisaurus*, *Alphadon*, *Meniscoessus*, *Coniophis*, *Polyglyphanodon*. Do not spend these without moving something else off the list.
 
@@ -89,11 +90,11 @@ This is where two layers interact, and the interaction is the point.
 
 | conditions | insect load | days |
 |---|---|---|
-| **still + hot + humid, especially after rain** | **worst.** Blood-sucking midges and flies in columns; they go for eyes, nostrils, the corners of the mouth. Unsuited skin is a banquet. | **3**, 6 evening, 10 |
-| sustained rain | **suppressed — the mercy inside the misery** | 8–9 |
+| **still + hot + humid, especially after rain** | **worst.** Blood-sucking midges and flies in columns; they go for eyes, nostrils, the corners of the mouth. Unsuited skin is a banquet. | **3**, 6 evening, 13 |
+| sustained rain | **suppressed — the mercy inside the misery** | 11–12 |
 | any breeze | suppressed | 6 |
-| open, dry, hot | few fliers, but mites and ticks living in the fern litter, working up under clothing unnoticed for hours | 7 |
-| coastal, breezy | few by day, then sandflies at dusk in a wall | 11 |
+| open, dry, hot | few fliers, but mites and ticks living in the fern litter, working up under clothing unnoticed for hours | 10 |
+| coastal, breezy | few by day, then sandflies at dusk in a wall | 13 |
 
 Note what this does to the cast. **Keo is unsuited, so he is the one being eaten** — the cost of his pride, delivered in a form no reader will resent. Teva and Benal watch him swell and scratch while their own skin is covered. And *stingburn* is the term for what it becomes when it goes wrong, which is what killed Alira, so every bite carries a small charge.
 
@@ -116,10 +117,10 @@ Food is labor. Nothing here is picked.
 | food | where | the cost |
 |---|---|---|
 | **Honey, in resin pots** | Day 6 — a stingless bee nest in a hollow limb | Climbing, and being stung by things that mob rather than sting once. **Worth a scene.** *(This is the best-supported item on the page:* Cretotrigona prisca*, a stingless bee, is known from Maastrichtian amber. Stingless bees genuinely store honey in pots, not comb. Recognizable and wrong, exactly to spec.)* |
-| **Stonefruit** — Annonaceae, custard-apple relatives | Days 4, 6, 10 | Finding one the animals haven't. Already canon as "dinosaur-fruit." |
+| **Stonefruit** — Annonaceae, custard-apple relatives | Days 4, 6, 13 | Finding one the animals haven't. Already canon as "dinosaur-fruit." |
 | **Snails** | Days 4–5, after rain | Trivial to gather, tedious to prepare, and they are *good*, which is the joke |
-| **Frogs** | Days 3, 10, near slow water | Being near slow water |
-| **Grounders** — *Alphadon*, *Meniscoessus* | Days 6, 9 | Noli catches them. **After Day 11 nobody catches them.** That is how the reader feels her absence in the food. |
+| **Frogs** | Days 3, 13, near slow water | Being near slow water |
+| **Grounders** — *Alphadon*, *Meniscoessus* | Days 6, 10 | Noli catches them. **After Day 11 nobody catches them.** That is how the reader feels her absence in the food. |
 | **Ovos** | Day 14, the turtle beach | Crocs |
 | **Pinyons** | anywhere with conifers | Nothing. The default. Which is why they are sick of them. |
 | **Mushrooms** | Days 4–5, wet days | Knowing which. Benal knows; this is a small competence that costs him nothing and reads as expertise |
@@ -137,21 +138,21 @@ Food is labor. Nothing here is picked.
 
 ## 4. Flora allocation
 
-Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 14–12: thin scrub, gnetophyte berries on scree, resurrection ferns on rock. Days 16–14: *Nypa*-type palms, *Weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
+Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 11–12: thin scrub, gnetophyte berries on scree, resurrection ferns on rock. Days 13–14: *Nypa*-type palms, *Weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
 
 ## 5. Sensory allocation
 
 Each of these is owned once. The number is the day.
 
-**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (7) · a hadrosaur carcass three days dead (10) · **sulfur from hot springs (9)** · brine and cold (11) · the mosasaur's breath (11) · wet metal, ozone and dormant circuits at Genesis (13).
+**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · brine and cold (14) · the mosasaur's breath (14) · wet metal, ozone and dormant circuits at Genesis (16).
 
 **Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days. Nobody has to point this out.
 
-**Sound** — the insect wall (already 4.3, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (3) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (7) · the tearing-sail sound of the flybeak (8) · hell ants moving over leaf litter (8) · nothing at all on Day 12 but rain · the cyclone (11) · Genesis groaning on its own weight (13).
+**Sound** — the insect wall (already 4.3, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16).
 
-**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (3) · a croc's hide against a suited leg, like a rough log (3) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (7) · limestone scree opening skin (8) · sulfur water at forty degrees (9) · salt drying tight on the face (11) · coral and rudist shell cutting (12).
+**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
-**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent butterflies (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (7) · a single blood-spattered feather (8) · the wall of black on the horizon (11) · the eye of the storm, high and bright and wrong (12) · the first honest sunlight in six days (13).
+**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent butterflies (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the eye of the storm, high and bright and wrong (15) · the first honest sunlight in six days (16).
 
 ---
 

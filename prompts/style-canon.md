@@ -265,7 +265,7 @@ The correction comes *before* the reasoning. "Chen wheezed" does attribution and
 >
 > "Way too far," said Oji. "We couldn't get back to the river by morning."
 
-Each objection is specific enough to be checkable — smell, distance, moonrise, tree density. **The group leaves with a plan they know is bad.** This is the model for the Day 3 crossing.
+Each objection is specific enough to be checkable — smell, distance, moonrise, tree density. **The group leaves with a plan they know is bad.** This is the model for Day 7 on the bank.
 
 ## 10. Dialogue — subtext and indirection
 
