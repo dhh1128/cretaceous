@@ -145,6 +145,46 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ---
 
+### D6.1 — [MEDIUM] [Day 6, morning] [BENAL] [Open-canopy woodland] — **NEW**
+**Ladders:** E4 P4 S5 X5
+**They start hungry**, four days out and down to journey-pan, and the day begins as foraging rather than as a gift. **Benal's ladder moves:** he finds the honey by smell, and the sense that has been an unfiltered assault on him since Day 4 is the reason they eat.
+**Must carry:**
+- **Face-height spiderwebs strung across a game trail overnight** — allocated to Day 6 dawn and marked comic.
+- **Good water, and a croc in it that does not matter.** A three-to-four-meter *Borealosuchus*, which is the day teaching them that "croc" is a range and not one animal. `[?]` This is the gift's real shape: the thing their whole culture is organized around fearing has a harmless version — and it makes Day 7 worse, because now they can tell the difference.
+- **Honey in resin pots** from stingless bees in a hollow limb. Climbing, and being mobbed rather than stung once. Split between four mouths and two suits, which pays `foreshadow-and-motif.md` row 20.
+- **Oaks and walnuts, stonefruit, turned earth and green sap.** The one day flora is allowed to be pleasant.
+- **The grounders come and watch them eat**, unbothered, and **Teva feeds one while they are all still hungry.** Nobody remarks on it. This pays 2.5, where a yazhi says something funny and we watch her not laugh — here she does.
+**Hazard:** the honey as a treat. It is a physical event — climbing, mobbing, sugar hitting four starving people — and if it reads as a picnic the day has spent its budget on nothing. Second: Teva and the grounder played for cuteness. She is the one you would not expect, and the moment works because nobody comments.
+**Ends on:** sticky, stupid with sugar, climbing into a tree, and somebody saying they will take first watch.
+
+### D6.2 — [LONG, ~1900] [Day 6, afternoon] [TEVA] [In the tree] — **NEW**
+**Ladders:** E3 P3 S6 X5
+**All three wake at once, hours gone, and nobody watched.** The trust event is the gap rather than anything said, and they discover it. **Teva's ladder moves:** talking costs her most, and concealment is her whole apparatus.
+**Must carry:**
+- **The nap is not depicted.** It happens between this scene and the last one.
+- `[?]` **The cheapest true thing each of them is carrying**, and the characterization is the order — who volunteers, who has to be asked, who says something adjacent to the truth and lets it stand.
+- **The joke that becomes theirs is born here** — `character-arcs.md` §3 gives Day 6 the dyad row that promises it.
+- **Amber** in a conifer wound with something in it. They know exactly what they are looking at and what it means that it will still be there in sixty-six million years.
+- **Every ladder troughs today and this is the bottom of it.** `character-arcs.md` says the dyads move together on Day 6 and only on Day 6.
+**Hazard:** the confessions. `plan/scene-list.md`'s Dark Night on Day 15 is built on three of them — Keo's guilt, Benal's shame at being pitied, Teva's grandmother — and if this scene opens any of those, Day 15 has nothing to open. Second: the therapy circle, where each takes a turn and says a true thing. Somebody should refuse.
+**Ends on:** an hour later than they should be, and nobody minding.
+
+### D6.3 — [MEDIUM] [Day 6, evening] [KEO] [A ridge, then on] — **NEW**
+**Ladders:** E3 P3 S5 X5
+**Most of the day's twelve kilometers are in this walk**, and it is easy ground in good light. **Keo's ladder moves:** *maybe he can do this*, which is the confidence Day 7 destroys and Day 10 punishes.
+**Must carry:**
+- **The midges are at their worst on Day 6 evening** until the breeze returns, so the day's one hour of misery sits here and the wind is the relief. Both allocated.
+- **The ground moves before anything is visible** — the sense that has always meant danger — and the fear resolves into nothing.
+- **The saropo herd, from a ridge, wading.** That is where tomorrow's riding idea comes from.
+- **Keo pushes at one with his mind and it is like pushing a wall.** His projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so the idea and its refutation are planted in the same minute — and he learns the scale limit that tells him on Day 8 that two tonnes is inside his reach.
+- **An armored thing, indifferent, unbothered by them** — *Ankylosaurus* or *Nodosaurus*, allocated here and nowhere else. The colony has no word for it, so the prose will not name it; the genus is here because the planning layer is where allocations are tracked.
+- **Bioluminescence** at full dark.
+- `[?]` **He almost says it to Teva, and doesn't.** `character-arcs.md:117` — declarations are the wrong instrument here, and the closest anyone comes is the good day, and he doesn't.
+**Hazard:** the gawp. These three were born here and `kb/worldbuilding/lingo.md` says a saropo is the largest thing in the world and no use to anyone — too big to work, too big to eat, too big to fear. **They are not impressed by a big dinosaur**, and if the prose stops to be impressed on their behalf it has left the POV. What is new is that they are standing somewhere nobody they know has stood. Second hazard: the almost-declaration written as a near-miss, with an interruption. Nothing interrupts him. He decides not to.
+**Ends on:** full dark, the breeze, and the best sleep any of them get in the book.
+
+---
+
 ### D7.1 — [MEDIUM] [Day 7, late morning] [BENAL] [The bank, first sight] — **NEW**
 **Ladders:** E6 P4 S5 X5
 They come out of the woodland onto the channel and stop. **The obstacle is delivered by the world, not announced by a character**, and Benal hears it before anyone sees it.
@@ -153,6 +193,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The croc's full showcase opens here and is never re-described** — `milieu-allocation.md` gives Days 7–8 and forbids it afterward. Day 7 is the day they *count* them, which is where the description belongs; Day 8 has no attention to spare.
 - The bank: slick black mud, rotting ferns, broken plate-sized ginkgo leaves. `[?]` The leaves are load-bearing later and should read as litter here.
 - **Benal is the one who can measure it** and the first to say a number out loud. His intellect is useful before his body fails again.
+**Hazard:** the obstacle announced instead of delivered — somebody says *there's the river* and the scene turns into exposition. It has to arrive through Benal's ears and then his eyes. Second hazard: the croc's one showcase becoming a monster reveal. They are counting animals, not meeting a villain.
 **Ends on:** the number, and nobody arguing with it.
 
 ### D7.2 — [LONG, ~2000] [Day 7, afternoon] [TEVA] [The bank] — *was 6.1*
@@ -163,6 +204,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The saropo plan dies on control, not on size** — nobody can steer one, and being shaken off or left standing mid-channel is worse than swimming.
 - **The plan they land on is theirs and they earn it:** the narrows between boulders, the decoy fifty yards upstream in the slow water, and the hour. `journey-calendar.md` §2, *How the crossing is actually made*.
 - Shared guilt: her terror is bound up with the Council's paralysis and the dead yazhi, which is what keeps her certain they were right to leave.
+**Hazard:** the options ticked off in order, one paragraph and one refutation each. That is a checklist, not an argument. Every rejected plan has to cost the person who proposed it something, and none of them wants to be standing there.
 **Ends on:** the plan agreed, which is worse than no plan, because now it is going to happen.
 
 ### D7.3 — [SHORT, ~800] [Day 7, night] [KEO] [The bank] — **NEW**
@@ -172,6 +214,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Keo has to hold two tonnes of panicking animal tomorrow** and this is the night before. The scene belongs to the person with the job.
 - `[?]` **Teva does not look up.** Omya taught her the stars (`minor-characters.md`), and Keo watches her not look and misreads what it means. Strict third: the reader gets his misreading, not her reason.
 - Day 6 was four days of good weather ago and is already the thing they draw against.
+**Hazard:** the night-before-the-battle conversation. Two teenagers talking meaningfully about courage. The scene is about not sleeping, and most of it should have nobody speaking.
 **Ends on:** first light, which is not a relief.
 
 ---
@@ -183,6 +226,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Driving the herd.** The decoy is a two-tonne hadrosaur and it is part of a herd — hadrosaurs are the labor animals and saropo are too big for anything. Keo's mental projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so this is at the limit of what he can do and he knows it.
 - **The cost of projection is pressure behind the eyes and then real pain**, and he is spending it hours before he needs it most.
 - `[?]` The waiting is the worst part and it is the only place in the book where all three of them have nothing to do.
+**Hazard:** the heist-prep montage, and the plan sounding clever. The reader should be able to see how thin it is. Nobody in it is confident.
 **Ends on:** the hour arriving, in the heat, with the river exactly as flat as they needed it to be.
 
 ### D8.2 — [LONG, ~2200] [Day 8, mid-afternoon] [TEVA] [The narrows] — *was 6.2*
@@ -194,6 +238,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Blood and churn drift down onto them.** The last one in the water is swimming through water they can see has something in it.
 - Her suit: the warm suffocating press, the thermals fighting her. One brushes her anyway, its hide like a rough log.
 - **The extra help is not theirs.** It is on the page as conditions, never as a plan, and nobody in the scene remarks on it.
+**Hazard:** the mechanics becoming a procedural — the plan narrated as it executes. Second, and worse: telling the reader about the extra help. The herd's churn and the leaves are conditions on the page, never a thing anyone notices is saving them.
 **Ends on:** touching the far bank, with one of them still in the water.
 
 ### D8.3 — [SHORT, ~700] [Day 8, late afternoon] [BENAL] [The far bank] — **NEW**
@@ -203,6 +248,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The aftermath belongs to the one who had no job.** Benal was cargo across, and being carried is his subject.
 - `[?]` Nobody says *we did it*. The gap between surviving and being pleased about it is the scene.
 - Keo is paying for the projection now.
+**Hazard:** the relief scene. Somebody saying *we made it*. The gap between surviving and being pleased about it is the whole scene, and it should be uncomfortable.
 **Ends on:** the river behind them, and the first of them to think about what that means not saying so.
 
 ---
@@ -214,6 +260,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The ordinary day after the enormous one**, which is a shape the book has not used and Day 6 paid for.
 - Open-canopy woodland thinning toward the savanna edge — the last of the biome before Day 10 takes the shade away.
 - `[?]` Their bodies, itemized. This is where `body-and-resources.md` gets a full accounting, because it is the only quiet day left.
+**Hazard:** filler. The calendar's own note is that there is nothing to feel yet, which invites a scene with no engine. Its engine is the body accounting — this is the last quiet day and it is where the physical chain gets audited on the page.
 **Ends on:** the country opening, which they read as good news.
 
 ### D9.2 — [SHORT, ~800] [Day 9, evening] [TEVA] [Camp] — **NEW**
@@ -223,6 +270,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **This pays a faint plant** — `foreshadow-and-motif.md` row 16, the river crossed easily in low water, paid at Days 16–18 when the flood has spread it into kilometers of shallow water and it is not a crossing at all. Signal level here is *faint*; the scene must not underline it.
 - They could not do that again. None of them says so in those words.
 - `[?]` The social ladder moves without an argument, which it has not yet done.
+**Hazard:** underlining. Signal level is *faint*. The bad version has someone say *we can't go back, can we?* Nobody says it, and the scene ends on the not-saying.
 **Ends on:** the thing unsaid, and one of them choosing not to say it.
 
 6.3 [Day 4] [BENAL] [Deep Jungle] [RISING (Dread)] - The environment closes in. His super-senses are overwhelmed. Claustrophobia. [Milieu: A 'bait and switch': a clearing with clouds of hand-sized, iridescent day-flying moths, followed by steaming 'sauna-heat' and swarms of 'protein-seeking' flies that crawl on his eyes and mouth.]
