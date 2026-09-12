@@ -160,7 +160,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The day they exhaust every alternative to getting wet.** Build a raft. Ride a saropo across if a herd is headed that way. Follow the bank upstream and hope. Go around. Go home. Counting what they have. The full list is in `journey-calendar.md` §1, with the reason each one dies.
 **Must carry:**
 - **Teva has the authority here** and it is the first time she takes it openly — her magnetic sense, her proprioception, her suit. She reads Keo's unsuited confidence near the water as a liability, and the reader should be able to read it as something else.
-- **The saropo plan dies on control, not on size** — nobody can steer one, and being shaken off or left standing mid-channel is worse than swimming. Daniel's ruling.
+- **The saropo plan dies on control, not on size** — nobody can steer one, and being shaken off or left standing mid-channel is worse than swimming.
 - **The plan they land on is theirs and they earn it:** the narrows between boulders, the decoy fifty yards upstream in the slow water, and the hour. `journey-calendar.md` §2, *How the crossing is actually made*.
 - Shared guilt: her terror is bound up with the Council's paralysis and the dead yazhi, which is what keeps her certain they were right to leave.
 **Ends on:** the plan agreed, which is worse than no plan, because now it is going to happen.
