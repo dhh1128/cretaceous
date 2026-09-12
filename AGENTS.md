@@ -72,7 +72,11 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 **Nothing reaches him that has not passed the mechanical checks.** The blacklist, the logic checker, the repetition hawk, the four invariants, and the invention audit. Spending his attention on defects a checklist catches is the most expensive mistake available here.
 
-**Measure the sentence distribution every time.** `prompts/ai-tells-blacklist.md` used to say rhythm was not the problem and not to spend effort there. That was true of four particular drafts and false in general: the first draft of scene 1.1 came out at 42.4% sentences of five words or fewer against Daniel's 25.7%, from a session that had read the exemption and believed it. Targets are in `prompts/style-canon.md` §0.
+**Measure the sentence distribution every time, and measure it separately for dialogue and for narration.** `prompts/ai-tells-blacklist.md` used to say rhythm was not the problem and not to spend effort there. That was true of four particular drafts and false in general: the first draft of scene 1.1 came out at 42.4% sentences of five words or fewer, from a session that had read the exemption and believed it. Targets are in `prompts/style-canon.md` §0.
+
+**The comparison that finding was made against was wrong, and the corrected version is worth more.** 42.4% was read as fifteen points above a book-level norm of 25.7%, which sounds like a vague rhythm problem. It is not one. Daniel's dialogue runs about 41% short sentences and his narration about 19–22% once speech-attribution fragments are set aside, so the book-level figure is mostly a fact about his dialogue-to-narration ratio. That draft was writing **narration at his dialogue rate**, which is a specific defect with a specific fix.
+
+**The general lesson, and it applies past sentence length: a blended statistic can be hit exactly by prose that is wrong in both halves.** The two novels appeared to agree on mean sentence length to two decimal places, which looked like a fingerprint and was an accident — cordimancy attributes speech three and a half times as often as viking, and those fragments manufacture enough two-word narration sentences to drag its blend onto viking's. Segmented, the books differ. Any measurement that mixes dialogue with narration, or one scene's job with another's, should be assumed to be hiding its own opposite until it has been split.
 
 ## 5. House conventions
 
