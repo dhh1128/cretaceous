@@ -129,7 +129,9 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 
 The archival fragments are **the irony instrument**, not a backstory delivery mechanism. They are the only channel where the reader can hold something the characters structurally cannot, because nobody in 66 mya has access to the 21st century. Designed as one unit, with its own arc, and reviewed as a unit.
 
-Seven, plus a coda.
+Twelve, plus a coda.
+
+**The table below is the original seven-fragment design and it is superseded.** `content/epigraphs.md` holds thirteen written fragments and is the authority for what exists, what each one says, and where it sits; the numbering there is the one to use. What the table still carries that the fragment file does not is the **job** column — what each fragment is *for* in the irony engine — so it is kept until those jobs have been reassigned across the thirteen. **That reassignment belongs to the rescene**, because placement is stated against scene numbers that are about to move. Until then, read this table for the design intent and never for the count or the addresses.
 
 | # | placement | form | job |
 |---|---|---|---|

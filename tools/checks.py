@@ -675,7 +675,12 @@ PACING = "plan/pacing-and-stakes.md"
 # `### 4.3 — [LONG] [Day 3, pre-dawn] [KEO] …` and Acts 2-3 are still the older
 # `6.2 [Day 8] [TEVA] [The River] …`. Read whichever is there; the rescene will
 # settle on one and this keeps working when it does.
-SCENE_ENTRY = re.compile(r"^(?:#{2,4}\s*)?(\d+(?:\.\d+)?)\s*(?:[–—-]\s*)?\[")
+# The id itself is deliberately loose. Three schemes are live during the rebuild --
+# `4.3` from the Act 1 rescene, `6.2` from the old act-major list, and the provisional
+# day-keyed `D7.1` -- and a fourth, sequential integers, arrives at the renumber. The
+# check's business is the relationship between a scene and its day, not the spelling
+# of its address, so it reads whatever is there.
+SCENE_ENTRY = re.compile(r"^(?:#{2,4}\s*)?([A-Za-z]?\d+(?:\.\d+)?)\s*(?:[\u2013\u2014-]\s*)?\[")
 SCENE_DAY = re.compile(r"\[Day\s+(\d+)", re.I)
 
 

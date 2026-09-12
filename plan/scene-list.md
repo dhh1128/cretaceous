@@ -141,11 +141,89 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 6: FUN & GAMES (The "Promise of the Premise")
 
-6.1 [Day 7] [TEVA] [Riverbank] [SPIKING (Dread)] - The trio argues about how to cross the river. Teva's navigation skills and suit give her the authority. [Milieu: Dead still, hot, cloudless — a river like a sheet of metal, and everything in it listening. The bank is slick black mud littered with rotting ferns and broken, plate-sized Ginkgo leaves. The water looks harmless, and that is the problem: there is nothing about the day that gives them an excuse to wait.]
-* **B-Story Note:** **Skills Clash (Practical vs. Bravado)**. Teva’s magnetic sense and proprioception establish her as the competent leader/navigator. She internally dismisses Keo’s unsuited bravado as a dangerous liability near the water (the **Primary Threat**).
+> **Days 7, 8 and 9 are rescened below, in the Act 1 format.** The rest of this act is still in the old one. **Ids are provisional and day-keyed** — `D7.2` is the second scene of Day 7 — because the sequential renumber has to wait until a check exists that every scene address cited across the layers resolves; after the renumber the ordering evidence those 392 references carry is gone, and it is what the check reads. The day is the stable key in the meantime, per `plan/journey-calendar.md`.
 
-6.2 [Day 8] [TEVA] [The River] [SPIKING (Panic)] - The crossing. A croc brushes her suit. She fights her suit's thermals and her own terror. [Milieu: Hard bright sun on flat water. They cross at a narrows between boulders — quicker water, shorter gap — with the herd driven in fifty yards upstream in the slow wide water where the decoy will stay put. Light enough to see what is under the surface, which is the only thing standing between them and an animal they cannot see. Blood and churn drift down onto them from the decoy. She fights the 'warm, suffocating press' of the suit as one brushes her anyway, its hide feeling like a rough log. See `plan/journey-calendar.md` §2, *How the crossing is actually made*.]
-* **B-Story Note:** **Shared Guilt**. Teva's internal terror is linked to the Council's paralysis and the death of the yazhi, reinforcing her conviction that they were right to leave.
+---
+
+### D7.1 — [MEDIUM] [Day 7, late morning] [BENAL] [The bank, first sight] — **NEW**
+**Ladders:** E6 P4 S5 X5
+They come out of the woodland onto the channel and stop. **The obstacle is delivered by the world, not announced by a character**, and Benal hears it before anyone sees it.
+**Must carry:**
+- **The water looks harmless, and that is the problem.** Dead still, hot, cloudless, a river like a sheet of metal. Nothing about the day gives them an excuse to wait. Weather and register from `journey-calendar.md` §2.
+- **The croc's full showcase opens here and is never re-described** — `milieu-allocation.md` gives Days 7–8 and forbids it afterward. Day 7 is the day they *count* them, which is where the description belongs; Day 8 has no attention to spare.
+- The bank: slick black mud, rotting ferns, broken plate-sized ginkgo leaves. `[?]` The leaves are load-bearing later and should read as litter here.
+- **Benal is the one who can measure it** and the first to say a number out loud. His intellect is useful before his body fails again.
+**Ends on:** the number, and nobody arguing with it.
+
+### D7.2 — [LONG, ~2000] [Day 7, afternoon] [TEVA] [The bank] — *was 6.1*
+**Ladders:** E7 P4 S7 X5
+**The day they exhaust every alternative to getting wet.** Build a raft. Ride a saropo across if a herd is headed that way. Follow the bank upstream and hope. Go around. Go home. Counting what they have. The full list is in `journey-calendar.md` §1, with the reason each one dies.
+**Must carry:**
+- **Teva has the authority here** and it is the first time she takes it openly — her magnetic sense, her proprioception, her suit. She reads Keo's unsuited confidence near the water as a liability, and the reader should be able to read it as something else.
+- **The saropo plan dies on control, not on size** — nobody can steer one, and being shaken off or left standing mid-channel is worse than swimming. Daniel's ruling.
+- **The plan they land on is theirs and they earn it:** the narrows between boulders, the decoy fifty yards upstream in the slow water, and the hour. `journey-calendar.md` §2, *How the crossing is actually made*.
+- Shared guilt: her terror is bound up with the Council's paralysis and the dead yazhi, which is what keeps her certain they were right to leave.
+**Ends on:** the plan agreed, which is worse than no plan, because now it is going to happen.
+
+### D7.3 — [SHORT, ~800] [Day 7, night] [KEO] [The bank] — **NEW**
+**Ladders:** E8 P4 S6 X5
+**Nobody sleeps.** The sky is enormous and useless and they are not looking at it.
+**Must carry:**
+- **Keo has to hold two tonnes of panicking animal tomorrow** and this is the night before. The scene belongs to the person with the job.
+- `[?]` **Teva does not look up.** Omya taught her the stars (`minor-characters.md`), and Keo watches her not look and misreads what it means. Strict third: the reader gets his misreading, not her reason.
+- Day 6 was four days of good weather ago and is already the thing they draw against.
+**Ends on:** first light, which is not a relief.
+
+---
+
+### D8.1 — [MEDIUM] [Day 8, morning to lay-up] [KEO] [Upstream of the narrows] — **NEW**
+**Ladders:** E8 P6 S7 X5
+**The morning goes on preparing and on failing to be ready**, and the lay-up passes in the worst heat with nobody sleeping. `journey-calendar.md` §1.
+**Must carry:**
+- **Driving the herd.** The decoy is a two-tonne hadrosaur and it is part of a herd — hadrosaurs are the labor animals and saropo are too big for anything. Keo's mental projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so this is at the limit of what he can do and he knows it.
+- **The cost of projection is pressure behind the eyes and then real pain**, and he is spending it hours before he needs it most.
+- `[?]` The waiting is the worst part and it is the only place in the book where all three of them have nothing to do.
+**Ends on:** the hour arriving, in the heat, with the river exactly as flat as they needed it to be.
+
+### D8.2 — [LONG, ~2200] [Day 8, mid-afternoon] [TEVA] [The narrows] — *was 6.2*
+**Ladders:** E9 P9 S7 X5
+**The crossing.** The single most frightening thing in the novel, and the only time they willingly enter deep water in a culture whose first law is *water is death*.
+**Must carry:**
+- **The mechanics, which are the whole scene:** the narrows between boulders, quicker water and a shorter gap; the herd churning fifty yards upstream across a wide front; their own ripples carried downstream away from the gathering. `journey-calendar.md` §2.
+- **What the croc actually senses is disturbance on the water**, not vibration through the ground — the correction taught back in the yazhi drill at 2.5 (`tech-rules.md`). The reader has to feel the lesson pay.
+- **Blood and churn drift down onto them.** The last one in the water is swimming through water they can see has something in it.
+- Her suit: the warm suffocating press, the thermals fighting her. One brushes her anyway, its hide like a rough log.
+- **The extra help is not theirs.** It is on the page as conditions, never as a plan, and nobody in the scene remarks on it.
+**Ends on:** touching the far bank, with one of them still in the water.
+
+### D8.3 — [SHORT, ~700] [Day 8, late afternoon] [BENAL] [The far bank] — **NEW**
+**Ladders:** E7 P7 S7 X5
+**Nobody can do anything else for an hour or two**, and then they move a short distance before dark. Two kilometers in a day.
+**Must carry:**
+- **The aftermath belongs to the one who had no job.** Benal was cargo across, and being carried is his subject.
+- `[?]` Nobody says *we did it*. The gap between surviving and being pleased about it is the scene.
+- Keo is paying for the projection now.
+**Ends on:** the river behind them, and the first of them to think about what that means not saying so.
+
+---
+
+### D9.1 — [MEDIUM] [Day 9, the walk] [BENAL] [Thinning woodland] — **NEW**
+**Ladders:** E5 P6 S6 X5
+**Eleven kilometers on no sleep, the longest walk since the gift**, and the calendar's own register for the day is that there is nothing to feel about it yet except that they are still walking. Overcast, breaking to showers.
+**Must carry:**
+- **The ordinary day after the enormous one**, which is a shape the book has not used and Day 6 paid for.
+- Open-canopy woodland thinning toward the savanna edge — the last of the biome before Day 10 takes the shade away.
+- `[?]` Their bodies, itemized. This is where `body-and-resources.md` gets a full accounting, because it is the only quiet day left.
+**Ends on:** the country opening, which they read as good news.
+
+### D9.2 — [SHORT, ~800] [Day 9, evening] [TEVA] [Camp] — **NEW**
+**Ladders:** E6 P6 S7 X5
+**Somebody finally says that the river is behind them**, and the way home is not the way out.
+**Must carry:**
+- **This pays a faint plant** — `foreshadow-and-motif.md` row 16, the river crossed easily in low water, paid at Days 16–18 when the flood has spread it into kilometers of shallow water and it is not a crossing at all. Signal level here is *faint*; the scene must not underline it.
+- They could not do that again. None of them says so in those words.
+- `[?]` The social ladder moves without an argument, which it has not yet done.
+**Ends on:** the thing unsaid, and one of them choosing not to say it.
 
 6.3 [Day 4] [BENAL] [Deep Jungle] [RISING (Dread)] - The environment closes in. His super-senses are overwhelmed. Claustrophobia. [Milieu: A 'bait and switch': a clearing with clouds of hand-sized, iridescent day-flying moths, followed by steaming 'sauna-heat' and swarms of 'protein-seeking' flies that crawl on his eyes and mouth.]
 * **B-Story Note:** **Sensory Burden / Isolation**. Benal's enhanced hearing is an "unfiltered assault", transforming the jungle into an aggressive environment. This isolation (being the only one experiencing the full assault) heightens his shame.

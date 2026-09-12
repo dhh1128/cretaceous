@@ -68,6 +68,15 @@ At the commit that introduced the rescene tier:
 
 **If a number here goes down without the corresponding work being done, the check was weakened.** Any change to one of these five checks that reduces its baseline count belongs in a commit that says so in its message and explains why the old assertion was wrong.
 
+### The log against that baseline
+
+| when | check | count | why it moved |
+|---|---|---|---|
+| baseline | — | 14 / 98 / 1 | the checks written, nothing rebuilt |
+| Days 7–9 rescened | `scenes_per_day` | 14 → **11** | eight scenes written for Days 7, 8 and 9. **`SCENE_ENTRY` was widened in the same commit** to accept the provisional day-keyed ids, and that alone does not account for the drop: with the old pattern the new scenes were invisible and those days read as 0, and with the new pattern but no new scenes they would read 1, 1, 0 against 3, 3, 2 and still fail. Both were needed. |
+| Days 7–9 rescened | `epigraph_count` | 1 → **0** | `knowledge-ledger.md` now declares the suite at the size `content/epigraphs.md` actually holds, and says plainly that its own seven-row table is the superseded design, kept only for the job column until the rescene reassigns it. |
+| Days 7–9 rescened | `eliminated_unit_word` | 98 → **97** | incidental, from rewriting the two river entries. The sweep has not started. |
+
 ## Not yet built
 
 **Blocked on the rescene.** Every scene id cited anywhere resolves to a scene in `scene-list.md`; every `[requires]` pointer resolves. Scene numbers are about to be reassigned, so building these now buys a suite that goes red for the right reason at the wrong time.
