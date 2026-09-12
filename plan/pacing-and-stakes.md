@@ -82,6 +82,8 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 
 ## 5. Proposed shape — about 60 scenes
 
+`[?]` **Every number in this section and the next is tentative — the scene counts and the ladder values alike, not only the rows added for the new days.** They are an interpolation of a coarser curve that was never put to Daniel. **The rescene is where they get argued**, and arguing them before it would be settling the answer before the question. Read them as a shape, not a specification.
+
 | act | now | proposed |
 |---|---|---|
 | **1** | 14 | 14 — done |
@@ -91,7 +93,7 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 
 **Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
-| day | now | → | what it is |
+| day | scenes now | scenes → | what it is |
 |---|---|---|---|
 | 3 | 4 | 4 | out through the tangle, the razortails, the first day outside. The biggest day in the book |
 | 4 | 1 | 2 | the rain arrives; the walking begins in earnest |
@@ -106,11 +108,11 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 
 **Act 3, by day.** Genesis is three distinct days and Day 19 is everything else, and all four are running at nought to three scenes.
 
-| day | now | → | what it is |
+| day | scenes now | scenes → | what it is |
 |---|---|---|---|
-| 16 | 1 | `[?]` ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
-| 17 | 1 | `[?]` ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
-| 18 | 0 | `[?]` ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
+| 16 | 1 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
+| 17 | 1 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
+| 18 | 0 | ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
 | 19 | 3 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.
@@ -139,9 +141,9 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **13** | 7 | 9 | 7 | 6 | it comes due; he carries her |
 | **14** | 8 | **10** | 7 | 6 | drowning, the mosasaur, the fieldpack lost |
 | **15** | **10** | 5 | 7 | 6 | the confessions; chosen family forged |
-| **16** | `[?]` 7 | `[?]` 4 | `[?]` 6 | `[?]` 7 | out of the water, fed, and still alive. The exhale |
+| **16** | 7 | 4 | 6 | 7 | out of the water, fed, and still alive. The exhale |
 | **17** | 8 | 4 | 8 | **10** | the protocols are real, and then fact G |
-| **18** | `[?]` 9 | `[?]` 5 | `[?]` 8 | `[?]` 9 | no way home — and then the machine |
+| **18** | 9 | 5 | 8 | 9 | no way home — and then the machine |
 | **19** am | 8 | **10** | 9 | 8 | the chase |
 | **19** eve | 9 | 5 | **10** | 9 | the confrontation |
 | **19** night | **10** | 3 | 10 | 9 | the parents |

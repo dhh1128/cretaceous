@@ -1,5 +1,5 @@
 ---
-approval: approved 27b4a65b
+approval: approved 00f86b9b
 ---
 
 # Cretaceous — Milieu Brief
@@ -64,7 +64,7 @@ They left Genesis because it had no fresh water, no stable shelter, brutal coast
 
 **Genesis itself** is a **spit of emergent land ringed by coral**, in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. It is land, not a tidal bank — two hundred founders arrived there, lived there three years, and left an archive, a temporal lab and two wigs on it. Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
 
-**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Tylosaurus*, dyrosaurid marine crocodiles, Cretaceous sharks and plesiosaurs are all present in these waters. They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
+**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Prognathodon* and *Plioplatecarpus*, dyrosaurid marine crocodiles, lamniform sharks and elasmosaurid plesiosaurs are all present in these waters (`kb/research/geo-flora-fauna.md` §4.4b). They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
 
 **Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year, nearly all to protocol violations.
 

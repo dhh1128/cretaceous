@@ -1,5 +1,5 @@
 ---
-approval: approved f0c7b5c3
+approval: approved c07be01e
 ---
 
 # Environmental suits
@@ -14,7 +14,7 @@ Origin: built before the upgrade system worked, to keep the original settlers al
 
 ### Form factor
 
-A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 5–8 mm thick. **2–3 kg** for a full suit — it looks like it should weigh twenty and doesn't, and that discrepancy is worth a beat the first time someone handles one.
+A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 6–8 mm thick — the three measured layers below sum to six at minimum, and the inner layer carries no figure, so six is a floor rather than an estimate. **2–3 kg** for a full suit — it looks like it should weigh twenty and doesn't, and that discrepancy is worth a beat the first time someone handles one.
 
 `[?]` **How they should read on the page: bio-functional, sleek, grounded.** Not cyberpunk, not a mech, not robotic. They are living equipment that a person steps into, and the prose should not reach for the vocabulary of powered armor.
 

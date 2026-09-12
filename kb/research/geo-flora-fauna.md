@@ -1,5 +1,5 @@
 ---
-approval: approved 54b2287a
+approval: approved 5e3b630a
 ---
 
 # **PALEOECOLOGICAL REPORT: YUCATAN PLATFORM, LATE MAASTRICHTIAN (ca. 66.0005 Mya)**
@@ -110,6 +110,17 @@ approval: approved 54b2287a
 * *Palaeosaniwa canadensis*: Ancient Monitor Lizard. A large, predatory varanid lizard up to 3 meters long, an active hunter analogous to the modern Komodo dragon.23  
 * *Polyglyphanodon sternbergi*: An extinct polyglyphanodontian lizard, a dominant group in the Late Cretaceous; this species was a relatively large herbivore.34  
 * *Mosasaurus hoffmanni*: Meuse River Lizard. A giant (up to 17 meters) marine reptile, the apex predator of the nearby seas, preying on fish, turtles, and other marine reptiles.25
+
+### **4.4b Marine Predators**
+
+`[?]` *Added because `plan/milieu-brief.md` names a marine roster this file did not carry, while citing this file as the authority for fauna. The Mosasaurus entry above is the original; the rest are new here.*
+
+* *Prognathodon* and *Plioplatecarpus*: Mosasaurs contemporary with *Mosasaurus* in latest-Maastrichtian assemblages. *Prognathodon* is the robust-jawed durophage, taking turtles and ammonites; *Plioplatecarpus* is smaller and large-eyed, likely a pursuit hunter of fish and squid.
+* **Dyrosaurid crocodyliforms**: Long-snouted, largely marine and estuarine crocodile relatives, several meters long, fish-eaters. Securely present in the Maastrichtian, and notable for surviving the impact — one of the few large predator lineages that did.
+* **Elasmosaurid plesiosaurs**: Long-necked marine reptiles, present to the end of the Maastrichtian though far less abundant than mosasaurs by this point.
+* **Lamniform sharks**: *Squalicorax*, a scavenging and predatory shark known from Cretaceous marine sediments; *Cretalamna* and *Serratolamna*, mackerel-shark relatives. Sharks are the background predator of these waters rather than the spectacle.
+
+**One correction to the brief's roster.** `milieu-brief.md` lists *Tylosaurus*. Its secure range is Coniacian to Campanian, and latest-Maastrichtian mosasaur faunas are dominated by *Mosasaurus*, *Prognathodon*, *Plioplatecarpus* and *Halisaurus*. **Treat *Tylosaurus* as absent at 66 Ma** unless somebody checks it against a source — this note is reasoning from range, not a citation.
 
 ### **4.5 Mammals**
 
