@@ -46,10 +46,33 @@ Five files. `checks.py` holds the logic as plain functions returning violations;
 | `biome_covers_every_day` | every day falls inside at least one biome band | Rule `biome-covers-every-day`. Catches five against the pre-repair corpus — Days 7, 8, 9, 17 and 18 had no band at all |
 | `plant_payoff_bijection` | every ledger row has a plant, a payoff, and an address at each end | Rule `plant-payoff-bijection`, ratified. The ledger's own validator asks for this in both directions and nothing had ever run it |
 | `overt_plant_budget` | the foreshadow ledger carries the number of overt plants it budgets | The budget and the table agree today. It is here as a regression guard, and as the template for the other declared budgets. |
+| `scene_day_tags` | every scene carries a day tag, and it is a day the calendar has | The safety net for the renumber. Green today and expected to stay green — a scene that loses its day during the sweep stops being placeable in the world, and nothing else would notice. |
+| `act_composition` | every act holds the number of scenes its own heading claims | Green today. An act that says fourteen and holds nine is what a rebuild produces silently. |
+| `scenes_per_day` | each day holds the number of scenes `pacing-and-stakes.md` §5 proposes | **The rescene's progress bar**, and red by design. One line clears per day rebuilt. |
+| `eliminated_unit_word` | the eliminated unit word appears nowhere outside the README item that explains it | Red by design. Reports locations only: each instance needs its own replacement word — *worth a beat* and *the last beat of his arc* do not take the same one — so a check that proposed substitutions would be proposing prose. Blockquotes are exempt, because those are verbatim passages from Daniel's novels and rewording one would falsify the source. |
+| `epigraph_count` | the epigraph suite's declared size equals the fragments that exist | Three numbering systems are live in a channel the species ladder runs through. |
+
+## The rescene baseline, recorded before the rebuild started
+
+**The suite is deliberately red, and this is the record that green was reached by doing the work.** The checks were written first, against the un-rebuilt corpus, so "watch it go red, rebuild, watch it go green" means something. The person who writes the checks is also the person who could quietly relax one, and a number written down beforehand is the only guard against that.
+
+At the commit that introduced the rescene tier:
+
+| check | violations at baseline |
+|---|---|
+| `scenes_per_day` | **14** — Days 3, 4, 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 |
+| `eliminated_unit_word` | **98** |
+| `epigraph_count` | **1** |
+| `scene_day_tags` | 0 — green, and must stay green through the renumber |
+| `act_composition` | 0 — green, and must stay green through the renumber |
+
+**If a number here goes down without the corresponding work being done, the check was weakened.** Any change to one of these five checks that reduces its baseline count belongs in a commit that says so in its message and explains why the old assertion was wrong.
 
 ## Not yet built
 
-**Blocked on the rescene.** Every scene id cited anywhere resolves to a scene in `scene-list.md`; every scene's day tag matches the calendar row for its content; every `[requires]` pointer resolves. Scene numbers are about to be reassigned, so building these now buys a suite that goes red for the right reason at the wrong time.
+**Blocked on the rescene.** Every scene id cited anywhere resolves to a scene in `scene-list.md`; every `[requires]` pointer resolves. Scene numbers are about to be reassigned, so building these now buys a suite that goes red for the right reason at the wrong time.
+
+**A check nobody has written, and it would have caught a real error.** `plan/` may not contradict `kb/research/`. `milieu-brief.md` already states the precedence — *if this file and one of those disagree, the specialist file wins and the discrepancy is a defect* — and nothing enforces it. The scene list had a *Quetzalcoatlus* snatching prey on the wing while `kb/research/geo-flora-fauna.md` said, on its own line, that the animal was a terrestrial stalker hunting on the ground. The research was right and the plan ignored it for months.
 
 **Blocked on prose.** The blacklist and word-choice rules, the sentence-distribution targets in `prompts/style-canon.md` §0, the repetition window, and the allocation-against-prose check — one search key per allocated item, flagging any use outside its day. That last one is the repetition instrument `milieu-allocation.md` exists to be, and it stays deterministic.
 

@@ -25,6 +25,7 @@ import datetime as _dt
 import hashlib
 import re
 import subprocess
+from collections import defaultdict
 from dataclasses import dataclass
 from functools import cache
 from pathlib import Path
@@ -654,3 +655,204 @@ CHECKS = {
 
 def run_all() -> dict[str, list[Violation]]:
     return {name: fn() for name, fn in CHECKS.items()}
+
+
+# --------------------------------------------------------------------------
+# the rescene tier — written before the rescene so red means something
+#
+# The scene list is about to be rebuilt from 38 entries to roughly 69, renumbered
+# sequentially, with chapters drawn over it. These checks assert the relationship
+# between that list and the layers that assign work to it. They are expected to be
+# RED throughout the rebuild and green at the end; the red count at the start is
+# the record that green was reached by doing the work rather than by weakening a
+# check. See tools/README.md.
+# --------------------------------------------------------------------------
+
+SCENES = "plan/scene-list.md"
+PACING = "plan/pacing-and-stakes.md"
+
+# Two entry formats live in the file at once: Act 1 was rescened into
+# `### 4.3 — [LONG] [Day 3, pre-dawn] [KEO] …` and Acts 2-3 are still the older
+# `6.2 [Day 8] [TEVA] [The River] …`. Read whichever is there; the rescene will
+# settle on one and this keeps working when it does.
+SCENE_ENTRY = re.compile(r"^(?:#{2,4}\s*)?(\d+(?:\.\d+)?)\s*(?:[–—-]\s*)?\[")
+SCENE_DAY = re.compile(r"\[Day\s+(\d+)", re.I)
+
+
+def scenes() -> list[tuple[int, str, str]]:
+    """(line number, scene id, full entry line) for every scene in the list."""
+    out = []
+    for n, line in enumerate(lines_of(SCENES), start=1):
+        m = SCENE_ENTRY.match(line.strip())
+        if m:
+            out.append((n, m.group(1), line))
+    return out
+
+
+def check_scene_day_tags() -> list[Violation]:
+    """Every scene carries a day tag, and it is a day the calendar has.
+
+    The safety net for the renumber: a scene that loses its day during the sweep
+    stops being placeable in the world, and nothing else would notice."""
+    lo, hi = day_range()
+    out = []
+    for n, sid, line in scenes():
+        m = SCENE_DAY.search(line)
+        if not m:
+            out.append(Violation(SCENES, n, f"scene {sid} carries no day tag"))
+        elif not lo <= int(m.group(1)) <= hi:
+            out.append(Violation(SCENES, n,
+                                 f"scene {sid} is tagged Day {m.group(1)}, which the calendar does not have"))
+    return out
+
+
+def tables(body: list[tuple[int, str]]) -> list[list[tuple[int, list[str]]]]:
+    """Every markdown table in a section, separately.
+
+    `table_rows` assumes one table per section and discards everything before each
+    separator line, so a section holding three tables returns only the last one's
+    rows. Sections here routinely hold several."""
+    out, rows = [], []
+    for n, line in body:
+        if not line.strip().startswith("|"):
+            if rows:
+                out.append(rows)
+                rows = []
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if all(set(c) <= set("-: ") for c in cells):
+            rows = []           # separator: everything before it was the header
+            continue
+        rows.append((n, cells))
+    if rows:
+        out.append(rows)
+    return out
+
+
+def _proposed_per_day() -> dict[int, int]:
+    """The per-day scene counts pacing-and-stakes §5 proposes, read at runtime.
+
+    §5 holds three tables -- the act totals and one per-day table for each of Acts
+    2 and 3 -- so they are read separately and the act totals fall out on the
+    column count."""
+    want = {}
+    for rows in tables(section(PACING, r"Proposed shape")):
+        for n, cells in rows:
+            if len(cells) < 3:
+                continue
+            day, count = plain(cells[0]), plain(cells[1])
+            if day.isdigit():
+                m = re.search(r"\d+", count)
+                if m:
+                    want[int(day)] = int(m.group())
+    return want
+
+
+def check_scenes_per_day() -> list[Violation]:
+    """Each day holds the number of scenes the pacing proposal asks for.
+
+    This is the rescene's progress bar. It goes red on every day the rebuild has
+    not reached yet and clears one day at a time. Act 1 is already rescened, so
+    its days should be green from the start."""
+    have = defaultdict(int)
+    for _, _, line in scenes():
+        m = SCENE_DAY.search(line)
+        if m:
+            have[int(m.group(1))] += 1
+    out = []
+    for day, want in sorted(_proposed_per_day().items()):
+        if have[day] != want:
+            out.append(Violation(PACING, 1,
+                                 f"Day {day}: §5 proposes {want} scenes, the list holds {have[day]}"))
+    return out
+
+
+def check_act_composition() -> list[Violation]:
+    """Every act holds the number of scenes its own heading claims.
+
+    The scene list's act headings state a count; the entries under them are the
+    fact. An act that says fourteen and holds nine is the failure mode a rebuild
+    produces silently."""
+    lines = lines_of(SCENES)
+    acts, current, claimed = defaultdict(int), None, {}
+    for n, line in enumerate(lines, start=1):
+        if re.match(r"^##\s+ACT\b", line, re.I):
+            current = line.strip()
+            m = re.search(r"(\d+)\s+scenes", line, re.I)
+            claimed[current] = (n, int(m.group(1))) if m else None
+        elif current and SCENE_ENTRY.match(line.strip()):
+            acts[current] += 1
+    out = []
+    for act, want in claimed.items():
+        if want is None:
+            continue
+        n, count = want
+        if acts[act] != count:
+            out.append(Violation(SCENES, n,
+                                 f"{act.lstrip('# ')[:28]!r} claims {count} scenes and holds {acts[act]}"))
+    return out
+
+
+# The word is eliminated from the corpus entirely -- not retired as an organizing
+# term, and the ordinary craft sense goes with the rest. README's open-work item 5
+# is the one place allowed to name it, because that is where the elimination is
+# explained.
+UNIT_WORD = re.compile(r"\bbeats?\b", re.I)
+UNIT_WORD_EXEMPT = ("README.md",)
+
+
+def check_eliminated_unit_word() -> list[Violation]:
+    """The eliminated unit word appears nowhere outside the item that explains it.
+
+    Reports locations only. The replacement is a rewording decision per instance --
+    'worth a beat' and 'the last beat of his arc' do not take the same word -- so a
+    check that proposed substitutions would be proposing prose."""
+    out = []
+    for path, n, line in iter_lines():
+        if path in UNIT_WORD_EXEMPT:
+            continue
+        # Blockquotes in style-canon are verbatim passages from Daniel's own
+        # novels. None of them currently carries the word, but rewording one
+        # would falsify the source, so the exemption is here before it is needed
+        # -- the same reason `us_english` exempts quotations.
+        if line.lstrip().startswith(">"):
+            continue
+        for m in UNIT_WORD.finditer(line):
+            a, b = max(0, m.start() - 34), min(len(line), m.end() + 34)
+            out.append(Violation(path, n, f"{m.group()!r} — …{line[a:b].strip()}…"))
+    return out
+
+
+EPIGRAPHS = "content/epigraphs.md"
+LEDGER = "plan/knowledge-ledger.md"
+
+
+def check_epigraph_count() -> list[Violation]:
+    """The epigraph suite's declared size equals the fragments that exist.
+
+    Three numbering systems are live in this channel and the species ladder runs
+    through it, so a reader reaching for the wrong table gets the wrong fragment."""
+    fragments = [n for n, line in enumerate(lines_of(EPIGRAPHS), start=1)
+                 if re.match(r"^###\s+\d+\s+[–—-]", line)]
+    out = []
+    for n, line in enumerate(lines_of(LEDGER), start=1):
+        m = re.match(r"^\*{0,2}(\w+)\*{0,2},\s*plus a coda\.?\s*$", line.strip())
+        if not m:
+            continue
+        claimed = NUMBER_WORDS.get(m.group(1).lower())
+        if claimed is None:
+            continue
+        if claimed + 1 != len(fragments):
+            out.append(Violation(LEDGER, n,
+                                 f"the suite is declared as {m.group(1)} plus a coda "
+                                 f"({claimed + 1}); {EPIGRAPHS} holds {len(fragments)}"))
+    return out
+
+
+CHECKS.update({
+    "scene_day_tags": check_scene_day_tags,
+    "scenes_per_day": check_scenes_per_day,
+    "act_composition": check_act_composition,
+    "eliminated_unit_word": check_eliminated_unit_word,
+    "epigraph_count": check_epigraph_count,
+})

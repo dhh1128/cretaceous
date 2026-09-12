@@ -130,3 +130,31 @@ def test_ratified_rule_holds(rule):
     if rule is None:
         pytest.skip("no rules ratified yet — see python3 tools/report.py")
     holds(rule.fields["check"])
+
+
+# --- the rescene tier ------------------------------------------------------
+#
+# Red until the rescene is done, and that is the point. See checks.py.
+
+def test_every_scene_carries_a_day_the_calendar_has():
+    """The safety net for the renumber: a scene that loses its day is unplaceable."""
+    holds("scene_day_tags")
+
+
+def test_every_day_holds_the_scenes_the_pacing_proposal_asks_for():
+    """The rescene's progress bar. One line clears per day rebuilt."""
+    holds("scenes_per_day")
+
+
+def test_every_act_holds_the_number_of_scenes_it_claims():
+    """An act heading states a count; the entries under it are the fact."""
+    holds("act_composition")
+
+
+def test_the_eliminated_unit_word_appears_nowhere():
+    """Locations only -- each instance needs its own replacement word, not a substitution."""
+    holds("eliminated_unit_word")
+
+
+def test_the_epigraph_suite_is_the_size_it_is_declared_to_be():
+    holds("epigraph_count")
