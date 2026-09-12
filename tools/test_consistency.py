@@ -158,3 +158,17 @@ def test_the_eliminated_unit_word_appears_nowhere():
 
 def test_the_epigraph_suite_is_the_size_it_is_declared_to_be():
     holds("epigraph_count")
+
+
+# --- the content tier ------------------------------------------------------
+#
+# The first checks that look inside a scene rather than at the shape of the list.
+
+def test_every_allocated_item_appears_in_a_scene_on_its_day():
+    """A net, not a proof: the key comes from the allocation row's own label."""
+    holds("allocation_covered")
+
+
+def test_no_two_consecutive_scenes_move_no_ladder():
+    """pacing-and-stakes §6: a scene that moves none is cut."""
+    holds("every_scene_moves_a_ladder")

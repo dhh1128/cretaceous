@@ -861,3 +861,145 @@ CHECKS.update({
     "eliminated_unit_word": check_eliminated_unit_word,
     "epigraph_count": check_epigraph_count,
 })
+
+
+# --------------------------------------------------------------------------
+# the content tier — the shape of the list is not the content of a scene
+#
+# Every check above this line asserts something about the list: how many scenes a
+# day holds, whether an act's count matches its heading, whether a day tag resolves.
+# All of them pass on empty stubs. These two are the first that look inside a scene,
+# and they exist because a rescene pass dropped six items canon had allocated to a
+# day and nothing said a word.
+# --------------------------------------------------------------------------
+
+def _allocated_by_day() -> dict[int, list[tuple[int, str]]]:
+    """Items the allocation assigns to a day, from the tables that name *things*.
+
+    The mentionable/ambient distinction needs no new column: §2's biome bands are
+    ambient by nature -- a scene set in open-canopy woodland need not say so -- while
+    the species and small-life tables name things that go on the page. The section
+    a row lives in is the declaration."""
+    out = defaultdict(list)
+    for heading in (r"Species allocation", r"Small life"):
+        for rows in tables(section(ALLOC, heading)):
+            for n, cells in rows:
+                if len(cells) < 2:
+                    continue
+                for a, b in re.findall(rf"(\d+)(?:\s*[{DASHES}]\s*(\d+))?", plain(cells[1])):
+                    for d in range(int(a), int(b or a) + 1):
+                        out[d].append((n, plain(cells[0])))
+    return out
+
+
+_ALLOC_STOPWORDS = frozenset({
+    "herd", "wild", "from", "with", "that", "this", "them", "they", "their",
+    "small", "life", "band", "relatives", "pots", "resin", "nesting",
+})
+
+
+def _alloc_keys(label: str) -> list[str]:
+    """Search keys from a row's own label, singular and plural.
+
+    Matched on a six-character prefix rather than the whole word, because the page
+    and the table rarely agree on the ending: the allocation says *Grounders* and a
+    scene says *a grounder*, the allocation says *Mosasaurus* and the scene says
+    *the Mosasaur*. Four false positives came from exactly that, and stripping a
+    trailing s fixed the first pair and broke the second."""
+    words = [w for w in re.findall(r"[a-z]{4,}", re.sub(r"[*`]", " ", label).lower())
+             if w not in _ALLOC_STOPWORDS][:3]
+    return [w[:6] for w in words]
+
+
+def _scene_text_by_day() -> dict[int, str]:
+    text, day = defaultdict(str), None
+    for n, line in enumerate(lines_of(SCENES), start=1):
+        if SCENE_ENTRY.match(line.strip()):
+            m = SCENE_DAY.search(line)
+            day = int(m.group(1)) if m else None
+        elif line.startswith("#"):
+            day = None
+        if day is not None:
+            text[day] += " " + line.lower()
+    return text
+
+
+def check_allocation_covered() -> list[Violation]:
+    """Every species or small-life item allocated to a day appears in a scene on it.
+
+    **This is a net and not a proof, in both directions.** The search key is derived
+    from the allocation row's own label, so a scene that names an animal by the
+    colony's word while the row names it by binomial reads as a miss -- the croc is
+    the standing example. The fix when it starts costing more than it catches is a
+    declared key column in the allocation table, which is a change to an approved
+    file and therefore Daniel's. Days with no scenes at all are skipped: their
+    coverage is `scenes_per_day`'s business, and reporting it twice would double-count
+    the same missing work."""
+    scened = _scene_text_by_day()
+    out = []
+    for day, items in sorted(_allocated_by_day().items()):
+        if day not in scened:
+            continue
+        for n, label in items:
+            keys = _alloc_keys(label)
+            if keys and not any(k in scened[day] for k in keys):
+                out.append(Violation(ALLOC, n,
+                                     f"Day {day} has scenes and none mentions {label!r}"))
+    return out
+
+
+LADDERS = re.compile(r"\*\*Ladders:\*\*\s*E(\d+)\s*P(\d+)\s*S(\d+)\s*X(\d+)", re.I)
+
+
+def _scene_ladders() -> list[tuple[int, str, tuple[int, ...]]]:
+    """(line, scene id, four ladder values) for scenes that carry them, in file order."""
+    lines, out, pending = lines_of(SCENES), [], None
+    for n, line in enumerate(lines, start=1):
+        m = SCENE_ENTRY.match(line.strip())
+        if m:
+            pending = (n, m.group(1))
+            continue
+        if pending:
+            lm = LADDERS.search(line)
+            if lm:
+                out.append((pending[0], pending[1], tuple(int(g) for g in lm.groups())))
+                pending = None
+            elif SCENE_ENTRY.match(line.strip()) or line.startswith("#"):
+                pending = None
+    return out
+
+
+def check_every_scene_moves_a_ladder() -> list[Violation]:
+    """No two consecutive scenes carry identical ladder values.
+
+    `pacing-and-stakes.md` §6: every scene moves at least one ladder, and a scene
+    that moves none is cut. Only consecutive pairs where **both** scenes carry values
+    are compared, so this grows teeth as the rescene fills them in rather than
+    failing on the entries that have not been rebuilt yet."""
+    rungs = _scene_ladders()
+    out = []
+    for (_, prev_id, prev), (n, sid, cur) in zip(rungs, rungs[1:]):
+        if prev == cur:
+            out.append(Violation(SCENES, n,
+                                 f"scene {sid} moves no ladder from {prev_id}: "
+                                 f"both E{cur[0]} P{cur[1]} S{cur[2]} X{cur[3]}"))
+    return out
+
+
+def ladders_all_moving() -> list[tuple[str, str]]:
+    """Consecutive pairs where all four ladders move. Reported, never failed.
+
+    §6 says the ladders must not all move together, and means it about the run --
+    *if all four climb in every scene the book is monotonous*. That is a ceiling on a
+    rate, and no number for it exists in the corpus. Inventing one here would be the
+    suite enforcing something nobody decided, so `report.py` prints the pairs and the
+    proportion and leaves the judgment where it belongs."""
+    rungs = _scene_ladders()
+    return [(p_id, sid) for (_, p_id, p), (_, sid, c) in zip(rungs, rungs[1:])
+            if all(a != b for a, b in zip(p, c))]
+
+
+CHECKS.update({
+    "allocation_covered": check_allocation_covered,
+    "every_scene_moves_a_ladder": check_every_scene_moves_a_ladder,
+})

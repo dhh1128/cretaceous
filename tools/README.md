@@ -51,6 +51,8 @@ Five files. `checks.py` holds the logic as plain functions returning violations;
 | `scenes_per_day` | each day holds the number of scenes `pacing-and-stakes.md` §5 proposes | **The rescene's progress bar**, and red by design. One line clears per day rebuilt. |
 | `eliminated_unit_word` | the eliminated unit word appears nowhere outside the README item that explains it | Red by design. Reports locations only: each instance needs its own replacement word — *worth a beat* and *the last beat of his arc* do not take the same one — so a check that proposed substitutions would be proposing prose. Blockquotes are exempt, because those are verbatim passages from Daniel's novels and rewording one would falsify the source. |
 | `epigraph_count` | the epigraph suite's declared size equals the fragments that exist | Three numbering systems are live in a channel the species ladder runs through. |
+| `allocation_covered` | every species or small-life item allocated to a day appears in a scene on that day | **The first check that looks inside a scene.** Catches twelve today, including *Anzu*, which has a full species showcase on Day 4 and appears in no Day 4 scene, and *Ornithomimus* on Day 10, which the allocation calls the one animal that is simply a pleasure to watch. |
+| `every_scene_moves_a_ladder` | no two consecutive scenes carry identical ladder values | `pacing-and-stakes.md` §6 — a scene that moves none is cut. Catches one today and grows teeth as the rescene fills the values in. |
 
 ## The rescene baseline, recorded before the rebuild started
 
@@ -67,6 +69,16 @@ At the commit that introduced the rescene tier:
 | `act_composition` | 0 — green, and must stay green through the renumber |
 
 **If a number here goes down without the corresponding work being done, the check was weakened.** Any change to one of these five checks that reduces its baseline count belongs in a commit that says so in its message and explains why the old assertion was wrong.
+
+### Why the shape of the list is not the content of a scene
+
+Every check above `allocation_covered` asserts something about the *list* — how many scenes a day holds, whether an act's count matches its heading, whether a day tag resolves. **All of them pass on empty stubs.** The rescene's first three days went in and the progress bar moved from 14 to 11, and a pass that had written three scenes carrying nothing would have moved it exactly as far.
+
+The demonstration, from the session that built these: a drafting pass produced three Day 6 scenes and silently dropped six things the allocation assigns to Day 6 — the amber, the armored indifferent animal, the oaks and walnuts, the stonefruit, the face-height spiderwebs, and the harmless croc in clear water, which had been argued for in conversation minutes earlier. Nothing in the suite noticed. **A counting check can be satisfied by doing the wrong thing**, which is the same defect as a statistic averaged over two populations, and the answer is the same: look inside.
+
+### The known false-positive class in `allocation_covered`
+
+The search key is derived from the allocation row's own label, and the page and the table rarely agree on wording. Matching is on a six-character prefix, which handles *Grounders* against *a grounder* and *Mosasaurus* against *the Mosasaur* — the first attempt stripped a trailing `s`, which fixed the first pair and broke the second. It will still miss a scene that names an animal by the colony's word while the row names it by binomial. **When that starts costing more than the check catches, the fix is a declared key column in the allocation table**, which is a change to an approved file.
 
 ### The log against that baseline
 
