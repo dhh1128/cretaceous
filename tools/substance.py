@@ -42,35 +42,79 @@ def renumber(line: str) -> str:
     return out
 
 
-def hunks(sha: str, path: str, end: str | None = None) -> list[tuple[str, list[str]]]:
-    rev = [sha, end] if end else [sha]
-    diff = subprocess.run(["git", "-C", str(ROOT), "diff", "-U0", *rev, "--", path],
+def hunks(sha: str, path: str) -> list[tuple[str, list[str], int]]:
+    """(hunk header, changed lines, first line number on the new side)."""
+    diff = subprocess.run(["git", "-C", str(ROOT), "diff", "-U0", sha, "--", path],
                           capture_output=True, text=True).stdout
-    out, head, body = [], None, []
+    out, head, body, start = [], None, [], 0
     for line in diff.splitlines():
         if line.startswith("@@"):
             if head:
-                out.append((head, body))
-            head, body = line, []
+                out.append((head, body, start))
+            m = re.search(r"\+(\d+)", line)
+            head, body, start = line, [], int(m.group(1)) if m else 0
         elif head is not None and line[:1] in "+-" and not line.startswith(("---", "+++")):
             body.append(line)
     if head:
-        out.append((head, body))
+        out.append((head, body, start))
     return out
 
 
-def classify(sha: str, path: str, end: str | None = None) -> tuple[int, int, list[str]]:
-    """(lines that are pure renumbering, lines that are not, the ones that are not)."""
-    pure = 0
+def authored_since(path: str, since: str) -> set[int]:
+    """Current line numbers whose content was last written by a commit after `since`.
+
+    Used to drop lines whose present text came out of a change set Daniel read and
+    approved. Blame answers that exactly, and it answers it about the file as it
+    stands -- which is the only state worth showing him. An earlier version of this
+    tool diffed to an intermediate commit and put a half-swept line in front of him
+    as though it were current.
+    """
+    keep = set(subprocess.run(["git", "-C", str(ROOT), "log", "--format=%H", f"{since}..HEAD"],
+                              capture_output=True, text=True).stdout.split())
+    out, n = set(), 0
+    for line in subprocess.run(["git", "-C", str(ROOT), "blame", "--line-porcelain", "--", path],
+                               capture_output=True, text=True).stdout.splitlines():
+        if len(line) >= 40 and line[:40].isalnum() and " " in line:
+            sha_, _, rest = line.partition(" ")
+            parts = rest.split()
+            if len(parts) >= 2 and parts[1].isdigit():
+                n = int(parts[1])
+                if sha_ in keep:
+                    out.add(n)
+    return out
+
+
+def classify(sha: str, path: str, approved_since: str | None = "17dbee1"
+             ) -> tuple[int, int, int, list[str]]:
+    """(pure-renumbering lines, approved-change-set lines, lines left, those lines).
+
+    Always diffs the marker commit against HEAD. Anything else shows a state that
+    no longer exists. Three buckets:
+
+    1. the old line, renumbered, is character-for-character the new line;
+    2. the current text there was written by a commit implementing a change set
+       Daniel read and approved;
+    3. everything else, which is his to read.
+    """
+    approved_lines = authored_since(path, approved_since) if approved_since else set()
+    pure = appr = 0
     real: list[str] = []
-    for head, body in hunks(sha, path, end):
+    for head, body, new_start in hunks(sha, path):
         minus = [l for l in body if l.startswith("-")]
         plus = [l for l in body if l.startswith("+")]
+        plus_at = {id(l): new_start + i for i, l in enumerate(plus)}
+
+        if plus and all(plus_at[id(l)] in approved_lines for l in plus):
+            appr += len(minus) + len(plus)       # the current text here is his
+            continue
+
         if len(minus) == len(plus) and minus:
             leftover = []
             for a, b in zip(minus, plus):
                 if renumber(a)[1:] == b[1:]:
                     pure += 2
+                elif plus_at[id(b)] in approved_lines:
+                    appr += 2
                 else:
                     leftover += [a, b]
             if leftover:
@@ -79,9 +123,9 @@ def classify(sha: str, path: str, end: str | None = None) -> tuple[int, int, lis
         else:
             real.append(head)
             real += body
-    # the frontmatter marker changes in every one of these and is not content
+
     real = [l for l in real if not re.match(r"^[+-]approval: ", l)]
-    return pure, len([l for l in real if l[:1] in "+-"]), real
+    return pure, appr, len([l for l in real if l[:1] in "+-"]), real
 
 
 def main(argv: list[str]) -> int:
@@ -94,10 +138,11 @@ def main(argv: list[str]) -> int:
         return 2
 
     for path, sha in sorted(targets):
-        pure, n, real = classify(sha, path)
-        total = pure + n
-        verdict = "NOTHING BUT RENUMBERING" if n == 0 else f"{n} line(s) to read"
-        print(f"\n## {path} — {total} changed lines, {pure} of them pure renumbering — {verdict}")
+        pure, appr, n, real = classify(sha, path)
+        total = pure + appr + n
+        verdict = "nothing for you" if n == 0 else f"{n} line(s) to read"
+        print(f"\n## {path} — {total} changed: {pure} renumbering, {appr} from approved "
+              f"change sets, {n} left — {verdict}")
         if real:
             print("\n```diff")
             print("\n".join(real))
