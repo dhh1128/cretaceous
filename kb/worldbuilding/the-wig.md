@@ -1,5 +1,5 @@
 ---
-approval: approved 08cc2798
+approval: approved ff1e9416
 ---
 
 # The wig
@@ -94,7 +94,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 ## 7. The flight, and what makes it frightening
 
-**It is solar, so it flies by day, and that is a hard deadline.** They cannot fly at night. Eighty kilometers has to be done between charge and dusk, and if they are late they are down in a flooded plain in the dark.
+**It is solar, so it flies by day** — but the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent parked in the sun at Genesis. They lift at noon with everything it will hold and put eighty kilometers behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
 
 **They leave undercharged**, because charging takes hours they do not have and they cannot make themselves wait. Every decision afterward is spent out of margin they chose not to have.
 
@@ -117,7 +117,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **The border-tangle is fifteen meters high.** The wig's ceiling is about fifty feet — **fifteen meters.** The final barrier of the entire novel is *exactly* as tall as their maximum, and it is a wall their own people built to keep the world out.
 
-They arrive low on charge, late in the light, and they have been hoarding the lift rotors all day for precisely this. **That is what the rotors are for, and it is a Chekhov's gun established at launch and spent at the wall.**
+They arrive low on charge, in hard afternoon light, and they have been hoarding the lift rotors the whole way for precisely this. **That is what the rotors are for, and it is a Chekhov's gun established at launch and spent at the wall.**
 
 **Guard against anticlimax.** The walk out took eleven days, and the sea two more, and the return takes hours. That is only acceptable if the return is a *different* ordeal rather than a reward — faster, louder, wholly out of their control, and frightening precisely because they cannot stop.
 

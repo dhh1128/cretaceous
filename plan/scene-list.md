@@ -123,7 +123,7 @@ Stealing food from his sleeping parents. Guilt, specifically — shame at destro
 The theft. The taboo shelf. The third suit left on the rack.
 **Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until 10.1.
 
-### 4.3 — [LONG] [Day 2, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
+### 4.3 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
 **Ladders:** E6 P6 S8 X4
 Suiting up, the septic gel, past the watcher, through the gap. Razortails clicking in the fog.
 **Ends the act** in the middle of a threat.
@@ -136,7 +136,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 5: B-STORY (Immediate Fallout)
 
-5.1 [Day 2 - Morning] [BENAL] [Deep Jungle] [EXTREME (Panic/Crash)] - The raptor escape, the adrenaline dump, and the beginning of the mudwalk.
+5.1 [Day 3 - Morning] [BENAL] [Deep Jungle] [EXTREME (Panic/Crash)] - The raptor escape, the adrenaline dump, and the beginning of the mudwalk.
 * **B-Story Note:** **Skills Clash (The First Failure)**. Keo's unrefined mental projection attempt is reckless and fails to achieve control, validating Teva’s immediate pragmatism. Benal’s body fails (vomiting/collapse), forcing him to articulate Keo’s recklessness ("reckless, unsuited idiot"). Teva validates Benal's intellect, forging their nascent bond.
 
 ### BEAT 6: FUN & GAMES (The "Promise of the Premise")
@@ -210,17 +210,17 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 > **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §4 — beats 12, 13 and 14 each need splitting.
 
 
-11.1 [Day 15 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
+11.1 [Day 16 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
 * **B-Story Note:** **Vindication (Part 1)**. Immediate, physical validation of their journey's purpose. The **Intellectual** triumph of finding the *solution* is a brief, shared high.
 
 ### BEAT 12: FINALE (The Revelation)
 
-12.1 [Day 15 - Afternoon] [BENAL] [Temporal Lab] [AWE -> INTELLECTUAL DREAD] - They find the logs of the perfect arrival. Benal connects his equation to the temporal flash, realizing the "Noble Lie" and the "impossible new mission".
+12.1 [Day 17 - Morning] [BENAL] [Temporal Lab] [AWE -> INTELLECTUAL DREAD] - They find the logs of the perfect arrival. Benal connects his equation to the temporal flash, realizing the "Noble Lie" and the "impossible new mission".
 * **B-Story Note:** **Vindication (Part 2)**. The final validation of Benal’s "useless" work. His intellectual ability is now the most important resource, shifting the power dynamic in the trio.
 
 ### BEAT 13: THE RETURN (The Heretic's Ride)
 
-13.1 [Day 16 - Morning] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
+13.1 [Day 19 - Midday] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
 * **B-Story Note:** **Hubris to Competence / Embrace of Hard Tech**. Keo's action climax: he successfully pilots the forbidden **old-tech** to defeat the monster that broke his confidence, completing his arc and confirming his commitment to the "heretical" way forward.
 
 ### BEAT 14: THE CONFRONTATION
@@ -228,10 +228,10 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 > Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `plan/knowledge-ledger.md`.
 
 
-14.1 [Day 16 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
+14.1 [Day 19 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
 * **B-Story Note:** **Maturation Climax / Nuance Forged**. Keo’s perspective focuses on his parents’ reaction (vindicated pride). Teva's accusation is softened by her internal epiphany: seeing the Council's paralyzed fear and realizing the lie was born from grief, not malice, completing her **Rage to Nuance** arc. Benal stands vindicated.
 
 ### BEAT 15: FINAL IMAGE
 
-15.1 [Day 16 - Night] [KEO] [Council Chamber] [DETERMINATION] - The stunned Council and their parents. The trio stands together, no longer children.
+15.1 [Day 19 - Night] [KEO] [Council Chamber] [DETERMINATION] - The stunned Council and their parents. The trio stands together, no longer children.
 * **B-Story Note:** **The New Schism**. The final image of the trio standing as a unified, powerful unit—a **Chosen Family**—now facing the political fallout of their actions, ready to lead the *new* mission.

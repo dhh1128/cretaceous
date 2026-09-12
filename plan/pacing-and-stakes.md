@@ -104,12 +104,14 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 | 14 | 3 | 3 | the mudflats, the raft, the mosasaur |
 | 15 | 2 | 4 | the eye, the failing to get in, the tail, and the confessions |
 
-**Act 3, by day.** Days 16–18 are Genesis and Day 19 is everything else, and both are running at two or three scenes.
+**Act 3, by day.** Genesis is three distinct days and Day 19 is everything else, and all four are running at nought to three scenes.
 
 | day | now | → | what it is |
 |---|---|---|---|
-| 16 | 2 | ~8 | getting in · the protocols found · the logs of the arrival · the epiphany and fact G · the second jump · choosing what they can carry |
-| 19 | 3 | ~8 | understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
+| 16 | 1 | `[?]` ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
+| 17 | 1 | `[?]` ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
+| 18 | 0 | `[?]` ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
+| 19 | 3 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.
 
@@ -137,12 +139,14 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **13** | 7 | 9 | 7 | 6 | it comes due; he carries her |
 | **14** | 8 | **10** | 7 | 6 | drowning, the mosasaur, the fieldpack lost |
 | **15** | **10** | 5 | 7 | 6 | the confessions; chosen family forged |
-| **16** | 8 | 4 | 8 | **10** | the protocols are real, and then fact G |
+| **16** | `[?]` 7 | `[?]` 4 | `[?]` 6 | `[?]` 7 | out of the water, fed, and still alive. The exhale |
+| **17** | 8 | 4 | 8 | **10** | the protocols are real, and then fact G |
+| **18** | `[?]` 9 | `[?]` 5 | `[?]` 8 | `[?]` 9 | no way home — and then the machine |
 | **19** am | 8 | **10** | 9 | 8 | the chase |
 | **19** eve | 9 | 5 | **10** | 9 | the confrontation |
 | **19** night | **10** | 3 | 10 | 9 | the parents |
 
-**Act 3 gives each ladder its own summit, in sequence: species on Day 16, physical on Day 19 morning, social that evening, emotional that night.** That is the answer to "ratchet and converge," and it is the justification for sixteen scenes — each has a distinct job rather than sharing one.
+**Act 3 gives each ladder its own summit, in sequence: species on Day 17, physical on Day 19 afternoon, social that evening, emotional that night.** That is the answer to "ratchet and converge," and it is the justification for sixteen scenes — each has a distinct job rather than sharing one.
 
 **Day 6 is a trough on every ladder and that is deliberate.** A curve that only rises exhausts a reader. The one day where nothing is wrong is what makes everything after it land, and it is currently unwritten.
 
@@ -166,7 +170,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 **Every scene moves at least one ladder.** A scene that moves none is cut.
 
-**A scene that moves three is probably two scenes.** This is the principled reason to split Day 16 and Day 19 rather than a feeling about length.
+**A scene that moves three is probably two scenes.** This is the principled reason to split Day 17 and Day 19 rather than a feeling about length.
 
 **The ladders must not all move together.** If all four climb in every scene the book is monotonous and exhausting. Day 2 morning is a rest on three of four, and Day 6 is a rest on all four, and those two troughs are what make the theft and the midpoint land.
 

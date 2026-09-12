@@ -1,5 +1,5 @@
 ---
-approval: approved 8d832da5
+approval: approved df209048
 ---
 
 # Character arcs and intimacy
@@ -47,8 +47,8 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | **10** | to be seen doing it | his body is the answer | nothing. **This is the top of the arc** | nothing — and that is the problem |
 | **11** | **Noli back** | **nothing** | that it was his fault, correctly | he cannot hide anything any more |
 | **12–13** | to stop being carried | he is a liability | that he has done to Teva and Benal what he did to Yara | how much pain he is in; **that he said the mash needed another day and let her overrule him** |
-| **14–16** | to be useful again | Benal is the one who matters now | irrelevance | nothing. He has stopped |
-| **19** | to get them home | **the machine can do what he cannot** | — | — |
+| **14–17** | to be useful again | Benal is the one who matters now | irrelevance | nothing. He has stopped |
+| **18–19** | to get them home | **the machine can do what he cannot** | — | — |
 | **19, evening** | his parents to look at him | they were afraid *for* him | that they were right | nothing |
 
 **Turn: Day 11, the fall.** Before it he protects; after it he is protected. He understands it that night, feverish, watching Benal keep watch.
@@ -64,7 +64,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | **11** | Keo alive | this is her fault for letting him go unsuited | being the only one left standing | how frightened she is of the sky now |
 | **12–14** | to get them there | her anger is all that is holding her up | that it isn't | the confession she is about to make. **And from Day 12, becoming them** — she has now made a decision and been wrong |
 | **15, night** | forgiveness she cannot name | **the founders were terrified, not wicked** | — | nothing. This is where she stops hiding |
-| **16** | the truth, and to survive it | — | that the truth is worse than the lie | — |
+| **17** | the truth, and to survive it | — | that the truth is worse than the lie | — |
 | **19** | to accuse | — | that she will see herself in them | — |
 
 **Turn: Day 15, in the flash** — the founders' faces are terror and grief, not malice. It pays on Day 19 when the Council's faces are the same faces.
@@ -80,10 +80,10 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | **10–11** | to be useful | — | uselessness | **the dead capacitor.** He tells nobody |
 | **12–15** | to keep watch | his suffering is the price of being carried | being right too late | that he is the only one who understands the maths |
 | **15** | — | he has lost everything that made him valuable | drowning, chaos, helplessness | — |
-| **16** | — | **he was right the entire time** | what being right means | — |
+| **17** | — | **he was right the entire time** | what being right means | — |
 | **19** | to be heard | — | **being agreed with by the wrong person** | — |
 
-**Turn: Day 16, at Genesis.** But the *emotional* turn is earlier and quieter — Day 11, sitting watch over a feverish Keo, being needed for something no upgrade provides.
+**Turn: Day 17, at Genesis.** But the *emotional* turn is earlier and quieter — Day 11, sitting watch over a feverish Keo, being needed for something no upgrade provides.
 
 ## 3. The three dyads
 
@@ -99,7 +99,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch** |
 | **12–14** | 5 changed, quieter | 7 | 8 |
 | **15, night** | 6 he confesses to both | **7 and Keo sees it** | 9 |
-| **16** | 6 | 7 | 9 |
+| **16–18** | 6 | 7 | 9 |
 | **19** | 7 unresolved | 7 unresolved | 9 settled |
 
 ### How the triangle actually works

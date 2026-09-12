@@ -1,5 +1,5 @@
 ---
-approval: approved 76297b6f
+approval: approved b783e2cb
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -31,8 +31,10 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | 13 | it comes due; he carries her; the coastal plain | 10 | 80 |
 | **14** | mudflats, the raft, open water, the mosasaur | offshore | — |
 | **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
-| 16–18 | **Genesis.** Rest, the revelation, the wig — and the water running out | — | — |
-| **19** | the run home | 80 | — |
+| **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |
+| **17** | **the revelation** — the logs of the arrival, and what it does to six generations | — | — |
+| 18 | **the impasse.** No boat, and the route home is under water. Keo finds something to talk to | — | — |
+| **19** | one wig salvaged by noon, then **the run home** — and the confrontation that evening | 80 | — |
 
 **Days are skipped freely.** Not every day needs a scene, and several should have none. The calendar exists so that what *is* written sits in a coherent world, not so that every square gets filled.
 
@@ -132,8 +134,8 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | **14** | **hot, glassy, no wind at all** → the wall of black on the horizon | oppressive | flat brilliant, then extinguished | The unnatural calm before a cyclone is a real signature. Benal notices the air is wrong before anyone sees the sky |
 | **15** | **the eye at dawn** — high bright cloud, no wind, birds moving wrong → **the back wall, and the back half is worse** | falling; wet and wind-driven | a lit hour, then dark for eighteen | The eye is the cruelest weather in the book: it looks exactly like deliverance. **The Dark Night happens in the tail**, which is why it gets a night instead of two hours of daylight |
 | **16** | blown out; washed, scoured, brilliant | warm, clean | the first honest sunlight since Day 10 | The world after the storm, and the dry powered section. Relief-shaped, and the light is doing it |
-| **17–18** | clear, hot, coastal | hot | hard bright | Rest they have not had in two weeks, on a clock: **Genesis has no fresh water.** They can stay as long as the storm's standing water lasts, and no longer |
-| **19** | clear and hot | hot | high hard light all the way home | No weather to hide behind. The wig is loud and visible and so are they |
+| **17–18** | clear, hot, coastal | hot | hard bright | **Not rest — work, on a clock.** Genesis has no fresh water and they are drinking what the cyclone left standing, which is worse every day. Two adjacent days share this sky because nothing about it changes, and that is the pressure |
+| **19** | clear and hot | hot | high hard light all the way home | No weather to hide behind. They lift at noon and land in the middle of the afternoon, in front of everybody. The wig is loud and visible and so are they |
 
 ### Rules
 
