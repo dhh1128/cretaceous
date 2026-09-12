@@ -1,5 +1,5 @@
 ---
-approval: approved b0e7576f
+approval: approved 90814dbc
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -8,11 +8,11 @@ approval: approved b0e7576f
 
 ## The principle
 
-206 years, an educated population, no illiteracy. The language hasn't gone far. Drift shows as **habituation, not degradation** — calling a *Deinosuchus* a "croc" is exactly what a modern biologist does calling *Tyrannosaurus rex* "T. rex". These people are scientists who have lived somewhere a long time.
+206 years, an educated population, no illiteracy. The language hasn't gone far. Drift shows as **habituation, not degradation** — calling the river's apex predator a "croc" is exactly what a modern biologist does calling *Tyrannosaurus rex* "T. rex". These people are scientists who have lived somewhere a long time.
 
 So the prose **code-switches**. Casual register under stress and in daily speech; precision register when the subject demands it, and the switch itself characterizes:
 
-> "Watch the bank — croc." … "*Deinosuchus* reads a four-micrometer vibration. The buddy system isn't tradition, it's a hard-data response to its integumentary sensors."
+> "Watch the bank — croc." … "Its jaw skin reads a ripple you can't see. The buddy system isn't tradition, it's a hard-data response to its integumentary sensors."
 
 The budget is deliberately small. A dozen taught words, doing four jobs: showing that **time has passed**, showing **where these people came from**, showing **habituation**, and carrying a little **tech texture**. Every additional word is load on the reader for diminishing return.
 
@@ -40,7 +40,7 @@ Five animals, each load-bearing: the primary threat, the recurring pack threat, 
 
 | term | meaning | drift |
 |---|---|---|
-| **croc** | any large crocodilian, principally *Deinosuchus* | clipping. **The most-used word in the book** — "water is death" is about this animal |
+| **croc** | any large crocodilian, principally the six-meter river ambusher nobody can place to genus | clipping. **The most-used word in the book** — "water is death" is about this animal |
 | **razortail** | small pack-hunting theropod, *Acheroraptor* | descriptive compound replacing the binomial |
 | **saropo** | the titanosaur *Alamosaurus*. **The largest thing in the world and no use to anyone** — too big to work, too big to eat, too big to fear | phonetic wear from *sauropod*. The clearest single demonstration that time has passed |
 | **flybeak** | **any** pterosaur — from the thing that scratches on the roof-thatch to the ten-meter *Quetzalcoatlus* that takes children | descriptive compound. **The ambiguity is deliberate and it is the point:** you hear the word and you do not yet know which kind. A boy not even looking up at a small one is characterization of how routine they are, and it makes the midpoint worse. |

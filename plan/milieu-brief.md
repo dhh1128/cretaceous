@@ -1,5 +1,5 @@
 ---
-approval: approved 00f86b9b
+approval: approved 03ba1aa9
 ---
 
 # Cretaceous — Milieu Brief
@@ -96,7 +96,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **It has to open.** A permanently sealed river silts, clogs with flood debris, and blocks their own access. So the grating is raisable, and raising it is an operation.
 
-**And it does not work.** A grating sized to stop a ten-meter *Deinosuchus* passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene 2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
+**And it does not work.** A grating sized to stop a six-meter adult croc passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene 2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
 **It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement, and nobody in that family has ever needed it explained.
 
@@ -203,7 +203,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 
 **The inventory:**
 
-- **Croc-spike** — 2.5 m hardwood lance, tipped with a *Deinosuchus* tooth. The shaft rots; the tooth is exactly what belongs in that sediment; **the binding carries the failsafe archaea** so the hafting itself leaves nothing.
+- **Croc-spike** — 2.5 m hardwood lance, tipped with a croc tooth. The shaft rots; the tooth is exactly what belongs in that sediment; **the binding carries the failsafe archaea** so the hafting itself leaves nothing.
 - **Razor-club** — hardwood, slotted and edged with razortail teeth. Same logic. When the wood goes, the teeth scatter and read as scatter.
 - **Tooth-knife** — a large theropod tooth, held or short-hafted, in a hide sheath. Theropod teeth are ziphodont, meaning finely serrated, which makes them superb at opening hide and useless for shaving. **This replaces the chert knife entirely; see below.**
 - **Atl** — spear-thrower, wood and bone. Gives them reach. *(Listed in canon and used in no scene anywhere. Either give it a moment or drop it.)*

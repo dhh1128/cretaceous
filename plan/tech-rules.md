@@ -1,5 +1,5 @@
 ---
-approval: approved 8dc7eb02
+approval: approved 5c33a59c
 ---
 
 # Tech rules — taught before exploited
@@ -26,7 +26,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 | **Archaea failsafe** | dissolves unmaintained old-tech in hours | 4.2, the soured-fig smell | — | — | **payoff needed: at Genesis nothing has dissolved, because the failsafe is a colony invention** |
 | **Accelerated healing** | **metabolically expensive** — heals fast at the cost of strength, warmth and clarity | **nowhere** | Days 11–13, Keo | — | **GAP — must be taught in Act 1** |
 | **Suit thermal management** | primary function is *cooling*; reservoirs saturate; a hot night does not reset them | **nowhere** | **Day 10, where it loses and Teva cooks** | Day 11 onward — she walks unshelled, and the cost is camouflage and sensors, never cold | **GAP — must be taught before Day 10** |
-| **Croc vibration sensing** | four micrometers; attracted to thrashing; **mental projection barely touches a hungry one** | milieu only, never dramatized | **Day 8, the entire crossing depends on it** | — | **GAP — must be taught in Act 1** |
+| **Croc surface sensing** | **pressure receptors in the jaw skin read disturbance on the water, not vibration through the ground**; attracted to thrashing; **mental projection barely touches a hungry one** | milieu only, never dramatized | **Day 8, the entire crossing depends on it** | — | **GAP — must be taught in Act 1** |
 | **Suit feeding** | water and sugars every two days, more when repairing | 4.3 mentioned | Day 6, honey split four ways and two suits | Day 15 | thin — wants one clear beat |
 
 ## The four gaps, and where to close them
@@ -35,7 +35,9 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 
 **Suit thermal management.** Teach it in **4.3**, when the suits seal — Teva's first sensation should be *cold*, startling and delicious, because the suit's whole job in this climate is to take heat away. Then Day 10 is the same sensation failing. One sentence at the theft buys the entire savanna sequence.
 
-**Croc vibration sensing.** Teach it in **2.5**, the yazhi drill — this is exactly what that scene is for, and it currently only gestures at protocols. Have Teva make a child put a hand flat on the ground and feel her own footsteps. Four micrometers, said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
+**Croc surface sensing.** Teach it in **2.5**, the yazhi drill — this is exactly what that scene is for, and it currently only gestures at protocols. The drill is in a pool, so teach it on water: have Teva drop something in at one end and make a child watch the ring travel, or hold a hand flat on the surface and feel another child's kick from across the pool. **What the animal reads is the water, not the bank** — pressure receptors in the jaw skin, which is why the buddy rule exists and why a still river is the dangerous one. Said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
+
+*(The corpus previously had this as "reads a four-micrometer vibration" through the ground, taught by making a child feel her own footsteps in the dirt. That was a misreading of Leitch and Catania, who recorded neural responses to a probe indenting modern crocodilian skin by about 3.9 micrometers — a local touch threshold mimicking ripples striking the scales, not ground-displacement detection, and not a measurement from any extinct animal. The correction is an improvement: the crossing happens in water, so the sense that matters is the one the crossing actually trips.)*
 
 **Suit feeding.** One beat in Act 1, ideally at 4.3 — somebody gives a suit water before drinking.
 
