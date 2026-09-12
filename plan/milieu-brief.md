@@ -1,5 +1,5 @@
 ---
-approval: approved bd351380
+approval: approved 9f74e314
 ---
 
 # Cretaceous — Milieu Brief
@@ -60,11 +60,17 @@ Both are partly right, and the novel does not hand either a victory. That is the
 
 The Enclave sits **80 km inland** from the coast, on ground slightly higher and drier than the surrounding wetland. Beyond the coast, **5–8 km offshore**, lies Genesis, which is essentially at sea level and ground zero for impact. Characters describe the distance as "eighty kilometers" because the land distance is the part they think about.
 
-They left Genesis because it had no fresh water, no stable shelter, brutal coastal weather, and a persistent temporal disorientation nobody could explain. The founders were at Genesis **three years** before the transfer. They left with **200** and arrived with **94**.
+They left Genesis because it had **no fresh water once the desalination failed, no way to grow food, brutal coastal weather, and a persistent temporal disorientation nobody could explain.** The founders were at Genesis **three years** before the transfer. They left with **200** and arrived with **94**.
+
+**Shelter was never the problem, and saying it was is a contradiction the corpus carried for a while.** Genesis is a built research station: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
 
 ### What actually happened at Genesis, and it is where the schism starts
 
-**Genesis had solar desalination and that is why three years was survivable.** There was no fresh water on a spit of coral, and there did not need to be. **The equipment began to fail in the third year**, and the question of what to do about it is the first time the colony split.
+**Genesis had solar desalination and that is why three years was survivable.** There is no fresh water on a spit of coral and there did not need to be. **It rains, and the rain is no use** — coral is porous, there is no soil and no aquifer, so what falls drains straight through within the hour. The rain is worth having anyway, because it keeps the arrays from crusting with salt.
+
+**The desalination failed in the third year and the power did not, and the difference is the whole point.** Photovoltaic skin is passive: it sits in the sun, it is rinsed by rain, and small self-maintaining units keep it clear and draw their own power from it. `[?]` A desalination plant for two hundred people is the opposite — membranes, pumps, pressure vessels, scaling, and consumables nobody on this planet can manufacture. **The power survives two centuries and the water plant does not survive three years**, and that is why the site is still standing and still lit while being uninhabitable.
+
+**The argument about what to do next is the first time the colony split.**
 
 **Some argued that leaving was an unacceptable risk.** The mission's prime directive was to leave no evidence, and the whole plan had been to sit at ground zero for weeks or months and be erased; eighty kilometers of living in the world was not what anyone had agreed to. **Those who argued for going accepted every restriction that came with it, as the price of permission**, and held themselves to it as a duty. See §6 — that bargain is where the taboos come from.
 
@@ -76,7 +82,7 @@ They left Genesis because it had no fresh water, no stable shelter, brutal coast
 
 **The land is a low-relief coastal plain with no highlands at all**, so the water on it is slow, shallow and everywhere. **Exactly one crossing is a genuine channel that cannot be avoided** — Day 8 — and everything else is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. A set-piece crossing spends enormous credibility and there is only enough for one. See `plan/journey-calendar.md` §1.
 
-**Genesis itself** is a **spit of emergent land ringed by coral**, in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. It is land, not a tidal bank — two hundred founders arrived there, lived there three years, and left an archive, a temporal lab and two wigs on it. Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. The structure is unstable. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
+**Genesis itself** is a **spit of emergent land ringed by coral**, in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. It is land, not a tidal bank — two hundred founders arrived there, lived there three years, and left an archive, a temporal lab and two wigs on it. Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. **It was built to be worked in and much of it is still standing**; what has gone is the parts that had moving pieces, and what has flooded is the low ground. Two centuries of cyclones have made it dangerous rather than absent — some of it is open to the sky, some of it is under water, and some of it is dry and lit. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
 
 **The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Prognathodon* and *Plioplatecarpus*, dyrosaurid marine crocodiles, lamniform sharks and elasmosaurid plesiosaurs are all present in these waters (`kb/research/geo-flora-fauna.md` §4.4b). They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
 
