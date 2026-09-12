@@ -42,6 +42,29 @@ def renumber(line: str) -> str:
     return out
 
 
+DAY_TOKEN = re.compile(rf"\bDays?\s+\d+(?:\s*[{DASHES}]\s*\d+)?", re.I)
+LEAD_CELL = re.compile(rf"^(\|\s*\**)(\d+(?:\s*[{DASHES}]\s*\d+)?)(\**\s*\|)")
+
+
+# A day number can sit anywhere: "Day 7", a leading table cell, a bare parenthetical
+# "(7)", or -- the case that defeated the first version -- the SECOND cell of a table,
+# as in "| *Ornithomimus* | 7 | fast, harmless". So blank every standalone one- or
+# two-digit integer that is not part of a decimal, which is what a scene number looks
+# like. Blanking too much is safe: the numbers are reported and checked against the
+# map, so anything the map does not explain surfaces as a line to eyeball rather than
+# passing silently.
+BARE_NUMBER = re.compile(r"(?<![\d.])(\d{1,2})(?![\d.])")
+
+
+def skeleton(line: str) -> str:
+    """The line with every day-shaped number blanked, so two versions of a row match."""
+    return BARE_NUMBER.sub("<D>", line[1:])
+
+
+def day_numbers(line: str) -> list[int]:
+    return [int(x) for x in BARE_NUMBER.findall(line[1:])]
+
+
 def hunks(sha: str, path: str) -> list[tuple[str, list[str], int]]:
     """(hunk header, changed lines, first line number on the new side)."""
     diff = subprocess.run(["git", "-C", str(ROOT), "diff", "-U0", sha, "--", path],
@@ -84,48 +107,78 @@ def authored_since(path: str, since: str) -> set[int]:
     return out
 
 
-def classify(sha: str, path: str, approved_since: str | None = "17dbee1"
-             ) -> tuple[int, int, int, list[str]]:
-    """(pure-renumbering lines, approved-change-set lines, lines left, those lines).
+def classify(sha: str, path: str, approved_since: str | None = "17dbee1"):
+    """(renumbered, approved, off-map day moves, substantive lines).
 
-    Always diffs the marker commit against HEAD. Anything else shows a state that
-    no longer exists. Three buckets:
+    Lines are paired by their text with every day number blanked, across the whole
+    file rather than within a hunk. Pairing within a hunk by position was wrong: a
+    moved or inserted row makes the plus and minus counts differ, and the whole hunk
+    then read as substantive. body-and-resources.md reported twenty-one lines to
+    read that way, and every one of them was a day number moving.
 
-    1. the old line, renumbered, is character-for-character the new line;
-    2. the current text there was written by a commit implementing a change set
-       Daniel read and approved;
-    3. everything else, which is his to read.
+    A matched pair whose days all follow the old-to-new map changed in no other way.
+    A pair whose days moved some other way is reported as one short line, because the
+    only question it raises is whether that move was intended. Only genuinely
+    unmatched lines are text somebody has to read.
     """
-    approved_lines = authored_since(path, approved_since) if approved_since else set()
-    pure = appr = 0
-    real: list[str] = []
-    for head, body, new_start in hunks(sha, path):
-        minus = [l for l in body if l.startswith("-")]
-        plus = [l for l in body if l.startswith("+")]
-        plus_at = {id(l): new_start + i for i, l in enumerate(plus)}
-
-        if plus and all(plus_at[id(l)] in approved_lines for l in plus):
-            appr += len(minus) + len(plus)       # the current text here is his
+    approved = authored_since(path, approved_since) if approved_since else set()
+    minus, plus, plus_line, n_hunk_appr = [], [], {}, 0
+    for _, body, start in hunks(sha, path):
+        adds, i = [], 0
+        for l in body:
+            if l.startswith("+"):
+                adds.append((l, start + i))
+                i += 1
+        # A hunk whose new text was entirely written by an approved change set is his,
+        # deletions included -- the old lines it replaced are not worth reading. Without
+        # this, removing the km column left fifteen orphaned minus lines looking like
+        # content he had never seen.
+        if adds and all(n in approved for _, n in adds):
+            n_hunk_appr += len(body)
             continue
+        for l in body:
+            if l.startswith("-"):
+                minus.append(l)
+        for l, n in adds:
+            plus.append(l)
+            plus_line[id(l)] = n
 
-        if len(minus) == len(plus) and minus:
-            leftover = []
-            for a, b in zip(minus, plus):
-                if renumber(a)[1:] == b[1:]:
-                    pure += 2
-                elif plus_at[id(b)] in approved_lines:
-                    appr += 2
-                else:
-                    leftover += [a, b]
-            if leftover:
-                real.append(head)
-                real += leftover
+    drop = lambda l: re.match(r"^[+-]approval: ", l)
+    minus = [l for l in minus if not drop(l)]
+    plus = [l for l in plus if not drop(l)]
+
+    # Pair FIRST, then attribute what is left. Filtering approved lines out before
+    # pairing orphans their partners and inflates the residual -- it took
+    # body-and-resources from twenty-one lines to twenty-six by "improving" it.
+    pool, pairs, orphan_minus = list(plus), [], []
+    for a in minus:
+        hit = next((b for b in pool if skeleton(b) == skeleton(a)), None)
+        if hit:
+            pool.remove(hit)
+            pairs.append((a, hit))
         else:
-            real.append(head)
-            real += body
+            orphan_minus.append(a)
 
-    real = [l for l in real if not re.match(r"^[+-]approval: ", l)]
-    return pure, appr, len([l for l in real if l[:1] in "+-"]), real
+    renumbered, offmap = 0, []
+    for a, b in pairs:
+        da, db = day_numbers(a), day_numbers(b)
+        # Only positions that actually moved are day moves. Blanking every day-shaped
+        # integer also catches things that are not days -- dyad temperatures, ladder
+        # rungs -- and those sit unchanged on both sides. Checking them against the
+        # renumbering map flagged seven false moves in character-arcs.md alone.
+        moved = [(x, y) for x, y in zip(da, db) if x != y] if len(da) == len(db) else None
+        if moved is not None and all(RENUMBER.get(x, x) == y for x, y in moved):
+            renumbered += 2
+        else:
+            shown = moved if moved else f"{da} → {db}"
+            offmap.append(f"  {shown}   {skeleton(a)[:86]}")
+
+    # Whatever did not pair: a plus line whose present text came out of a change set
+    # he read is his; a minus line is his if nothing survives of it there.
+    n_appr = n_hunk_appr + sum(1 for l in pool if plus_line[id(l)] in approved)
+    pool = [l for l in pool if plus_line[id(l)] not in approved]
+    real = orphan_minus + pool
+    return renumbered, n_appr, offmap, real
 
 
 def main(argv: list[str]) -> int:
@@ -138,15 +191,17 @@ def main(argv: list[str]) -> int:
         return 2
 
     for path, sha in sorted(targets):
-        pure, appr, n, real = classify(sha, path)
-        total = pure + appr + n
-        verdict = "nothing for you" if n == 0 else f"{n} line(s) to read"
-        print(f"\n## {path} — {total} changed: {pure} renumbering, {appr} from approved "
-              f"change sets, {n} left — {verdict}")
+        renum, appr, offmap, real = classify(sha, path)
+        total = renum + appr + len(offmap) * 2 + len(real)
+        verdict = "nothing for you" if not real and not offmap else \
+                  f"{len(real)} line(s) to read, {len(offmap)} day move(s) to eyeball"
+        print(f"\n## {path} — {total} changed: {renum} renumbering, {appr} from approved "
+              f"change sets — {verdict}")
+        if offmap:
+            print("\nDays moved in a way the renumbering does not explain. Text otherwise identical:\n")
+            print("\n".join(offmap))
         if real:
-            print("\n```diff")
-            print("\n".join(real))
-            print("```")
+            print("\n```diff"); print("\n".join(real)); print("```")
     return 0
 
 
