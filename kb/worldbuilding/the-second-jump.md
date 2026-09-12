@@ -37,7 +37,7 @@ Three things happen across those three years, and they interlock.
 
 - **Day length.** The Cretaceous day is measurably shorter than twenty-four hours and lengthens at a known rate, so an accurate clock and a long patient measurement gives a band. It gives a wide one.
 - **Lunar ranging.** The moon is closer and recedes at a known rate, so bouncing a laser off it should date them. It also gives a band.
-- **Stellar drift.** Proper motion and precession against catalogued positions. Same answer, same fuzziness.
+- **Stellar drift.** Proper motion and precession against cataloged positions. Same answer, same fuzziness.
 
 They have no satellites and no large telescope, and every method needs a longer baseline than three years supplies. **Their working estimate is roughly five hundred years, plus or minus two hundred and sixty.** It is the number the colony inherits and the reason leadership teaches that the impact is centuries away.
 
@@ -131,7 +131,7 @@ Plus the physics that Benal earns: only the original crew could ever have gone h
 
 **Two specific prohibitions:**
 
-- **No fragment and no character may imply two-way contact.** The capsule is an object somebody buried and somebody else dug up. It travelled by sitting still.
+- **No fragment and no character may imply two-way contact.** The capsule is an object somebody buried and somebody else dug up. It traveled by sitting still.
 - **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning fact G from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Open question, and it is the one craft risk in this whole structure:** does he deduce it and *then* find the capsule confirming it, or is the capsule damaged so that it proves a second jump happened and cannot supply the physics? Either works. It has not been decided.
 
 ## 11. Still open
