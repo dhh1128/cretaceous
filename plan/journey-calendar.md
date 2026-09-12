@@ -1,5 +1,5 @@
 ---
-approval: approved ff419919
+approval: approved fd5164df
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -74,7 +74,7 @@ The dependency order:
 |---|---|---|---|
 | **Leaving, Day 3 pre-dawn** | ground fog | clear | The fog is the only reason they get past the watcher |
 | **Constrictor, Day 5** | still air, dense understory | wind, hard rain | An ambush predator the color of dead leaves needs litter that isn't moving, and Benal's hearing has to be defeated by *silence*, not noise |
-| **The crossing, Day 8** | **still air, and a low glassy river** | wind; **heavy sustained rain in the days before** | The decoy depends on the gathering happening **where they cross**. A current takes the driven animal downstream and the crocs with it; heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest, stillest hour so they can see into the water. Keo has to hold two tonnes of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
+| **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to hold two tonnes of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
 | **Sunfever, Day 10** | cloudless, no wind | any cloud | Her suit has to lose |
 | **Noli taken, Day 11 dawn** | clear low sun | overcast | The flybeak comes out of the sun. No sun, no ambush |
 | **The raft, Day 14** | building sea, then cyclone | calm | — |
@@ -86,7 +86,21 @@ The dependency order:
 
 **The journey's first day outside is Day 3, and it starts before dawn.** Late night belongs to Day 2; the pre-dawn after it is Day 3. Anything tagged Day 2 pre-dawn or Day 2 morning that happens outside the border-tangle is a day behind.
 
-**What the crossing actually needs is a still day**, because the decoy depends on hearing and on flat water, not on a drought. And what closes the route home is not rain at all. It is the cyclone.
+**What the crossing actually needs is a still day**, because the decoy depends on flat water rather than on a drought. And what closes the route home is not rain at all. It is the cyclone.
+
+### How the crossing is actually made
+
+**The croc's sense is the water's surface, not the ground** — pressure receptors in the jaw skin, reading disturbance it can localize. See `plan/tech-rules.md`. Everything below follows from that, and the plan the three of them make is a plan to make one point in the river the loudest thing in it and their own crossing the quietest.
+
+**They choose the narrows.** A place where the channel tightens between boulders — the water runs quicker there and the gap to swim is shorter, and both are worth more than the discomfort of a faster current. Boulders in a channel are already canon; the Enclave's own river bend is barred with them.
+
+**The decoy goes in fifty yards upstream, in the slow wide water**, where a panicking hadrosaur will stay roughly where it is put. This is why the "no current" requirement exists and it applies *here*, not at the crossing — and it is what makes the quicker water at the narrows harmless, since nothing there needs to hold position.
+
+**The current then works for them, which is the part that makes the plan good rather than lucky.** Surface disturbance runs downstream. Their own ripples at the narrows are carried away from the gathering; the hadrosaur's are enormous and stationary and upstream of everything.
+
+**And it costs them.** Blood and churn drift down from the decoy and across the crossing, so the last one in the water is swimming through water they can see has something in it.
+
+**The extra help is not theirs and must not read as theirs.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
 
 ### There are no seasons and no pivot — only weather that changes
 
