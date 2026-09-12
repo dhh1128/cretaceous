@@ -104,7 +104,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 For any scene, *what the reader arrives carrying* is derivable: every row paid or contributed in an earlier scene. **It must be derived and never hand-written.** A hand-written line can drift from this table, and a drifted one is worse than none — it asserts the reader knows something they were never told, and every downstream move built on it is then built on a fiction.
 
-**Compute it, or leave it empty.** It becomes computable the moment the 60-scene list exists, which is one more reason that list is on the critical path.
+**Compute it, or leave it empty.** It becomes computable the moment the rescened list exists, which is one more reason that list is on the critical path.
 
 ### The check, and it is mechanical
 

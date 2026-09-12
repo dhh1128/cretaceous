@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**This file needs rewriting.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
+**This file needs rewriting.** It contains **38** scenes against the count proposed in `pacing-and-stakes.md` §5, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. **Days 6, 9, 12, 13 and 18 of the journey have no scenes at all, and Days 7, 8 and 17 have one apiece where they need three** — the river and the revelation. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
 
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
@@ -15,7 +15,7 @@ Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emo
 
 *Act 1 is rescened against `plan/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
 
-Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §5. **Plants** are entries in `knowledge-ledger.md`, whose rows N–S carry the misjudgment ledger.
+Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §6. **Plants** are entries in `knowledge-ledger.md`, whose rows N–S carry the misjudgment ledger.
 
 Act 1 runs from an evening to the pre-dawn of the day after next — **about thirty-six hours.** The crisis is a fuse, not a season.
 
@@ -207,7 +207,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 11: BREAK INTO THREE
 
-> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §4 — beats 12, 13 and 14 each need splitting.
+> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §5 — beats 12, 13 and 14 each need splitting.
 
 
 11.1 [Day 16 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.

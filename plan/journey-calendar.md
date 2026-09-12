@@ -1,5 +1,5 @@
 ---
-approval: approved b783e2cb
+approval: approved ff419919
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -50,7 +50,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **It happens while the suits work and everyone is healthy**, which is the constraint that fixes it in the calendar. The degradation sequence — her suit saturating, Noli, the fall, the mash — all of it starts on Day 10 and none of it may have happened yet. So the crossing sits at the end of the good stretch, immediately after the gift.
 
-**Day 7 is a full stop, and it is the best day in the middle of the book.** They reach the water and cannot make themselves enter it. A day of standing on a bank and arguing: build a raft, drive a saropo across as a decoy, follow the bank upstream and hope, go around, go home. Counting what they have. Nobody sleeping. It is three teenagers exhausting every alternative to getting wet, and running out of them — which is what makes Day 8 an act of courage rather than an obstacle.
+**Day 7 is a full stop, and it is the best day in the middle of the book.** They reach the water and cannot make themselves enter it. A day of standing on a bank and arguing: build a raft, **ride a saropo across if a herd is headed that way** — discarded because nobody can steer one, and being shaken off or left standing in the middle of the channel is worse than swimming — follow the bank upstream and hope, go around, go home. Counting what they have. Nobody sleeping. It is three teenagers exhausting every alternative to getting wet, and running out of them — which is what makes Day 8 an act of courage rather than an obstacle.
 
 **And the geology agrees with the placement.** This is a low-relief plain and rivers gather as they approach the sea, so the one genuine channel is more plausible at 40 km than at 8 — where it would likely be their own river, whose bend runs through the Enclave.
 

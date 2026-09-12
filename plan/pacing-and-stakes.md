@@ -22,7 +22,9 @@ The scene list holds **38 scenes**: fourteen in Act 1, nineteen in Act 2, five i
 
 **Act 3 has five scenes for a quarter of the book.** They carry the discovery of the protocols, the revelation that voids six generations, the action climax, the confrontation, and the final image — one scene apiece for every payload the novel has been building toward.
 
-**And eight days of the journey have no scenes at all.** Day 6 is the only easy day in the book and the deposit that every miserable day after it draws against. **Days 7 and 8 are the river — arriving at it and failing to enter it, then crossing it — and Day 9 is the day after.** Day 12 is when Teva overrules Keo on the mash. Day 13 is when it comes due and he carries her. **Days 17 and 18 are the rest at Genesis.** Those are not filler days; three of them are the hinge of her arc and the courage the book is built on, and none of them exists.
+**And five days of the journey have no scenes at all** — 6, 9, 12, 13 and 18. Day 6 is the only easy day in the book and the deposit that every miserable day after it draws against. Day 9 is the day after the river. Day 12 is when Teva overrules Keo on the mash, and Day 13 is when it comes due and he carries her — the hinge of her arc, unwritten. Day 18 is the second day at Genesis, where they find there is no way home and then find the wig.
+
+**Three more days are scened at one scene each and cannot survive on one.** Day 7 is arriving at the river and failing to enter it, Day 8 is the crossing, and Day 17 carries the logs, the epiphany and fact G. Those three and the five above are the whole of what the rescene has to build.
 
 ## 2. Why Act 1 went from ten scenes to fourteen
 
@@ -38,7 +40,7 @@ Two organs were missing, and both are now scened. Recorded because the reasoning
 
 **A chapter is the reader-facing unit — what they finish before putting the book down. A scene is the writing unit.** One chapter holds one or two scenes; a chapter is rarely three.
 
-At 60 scenes that implies **roughly 35 to 45 chapters**, which for a YA thriller of this length puts a chapter at about 2,000 words. That is the right size for the form and it is what the reader is actually pacing themselves against.
+At the count §5 proposes that implies **roughly 40 to 50 chapters**, which for a YA thriller of this length puts a chapter at about 2,000 words. That is the right size for the form and it is what the reader is actually pacing themselves against.
 
 **Both novels break scenes inside a chapter**, by different marks. **viking** uses `§` — 39 across 55 chapters. **cordimancy** uses an extra blank line. *(Do not try to verify the second by counting: a blank-line convention does not survive export, and `cordimancy.md` retains three whitespace-only lines in the whole book. An earlier version of this section counted that and concluded the novel had no internal breaks, which is wrong.)*
 
@@ -74,22 +76,22 @@ Page-turning is not a function of short scenes. It comes from three things.
 | **medium** | 1,000–1,600 | the workhorse |
 | **long** | 1,800–2,500 | consolidation, revelation, the emotional set-pieces |
 
-**The arithmetic, and it is the whole justification for sixty.** A mix of a quarter short, half medium, a quarter long, at the midpoint of each band:
+**The arithmetic, and it is what ties the scene count to the word count.** A mix of a quarter short, half medium, a quarter long, at the midpoint of each band:
 
-> 15 × 650 + 30 × 1,300 + 15 × 2,150 = **81,000 words**
+> 17 × 650 + 35 × 1,300 + 17 × 2,150 = **93,000 words**
 
-which lands inside the 70–100k target with room in both directions. *(No estimate here is based on the drafted scenes in `content/superseded/`. They average about 1,058 words, but they are not the book and their length is a symptom of what they left out rather than a rate to plan against.)*
+at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or ninety-five thousand is an acceptable draft, and trimming happens in the post-edit, where it is cheaper and far better informed than planning the book short would be. **So this figure is not a ceiling to design against, and no scene is cut to protect it.** *(At sixty scenes the same mix gave 81,000, and the three river days are most of what moved it. Shifting the mix short — a third short, half medium, the rest long — would put sixty-nine scenes back at 84,000, which is available if a draft runs away rather than a plan. And no estimate here is based on the drafted scenes in `content/superseded/`: they average about 1,058 words, but they are not the book, and their length is a symptom of what they left out rather than a rate to plan against.)*
 
-## 5. Proposed shape — about 60 scenes
+## 5. Proposed shape — about 70 scenes
 
 `[?]` **Every number in this section and the next is tentative — the scene counts and the ladder values alike, not only the rows added for the new days.** They are an interpolation of a coarser curve that was never put to Daniel. **The rescene is where they get argued**, and arguing them before it would be settling the answer before the question. Read them as a shape, not a specification.
 
 | act | now | proposed |
 |---|---|---|
 | **1** | 14 | 14 — done |
-| **2** | 19 | ~31 |
+| **2** | 19 | ~39 |
 | **3** | 5 | ~16 |
-| | **38** | **~61** |
+| | **38** | **~69** |
 
 **Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
@@ -99,6 +101,9 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 | 4 | 1 | 2 | the rain arrives; the walking begins in earnest |
 | 5 | 1 | 2 | the constrictor |
 | **6** | **0** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on, and it does not exist |
+| **7** | **1** | **3** | **they come to the water and stop.** Arriving · the plans proposed and discarded on the bank — raft, riding a saropo across, upstream, go home · the night nobody sleeps. The one existing scene is the argument |
+| **8** | **1** | **3** | **the crossing.** Driving the hadrosaur while they wait for the afternoon · the water · the far bank, with nobody able to walk. The one existing scene is the water |
+| **9** | **0** | **2** | what it cost and what it bought. Across, and still walking |
 | 10 | 3 | 3 | the savanna; hubris at its peak; Teva cooking inside her own protection |
 | 11 | 6 | 6 | Noli, then the fall. Already well-scened |
 | **12** | **0** | **2** | **the mash.** She overrules him and is wrong, which is the hinge of her arc, and it is unwritten |
@@ -135,6 +140,9 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **4** | 5 | 6 | 6 | 5 | the arithmetic arrives; first open doubt |
 | **5** | 6 | 8 | 6 | 5 | the constrictor. Shattered, then welded |
 | **6** | **3** | **3** | 5 | 5 | ***the gift.*** *Every ladder drops. This is what makes Day 7 onward cost something* |
+| **7** | 7 | **4** | 6 | 5 | they reach the water and cannot enter it. Three kilometers walked and the day spent standing still |
+| **8** | 8 | 9 | 7 | 5 | the crossing |
+| **9** | **5** | 6 | 6 | 5 | the drop after it. Across, and nothing to feel yet |
 | **10** | 6 | 8 | 5 | 5 | hubris at its peak, and she is dying of heat beside him |
 | **11** | **9** | 9 | 6 | 5 | Noli, then the fall |
 | **12** | 7 | 8 | 7 | 5 | she decides, and is wrong |
@@ -158,7 +166,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 **Social** goes dormant once they leave and does not move again until the confrontation, because the trio walks away from everyone who could raise it. Act 2 then runs on physical stakes almost alone, which is how an eleven-day walk reads as walking with monsters attached.
 
-**Species barely moves anywhere** — 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, then 10 at the revelation. Thirteen days at a five, then a jump. It is the ladder Daniel most wants the reader to feel, and it is abstract, and abstractions do not climb on their own.
+**Species barely moves anywhere** — 3, 3, 4, 4, 4, then nine consecutive rows at 5, then 6, 6, 6, 7, then 10 at the revelation. Nine rows without a move, and adding the river days made that stretch longer rather than shorter. It is the ladder Daniel most wants the reader to feel, and it is abstract, and abstractions do not climb on their own.
 
 ### The fixes
 
@@ -180,6 +188,6 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 ## 7. What to do next
 
-**Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the three missing days most of all — Day 6 because it is the deposit, Days 12 and 13 because they are the hinge of Teva's arc. Act 3 needs roughly to triple.
+**Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the four missing days most of all — Day 6 because it is the deposit, Day 9 because it is what the river cost, and Days 12 and 13 because they are the hinge of Teva's arc. It also needs the river built out: Days 7 and 8 carry one scene each and the crossing is the courage the book is built on. Act 3 needs roughly to triple.
 
-That rescene is also when the numbering changes: scenes become sequential 1–61, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.
+That rescene is also when the numbering changes: scenes are numbered sequentially from 1, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.

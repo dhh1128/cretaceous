@@ -30,7 +30,7 @@ The story runs nineteen days. A child dies in the Vitarium because the last Mast
 | `body-and-resources.md` | food, water, injury, fatigue, pace — the physical continuity chain |
 | `milieu-allocation.md` | biome, species and sensory budget, one showcase per thing |
 | `humor-plan.md` | comic registers, placement, and the charm deficit |
-| `scene-list.md` | the scenes. **Needs rewriting** — 38 against a 60-scene proposal, Acts 2 and 3 still in the old format, eight days of the journey unscened, and its own header says 40 |
+| `scene-list.md` | the scenes. **Needs rewriting** — 38 against the count `pacing-and-stakes.md` proposes, Acts 2 and 3 still in the old format, five days of the journey unscened and three more at a single scene |
 | `pacing-and-stakes.md` | scene count, the three size bands, the four stake ladders. **The gate** — the scene list cannot be rebuilt until it is settled |
 | `knowledge-ledger.md` | who knows what when, in three columns; the irony allocation; the epigraph suite. Its payment assignments name scene numbers and must wait for the new list |
 | `character-arcs.md` | the three arcs, the losses, the dyads |
@@ -69,7 +69,7 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 
    - **Act** — three.
    - **Chapter** — the reader-facing unit, the thing you finish before putting the book down. Holds one or more scenes. This has never existed and was asked for at the start of the project.
-   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **sequentially, 1 to 60**, so a scene number is an address and carries no other claim.
+   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **sequentially from 1**, so a scene number is an address and carries no other claim. The count is `pacing-and-stakes.md` §5's to propose and is not settled.
    - **Move** — one action by one party inside a scene. What the scene maps enumerate.
 
    The present numbering is beat-major, so `4.3` means the third scene of beat 4, which sits inside Act 1 — the first digit is not an act and reads as though it were. **The fifteen "beats" are Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. The structure is demoted to **an analysis note** — a check that the story would also work as a film, which is a fair test — and stops being the organizing principle or the address system.
