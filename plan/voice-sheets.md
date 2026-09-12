@@ -1,14 +1,12 @@
 ---
-approval: approved 8381f875
+approval: approved 45a4bfa6
 ---
 
 # Voice sheets
 
 How each character talks, and — for the three — how that changes across the nineteen days.
 
-**These idiolects are designed, not observed.** An earlier version of this file claimed to describe "what is already on the page." The page in question was `content/superseded/`, which `prompts/style-canon.md` says is edited AI output and explicitly not a style exemplar, so the file was recording a drafting model's habits and calling them character. Worse, its headline evidence for Keo — an imperative burst — exists in no draft and no plan. It was invented.
-
-So the convention here is strict. A quote marked **[drafted]** appears in `content/superseded/` and is evidence of nothing except that somebody once wrote it; it is quoted where it happens to be good. A quote marked **[designed]** is a line the plan intends to write and has not written. Nothing else is quoted. If a line has no mark, it is not a quotation.
+**These idiolects are designed, not observed.** The convention here is strict. A quote marked **[drafted]** appears in `content/superseded/` and is evidence of nothing except that somebody once wrote it; it is quoted where it happens to be good. A quote marked **[designed]** is a line the plan intends to write and has not written. Nothing else is quoted. If a line has no mark, it is not a quotation.
 
 **Indexed by day**, like `character-arcs.md`, because scene numbers are being reassigned and days are not.
 
