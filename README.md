@@ -45,7 +45,7 @@ The story runs nineteen days. A child dies in the Vitarium because the last Mast
 
 ### `kb/` — reference
 
-`worldbuilding/` holds invented canon that needed its own file: `safety-suits.md`, `the-wig.md`, `lingo.md` (a **closed** list of drifted words — coining new ones is a defect), `names.md`, `benals-equation.md`. `research/` holds real-world reference: `geo-flora-fauna.md`, `predator-vision.md`, and an image.
+`worldbuilding/` holds invented canon that needed its own file: `safety-suits.md`, `the-wig.md`, `lingo.md` (a **closed** list of drifted words — coining new ones is a defect), `names.md`, `benals-equation.md`, and `the-second-jump.md` — the deep backstory, most of which book 1 never shows and all of which book 1 must stay consistent with. `research/` holds real-world reference: `geo-flora-fauna.md`, `predator-vision.md`, and an image.
 
 ### `content/` — prose
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 9f74e314
+approval: approved 8caa45d0
 ---
 
 # Cretaceous — Milieu Brief
@@ -16,6 +16,7 @@ approval: approved 9f74e314
 | predator senses | `kb/research/predator-vision.md` |
 | Benal's equation | `kb/worldbuilding/benals-equation.md` |
 | the wig | `kb/worldbuilding/the-wig.md` |
+| the second jump, and the deep backstory | `kb/worldbuilding/the-second-jump.md` |
 | names | `kb/worldbuilding/names.md` |
 | plot, beats, rationale | `plan/outline.md` → `plan/scene-list.md` |
 | prose style | `prompts/writing-style.md` |
@@ -76,7 +77,9 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Those who stayed saw the others off and vowed to continue the work.** The Enclave never heard from them again and has assumed for two hundred years that they died.
 
-**They did not. They jumped.** `[?]` Somewhere on the order of a thousand to a million years further back — the figure is open and the story does not need it pinned — to buy themselves working time before the impact. That is **the origin of the temporal flashes**, and it is a surprise this novel delivers: **nobody in the colony knows it when the book opens.** `plan/knowledge-ledger.md` governs who learns it and when; `plan/outline.md` has the epiphany that lands it.
+**They did not. They jumped.** `[?]` Somewhere on the order of a thousand to a million years further back — the figure is open and the story does not need it pinned — to buy themselves working time before the impact. That is **the origin of the temporal flashes**, and it is a surprise this novel delivers: **nobody in the colony knows it when the book opens.**
+
+**The whole of that story is in `kb/worldbuilding/the-second-jump.md`, and it is the authority for it** — why the cure could not be tested, the vote Cecilia lost, what she did at the Enclave instead, the dating breakthrough that panicked the people who stayed, and what book 1 may and may not show. Almost none of it is on the page in this novel. `plan/knowledge-ledger.md` governs who learns what and when; `plan/outline.md` has the epiphany that lands it.
 
 **The overland route** runs through open-canopy woodland with sightlines of a meter or two at chest height, **slow rivers, swamps and marshes** holding the primary threat, limestone country with caves but **no cenotes** — those postdate the impact — coastal wetland of ferns and salt-tolerant palms that is *not* mangrove, since true mangroves are 50 million years away, and stretches of open fern savanna where nothing conceals you. Eleven days of walking, Days 3 to 13, and eighty kilometers at two to twelve a day; then open water on Day 14.
 
