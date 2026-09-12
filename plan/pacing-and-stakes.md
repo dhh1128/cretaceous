@@ -86,39 +86,41 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 
 `[?]` **Every number in this section and the next is tentative — the scene counts and the ladder values alike, not only the rows added for the new days.** They are an interpolation of a coarser curve that was never put to Daniel. **The rescene is where they get argued**, and arguing them before it would be settling the answer before the question. Read them as a shape, not a specification.
 
-| act | now | proposed |
-|---|---|---|
-| **1** | 14 | 14 — done |
-| **2** | 19 | ~39 |
-| **3** | 5 | ~16 |
-| | **38** | **~69** |
+**These tables carry the proposal only.** What the scene list holds today is in §1, and it is not repeated here — there are no approved scene drafts, so a "now" count only names scenes that are themselves about to be questioned, and the column would come out at the end of the rescene anyway.
+
+| act | proposed |
+|---|---|
+| **1** | 14 — done |
+| **2** | ~39 |
+| **3** | ~16 |
+| | **~69** |
 
 **Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
-| day | scenes now | scenes → | what it is |
-|---|---|---|---|
-| 3 | 4 | 4 | out through the tangle, the razortails, the first day outside. The biggest day in the book |
-| 4 | 1 | 2 | the rain arrives; the walking begins in earnest |
-| 5 | 1 | 2 | the constrictor |
-| **6** | **0** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on, and it does not exist |
-| **7** | **1** | **3** | **they come to the water and stop.** Arriving · the plans proposed and discarded on the bank — raft, riding a saropo across, upstream, go home · the night nobody sleeps. The one existing scene is the argument |
-| **8** | **1** | **3** | **the crossing.** Driving the hadrosaur while they wait for the afternoon · the water · the far bank, with nobody able to walk. The one existing scene is the water |
-| **9** | **0** | **2** | what it cost and what it bought. Across, and still walking |
-| 10 | 3 | 3 | the savanna; hubris at its peak; Teva cooking inside her own protection |
-| 11 | 6 | 6 | Noli, then the fall. Already well-scened |
-| **12** | **0** | **2** | **the mash.** She overrules him and is wrong, which is the hinge of her arc, and it is unwritten |
-| **13** | **0** | **2** | it comes due; he carries her; one distant sighting of the thing that never touches them |
-| 14 | 3 | 3 | the mudflats, the raft, the mosasaur |
-| 15 | 2 | 4 | the eye, the failing to get in, the tail, and the confessions |
+| day | scenes | what it is |
+|---|---|---|
+| 3 | 4 | out through the tangle, the razortails, the first day outside. The biggest day in the book |
+| 4 | 2 | the rain arrives; the walking begins in earnest |
+| 5 | 2 | the constrictor |
+| **6** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on |
+| **7** | **3** | **they come to the water and stop.** Arriving · the plans proposed and discarded on the bank — raft, riding a saropo across, upstream, go home · the night nobody sleeps |
+| **8** | **3** | **the crossing.** Driving the hadrosaur while they wait for the afternoon · the water · the far bank, with nobody able to walk |
+| **9** | **2** | what it cost and what it bought. Across, and still walking |
+| 10 | 3 | the savanna; hubris at its peak; Teva cooking inside her own protection |
+| 11 | 6 | Noli, then the fall |
+| **12** | **2** | **the mash.** She overrules him and is wrong, which is the hinge of her arc |
+| **13** | **2** | it comes due; he carries her; one distant sighting of the thing that never touches them |
+| 14 | 3 | the mudflats, the raft, the mosasaur |
+| 15 | 4 | the eye, the failing to get in, the tail, and the confessions |
 
-**Act 3, by day.** Genesis is three distinct days and Day 19 is everything else, and all four are running at nought to three scenes.
+**Act 3, by day.** Genesis is three distinct days and Day 19 is everything else.
 
-| day | scenes now | scenes → | what it is |
-|---|---|---|---|
-| 16 | 1 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
-| 17 | 1 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
-| 18 | 0 | ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
-| 19 | 3 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
+| day | scenes | what it is |
+|---|---|---|
+| 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
+| 17 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
+| 18 | ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
+| 19 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.
 
