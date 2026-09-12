@@ -11,7 +11,9 @@ python3 tools/report.py day_tokens          # one check
 
 `pytest` is not installed on this box and no `pyproject.toml` or venv is wanted in a novel repo, so `uv run --with pytest` supplies it per invocation. `report.py` needs nothing but the standard library.
 
-Three files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end, one parametrized case per violation so a failure reads `test_day_tokens[plan/tech-rules.md:21]` and the test id is the change-set row; `report.py` is a second front end for the document Daniel reads and strikes. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
+Three files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end; `report.py` is a second front end for the document Daniel reads and strikes. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
+
+**One test per invariant, not per violation, and the test name states the claim.** `test_every_file_reference_resolves` fails once, listing all thirteen dangling pointers, rather than thirteen times. Two reasons. The failing line reads as a sentence and needs no docstring to decode it. And the failure count then means what it looks like it means: an earlier version parametrized per violation and reported thirteen pointers plus seven stray dates as *"20 failed"*, which reads as twenty problems and is two. The instances go in the message as `file:line — what`, which is the change-set row.
 
 ## The two rules that govern what may be written here
 
