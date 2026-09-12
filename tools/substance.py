@@ -123,7 +123,8 @@ def classify(sha: str, path: str, approved_since: str | None = "17dbee1"):
     """
     approved = authored_since(path, approved_since) if approved_since else set()
     minus, plus, plus_line, n_hunk_appr = [], [], {}, 0
-    for _, body, start in hunks(sha, path):
+    from_hunk: dict[int, tuple] = {}
+    for head, body, start in hunks(sha, path):
         adds, i = [], 0
         for l in body:
             if l.startswith("+"):
@@ -137,6 +138,7 @@ def classify(sha: str, path: str, approved_since: str | None = "17dbee1"):
             n_hunk_appr += len(body)
             continue
         for l in body:
+            from_hunk[id(l)] = (head, tuple(body))
             if l.startswith("-"):
                 minus.append(l)
         for l, n in adds:
@@ -177,7 +179,20 @@ def classify(sha: str, path: str, approved_since: str | None = "17dbee1"):
     # he read is his; a minus line is his if nothing survives of it there.
     n_appr = n_hunk_appr + sum(1 for l in pool if plus_line[id(l)] in approved)
     pool = [l for l in pool if plus_line[id(l)] not in approved]
-    real = orphan_minus + pool
+
+    # Emit WHOLE hunks. Showing one side of a change without the other makes a
+    # modification read as a deletion, which is the most alarming way to render a
+    # diff wrong -- four replaced lines in milieu-allocation.md looked like content
+    # being removed. The reduction decides which hunks are worth showing; it does not
+    # get to decide which half of one you see.
+    seen, real = set(), []
+    for l in orphan_minus + pool:
+        head, body = from_hunk[id(l)]
+        if head in seen:
+            continue
+        seen.add(head)
+        real.append(head)
+        real += list(body)
     return renumbered, n_appr, offmap, real
 
 
