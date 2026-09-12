@@ -1,5 +1,5 @@
 ---
-approval: approved 4e3775a0
+approval: approved 76297b6f
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -72,7 +72,7 @@ The dependency order:
 |---|---|---|---|
 | **Leaving, Day 3 pre-dawn** | ground fog | clear | The fog is the only reason they get past the watcher |
 | **Constrictor, Day 5** | still air, dense understory | wind, hard rain | An ambush predator the color of dead leaves needs litter that isn't moving, and Benal's hearing has to be defeated by *silence*, not noise |
-| **The crossing, Day 8** | **still air, and a low glassy river** | wind; **heavy sustained rain in the days before** | The decoy depends on a driven animal being *the loudest thing in the water*. Rain stipples the surface and masks vibration; a rising channel sweeps the decoy downstream and disperses the crocs it was meant to gather; and Keo has to hold two tonnes of panicking animal with his mind while chaos happens around him. A mirror-flat river with everything in it listening is also **more frightening**, because the trick is legible and so is its failure |
+| **The crossing, Day 8** | **still air, and a low glassy river** | wind; **heavy sustained rain in the days before** | The decoy depends on the gathering happening **where they cross**. A current takes the driven animal downstream and the crocs with it; heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest, stillest hour so they can see into the water. Keo has to hold two tonnes of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
 | **Sunfever, Day 10** | cloudless, no wind | any cloud | Her suit has to lose |
 | **Noli taken, Day 11 dawn** | clear low sun | overcast | The flybeak comes out of the sun. No sun, no ambush |
 | **The raft, Day 14** | building sea, then cyclone | calm | — |
@@ -80,7 +80,7 @@ The dependency order:
 
 **Light rain is the baseline here and changes nothing.** This climate rains often and moderately; showers are ordinary, the ground is usually damp, and a channel on a flat plain does not notice. **Only heavy sustained rain moves water**, and there is none of it before Day 11 — so Days 4 and 5 can be as wet as they like without touching the crossing. **The river has to still have a discrete channel and be crossable**, and that is the constraint the rain schedule exists to protect.
 
-**The crossing is never in rain, high water, or a swollen channel.** A stippled surface masks vibration, a current sweeps the decoy downstream and disperses the crocs it was meant to gather, and a spread river has no banks and no crossing point. Any scene that describes the river as fast, risen or opaque has broken the set-piece it belongs to.
+**The crossing is never in rain, high water, or a swollen channel.** A current sweeps the decoy downstream and takes the crocs with it, so the gathering happens anywhere but the crossing point. A spread river has no banks and no crossing point at all. And opaque water hides the thing they are crossing toward, which is why they go in the brightest, stillest hour they can find. *(Not because rain masks the decoy — a panicking two-tonne animal is a far larger signal than rain on a surface, and no shower quietens it. That reasoning was wrong and should not come back.)* Any scene that describes the river as fast, risen or opaque has broken the set-piece it belongs to.
 
 **The journey's first day outside is Day 3, and it starts before dawn.** Late night belongs to Day 2; the pre-dawn after it is Day 3. Anything tagged Day 2 pre-dawn or Day 2 morning that happens outside the border-tangle is a day behind.
 
