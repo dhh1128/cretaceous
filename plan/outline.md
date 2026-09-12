@@ -1,5 +1,5 @@
 ---
-approval: approved 1b9d9b71
+approval: approved 3a40e7dc
 ---
 
 # Cretaceous — Outline
@@ -194,17 +194,8 @@ Rationale (Benal's Vindication Arc): Ben stands with his friends, his "useless" 
 [POV: Keo] [Fear Level: Low (Replaced by Determination)]
 The stunned, furious, terrified faces of the Council. Keo's parents, standing under guard, lock eyes with their son with a look of terrifying, vindicated pride. Benal's parents look at their fragile son with new, shocked respect. Keo, Teva, and Ben stand together, no longer children, having saved their people only to challenge their entire existence.
 
-Potential Sequel Arcs (Book 2 & 3)
+## The sequels
 
-(Rationale: These arcs are the logical, direct consequence of the revelations in Beat 12 & 14).
+**`plan/sequels.md` is the authority for books 2 and 3**, and this section is deliberately not a summary of it — a second copy would drift, and the version that stood here already had.
 
-The Schism (Political Arc): The revelation splits their society. The Council/Traditionalists brand the trio heretics and suppress the truth. The Branchers are galvanized. This brews a civil conflict over control of Genesis and the hard-tech wig.
-
-The Search (Intellectual/Action Arc): The primary quest for Book 2 is to re-establish the "signal" and solve the "second jump" equation. This will require them to protect and use Genesis, putting them in direct conflict with the Council. The "flashes" (temporal disorientation) become a key plot device for Benal to decipher.
-
-The "Lost Colony" (Mystery Arc): Who are the Lost Colonists in 67mya? What did they build? Did they succeed? Are they trying to communicate back? Benal's "signal" may be a way to talk to them, but the "flashes" are the key to understanding what happened.
-
-Benal's Solution (Intellectual Arc): Benal's "double jump" theory is confirmed. Now he must execute it. He must figure out how to send the "signal" that the first group received, and then make the jump himself. This becomes the trilogy's technical endgame.
-
-The Ticking Clock (Threat Arc): The impact window — about two decades, plus or minus one, and unpinnable — hangs over everything, accelerating all conflicts. The asteroid is the ultimate, non-negotiable deadline, and the fact that nobody can date it precisely is what makes it unbearable rather than merely urgent. The sequels narrow it.
-
+Two things it got wrong are worth recording, because both would have propagated into book 1. It had the Lost Colonists "trying to communicate back," which breaks the rule that **nothing crosses time in either direction** — the rule fact G rests on, and the reason two hundred people had to make the trip in person. And it made Benal's endgame *sending the signal and jumping himself*, which is not the shape: he proves there is no paradox to fear, and the trilogy ends with a rescue and a migration rather than with one boy jumping.
