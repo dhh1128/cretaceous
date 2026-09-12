@@ -12,19 +12,11 @@ Sets scene count, scene sizing, chapters, and the four stakes curves — which a
 
 ## 1. Where we are
 
-The scene list holds **38 scenes**: fourteen in Act 1, nineteen in Act 2, five in Act 3.
+**The rescene is in progress and this section is the record of where it has got to.** Days 6, 7, 8, 9, 15, 16, 17, 18 and the Genesis half of 19 are rebuilt, in the Act 1 format, with ladders and hazards. `python3 tools/report.py scenes_per_day` prints what is left at any moment and is more current than this paragraph.
 
-| act | days | scenes |
-|---|---|---|
-| **1** — the Enclave | 1–2 | 14 |
-| **2** — the mudwalk | 3–15 | 19 |
-| **3** — Genesis and the return | 16–19 | **5** |
+**Still short:** Days 3, 4 and 5 by one or two scenes each; Days 12 and 13, which have none; and the second half of Day 19 — the chase, the landing, the handover, the confrontation, fact B failing, and the final image with the coda.
 
-**Act 3 has five scenes for a quarter of the book.** They carry the discovery of the protocols, the revelation that voids six generations, the action climax, the confrontation, and the final image — one scene apiece for every payload the novel has been building toward.
-
-**And five days of the journey have no scenes at all** — 6, 9, 12, 13 and 18. Day 6 is the only easy day in the book and the deposit that every miserable day after it draws against. Day 9 is the day after the river. Day 12 is when Teva overrules Keo on the mash, and Day 13 is when it comes due and he carries her — the hinge of her arc, unwritten. Day 18 is the second day at Genesis, where they find there is no way home and then find the wig.
-
-**Three more days are scened at one scene each and cannot survive on one.** Day 7 is arriving at the river and failing to enter it, Day 8 is the crossing, and Day 17 carries the logs, the epiphany and fact G. Those three and the five above are the whole of what the rescene has to build.
+**Days 12 and 13 are the ones that need a conversation rather than a pass.** They are the mash and the hinge of Teva's arc, and the canon for them is unusually rich: `plan/outline.md`, `plan/character-arcs.md` and `plan/body-and-resources.md` between them already fix the decision, the physiology, the sleep debt and the reversal where Keo carries the person who carried him.
 
 ## 2. Why Act 1 went from ten scenes to fourteen
 
@@ -119,7 +111,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 |---|---|---|
 | 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
 | 17 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
-| 18 | ~2 | no boat, and no route home · Keo finds something to talk to · the wig |
+| 18 | **3** | no boat, and no route home · Keo finds something to talk to, and two hulls · **the flash that shows a man burying something where Benal was lying yesterday**. Raised from two: the row always named three things, and the capsule is a fourth |
 | 19 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.

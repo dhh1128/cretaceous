@@ -88,6 +88,9 @@ The search key is derived from the allocation row's own label, and the page and 
 | Days 7–9 rescened | `scenes_per_day` | 14 → **11** | eight scenes written for Days 7, 8 and 9. **`SCENE_ENTRY` was widened in the same commit** to accept the provisional day-keyed ids, and that alone does not account for the drop: with the old pattern the new scenes were invisible and those days read as 0, and with the new pattern but no new scenes they would read 1, 1, 0 against 3, 3, 2 and still fail. Both were needed. |
 | Days 7–9 rescened | `epigraph_count` | 1 → **0** | `knowledge-ledger.md` now declares the suite at the size `content/epigraphs.md` actually holds, and says plainly that its own seven-row table is the superseded design, kept only for the job column until the rescene reassigns it. |
 | Days 7–9 rescened | `eliminated_unit_word` | 98 → **97** | incidental, from rewriting the two river entries. The sweep has not started. |
+| Day 6 written in | `scenes_per_day` | 11 → **10** | three scenes for Day 6. |
+| Genesis rescened | `scenes_per_day` | 10 → **7** | Days 15, 16 and 17 built out, twelve scenes where there were four. **Day 18's target was raised from 2 to 3 in the same commit and that is a moved goalpost, so here is the argument:** the §5 row always named three separate things for that day, and the capsule makes a fourth. Two scenes was under-specified from the start. Day 19 went from 3 to 5 and still fails at 5 against 8, which is correct — the chase and everything after it is unbuilt. |
+| Genesis rescened | `allocation_covered` | 12 → **13** | went **up**, correctly. Replacing the old combined Day 19 entry with three Genesis scenes removed the only mention of the flybeak on its allocated day. The check noticed that the chase had been deleted before I got round to saying so. |
 
 ## Not yet built
 

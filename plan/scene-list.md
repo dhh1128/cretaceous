@@ -321,33 +321,186 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 9.3 [Day 14 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
 * **B-Story Note:** **Intellectual Loss**. The loss of his fieldpack (and his theoretical work) symbolizes the loss of his last physical connection to his **Vindication** arc, reinforcing his belief in failure.
 
-9.4 [Day 15 - Dawn] [BENAL] [Genesis Site — a spit of land ringed by coral] [DESPAIR] - Washing up. Battered. Finding Keo, then Teva. They've "failed." [Milieu: They wash up in the 'eerie, unnatural calm of the cyclone's eye.' The bank is 'razor-sharp fossilized rudist bivalves' — **not volcanic rock**; `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of platform limestone, marl and evaporites over a Carboniferous granitic basement, with no volcanics anywhere on the Yucatan platform. Small, iridescent crabs scatter.]
-* **B-Story Note:** **Ultimate Defeat**. The collective belief that they have failed their mission and sacrificed their families for nothing.
+---
 
-### BEAT 10: DARK NIGHT OF THE SOUL
+> **Days 15 through 19 are rescened below, in the Act 1 format.** Ids stay provisional and day-keyed until the sequential renumber. Everything from here is at Genesis except the last five entries of Day 19, which are not yet rebuilt.
 
-10.1 [Day 15] [TEVA] [Archive (Flooded Section)] [DESPAIR (Cold)] - Huddling. Wet skin, wind off the cyclone's back half, eighteen hours of it — the one genuine chill in the book, and it is evaporative, not the sea. Teva worst, still hollowed out by the poisoning. The disorientation is strong.
-* **B-Story Note:** **B-Story Climax: Chosen Family Forged**. The trio's mutual, honest confessions of **Guilt** (Keo), **Shame** (Benal's pity), and **Despair** (Teva’s grandmother). Teva provides the emotional **Bridge Speech**, transforming them from allies into a **Chosen Family** unit. Her flash reveals the ancestors’ *fear* and *grief*, planting the first seed of her **Nuance** arc.
+---
 
-## ACT 3: GENESIS & THE RETURN (Beats 11-15)
+### D15.1 — [MEDIUM] [Day 15, dawn] [BENAL] [The coral bank] — *was 9.4*
+**Ladders:** E10 P8 S6 X6
+**Washing up in the eye of the storm.** Battered, separated, finding Keo and then Teva. They believe they have failed.
+**Must carry:**
+- **The eye is the cruelest weather in the book because it looks exactly like deliverance** — high bright cloud, no wind, a lit hour, and the birds moving wrong. `journey-calendar.md` §2. The reader should be allowed to feel rescued.
+- The bank is **razor-sharp fossilized rudist bivalves and platform limestone** — not volcanic rock; `kb/research/geo-flora-fauna.md` §1.2. Small iridescent crabs scatter.
+- **The fieldpack is gone**, and with it his mathematics and the last of the food.
+**Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
+**Ends on:** the horizon, and Benal understanding what the calm is.
 
-### BEAT 11: BREAK INTO THREE
+### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
+**Ladders:** E10 P7 S7 X6
+**They reach Genesis and cannot get in.** Eighty kilometers, nineteen days, everything it cost, and the door does not open.
+**Must carry:**
+- `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
+- She is still hollowed out by the poisoning, and it is her own decision that did it.
+- **The place is not a ruin and not a working facility.** Some of it is open to the sky, some under water, some sealed. `plan/milieu-brief.md` §3.
+**Hazard:** a puzzle scene. They are not solving a lock; they are failing at one while a storm comes back, and the failure is physical and stupid rather than clever.
+**Ends on:** the light going, and the wind returning from the other side.
 
-> **Act 3 is under-scened.** Five scenes for the climax, revelation, return, confrontation and final image, against ten for Act 1 and nineteen for Act 2. See `plan/pacing-and-stakes.md` §5 — beats 12, 13 and 14 each need splitting.
+### D15.3 — [SHORT, ~700] [Day 15, afternoon] [KEO] [The flooded section] — **NEW**
+**Ladders:** E10 P9 S7 X6
+**The back wall arrives and the tail closes over them for eighteen hours.** They get into the only part of Genesis that is open, which is the part that is under water.
+**Must carry:**
+- **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin and eighteen hours of wind off the cyclone's back half. `body-and-resources.md`: write the symptom, never the climate.
+- **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
+- `[?]` The disorientation is stronger here than anywhere, and he is the one who has been having flashes since Day 11.
+**Hazard:** describing the storm. The cyclone is not the subject; three people in a wet dark room for eighteen hours is the subject.
+**Ends on:** full dark, with hours of it left.
 
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Archive, flooded section] — *was 10.1*
+**Ladders:** E10 P7 S9 X7
+**The Dark Night, and the confessions.** The B-story climax: chosen family forged.
+**Must carry:**
+- **Keo's guilt** — *I destroyed my family's lives for nothing.* **Benal's shame** — his parents pity him, and his work is useless. **Keo's connection** — *mine don't pity me, they don't trust me; we're fighting the same battle.* **Teva's bridge** — *I left her while she's disappearing.* Exact material in `plan/outline.md`.
+- **Teva's flash: the original argument inside Genesis**, and the faces are not malicious. Terror, grief, stubborn paralysis. This is the first seed of the nuance arc, and per `kb/worldbuilding/the-second-jump.md` it is a real event she is perceiving, not a symbol.
+- **Benal's flash: a corrupted fragment of the second-jump equation.** He dismisses it as a nightmare and it is the thing he will need in two days.
+**Hazard:** the therapy circle, which is a live risk because the outline supplies the lines. Someone should resist, someone should say the wrong thing first, and Teva's bridge should cost her more than it comforts them.
+**Ends on:** the three of them, and none of it having changed the situation at all.
 
-11.1 [Day 16 - Morning] [BENAL] [Archive (Dry Section)] [AWE & TRIUMPH] - They find a dry, powered section of Genesis and the complete synthesis protocols.
-* **B-Story Note:** **Vindication (Part 1)**. Immediate, physical validation of their journey's purpose. The **Intellectual** triumph of finding the *solution* is a brief, shared high.
+---
 
-### BEAT 12: FINALE (The Revelation)
+### D16.1 — [MEDIUM] [Day 16, morning] [BENAL] [The structure] — **NEW**
+**Ladders:** E7 P6 S6 X7
+**Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
+**Must carry:**
+- **The sense that has been an assault on him for thirteen days is the reason they get inside.** Third and last time the book pays that: the honey on Day 6, the turtle corridor on Day 14, the hatch here.
+- **The world after the storm** — blown out, washed, scoured, brilliant, and the first honest sunlight since Day 10.
+- A functional sealed hatch, which means power, which means something has been running here for two hundred and six years.
+**Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
+**Ends on:** the hatch giving, and the air that comes out of it being dry.
 
-12.1 [Day 17 - Morning] [BENAL] [Temporal Lab] [AWE -> INTELLECTUAL DREAD] - They find the logs of the perfect arrival. Benal connects his equation to the temporal flash, realizing the "Noble Lie" and the "impossible new mission".
-* **B-Story Note:** **Vindication (Part 2)**. The final validation of Benal’s "useless" work. His intellectual ability is now the most important resource, shifting the power dynamic in the trio.
+### D16.2 — [MEDIUM] [Day 16, midday] [TEVA] [The dry section] — **NEW**
+**Ladders:** E5 P4 S6 X7
+**Warm, dry, lit, and they eat for the first time since the raft.** The exhale, and the only one they get.
+**Must carry:**
+- `[?]` **Dry is the luxury, not the food.** Nineteen days of being wet, and the thing that undoes them is a room that is not.
+- **Old-tech everywhere and none of it dissolving**, which is wrong and which nobody has the energy to find wrong yet. `plan/tech-rules.md` flags this as a payoff owed; the answer is that the failsafe is a colony invention and Genesis predates it.
+- Genesis groaning on its own weight — allocated to Day 16.
+**Hazard:** the sanctuary scene. The dryness is not safety; the structure is unstable, the food is two centuries old, and the reader should be uneasy about both while the characters are not.
+**Ends on:** somebody asking what else is in here.
 
-### BEAT 13: THE RETURN (The Heretic's Ride)
+### D16.3 — [MEDIUM] [Day 16, afternoon] [BENAL] [The archive] — *was 11.1*
+**Ladders:** E8 P4 S7 X8
+**The complete synthesis protocols, etched on metal tablets.** Surprise 2 in the budget: the journey was not futile. A relief-shaped surprise landing directly on all-is-lost.
+**Must carry:**
+- **They have solved the thing they came for**, and it is only the middle of Act 3.
+- `[?]` **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and 1.1 and 2.4 are the plants. She can hold it and not be able to read it.
+- **Epigraph 6 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
+**Hazard:** triumph. They have what they came for and they are still on a coral spit with no boat, and the scene should know that before they do.
+**Ends on:** the tablets, and Benal already looking at the next door.
 
-13.1 [Day 19 - Midday] [KEO] [Wig (Return Trip)] [EXTREME (Action / Adrenaline)] - They salvage one flyable wig from two wrecks, guided by the AI Keo wakes. The chase, ending with Keo evading the *Quetzalcoatlus*, and the border-tangle at the very limit of the wig's ceiling. Needs 3-4 scenes; see `kb/worldbuilding/the-wig.md`.
-* **B-Story Note:** **Hubris to Competence / Embrace of Hard Tech**. Keo's action climax: he successfully pilots the forbidden **old-tech** to defeat the monster that broke his confidence, completing his arc and confirming his commitment to the "heretical" way forward.
+---
+
+### D17.1 — [MEDIUM] [Day 17, morning] [TEVA] [The archive] — **NEW**
+**Ladders:** E8 P4 S8 X8
+**The logs of the arrival.** Two hundred people, named, with faces, on the day they got here.
+**Must carry:**
+- **This is where the Traditionalists get their documentary basis** — there really was a mission, real instructions, a real paradox concern. `plan/knowledge-ledger.md`. They are evidenced, not merely pitied.
+- **Teva saw these faces two nights ago** in the flash and did not know they were real.
+- `[?]` The personnel records with faces, and the record of who stayed behind. Both are what Benal needs later, and neither should be pointed at here.
+**Hazard:** an infodump with a POV attached. She is looking for her own ancestors and for Omya's, and what she finds is a stranger's face she already recognizes.
+**Ends on:** a name she knows, spelled the long way.
+
+### D17.2 — [LONG, ~2400] [Day 17, midday] [BENAL] [The temporal lab] — *was 12.1*
+**Ladders:** E9 P4 S8 X10
+**The epiphany, and the largest surprise in the book.** Surprise 3: only the original colonists could ever have gone back. Everyone born here is stranded by birth.
+**Must carry:**
+- **The impossible equation, and Benal stuck on it.** Then a simple frustrated comment from Keo or Teva — *it's like they just left; why couldn't they just go back* — and the epiphany. It is a **return anchor**, not a direction. `plan/outline.md`.
+- **He connects it to his own flash from Day 15** and to the symbol Keo saw on Day 11. The flashes were data.
+- **The second jump.** Another group went further back, and that is what makes the anomalies. He does not learn how far, and the book never says.
+- **Species ladder summit.** `pacing-and-stakes.md` §6 gives this scene the species peak, and it is the only 10 in the column.
+**Hazard:** Benal explaining. The reader should reach it a half-step behind him and not be walked through it; and the frustrated comment must be *frustrated*, not a prompt disguised as dialogue.
+**Ends on:** him saying it out loud, and it being much worse than a lie.
+
+### D17.3 — [MEDIUM] [Day 17, afternoon] [TEVA] [The dry section] — **NEW**
+**Ladders:** E10 P4 S9 X9
+**What it does to six generations**, in the head of the one who came here angry.
+**Must carry:**
+- **Her reaction is *they lied to us*, and it is the emotional truth and it is wrong** — the corruption was drift, not deceit. The nuance arc is the distance between this scene and the confrontation. `plan/outline.md` and `plan/character-arcs.md`.
+- **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
+- `[?]` Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
+**Hazard:** an argument that resolves. Nothing is settled here; the accusation stands unrefuted until Act 3's confrontation, and a scene that answers it now spends the arc.
+**Ends on:** her deciding what she is going to say to the Council, which is the wrong speech and she will not give it.
+
+---
+
+### D18.1 — [MEDIUM] [Day 18, morning] [TEVA] [The bank] — **NEW**
+**Ladders:** E9 P5 S8 X9
+**The impasse. There is no boat, and the way home is under water.**
+**Must carry:**
+- **This pays foreshadow row 16 at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
+- The raft is gone, the mudflats are under the surge, and eighty kilometers of walking is a route that no longer exists.
+- **They have the cure and cannot deliver it**, which is worse than not having it.
+**Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
+**Ends on:** nobody having an idea, and Keo walking off.
+
+### D18.2 — [LONG, ~2000] [Day 18, afternoon] [KEO] [The far end of the site] — **NEW**
+**Ladders:** E7 P5 S8 X9
+**Keo finds something to talk to.** Two derelict wigs and a flight-training system that answers when spoken to.
+**Must carry:**
+- **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, carried, waiting. That is why it is him and not Benal, who is in the lab. `kb/worldbuilding/the-wig.md` §5.
+- **The boy who talks to minds meets a mind that is not alive, and it answers.** He lost Noli at the midpoint and has been alone in his own head since.
+- **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
+- **Two hulls, neither flyable**: the dry one with dead skin and no rotors, the wet one level in shallow water with its array and rotors above the surface.
+- **This is his first act of open heresy** and he does it alone, before anyone can vote on it.
+**Hazard:** the AI as a character with a personality to enjoy. It is equipment. Its warmth should be entirely in Keo's need rather than in its design.
+**Ends on:** him going back to tell them, and not being sure they will let him.
+
+### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [A rock above the anchor cleft] — **NEW**
+**Ladders:** E8 P5 S8 X9
+**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock — **and there is no Genesis on the land behind him.**
+**Must carry:**
+- **The inference chain, in four steps the reader can follow.** He is old, so this is long after arrival. There is no Genesis, and Genesis went up in the first months and is still standing, so this cannot be after arrival. He can only have aged after arrival. Therefore he went backward, alive and working.
+- **Benal recognizes the specific cleft because he was lying face-down on that rock yesterday.**
+- **He does not dig tonight.** `[?]` It is nearly dark, the tide is up, or he simply cannot make himself, and the delay is what puts the capsule in the last hour of Day 19 where the surprise budget wants it.
+**Hazard:** the flash as a vision sequence. It is a perception of a real moment at that place, and it should be as flat and physical as watching a man work.
+**Ends on:** him saying nothing to the others.
+
+---
+
+### D19.1 — [LONG, ~2000] [Day 19, dawn to mid-morning] [KEO] [The two hulls] — *was part of 13.1*
+**Ladders:** E8 P9 S9 X8
+**The salvage. One flyable wig out of two wrecks, guided by a machine his people call an abomination.**
+**Must carry:**
+- **It is a swap, not a fabrication** — take that off that one, put it on this one. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable.
+- **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their raft. All three have different work.
+- `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now and none of them says so.
+**Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.
+**Ends on:** the rotors seated, and the charge indicator being the new problem.
+
+### D19.2 — [SHORT, ~700] [Day 19, late morning] [BENAL] [The anchor cleft] — **NEW**
+**Ladders:** E9 P8 S8 X9
+**He digs, and there is something there.** Surprise 4 in the budget, and it opens book 2 rather than closing book 1.
+**Must carry:**
+- **It proves the second jump happened and it explains nothing.** `plan/knowledge-ledger.md` requires the reader to end knowing less than they want; a capsule that supplies the physics would also retroactively do Benal's work for him two days early.
+- **There is no time.** The charge is short, the light is finite, and the others are shouting at him.
+- `[?]` He takes it and does not open it. **What it is stays unresolved to the end of the book.**
+**Hazard:** opening it. Also: making the reader feel cheated rather than owed — the scene has to establish that it *will* be opened, just not here.
+**Ends on:** him running, with it under his arm.
+
+### D19.3 — [MEDIUM] [Day 19, noon] [KEO] [The wig] — **NEW**
+**Ladders:** E8 P8 S9 X8
+**The launch, undercharged.**
+**Must carry:**
+- **The range is a full charge and not a meter more, and eighty kilometers is exactly the distance home.** They leave without a full one, because charging takes hours they cannot make themselves wait. **Every decision after this is spent out of margin they chose not to have.** `kb/worldbuilding/the-wig.md` §7.
+- **Three jobs, three people, nobody a passenger.** Keo flies because the training system trains him. Teva navigates and gets back, in a form that matters more, what she lost offshore. Benal is behind with the salvage doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
+- **Clear and hot, high hard light all the way home.** No weather to hide behind, and that is the price of the heresy.
+**Hazard:** the triumphant takeoff. They are frightened, the machine is two centuries old, and the first minute should feel like a mistake.
+**Ends on:** the water going under them, and the coast coming up.
+
+---
+
+> **Day 19 continues past Genesis and is not yet rebuilt:** the chase, the landing on the river, the handover, the confrontation, fact B failing, and the final image with the coda. Roughly five more scenes against the eight `pacing-and-stakes.md` §5 proposes for the day.
 
 ### BEAT 14: THE CONFRONTATION
 
