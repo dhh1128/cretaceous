@@ -1,5 +1,5 @@
 ---
-approval: approved
+approval: approved 54b2287a
 ---
 
 # **PALEOECOLOGICAL REPORT: YUCATAN PLATFORM, LATE MAASTRICHTIAN (ca. 66.0005 Mya)**

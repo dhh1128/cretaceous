@@ -1,5 +1,5 @@
 ---
-approval: approved
+approval: approved 79c87a65
 ---
 
 # Character register

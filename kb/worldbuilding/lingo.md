@@ -1,5 +1,5 @@
 ---
-approval: approved
+approval: approved ee675d57
 ---
 
 # Drifted vocabulary — Cretaceous Colony English

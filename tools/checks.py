@@ -22,6 +22,7 @@ already been damaged by their opposites:
 from __future__ import annotations
 
 import datetime as _dt
+import hashlib
 import re
 import subprocess
 from dataclasses import dataclass
@@ -245,7 +246,19 @@ def check_section_refs() -> list[Violation]:
     return out
 
 
-FRONTMATTER = re.compile(r"^approval: (unapproved|provisional|approved)$")
+FRONTMATTER = re.compile(r"^approval: (unapproved|(?:provisional|approved) [0-9a-f]{8})$")
+
+
+def body_hash(text: str) -> str:
+    """Eight hex characters over the body, ignoring the frontmatter and trailing space.
+
+    The marker carries this instead of a date. A date had day granularity, which this
+    corpus defeats routinely, and it had to be typed and bumped by hand. A hash is
+    written by tooling, is exact, survives any reformat of the frontmatter, and makes
+    staleness a comparison rather than an argument about commit ordering. Re-approval
+    is expressible, which a bare `approved` marker could not do: approved-to-approved
+    is a no-op and git cannot see it."""
+    return hashlib.sha256(_body(text).encode("utf-8")).hexdigest()[:8]
 
 
 def _commit_time(*args: str) -> int | None:
@@ -255,17 +268,51 @@ def _commit_time(*args: str) -> int | None:
     return int(out[0]) if out and out[0].strip().isdigit() else None
 
 
-def approval_dates() -> dict[str, tuple[str | None, str | None]]:
-    """path -> (when the marker last changed, when the file last changed), as dates.
-    Derived from git, because approval is a property of contents at a moment and git
-    is already the ledger of moments. Nobody types a date and nobody bumps one."""
-    out = {}
-    for path in corpus():
-        marker = _commit_time(f"-L2,2:{path}")
-        content = _commit_time("--", path)
-        fmt = lambda t: _dt.date.fromtimestamp(t).isoformat() if t else None
-        out[path] = (fmt(marker), fmt(content))
-    return out
+def _marker_value(line: str) -> str:
+    """The marker's meaning, with formatting and any legacy date stripped off."""
+    m = re.match(r"^approval:\s*(approved|provisional|unapproved)\b", line.strip())
+    return m.group(1) if m else ""
+
+
+def _body(text: str) -> str:
+    """Everything after the frontmatter block, normalized for trailing whitespace."""
+    lines = text.splitlines()
+    if lines and lines[0].strip() == "---":
+        for i in range(1, min(len(lines), 8)):
+            if lines[i].strip() == "---":
+                lines = lines[i + 1:]
+                break
+    return "\n".join(l.rstrip() for l in lines).strip()
+
+
+@cache
+def _marker_set_at(path: str) -> tuple[int, str] | None:
+    """When the marker last *changed meaning*, as a timestamp.
+
+    Deliberately not "when line 2 last changed". Migrating every marker from
+    `approved 2026-09-10` to `approved` touched line 2 of every file in the corpus,
+    and a line-based answer would have read that reformat as a fresh approval --
+    silently re-approving three files that were known to be stale. A check a
+    formatting pass can defeat is not a check."""
+    out = subprocess.run(
+        ["git", "-C", str(ROOT), "log", "--format=%x00%ct %H", f"-L2,2:{path}"],
+        capture_output=True, text=True).stdout
+    for block in out.split("\0"):
+        lines = block.splitlines()
+        head = lines[0].split() if lines else []
+        if len(head) != 2 or not head[0].isdigit():
+            continue
+        when = (int(head[0]), head[1])
+        # Only the hunk body counts: "--- a/path" and "+++ b/path" are headers, not content.
+        try:
+            body = lines[lines.index(next(l for l in lines if l.startswith("@@"))) + 1:]
+        except StopIteration:
+            continue
+        before = [_marker_value(l[1:]) for l in body if l.startswith("-")]
+        after = [_marker_value(l[1:]) for l in body if l.startswith("+")]
+        if (before[0] if before else "") != (after[0] if after else ""):
+            return when          # newest commit where the meaning actually moved
+    return None
 
 
 def check_frontmatter() -> list[Violation]:
@@ -281,26 +328,18 @@ def check_frontmatter() -> list[Violation]:
 
 
 def check_approval_not_stale() -> list[Violation]:
-    """A file edited after its marker was last set has changed since Daniel read it.
-
-    Derived from git rather than from a date in the file. Commit granularity beats
-    day granularity, and the difference is not academic: on 2026-09-10 this corpus
-    was written, approved and committed inside one day, so a date-based check
-    reported clean while README and five files contradicted each other.
-
-    Uncommitted edits are invisible here, as they were before. The other checks run
-    against the working tree, so they see them."""
+    """A file whose body no longer hashes to what its marker records has changed
+    since Daniel read it. No git, no dates, and uncommitted edits are visible."""
     out = []
     for path, lines in corpus().items():
-        if len(lines) < 2 or not re.match(r"^approval: (approved|provisional)$", lines[1]):
+        if len(lines) < 2:
             continue
-        marker = _commit_time(f"-L2,2:{path}")
-        content = _commit_time("--", path)
-        if marker is None or content is None:
-            continue                      # never committed; nothing to compare
-        if content > marker:
-            when = _dt.date.fromtimestamp(content).isoformat()
-            out.append(Violation(path, 2, f"edited on {when}, after the approval marker was last set"))
+        m = re.match(r"^approval: (?:approved|provisional) ([0-9a-f]{8})$", lines[1])
+        if not m:
+            continue
+        now = body_hash((ROOT / path).read_text(encoding="utf-8"))
+        if now != m.group(1):
+            out.append(Violation(path, 2, f"body is {now}; the marker records {m.group(1)}"))
     return out
 
 

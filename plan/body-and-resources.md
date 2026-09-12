@@ -1,5 +1,5 @@
 ---
-approval: approved
+approval: approved 643868e3
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace

@@ -1,5 +1,5 @@
 ---
-approval: approved
+approval: approved 3ece5aef
 ---
 
 # Style canon

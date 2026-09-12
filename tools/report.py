@@ -45,7 +45,7 @@ def main(argv: list[str]) -> int:
             print(f"| `{v.file}:{v.line}` | {v.message} |")
         print()
 
-    from checks import approval_dates, check_approval_not_stale, rules
+    from checks import check_approval_not_stale, rules
     if rules():
         print("## rules\n")
         print("Ratified rules are enforced by the suite. Proposed rules are listed with what they "
@@ -57,20 +57,20 @@ def main(argv: list[str]) -> int:
             print(f"- {r.render()} — {caught} — `{r.file}:{r.line}`")
         print()
 
-    marked = {p: d for p, d in approval_dates().items()
-              if len(CORPUS.get(p, [])) > 1 and CORPUS[p][1] != "approval: unapproved"}
+    stale = {v.file for v in check_approval_not_stale()}
+    marked = [p for p in sorted(CORPUS)
+              if len(CORPUS[p]) > 1 and CORPUS[p][1].startswith("approval: ")
+              and CORPUS[p][1] != "approval: unapproved"]
     if marked:
         print("## approval\n")
-        print("Markers carry no dates; these are derived from git — when the marker was last "
-              "set, and when the file was last touched. See `AGENTS.md` §2.\n")
-        stale = {v.file for v in check_approval_not_stale()}
-        print("| file | marker | set | last edited |")
-        print("|---|---|---|---|")
-        for path in sorted(marked):
-            state = CORPUS[path][1].removeprefix("approval: ")
-            set_on, edited = marked[path]
-            flag = " ⚠ edited since" if path in stale else ""
-            print(f"| `{path}` | {state} | {set_on or '—'} | {edited or '—'}{flag} |")
+        print("Markers carry a hash of the body, not a date — see `AGENTS.md` §2. A file whose "
+              "body no longer hashes to its marker has changed since he read it. "
+              "`python3 tools/approve.py --list` is the same table; `approve.py <file>` re-stamps one.\n")
+        print("| file | marker | changed since approval |")
+        print("|---|---|---|")
+        for path in marked:
+            print(f"| `{path}` | {CORPUS[path][1].removeprefix('approval: ')} | "
+                  f"{'**yes**' if path in stale else 'no'} |")
         print()
 
     return 1 if total else 0

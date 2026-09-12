@@ -29,20 +29,20 @@ So:
 
 ```
 ---
-approval: approved
+approval: approved 3f9c1a2b
 ---
 ```
 
-Three values, and nothing else. `approved` — Daniel said yes to these contents. `provisional` — he accepted it weakly, live enough to build on and cheap to revisit. `unapproved` — nobody asked, or he has not answered. **`unapproved` is the default.**
+Three values, and nothing else. `approved <hash>` — Daniel said yes to exactly these contents. `provisional <hash>` — he accepted them weakly, live enough to build on and cheap to revisit. `unapproved` — nobody asked, or he has not answered. **`unapproved` is the default and carries no hash.**
 
-**No dates. Git already keeps them.** Approval is a property of contents at a moment, and the moment is the commit that last set the marker. A file touched by any commit after that one has changed since he looked at it. Nobody types a date, nobody bumps one, and nothing is off by a day:
+**The hash is eight hex characters over the file's body, ignoring the frontmatter, and no human writes it.** `python3 tools/approve.py <file>` stamps it. A file whose body no longer hashes to its marker has changed since he read it, and that is a comparison rather than an argument:
 
 ```
-uv run --with pytest pytest tools/ -k approved   # the check
-python3 tools/report.py                          # every marker with its derived date
+python3 tools/approve.py --list                  # every marker, and what is stale
+uv run --with pytest pytest tools/ -k approved   # the same thing, as a test
 ```
 
-**Commit granularity is not a refinement on a hand-written date, it is the whole check.** A date has day granularity and this project works in bursts inside a day. The corpus was written, approved and committed between one morning and one midnight, and a date-based check reported perfectly clean while three approved files had been edited in a *later commit* than the one that approved them — `names.md`, `safety-suits.md` and `humour-plan.md`, found the hour the dates came out.
+**Why not a date.** A date has day granularity, and this project works in bursts inside a day: the corpus was written, approved and committed between one morning and one midnight, so a date-based check reported perfectly clean while eleven approved files had been edited after the commit that approved them. A date also has to be typed and bumped by hand, which is work that buys nothing. And a bare `approved` with no date at all cannot express re-approval, because approved-to-approved is a no-op that git cannot see. A hash fixes all three: exact, machine-written, and it notices uncommitted edits, which nothing based on commit history can.
 
 **Sub-file granularity is one token: `[?]`.** It goes at the front of whatever it marks — a paragraph, a bullet, a table cell — and means *this specific thing is not covered by the file's approval*. `[~]` for provisional-within-approved. Anything unmarked inherits the frontmatter, so an approved file reads clean and only the exceptions carry ink.
 
