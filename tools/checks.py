@@ -155,16 +155,22 @@ def day_range() -> tuple[int, int]:
 
 
 @cache
-def british_words() -> list[str]:
-    """The US-English blacklist, read out of the grep command in AGENTS.md section 5."""
-    text = "\n".join(lines_of("AGENTS.md"))
-    m = re.search(r"grep -InE '\\b\((.*?)\)\\b'", text)
-    words = set(m.group(1).split("|")) if m else set()
-    # Found in the corpus and not yet in AGENTS.md section 5. These belong there,
-    # not here -- see tools/README.md, "the one place this file cheats".
-    words |= {"armoured", "synthesised", "energised", "micrometres", "cruellest",
-              "kilometres", "metres", "travelling", "marvellous", "sceptical"}
-    return sorted(words)
+def british_spellings() -> dict[str, str]:
+    """British -> American, from tools/british-english.txt. 1,818 pairs, vendored.
+
+    This replaced a hand-written list of 25 words in AGENTS.md §5. That list caught
+    recurrences and nothing else: every word on it was there because someone had
+    already made the mistake, which is why `plan/humour-plan.md` sat in the tree for
+    days. A real difference list catches a first occurrence.
+    """
+    pairs, allowed = {}, set()
+    for line in (ROOT / "tools" / "british-english.txt").read_text(encoding="utf-8").splitlines():
+        if line.startswith("!"):
+            allowed.add(line[1:].split()[0].lower())
+        elif line and not line.startswith("#") and "\t" in line:
+            b, a = line.split("\t", 1)
+            pairs[b.lower()] = a.strip()
+    return {b: a for b, a in pairs.items() if b not in allowed}
 
 
 # --------------------------------------------------------------------------
@@ -373,14 +379,23 @@ def check_approval_stated_once() -> list[Violation]:
 
 
 def check_us_english() -> list[Violation]:
-    """US English everywhere (AGENTS.md section 5). The word list is read from AGENTS.md."""
-    pattern = re.compile(rf"\b({'|'.join(british_words())})\b", re.I)
+    """US English everywhere, in prose and in filenames (AGENTS.md §5)."""
+    spellings = british_spellings()
+    pattern = re.compile(rf"\b({'|'.join(sorted(spellings, key=len, reverse=True))})\b", re.I)
     out = []
+    # Filenames count. `plan/humour-plan.md` survived for days because this check only
+    # ever read line content, and nothing in the suite looked at a path.
+    for path in corpus():
+        for m in pattern.finditer(Path(path).name.replace("-", " ")):
+            out.append(Violation(path, 1, f"British spelling in the filename: "
+                                          f"{m.group(0)!r} → {spellings[m.group(0).lower()]!r}"))
     for path, n, line in iter_lines():
-        if path == "AGENTS.md":
-            continue              # the file that defines the list quotes every word in it
+        # A blockquote is a verbatim quotation -- prompts/style-canon.md is built from
+        # passages of Daniel's own novels. Correcting one would falsify the source.
+        if line.lstrip().startswith(">"):
+            continue
         for m in pattern.finditer(line):
-            out.append(Violation(path, n, f"British spelling {m.group(0)!r}"))
+            out.append(Violation(path, n, f"{m.group(0)!r} → {spellings[m.group(0).lower()]!r}"))
     return out
 
 

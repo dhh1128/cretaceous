@@ -4,7 +4,7 @@ approval: unapproved
 
 # Open questions
 
-2026-09-10. `milieu-brief-0.6.md:495-598` carried 48 numbered open questions. `milieu-brief.md` v1.0 §11 carries 12, on the stated grounds that the rest were "long since answered by `outline-v10.md` and `scene-list-v4.md` and never crossed off."
+Thirty-six questions were removed from an earlier list on the grounds that they had been answered elsewhere and never crossed off. Daniel did not approve that cut. **A removal is not an answer**, and twelve of them are restored below.
 
 Daniel did not approve that cut, and on reviewing the list ruled:
 
@@ -62,7 +62,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 | N2 *(#19)* | **Major character moments** — the specific scenes that define each arc | the scene list's per-scene assignments |
 | N3 *(#23)* | **Character fears and demons** — what each is most afraid of, what trauma shapes them, what each must overcome internally | `character-arcs.md` §2, the entire wants/believes/fears/hides table for all three, at every beat |
 | N4 *(#32)* | **Immediate aftermath.** Belief or skepticism? Political fallout? Heroes or criminals? | 14.1, 15.1 |
-| N5 *(#35)* | **Personal futures.** What roles do the three play going forward? | the sequel arcs in `outline-v10.md` |
+| N5 *(#35)* | **Personal futures.** What roles do the three play going forward? | the sequel arcs in `outline.md` |
 
 ### Open, and living in the wrong file
 
@@ -86,7 +86,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 
 ### Genuinely answered, with a place to check
 
-0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline-v10.md` beat 3 in November), **10** (how they leave → 4.1–4.3), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the raft), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → 2.4), **24** (Noli's death → 7.2), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
+0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline.md` beat 3), **10** (how they leave → 4.1–4.3), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the raft), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → 2.4), **24** (Noli's death → 7.2), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
 
 **Twenty of forty-eight.** Not thirty-six.
 
@@ -98,10 +98,10 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 
 ## 3. Two of the restored questions are worth noticing now
 
-**R8 — mental projection biology — is the question partitioning was invented to answer.** It was open. Nobody asked. A cognitive architecture appeared in `content/2.md` on 2025-11-16, became the canon mechanic, and the question then left the list — so the invention now reads as settled rather than as a hole somebody filled. Restoring R8 and rejecting partitioning are the same act.
+**R8 — mental projection biology — is the question partitioning was invented to answer.** It was open. Nobody asked. A cognitive architecture appeared in drafted scene prose, became the canon mechanic, and the question then left the list — so the invention now reads as settled rather than as a hole somebody filled. Restoring R8 and rejecting partitioning are the same act.
 
 **R9 — offshore navigation — is load-bearing and unanswered.** `character-arcs.md:18` builds Teva's de-escalation on "offshore, a magnetic sense is worth nothing," which is a strong beat and also leaves nobody in the book with a way to find a coral bank five to eight kilometers out. That is a hole in Act 2's endgame, not a detail.
 
 ## 4. And N1/N3 are larger than they look
 
-`character-arcs.md` is one of the thirteen layers created today. Daniel's approval covers "the character arcs" as they stood in 0.6 — which is a single **Arc:** line per character, three sentences each. The wants/believes/fears/hides tables at every beat, the three-dyad temperature chart, the de-escalation requirement, and the whole romance architecture are new, and N1 and N3 say the two questions underneath them were never put to him.
+What Daniel gave for `character-arcs.md` is a single **Arc:** line per character, three sentences each. The wants/believes/fears/hides tables at every day, the three-dyad temperature chart, the de-escalation requirement and the whole romance architecture are extrapolation on top of it, and N1 and N3 say the two questions underneath them were never put to him.

@@ -1,5 +1,5 @@
 ---
-approval: approved 6c16d626
+approval: approved 11097f14
 ---
 
 # AI tells — the blacklist
@@ -74,7 +74,7 @@ approval: approved 6c16d626
 
 **Rule.** A callback needs enough of the original on the page to be recognized, and the two he rejected were each carrying more weight than their setup could bear. In map terms this is a `[requires]` pointing at something too thin. How much setup is enough is a judgment; that there was not enough here is not.
 
-## 9. Redundant emotional labelling
+## 9. Redundant emotional labeling
 
 > I think "with the insult settling into him" is overkill. We can tell that he feels insulted because we said "That made it worse" just above. Plus it's redundant with "wanted the suit more fiercely", which comes after and is better.
 

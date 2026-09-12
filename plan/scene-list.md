@@ -6,14 +6,14 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**This file needs rewriting.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right. Formerly `scene-list-v4.md`.)*
+**This file needs rewriting.** It contains **38** scenes against the 60-scene proposal in `pacing-and-stakes.md` §4, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. Days 6, 7, 8, 9, 12, 13, 17 and 18 of the journey have no scenes at all. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
 
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
 
 ## ACT 1: THE FAILING WORLD (Beats 1-4) — RESCENED, 14 scenes
 
-*Rescened 2026-09-07 against `plan/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
+*Act 1 is rescened against `plan/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
 
 Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §5. **Plants** are entries in `knowledge-ledger.md`, whose rows N–S carry the misjudgment ledger.
 
@@ -37,7 +37,7 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 
 **Job:** three at once. It gives the reader the Enclave as a place rather than a chamber. It puts the first rung on the social ladder — a community that failed in public and is now performing its most solemn ritual over the consequence. And it establishes the returning before the mudwalk, so that **Keo's unsuited body is legible as a risk** at 4.2 and every day thereafter.
 **Also:** Teva has watched this before, for her mother, and the reader should feel that without being told.
-**Note:** somewhere in the village, before or after, life is going on — food cooking, **someone laughing.** The laughter she hears and does not join is the first statement of her comic scarcity (`humour-plan.md`). Do not have her react to it.
+**Note:** somewhere in the village, before or after, life is going on — food cooking, **someone laughing.** The laughter she hears and does not join is the first statement of her comic scarcity (`humor-plan.md`). Do not have her react to it.
 **Ends on:** she doesn't go home.
 
 ---
@@ -57,7 +57,7 @@ Benal's mathematics. Marek's *"do something real."*
 **Ladders:** E5 P1 S4 X3
 **Keo with Joram and Riel, awake, talking.** The morning after a child died. Currently his parents never speak to him anywhere in the book, which is why the parent-nuance arc has nothing under it.
 **Must carry:**
-- **Yara**, the dead sister. **Her name is said once, here** (decision, 2026-09-09) — the reader gets that she existed, plainly, and that is all. What stays unsaid is *how* she died: the croc, the water, the parents watching. That lands later. The scene's own instrument for her is one small thing Riel does — the fourth water gourd, filled for three people, never remarked on (`foreshadow-and-motif.md` #11).
+- **Yara**, the dead sister. **Her name is said once, here** — the reader gets that she existed, plainly, and that is all. What stays unsaid is *how* she died: the croc, the water, the parents watching. That lands later. The scene's own instrument for her is one small thing Riel does — the fourth water gourd, filled for three people, never remarked on (`foreshadow-and-motif.md` #11).
 - The protectiveness Keo reads as distrust, rendered so the reader can read it as grief.
 - Their competence. They are Explorers; Hesh's numbers are *their* numbers, and they know exactly what is out there.
 - **Charm.** This is a family that loves each other and has jokes. The reader has to want it back.

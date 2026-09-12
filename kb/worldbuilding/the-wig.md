@@ -1,5 +1,5 @@
 ---
-approval: approved 1f3f6081
+approval: approved 08cc2798
 ---
 
 # The wig
@@ -16,7 +16,7 @@ approval: approved 1f3f6081
 
 ## 2. What it is
 
-Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** — *"certified to temporarily increase its altitude to a limited height outside the influence of ground effect."* That regulatory category exists and it is built around exactly this problem. The nearest modern analogue for scale and appearance is the **AirFish 8**.
+Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** — *"certified to temporarily increase its altitude to a limited height outside the influence of ground effect."* That regulatory category exists and it is built around exactly this problem. The nearest modern analog for scale and appearance is the **AirFish 8**.
 
 **Form.** A wide, flat-bottomed hull like a shallow-draft powerboat. Low on either side, **stubby wings — very short, very wide, almost fins**, sitting close to the surface. At the back a **tall tail with the horizontal stabilizer mounted high**, which is not styling: a straight-wing GEV needs its horizontal surface up out of the disturbed air near the water. **The tall tail is the visual signature.**
 

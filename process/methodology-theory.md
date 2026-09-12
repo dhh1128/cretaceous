@@ -21,7 +21,7 @@ Every claim below carries a status:
 
 ## 1. The problem
 
-A novel of this kind gets planned in layers: plot, scene list, character arcs, milieu, humour, foreshadowing, knowledge, pacing, voice. Cretaceous has fourteen such files against roughly 10,000 words of prose.
+A novel of this kind gets planned in layers: plot, scene list, character arcs, milieu, humor, foreshadowing, knowledge, pacing, voice. Cretaceous has fourteen such files against roughly 10,000 words of prose.
 
 Each layer allocates something *per scene*. None of them can say **where inside the scene** it goes, and the ordering is often the whole difference between a plant and an infodump. So at drafting time the writer opens eight files and hopes.
 
@@ -38,7 +38,7 @@ Two independent routes, one destructive and one constructive, above.
 If each scene map states an entry state and an exit delta, then *exit state of scene N must equal entry state of scene N+1* is mechanical. Blind maps did surface real defects this way: one flagged that ~20% of a scene is description that is never used, and that a scene's stated emotional target has "no move that alters it." Not yet run as a full-novel sweep.
 
 **C3. If state is explicit, drafting need not be sequential. — Untested.**
-Shingled drafting exists to carry continuity across chunk boundaries by dragging prose context forward. The only thing the overlap transmits is state. Make state explicit and any scene can be drafted from its own map plus its neighbors' state blocks — in any order, in parallel, and re-draftable in isolation. This is the live disagreement with `process-design-v2.md` §7 and the most valuable untested claim here.
+Shingled drafting exists to carry continuity across chunk boundaries by dragging prose context forward. The only thing the overlap transmits is state. Make state explicit and any scene can be drafted from its own map plus its neighbors' state blocks — in any order, in parallel, and re-draftable in isolation. This is the most valuable untested claim here, and the live disagreement is whether a scene can be drafted from its own map plus its neighbors' end-states, or whether prose context has to be dragged forward.
 
 **C4. Description and generation are separate properties of a schema field. — Supported.**
 `[refused]` — a character declining to answer something on the page — is useless as a descriptive discriminator: its density measures the mapper, not the scene, and it reverses between model lineages. As an *instruction* it is the strongest field tested. Three writers from three model families, given a move reading `Neither man answers. [refused]`, all produced the refusal, none explained it, and all closed on the same wordless action. **Evaluate every field twice and cut only what fails both.**

@@ -1,5 +1,5 @@
 ---
-approval: approved 45a4bfa6
+approval: approved e14b3c30
 ---
 
 # Voice sheets
@@ -21,7 +21,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 | | speech is for | shape |
 |---|---|---|
 | **Keo** | moving people | asks, protests, instructs. He keeps an exchange alive |
-| **Teva** | closing exchanges, and opening other people | two words, or a marshalled paragraph. Nothing between |
+| **Teva** | closing exchanges, and opening other people | two words, or a marshaled paragraph. Nothing between |
 | **Benal** | explaining | the longest sentences and the only subordinate clauses |
 
 ---
@@ -33,7 +33,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 **The trajectory, and it is his arc in miniature.** The instructing register is the verbal form of his hubris, so it breaks where the hubris breaks.
 
 - **Days 1–10, defended.** Imperatives, often stacked. Answers directly and too fast. Never asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
-- **Day 11, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humour-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
+- **Day 11, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humor-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
 - **Days 12–19, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 19, and doing what it says.
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
@@ -84,9 +84,9 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 *Possibly* measures **what he is willing to claim**, which is his whole arc, so it is an instrument rather than a name tag. Three things follow from it:
 
-- **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave the Enclave (`humour-plan.md`).
+- **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave the Enclave (`humor-plan.md`).
 - **It never vanishes**, unlike the stammer — which is the point. The stammer measures fear and disappears when he is on his own subject; the hedge measures certainty and stays. **So at Genesis he can be terrified and certain at once** — stammering while declining, for the only time, to say *possibly*. That is the single place its absence does the work, and nobody remarks on it.
-- **It helps kill him at the confrontation.** `knowledge-ledger.md` has fact B failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. If the most important sentence in the novel comes out as *the upgrades are possibly the cure*, his own habit is complicit in his defeat. **This is also the in-joke that stops being funny** — the thing `humour-plan.md` asks for and nothing else in the plan supplies. Nobody points at it.
+- **It helps kill him at the confrontation.** `knowledge-ledger.md` has fact B failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. If the most important sentence in the novel comes out as *the upgrades are possibly the cure*, his own habit is complicit in his defeat. **This is also the in-joke that stops being funny** — the thing `humor-plan.md` asks for and nothing else in the plan supplies. Nobody points at it.
 
 **The tell, and it is real.** He stammers when frightened — *"I… I heard you. I was… waiting."* **[drafted]** — and **the stammer vanishes the moment he is on his own subject**: *"It's temporal anchoring. It's drift mechanics. It's the reason our ancestors couldn't just jump back."* **[drafted]** Fluency is the signal that he has stopped being afraid, and it is the fastest way to show him growing.
 
@@ -98,7 +98,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **Answers** with data, and with rhetorical questions that are really arguments — *"Will you use your magnetic sense to navigate a command prompt?"* **[drafted]**
 
-**Funny about** death, immediately, in the flattest possible register, and **he does not know he is being funny.** The calibration point is *"Sky or ground. Pick your death."* **[designed]**. He carries the book's comic register; see `humour-plan.md`.
+**Funny about** death, immediately, in the flattest possible register, and **he does not know he is being funny.** The calibration point is *"Sky or ground. Pick your death."* **[designed]**. He carries the book's comic register; see `humor-plan.md`.
 
 ---
 

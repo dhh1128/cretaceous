@@ -1,5 +1,5 @@
 ---
-approval: approved 83e3a89c
+approval: approved bab547ea
 ---
 
 # Style canon
@@ -405,7 +405,7 @@ Naming it licenses forty lines of backstory without the scene reading as a file 
 
 Three people who nearly died yesterday spend their first waking minute on urination, aftertaste and a stiff back. Nobody reflects on the situation.
 
-## 14. Humour
+## 14. Humor
 
 **[bits, not quips — comic business others can watch]** `cordimancy.md:1908`
 > He pulled a chunk of sizzling meat off the spit, seemed to notice just how hot it was, and began tossing it back and forth, blowing frantically on his fingertips. [...] Paka offered his wife the prize. "First bite, sweetheart?" he said, with as much dignity as he could muster.
@@ -465,7 +465,7 @@ He explicitly waits for a response and the text gives him a gesture. **Refusing 
 >
 > Chen cocked her head sideways and smiled a melancholy little smile at her feet.
 
-A rejection, an explanation and an apology compressed into a two-word lie about the weather — and she hears every layer, signalled by a smile and no dialogue. **He comes back and sits down; the refusal is not an exit.**
+A rejection, an explanation and an apology compressed into a two-word lie about the weather — and she hears every layer, signaled by a smile and no dialogue. **He comes back and sits down; the refusal is not an exit.**
 
 **[reconciliation delivered as inventory]** `cordimancy.md:2266`
 > The sheepskin was spread on a knee-deep bed of dry needles. When she pulled it back, the aroma of toasted spruce tickled her nose. Two melon-sized stones nestled in the piles of padding, still radiating heat from the fire. Atop one lay a pair of clean, dry footwraps.
@@ -546,7 +546,7 @@ The character asks and gets a reply about **naming policy**, not about the anima
 
 **Subtext gets stated.** Asked for a conspiracy, a model writes characters referencing the crime; viking transacts a murder via a seating chart and a good wish. Asked for a proposition and a refusal, a model has someone say what is being offered.
 
-**Humour fails in four specific ways.** A model writes jokes everyone enjoys — his land on someone or fail outright. A model gives comic lines to likeable characters — he gives the best timing to the bully and to the dying old man. A model writes quips — he writes *bits*, business other characters can watch. And a model lets the comedian win his own exchange, where the deadpan straight man always tops him.
+**Humor fails in four specific ways.** A model writes jokes everyone enjoys — his land on someone or fail outright. A model gives comic lines to likable characters — he gives the best timing to the bully and to the dying old man. A model writes quips — he writes *bits*, business other characters can watch. And a model lets the comedian win his own exchange, where the deadpan straight man always tops him.
 
 **Stillness gets filled with exposition or lyricism.** He fills it with hands. Someone is always whittling, tossing a stick, rubbing fern into swollen ankles. The task supplies the beats and the silences; remove it and the scene becomes people taking turns delivering backstory into a void.
 

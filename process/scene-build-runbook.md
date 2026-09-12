@@ -30,16 +30,16 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 |---|---|
 | `scene-list.md` | the scene's entry: size, day, POV, location, ladders, what it must carry, what it ends on |
 | `outline.md` | the beat of the fifteen-beat structure this sits in |
-| `act-N-context.md` | act-level job, misjudgment ledger, loadouts |
+| `body-and-resources.md` | the loadout at departure, and the physical state this scene inherits |
 | `pacing-and-stakes.md` | the four ladders and this scene's rung on each |
 | `character-arcs.md` | what each character wants, believes, fears and hides at this point |
 | `voice-sheets.md` | per-character speech shape, and **what each never says** |
 | `knowledge-ledger.md` | which facts are known to whom here; which rows this scene pays |
 | `foreshadow-and-motif.md` | plants and payoffs landing here |
-| `humour-plan.md` | comic allocation |
+| `humor-plan.md` | comic allocation |
 | `milieu-allocation.md` | which sensory material is budgeted here, and which is spent elsewhere |
 | `milieu-brief.md` | world facts the scene touches |
-| `world-bible.md`, `kb/worldbuilding/*` | everything else about the world |
+| `kb/worldbuilding/*` | everything else about the world |
 | `minor-characters.md` | cast, names, ages, established facts |
 | `tech-rules.md` | how the technology behaves — **and check its audit table for a gap assigned to this scene.** A capability taught here for the first time, cost-free, is an obligation, not a suggestion: 2.3 owes accelerated healing and its price, 2.5 owes croc vibration sensing, 4.3 owes suit thermal management and suit feeding. A scene that skips its teaching leaves a later scene exploiting a capability the reader has never seen |
 | `body-and-resources.md`, `journey-calendar.md` | physical state, food, water, weather, time of day |

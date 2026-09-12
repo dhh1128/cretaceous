@@ -1,5 +1,5 @@
 ---
-approval: approved 0797f12c
+approval: approved 427e1ffa
 ---
 
 # Character arcs and intimacy
@@ -75,7 +75,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 |---|---|---|---|---|
 | **2** | Marek to look at his work | his mind is worth something and his body is not | being pitied | how much the pity hurts |
 | **2, evening** | to be needed | he is the key and they are the delivery system | the outside, concretely and in detail | that he is terrified |
-| **3–5** | to not be a burden | his body will kill them all | dying stupidly | the humour is the hiding |
+| **3–5** | to not be a burden | his body will kill them all | dying stupidly | the humor is the hiding |
 | **6** | to belong here | maybe he can do this | — | less than usual. **The good day is where he relaxes** |
 | **10–11** | to be useful | — | uselessness | **the dead capacitor.** He tells nobody |
 | **12–15** | to keep watch | his suffering is the price of being carried | being right too late | that he is the only one who understands the maths |

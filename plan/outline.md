@@ -1,12 +1,11 @@
 ---
-approval: approved 34ba9891
+approval: approved 1b9d9b71
 ---
 
 # Cretaceous — Outline
 
 The fifteen-beat structure, with the core rationale behind each decision, plus the two structural devices: **Archival Fragments** (the epigraph channel) and **Temporal Flashes** (backstory delivered as present-tense events rather than memory).
 
-*Formerly `outline-v10.md`.*
 
 Structural Device: Archival Fragments (Modern Day News)
 

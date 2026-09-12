@@ -1,5 +1,5 @@
 ---
-approval: approved c9d23a4b
+approval: approved f0c7b5c3
 ---
 
 # Environmental suits
@@ -100,6 +100,6 @@ Retained because the reasoning behind the spec is worth having when a scene test
 
 **Why the weave is layered.** Carbon nanotube fiber has extraordinary *tensile* strength, which does not transfer to puncture resistance. Woven fabrics have gaps; a sharp point can slip between fibers without breaking any of them, which is why even Kevlar stops bullets and not ice picks. Three offset layers misalign the gaps, the laminated graphene film has no gaps at all, and the shear-thickening impregnation stiffens under rapid load. That combination is what turns "strong" into "puncture-resistant."
 
-**Why armor doesn't save you.** A 30 kg theropod bites with perhaps 500–1000 N concentrated on a few square millimetres of tooth point — on the order of tens of megapascals against flesh. The fabric distributes force rather than eliminating it, exactly like a ballistic vest: the projectile stops and the ribs still break. Against multi-tonne bite force the question is academic.
+**Why armor doesn't save you.** A 30 kg theropod bites with perhaps 500–1000 N concentrated on a few square millimeters of tooth point — on the order of tens of megapascals against flesh. The fabric distributes force rather than eliminating it, exactly like a ballistic vest: the projectile stops and the ribs still break. Against multi-tonne bite force the question is academic.
 
 **Standing vulnerabilities, useful as story pressure.** The living layer needs feeding and dies in patches when cut. Local microbes could in principle outcompete the engineered cells. Photovoltaic and synthetic materials have UV signatures the chromatophore layer has to mask. Every subsystem draws from a small power budget, so there is a real priority order — camouflage first, then sensors, then defenses. And complexity is failure points: after 206 years, the twelve survivors are each degraded in their own particular way, which is why Keo has to choose between them in the Repository and why Benal's has a red-lined shoulder capacitor.

@@ -1,12 +1,11 @@
 ---
-approval: approved 291c83c4
+approval: approved a9464b19
 ---
 
 # Cretaceous — Writing Style
 
 The workflow, tone, voice and stylistic rules for the novel. Daniel's document, largely unchanged since November. Read alongside `style-canon.md`, which is the verbatim voice target this annotates, and `ai-tells-blacklist.md`, which is the gate a draft passes before he sees it.
 
-*Formerly `writing-style-v2.md`.*
 
 ## Core Workflow: The Scene-by-Scene Method
 This is the primary workflow for generating the novel. We will not write in "chapters," but in "scenes."

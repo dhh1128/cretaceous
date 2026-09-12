@@ -1,8 +1,8 @@
 ---
-approval: approved 2b6888ce
+approval: approved 524d9fc1
 ---
 
-# Humour plan
+# Humor plan
 
 Planning layer B11.
 
@@ -14,9 +14,9 @@ The drafted midpoint gives it away: *"He laughed, a sound that surprised him."* 
 
 ## The governing rule
 
-**Humour is characterization, never decoration.** Every joke has to be one this person would make, in this state, for a reason the wound explains. A line that any of the three could have said is a line none of them should say.
+**Humor is characterization, never decoration.** Every joke has to be one this person would make, in this state, for a reason the wound explains. A line that any of the three could have said is a line none of them should say.
 
-And the corollary that decides placement: **the humour budget and the grief budget are the same account.** You cannot spend nothing on delight and then withdraw grief. Noli's death, the Dark Night, and the final image are all drawing on charm that has to be deposited first.
+And the corollary that decides placement: **the humor budget and the grief budget are the same account.** You cannot spend nothing on delight and then withdraw grief. Noli's death, the Dark Night, and the final image are all drawing on charm that has to be deposited first.
 
 ---
 
@@ -24,7 +24,7 @@ And the corollary that decides placement: **the humour budget and the grief budg
 
 ### Benal — the carrier. Gallows deadpan.
 
-He holds the book's comic register, and the assignment is structural rather than a matter of taste. **Keo's bravado is the thing his arc must break at the midpoint** — so if Keo carries the comedy, the novel goes silent exactly where it most needs relief. Benal's arc runs the other way. His humour can *grow* as Keo's dies, which turns the comic register into an arc instrument instead of seasoning.
+He holds the book's comic register, and the assignment is structural rather than a matter of taste. **Keo's bravado is the thing his arc must break at the midpoint** — so if Keo carries the comedy, the novel goes silent exactly where it most needs relief. Benal's arc runs the other way. His humor can *grow* as Keo's dies, which turns the comic register into an arc instrument instead of seasoning.
 
 It also characterizes precisely: **deadpan is the only control available to someone physically helpless.** He cannot fight, he cannot run, and he cannot stop being afraid — so he narrates. The joke is the one thing in the situation he gets to author.
 

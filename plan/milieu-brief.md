@@ -1,10 +1,8 @@
 ---
-approval: approved 10f7a9ec
+approval: approved 17a750c3
 ---
 
 # Cretaceous — Milieu Brief
-
-**v1.0**, 2026-09-07. Rebuilt from milieu-brief-0.6 and reconciled against `outline.md`, `scene-list.md` and the prose in `content/superseded/01.1.md`–`04.3.md`. 
 
 ## How to use this file
 
@@ -333,7 +331,7 @@ His father is **Marek**, a Brancher, whose weapon is not cruelty but pity. His c
 
 He joins because his theoretical work is the only key to Genesis, and because vindication outweighs terror. His mask is quiet intellectual precision.
 
-**He carries the book's humour.** Gallows register, deadpan under fear — deliberately assigned to him rather than to Keo, because Keo's bravado has to break at the midpoint and the book cannot go silent there, and because deadpan is the only control available to someone physically helpless. His humour grows as Keo's dies.
+**He carries the book's humor.** Gallows register, deadpan under fear — deliberately assigned to him rather than to Keo, because Keo's bravado has to break at the midpoint and the book cannot go silent there, and because deadpan is the only control available to someone physically helpless. His humor grows as Keo's dies.
 
 ### Noli — companion
 
@@ -343,7 +341,7 @@ Female, four or five years old — middle-aged against a lifespan of eight to tw
 
 **Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious.
 
-She dies at the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humour budget and the grief budget are the same account.
+She dies at the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
 
 ## 10. Themes
 

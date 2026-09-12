@@ -29,7 +29,7 @@ The story runs nineteen days. A child dies in the Vitarium because the last Mast
 | `journey-calendar.md` | nineteen days, distances, and the weather score. **The authority for every day, distance and weather register in the corpus** |
 | `body-and-resources.md` | food, water, injury, fatigue, pace — the physical continuity chain |
 | `milieu-allocation.md` | biome, species and sensory budget, one showcase per thing |
-| `humour-plan.md` | comic registers, placement, and the charm deficit |
+| `humor-plan.md` | comic registers, placement, and the charm deficit |
 | `scene-list.md` | the scenes. **Needs rewriting** — 38 against a 60-scene proposal, Acts 2 and 3 still in the old format, eight days of the journey unscened, and its own header says 40 |
 | `pacing-and-stakes.md` | scene count, the three size bands, the four stake ladders. **The gate** — the scene list cannot be rebuilt until it is settled |
 | `knowledge-ledger.md` | who knows what when, in three columns; the irony allocation; the epigraph suite. Its payment assignments name scene numbers and must wait for the new list |
