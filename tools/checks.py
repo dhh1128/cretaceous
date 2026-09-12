@@ -362,11 +362,17 @@ def check_dated_provenance() -> list[Violation]:
         r"|Daniel(?:'s)?\s+(?:ruling|approval|correction|decision)"
         r"|(?:struck|approved|reverted|added|removed|moved)\s+(?:on|in)\s+20\d{2})", re.I)
     out = []
+    inside = rule_block_lines()
     for path, n, line in iter_lines():
         if not (path.startswith("plan/") or path.startswith("kb/")):
             continue
-        if n <= 3:
-            continue              # the frontmatter's own date
+        # Two exemptions, and they are the same exemption. AGENTS.md section 2 bars
+        # the NARRATION of approval history -- "moved here on 2026-09-10, when that
+        # file was deleted". It cannot bar the dated MARKERS the scheme itself
+        # requires, or the scheme could not exist. The frontmatter's `approval:` line
+        # is one such marker; a rule block's `status: ratified <date>` is the other.
+        if n <= 3 or n in inside.get(path, ()):
+            continue
         for m in pattern.finditer(line):
             out.append(Violation(path, n, f"dated provenance in a knowledge file: {m.group(0)!r}"))
     return out
@@ -440,6 +446,19 @@ def rules() -> tuple[Rule, ...]:
                     fields[k.strip()] = v.strip()
             found.append(Rule(path, line, fields))
     return tuple(found)
+
+
+@cache
+def rule_block_lines() -> dict[str, set[int]]:
+    """path -> the line numbers inside a ```rule fence, fences included."""
+    out: dict[str, set[int]] = {}
+    for path, lines in corpus().items():
+        text = "\n".join(lines)
+        for m in RULE_BLOCK.finditer(text):
+            first = text[: m.start()].count("\n") + 1
+            last = first + m.group(0).count("\n")
+            out.setdefault(path, set()).update(range(first, last + 1))
+    return out
 
 
 def check_rules_wellformed() -> list[Violation]:
