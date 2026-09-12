@@ -11,7 +11,9 @@ from __future__ import annotations
 
 import sys
 
-from checks import CHECKS, ROOT, calendar, run_all
+from checks import CHECKS, ROOT, calendar, corpus as _corpus, run_all
+
+CORPUS = _corpus()
 
 
 def main(argv: list[str]) -> int:
@@ -43,7 +45,7 @@ def main(argv: list[str]) -> int:
             print(f"| `{v.file}:{v.line}` | {v.message} |")
         print()
 
-    from checks import rules
+    from checks import approval_dates, check_approval_not_stale, rules
     if rules():
         print("## rules\n")
         print("Ratified rules are enforced by the suite. Proposed rules are listed with what they "
@@ -53,6 +55,22 @@ def main(argv: list[str]) -> int:
             fn = CHECKS.get(r.fields.get("check", ""))
             caught = "no checker written yet" if fn is None else f"catches {len(fn())} today"
             print(f"- {r.render()} — {caught} — `{r.file}:{r.line}`")
+        print()
+
+    marked = {p: d for p, d in approval_dates().items()
+              if len(CORPUS.get(p, [])) > 1 and CORPUS[p][1] != "approval: unapproved"}
+    if marked:
+        print("## approval\n")
+        print("Markers carry no dates; these are derived from git — when the marker was last "
+              "set, and when the file was last touched. See `AGENTS.md` §2.\n")
+        stale = {v.file for v in check_approval_not_stale()}
+        print("| file | marker | set | last edited |")
+        print("|---|---|---|---|")
+        for path in sorted(marked):
+            state = CORPUS[path][1].removeprefix("approval: ")
+            set_on, edited = marked[path]
+            flag = " ⚠ edited since" if path in stale else ""
+            print(f"| `{path}` | {state} | {set_on or '—'} | {edited or '—'}{flag} |")
         print()
 
     return 1 if total else 0

@@ -29,21 +29,20 @@ So:
 
 ```
 ---
-approval: approved 2026-09-10
+approval: approved
 ---
 ```
 
-Three values, and nothing else. `approved <date>` — Daniel said yes to these contents on that date. `provisional <date>` — he accepted it weakly, live enough to build on and cheap to revisit. `unapproved` — nobody asked, or he has not answered. **`unapproved` is the default and needs no date.**
+Three values, and nothing else. `approved` — Daniel said yes to these contents. `provisional` — he accepted it weakly, live enough to build on and cheap to revisit. `unapproved` — nobody asked, or he has not answered. **`unapproved` is the default.**
 
-**The date is load-bearing.** Approval is a property of contents at a moment, not of a filename. A file whose last commit postdates its approval date has changed since he looked at it, and that is one command to detect:
+**No dates. Git already keeps them.** Approval is a property of contents at a moment, and the moment is the commit that last set the marker. A file touched by any commit after that one has changed since he looked at it. Nobody types a date, nobody bumps one, and nothing is off by a day:
 
 ```
-for f in $(git ls-files '*.md'); do
-  a=$(sed -n '2s/approval: [a-z]* //p' "$f")
-  [ -n "$a" ] && [ "$(git log -1 --format=%ad --date=short -- "$f")" \> "$a" ] && echo "STALE: $f"
-done
-grep -L 'approval:' $(git ls-files '*.md')   # unmarked files
+uv run --with pytest pytest tools/ -k approved   # the check
+python3 tools/report.py                          # every marker with its derived date
 ```
+
+**Commit granularity is not a refinement on a hand-written date, it is the whole check.** A date has day granularity and this project works in bursts inside a day. The corpus was written, approved and committed between one morning and one midnight, and a date-based check reported perfectly clean while three approved files had been edited in a *later commit* than the one that approved them — `names.md`, `safety-suits.md` and `humour-plan.md`, found the hour the dates came out.
 
 **Sub-file granularity is one token: `[?]`.** It goes at the front of whatever it marks — a paragraph, a bullet, a table cell — and means *this specific thing is not covered by the file's approval*. `[~]` for provisional-within-approved. Anything unmarked inherits the frontmatter, so an approved file reads clean and only the exceptions carry ink.
 

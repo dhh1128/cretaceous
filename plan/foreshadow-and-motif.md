@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-12
+approval: approved
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -129,7 +129,7 @@ every:    plant in the ledger of §2
 has:      payoff
 evidence: §2's own validator — "no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions"
 check:    plant_payoff_bijection
-status:   ratified 2026-09-12
+status:   ratified
 ```
 
 1. **Signal level defaults to none.** If a plant needs a paragraph break to be noticed, it is the wrong plant.

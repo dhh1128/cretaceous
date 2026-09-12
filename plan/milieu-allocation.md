@@ -1,5 +1,5 @@
 ---
-approval: approved 2026-09-12
+approval: approved
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -165,7 +165,7 @@ every:    species row in `plan/milieu-allocation.md` §3
 has:      at most 2 days
 evidence: §6 rule 1 of this file — "One showcase per species is the working budget" — and §3's header, "Each species gets one showcase… assigned to one or two days"
 check:    species_showcase_count
-status:   ratified 2026-09-12
+status:   ratified
 ```
 
 ```rule
@@ -175,7 +175,7 @@ every:    day a species carries in the sensory lists of §5
 has:      the days that species carries in the table of §3
 evidence: §5's own header — "Each of these is owned once. The number is the day." The two sections have disagreed about the flybeak, the hell ants and the mosasaur, because a scripted day sweep cannot see §5's bare parentheticals
 check:    allocation_day_agreement
-status:   ratified 2026-09-12
+status:   ratified
 ```
 
 ```rule
@@ -185,7 +185,7 @@ every:    day in `plan/journey-calendar.md` §1
 has:      the day ranges of the biome bands in §2 of this file
 evidence: §2 exists to give every outdoor scene a biome. Days 7, 8, 9, 17 and 18 had no band at all after the book grew to nineteen days, and nothing noticed
 check:    biome_covers_every_day
-status:   ratified 2026-09-12
+status:   ratified
 ```
 
 1. **One showcase per species** is the working budget. After its day, it is a shape, a sound, a smell or an absence.

@@ -21,6 +21,7 @@ already been damaged by their opposites:
 
 from __future__ import annotations
 
+import datetime as _dt
 import re
 import subprocess
 from dataclasses import dataclass
@@ -244,7 +245,27 @@ def check_section_refs() -> list[Violation]:
     return out
 
 
-FRONTMATTER = re.compile(r"^approval: (unapproved|(?:provisional|approved) \d{4}-\d{2}-\d{2})$")
+FRONTMATTER = re.compile(r"^approval: (unapproved|provisional|approved)$")
+
+
+def _commit_time(*args: str) -> int | None:
+    """Unix timestamp of the most recent commit matching the given log arguments."""
+    out = subprocess.run(["git", "-C", str(ROOT), "log", "-1", "--format=%ct", *args],
+                         capture_output=True, text=True).stdout.splitlines()
+    return int(out[0]) if out and out[0].strip().isdigit() else None
+
+
+def approval_dates() -> dict[str, tuple[str | None, str | None]]:
+    """path -> (when the marker last changed, when the file last changed), as dates.
+    Derived from git, because approval is a property of contents at a moment and git
+    is already the ledger of moments. Nobody types a date and nobody bumps one."""
+    out = {}
+    for path in corpus():
+        marker = _commit_time(f"-L2,2:{path}")
+        content = _commit_time("--", path)
+        fmt = lambda t: _dt.date.fromtimestamp(t).isoformat() if t else None
+        out[path] = (fmt(marker), fmt(content))
+    return out
 
 
 def check_frontmatter() -> list[Violation]:
@@ -260,20 +281,26 @@ def check_frontmatter() -> list[Violation]:
 
 
 def check_approval_not_stale() -> list[Violation]:
-    """A file whose last commit postdates its approval has changed since it was read."""
+    """A file edited after its marker was last set has changed since Daniel read it.
+
+    Derived from git rather than from a date in the file. Commit granularity beats
+    day granularity, and the difference is not academic: on 2026-09-10 this corpus
+    was written, approved and committed inside one day, so a date-based check
+    reported clean while README and five files contradicted each other.
+
+    Uncommitted edits are invisible here, as they were before. The other checks run
+    against the working tree, so they see them."""
     out = []
     for path, lines in corpus().items():
-        if len(lines) < 2:
+        if len(lines) < 2 or not re.match(r"^approval: (approved|provisional)$", lines[1]):
             continue
-        m = re.match(r"^approval: (?:approved|provisional) (\d{4}-\d{2}-\d{2})$", lines[1])
-        if not m:
-            continue
-        committed = subprocess.run(
-            ["git", "-C", str(ROOT), "log", "-1", "--format=%ad", "--date=short", "--", path],
-            capture_output=True, text=True,
-        ).stdout.strip()
-        if committed and committed > m.group(1):
-            out.append(Violation(path, 2, f"approved {m.group(1)} but last committed {committed}"))
+        marker = _commit_time(f"-L2,2:{path}")
+        content = _commit_time("--", path)
+        if marker is None or content is None:
+            continue                      # never committed; nothing to compare
+        if content > marker:
+            when = _dt.date.fromtimestamp(content).isoformat()
+            out.append(Violation(path, 2, f"edited on {when}, after the approval marker was last set"))
     return out
 
 
@@ -362,17 +389,11 @@ def check_dated_provenance() -> list[Violation]:
         r"|Daniel(?:'s)?\s+(?:ruling|approval|correction|decision)"
         r"|(?:struck|approved|reverted|added|removed|moved)\s+(?:on|in)\s+20\d{2})", re.I)
     out = []
-    inside = rule_block_lines()
     for path, n, line in iter_lines():
         if not (path.startswith("plan/") or path.startswith("kb/")):
             continue
-        # Two exemptions, and they are the same exemption. AGENTS.md section 2 bars
-        # the NARRATION of approval history -- "moved here on 2026-09-10, when that
-        # file was deleted". It cannot bar the dated MARKERS the scheme itself
-        # requires, or the scheme could not exist. The frontmatter's `approval:` line
-        # is one such marker; a rule block's `status: ratified <date>` is the other.
-        if n <= 3 or n in inside.get(path, ()):
-            continue
+        if n <= 3:
+            continue              # the frontmatter fence
         for m in pattern.finditer(line):
             out.append(Violation(path, n, f"dated provenance in a knowledge file: {m.group(0)!r}"))
     return out
@@ -446,19 +467,6 @@ def rules() -> tuple[Rule, ...]:
                     fields[k.strip()] = v.strip()
             found.append(Rule(path, line, fields))
     return tuple(found)
-
-
-@cache
-def rule_block_lines() -> dict[str, set[int]]:
-    """path -> the line numbers inside a ```rule fence, fences included."""
-    out: dict[str, set[int]] = {}
-    for path, lines in corpus().items():
-        text = "\n".join(lines)
-        for m in RULE_BLOCK.finditer(text):
-            first = text[: m.start()].count("\n") + 1
-            last = first + m.group(0).count("\n")
-            out.setdefault(path, set()).update(range(first, last + 1))
-    return out
 
 
 def check_rules_wellformed() -> list[Violation]:
