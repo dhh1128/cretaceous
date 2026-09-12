@@ -172,3 +172,8 @@ def test_every_allocated_item_appears_in_a_scene_on_its_day():
 def test_no_two_consecutive_scenes_move_no_ladder():
     """pacing-and-stakes §6: a scene that moves none is cut."""
     holds("every_scene_moves_a_ladder")
+
+
+def test_scenes_appear_in_day_order():
+    """Anything that compares neighboring scenes is meaningless if the list is shuffled."""
+    holds("scenes_in_day_order")

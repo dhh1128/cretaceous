@@ -1003,3 +1003,28 @@ CHECKS.update({
     "allocation_covered": check_allocation_covered,
     "every_scene_moves_a_ladder": check_every_scene_moves_a_ladder,
 })
+
+
+def check_scenes_in_day_order() -> list[Violation]:
+    """Scene entries appear in non-decreasing day order.
+
+    The list is read as a sequence by anything that asks a question about
+    neighbors -- `every_scene_moves_a_ladder` compares consecutive entries, and so
+    will the POV-run and size-alternation checks when they exist. A block inserted
+    in the wrong place makes all of them compare scenes that are not adjacent in
+    story time and say nothing about it. Written after a rescene pass put Days 6
+    through 9 in front of Days 4 and 5, so the file ran 3, 6, 7, 8, 9, 4, 5, 10."""
+    out, prev, prev_id = [], None, None
+    for n, sid, line in scenes():
+        m = SCENE_DAY.search(line)
+        if not m:
+            continue
+        day = int(m.group(1))
+        if prev is not None and day < prev:
+            out.append(Violation(SCENES, n,
+                                 f"scene {sid} is Day {day} and follows {prev_id} on Day {prev}"))
+        prev, prev_id = day, sid
+    return out
+
+
+CHECKS["scenes_in_day_order"] = check_scenes_in_day_order
