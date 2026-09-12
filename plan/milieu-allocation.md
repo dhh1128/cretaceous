@@ -1,5 +1,5 @@
 ---
-approval: approved 41c88686
+approval: approved 41c86d16
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -104,7 +104,7 @@ Also present, allocated sparingly: **hell ants** (Day 11, already assigned), **t
 
 Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wallpaper.
 
-- **Hand-sized iridescent day-flying moths**, in clouds — Day 4. *(Currently the scene list says "butterflies" at 6.3. Butterflies are the one item here I would not defend: Lepidoptera are firmly present and moth leaf-mining traces are cited in the research, but the oldest butterfly body fossils are Eocene. Moths are safer, stranger, and better.)*
+- **Hand-sized iridescent day-flying moths**, in clouds — Day 4. *(Butterflies are the one item here I would not defend: Lepidoptera are firmly present and moth leaf-mining traces are cited in the research, but the oldest butterfly body fossils are Eocene. Moths are safer, stranger, and better.)*
 - **Bioluminescent beetles** at night, pulsing on an unfamiliar rhythm — Days 2 and 6. *(Luminous elateroid beetles are known from Cretaceous amber; this is inference to the Maastrichtian rather than direct evidence, and it is a small, cheap inference.)*
 - **A saropo herd from a ridge** — Day 6. The awe beat with nothing at stake.
 - ***Ornithomimus* running** — Day 10. Pure pleasure, no threat.
@@ -152,7 +152,7 @@ Each of these is owned once. The number is the day.
 
 **Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
-**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent butterflies (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the eye of the storm, high and bright and wrong (15) · the first honest sunlight in six days (16).
+**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the eye of the storm, high and bright and wrong (15) · the first honest sunlight in six days (16).
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 427e1ffa
+approval: approved 8d832da5
 ---
 
 # Character arcs and intimacy
@@ -87,7 +87,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 ## 3. The three dyads
 
-Temperature 0–10. **They should not all move together** — when they do, the reader stops registering any of them separately.
+Temperature 0–10. **They should not all move together** — when they do, the reader stops registering any of them separately. **One exception, and it is the gift:** every ladder troughs on Day 6 and climbs out of it, so the dyads move together there and only there.
 
 | day | Keo→Teva | Teva→Benal | Keo↔Benal |
 |---|---|---|---|
