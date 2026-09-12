@@ -60,6 +60,17 @@ Evidence is a citation to something outside the rule itself — a measurement, a
 
 **May:** add a block with `status: proposed`, anywhere, at any time. Write the checker for it. Report what it catches.
 
-**May not:** set `status: ratified`. Only Daniel does that, and the date he does it is the date that goes in. A session that ratifies its own rule has built the same trapdoor the approval frontmatter had.
-
 **Should:** when proposing, run the checker first and bring the violation list with the sentence. A rule is much easier to judge against what it actually flags.
+
+**May not:** set `status: ratified`. Only Daniel does that, and the date he does it is the date that goes in. A session that ratifies its own rule has built the same trapdoor the approval frontmatter had — *unless he has just said so in conversation*, in which case the session is recording his answer, which is the only evidence this project accepts for anything.
+
+## Ratifying
+
+```
+python3 tools/ratify.py --list          # every rule, its evidence, and what it catches today
+python3 tools/ratify.py <id> [<id>...]  # confirm each, then stamp it with today's date
+```
+
+Ratifying is one word and a date, so editing the block by hand is a perfectly good way to do it. The script exists to date it, to refuse a rule whose checker does not exist, and to show what each rule catches before you answer.
+
+**It requires a terminal, and that is a guard rather than a convention.** An agent's shell has no TTY, so `ratify.py` refuses inside a session and an AI cannot ratify its own proposal by running it. The approval frontmatter had no such guard, and it drifted for exactly that reason.

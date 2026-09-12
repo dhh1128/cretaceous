@@ -519,6 +519,24 @@ def check_allocation_day_agreement() -> list[Violation]:
     return out
 
 
+FORESHADOW = "plan/foreshadow-and-motif.md"
+
+
+def check_plant_payoff_bijection() -> list[Violation]:
+    """Every plant in the ledger has a payoff and an address at both ends, and the
+    reverse. The ledger's own validator asks for exactly this, in both directions."""
+    out = []
+    for n, cells in table_rows(section(FORESHADOW, r"The ledger")):
+        if len(cells) < 5:
+            out.append(Violation(FORESHADOW, n, f"ledger row has {len(cells)} cells, not 6"))
+            continue
+        for label, cell in (("plant", cells[1]), ("plant address", cells[2]),
+                            ("payoff", cells[3]), ("payoff address", cells[4])):
+            if not plain(cell) or plain(cell) in {"—", "-", "?"}:
+                out.append(Violation(FORESHADOW, n, f"row {plain(cells[0])} has no {label}"))
+    return out
+
+
 def check_biome_covers_every_day() -> list[Violation]:
     """Every day the calendar has falls inside at least one biome band."""
     covered = set()
@@ -538,6 +556,7 @@ CHECKS = {
     "species_showcase_count": check_species_showcase_count,
     "allocation_day_agreement": check_allocation_day_agreement,
     "biome_covers_every_day": check_biome_covers_every_day,
+    "plant_payoff_bijection": check_plant_payoff_bijection,
     "calendar_owns_distances": check_calendar_owns_distances,
     "file_refs": check_file_refs,
     "section_refs": check_section_refs,

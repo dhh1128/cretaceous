@@ -11,7 +11,7 @@ python3 tools/report.py day_tokens          # one check
 
 `pytest` is not installed on this box and no `pyproject.toml` or venv is wanted in a novel repo, so `uv run --with pytest` supplies it per invocation. `report.py` needs nothing but the standard library.
 
-Three files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end; `report.py` is a second front end for the document Daniel reads and strikes. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
+Four files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end; `report.py` is a second front end for the document Daniel reads and strikes; `ratify.py` is how a proposed rule becomes an enforced one, and it needs a TTY so an agent cannot run it. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
 
 **One test per invariant, not per violation, and the test name states the claim.** `test_every_file_reference_resolves` fails once, listing all thirteen dangling pointers, rather than thirteen times. Two reasons. The failing line reads as a sentence and needs no docstring to decode it. And the failure count then means what it looks like it means: an earlier version parametrized per violation and reported thirteen pointers plus seven stray dates as *"20 failed"*, which reads as twenty problems and is two. The instances go in the message as `file:line — what`, which is the change-set row.
 
@@ -44,6 +44,7 @@ Three files. `checks.py` holds the logic as plain functions returning violations
 | `species_showcase_count` | every species row names at most two days | Rule `species-one-showcase`. Currently a regression guard — nothing violates it |
 | `allocation_day_agreement` | a species carries the same day in §3 and §5 | Rule `allocation-day-agreement`. Catches three violations against the pre-repair corpus and none now |
 | `biome_covers_every_day` | every day falls inside at least one biome band | Rule `biome-covers-every-day`. Catches five against the pre-repair corpus — Days 7, 8, 9, 17 and 18 had no band at all |
+| `plant_payoff_bijection` | every ledger row has a plant, a payoff, and an address at each end | Rule `plant-payoff-bijection`, ratified. The ledger's own validator asks for this in both directions and nothing had ever run it |
 | `overt_plant_budget` | the foreshadow ledger carries the number of overt plants it budgets | The budget and the table agree today. It is here as a regression guard, and as the template for the other declared budgets. |
 
 ## Not yet built
