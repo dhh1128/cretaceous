@@ -1,5 +1,5 @@
 ---
-approval: approved 28ae092b
+approval: approved c3a7a787
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -77,7 +77,7 @@ Taken from viking and cordimancy, where **somebody is always doing something wit
 
 **And the group names the activity out loud rather than drifting into it.** In viking somebody says *"Okay, I'll bite. Let's have a pity party. You go first"* — which licenses forty lines of backstory without the scene reading as an author dumping files. The line that makes it work is *"We're a captive audience"*: nobody can leave, so the talk is all there is. **That is the load-bearing move for an Act 2 built on enforced stillness**, and it should be used early — Day 4 or Day 6 — to establish the form.
 
-**River crossings happen at midday, and that is deliberately counterintuitive.** Crocs are ambush predators most active at the water's edge at dawn and dusk. The one hour you want to be in the water is the hour everything else is lying up — and it is also the hour you can see into it. So Day 8 crosses at the height of the afternoon, the hour the light still reaches into the water and the hour everything that hunts the bank is lying up. That interlocks with the weather assignment in `journey-calendar.md` §2: the glassy river, the listening water, the insects at their worst, and the decoy that only works in flat calm.
+**The crossing happens in the afternoon, and that is deliberately counterintuitive.** Crocs are ambush predators most active at the water's edge at dawn and dusk. The one hour you want to be in the water is the hour everything else is lying up — and it is also the hour you can see into it. So Day 8 crosses at the height of the afternoon, the hour the light still reaches into the water and the hour everything that hunts the bank is lying up. That interlocks with the weather assignment in `journey-calendar.md` §2: the glassy river, the listening water, the insects at their worst, and the decoy that only works in flat calm.
 
 **The exceptions are the disasters, and they should be caused by the doctrine breaking.**
 
@@ -153,7 +153,7 @@ The weather turns after Day 3, so **they walk out with good gear and the rains s
 | 11–13 | three days of rain with nowhere to dry anything. **Bindings going soft, shafts spongy at the ferrule.** A croc-spike that fails at the wrong moment is available and has not been spent |
 | 14 | salt water finishes whatever is left |
 
-**Two consequences worth taking.** River crossings acquire a second cost — you carry the thing that dissolves in water *through water*. And it compounds §1: they reach the coast short of calories **and** short of weapons, which is one more reason the walk home was never possible.
+**Two consequences worth taking.** The crossing acquires a second cost — you carry the thing that dissolves in water *through water*, and then you have to get it dry before the archaea wake. **That is one more reason they go nowhere once they are across:** two kilometers and a long stop, spent on the weapons as much as on their nerve. And it compounds §1: they reach the coast short of calories **and** short of weapons, which is one more reason the walk home was never possible.
 
 **Do not over-narrate this.** It is a daily labor the characters perform without discussing, visible in what they do at each lay-up, and it should pay off once, badly, rather than being tracked in the prose.
 

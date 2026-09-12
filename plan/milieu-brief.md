@@ -1,5 +1,5 @@
 ---
-approval: approved 17a750c3
+approval: approved 27b4a65b
 ---
 
 # Cretaceous — Milieu Brief
@@ -231,7 +231,7 @@ Shafts, handles and bindings are **soaked in an archaea solution and dried.** Dr
 
 Dry, dry-ish, and alive. Three states of *still in use*.
 
-**And this puts their weapons on a clock that the weather winds.** The weather turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 11–13 are wet and nothing dries. **Keeping the spears dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. River crossings get worse in a new way: you have to carry the thing that dissolves in water *through water*. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
+**And this puts their weapons on a clock that the weather winds.** The weather turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 11–13 are wet and nothing dries. **Keeping the spears dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. The crossing gets worse in a new way: you have to carry the thing that dissolves in water *through water*, and then dry it on the far bank before the archaea wake. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
 
 **Deepest of all, it makes the mantra literal.** *Water is death* is not a slogan about crocs. It is a physical law with five separate mechanisms: the crocs, Teva's thermal collapse, the dissolution of every weapon they carry, the sea that Genesis sits in, and Yara.
 

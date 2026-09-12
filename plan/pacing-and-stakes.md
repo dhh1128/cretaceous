@@ -89,7 +89,7 @@ which lands inside the 70–100k target with room in both directions. *(No estim
 | **3** | 5 | ~16 |
 | | **38** | **~61** |
 
-**Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the first river crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
+**Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
 | day | now | → | what it is |
 |---|---|---|---|
@@ -127,7 +127,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **2** am | 3 | 1 | 3 | 3 | *rest — the deposit* |
 | **2** eve | 5 | 2 | 5 | 4 | paralysis made official |
 | **2** night | 6 | 4 | **8** | 4 | the theft destroys two families' standing |
-| **3** | 6 | 7 | 8 | 4 | out, and the first river. Terrified and elated |
+| **3** | 6 | 7 | 8 | 4 | out through the tangle, and the razortails. Terrified and elated |
 | **4** | 5 | 6 | 6 | 5 | the arithmetic arrives; first open doubt |
 | **5** | 6 | 8 | 6 | 5 | the constrictor. Shattered, then welded |
 | **6** | **3** | **3** | 5 | 5 | ***the gift.*** *Every ladder drops. This is what makes Day 7 onward cost something* |
