@@ -168,7 +168,11 @@ Two free textures. The founders carry 21st-century names while the colony's have
 - **It supplies the mechanism of the drift.** The colony's copy is missing precisely the passages that would have corrected it. Corruption by lossy transmission, not deceit — fact P, demonstrated rather than asserted.
 - **It lets the reader compare** the true fragment against the remembered version. The sharpest irony instrument available.
 
-**Why paper survived the archaea failsafe:** *Genesis predates the failsafe.* The taboo is a colony invention, not a founder instruction — one more piece of evidence for drift, sitting in plain sight.
+**Why paper survived the archaea failsafe:** *Genesis predates the failsafe.* The archaea apparatus was built at the Enclave, after the transfer, so nothing at Genesis was ever wrapped.
+
+**And be precise about what that proves, because the obvious reading is wrong and it is the more interesting fact.** It does not show the taboo was invented. **The duty is a genuine founder instruction** — leave no evidence, on pain of paradox — and the Traditionalists are right about it. What the founders did not supply was a doctrine for living eighty kilometers inland for two hundred years, because the plan was to sit at ground zero for months and be erased. The apparatus is the colony's honest extension of a real instruction into a situation nobody wrote rules for, and its severity is the price the leavers accepted in the third year at Genesis for permission to go. See `milieu-brief.md` §6.
+
+**So the drift is not in the obligation. It is in the belief that the apparatus came down from the founders** — and that is a better reveal than a fabricated taboo, because it takes nothing away from the people who kept it.
 
 **Two moves this opens that aren't yet in the plan.**
 

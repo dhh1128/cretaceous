@@ -1,5 +1,5 @@
 ---
-approval: approved 03ba1aa9
+approval: approved bd351380
 ---
 
 # Cretaceous — Milieu Brief
@@ -40,6 +40,8 @@ The transit went wrong. Equipment was damaged, people died, and knowledge was lo
 
 **The corruption of the mission.** Over six generations the instruction "travel forward carrying the solution" degraded into "somehow *send* the solution forward" — bury it, leave an artifact, hope. Nobody can say how. The confusion is load-bearing: it is why they have stopped trying.
 
+**Two hundred and six years is a chosen anchor, not a derived one.** It was picked to give the milieu something specific to reason from, and it is negotiable **by about fifty years in either direction** — much beyond that and the generational count, the state of the technology and the age of the sky-map dataset stop hanging together. Treat it as settled unless something downstream forces a move.
+
 **The clock they don't have.** Leadership teaches that the impact is centuries away. It is **about two decades out, plus or minus one** — and *nobody can narrow that further*. The imprecision is canon, not a gap in the notes. No scene may state a precise year, and every character who cites the figure cites a range. An unpinnable deadline is worse to live under than a fixed one, and it gives the Council a genuine argument rather than a foolish one: you cannot plan a civilization around ±50%.
 
 **And the reason they cannot narrow it is the spine of the science.** The founders' transit carried an error — see `kb/worldbuilding/benals-equation.md` — that was never in *place*. They arrived on the right planet at the right point on its surface. The error is in *when*. **The colony does not know precisely what year it is**, and therefore cannot say precisely when the impactor arrives. Benal is the only person alive working on it, which is what makes his "useless" abstraction the most important work in the Enclave. Multiple candidate asteroids appear in the Genesis records and which one is the impactor is unestablished, which compounds the same uncertainty. The sequels narrow both.
@@ -52,11 +54,23 @@ The transit went wrong. Equipment was damaged, people died, and knowledge was lo
 
 Both are partly right, and the novel does not hand either a victory. That is the whole point of the nuance arc.
 
+**The schism is not an abstract disagreement and it did not start recently.** It began in the third year at Genesis, over whether to leave at all when the desalination failed — see §3. Everything since is that argument continuing under different names, which is why it cannot be settled by a good speech.
+
 ## 3. Geography and the journey
 
 The Enclave sits **80 km inland** from the coast, on ground slightly higher and drier than the surrounding wetland. Beyond the coast, **5–8 km offshore**, lies Genesis, which is essentially at sea level and ground zero for impact. Characters describe the distance as "eighty kilometers" because the land distance is the part they think about.
 
-They left Genesis because it had no fresh water, no stable shelter, brutal coastal weather, and a persistent temporal disorientation nobody could explain. It took the founders **three years** to find and transfer to the Enclave site. They left with **200** and arrived with **94**.
+They left Genesis because it had no fresh water, no stable shelter, brutal coastal weather, and a persistent temporal disorientation nobody could explain. The founders were at Genesis **three years** before the transfer. They left with **200** and arrived with **94**.
+
+### What actually happened at Genesis, and it is where the schism starts
+
+**Genesis had solar desalination and that is why three years was survivable.** There was no fresh water on a spit of coral, and there did not need to be. **The equipment began to fail in the third year**, and the question of what to do about it is the first time the colony split.
+
+**Some argued that leaving was an unacceptable risk.** The mission's prime directive was to leave no evidence, and the whole plan had been to sit at ground zero for weeks or months and be erased; eighty kilometers of living in the world was not what anyone had agreed to. **Those who argued for going accepted every restriction that came with it, as the price of permission**, and held themselves to it as a duty. See §6 — that bargain is where the taboos come from.
+
+**Those who stayed saw the others off and vowed to continue the work.** The Enclave never heard from them again and has assumed for two hundred years that they died.
+
+**They did not. They jumped.** `[?]` Somewhere on the order of a thousand to a million years further back — the figure is open and the story does not need it pinned — to buy themselves working time before the impact. That is **the origin of the temporal flashes**, and it is a surprise this novel delivers: **nobody in the colony knows it when the book opens.** `plan/knowledge-ledger.md` governs who learns it and when; `plan/outline.md` has the epiphany that lands it.
 
 **The overland route** runs through open-canopy woodland with sightlines of a meter or two at chest height, **slow rivers, swamps and marshes** holding the primary threat, limestone country with caves but **no cenotes** — those postdate the impact — coastal wetland of ferns and salt-tolerant palms that is *not* mangrove, since true mangroves are 50 million years away, and stretches of open fern savanna where nothing conceals you. Eleven days of walking, Days 3 to 13, and eighty kilometers at two to twelve a day; then open water on Day 14.
 
@@ -157,6 +171,10 @@ Teva recruiting Benal is a thesis statement: the younger generation understands 
 ## 6. Technology
 
 **Hard tech — "old-tech."** Metal, polymer, electronics. Dangerous because it leaves geological trace across 66 million years. Kept only inside the Enclave, inventoried individually, used almost never. Taking it beyond the impact radius is the deepest taboo: a lost blade could survive to be found.
+
+**The duty is a founder instruction. The apparatus is not, and the distinction is load-bearing.** The prime directive — leave no evidence that could make a paradox — came through the transit with them and has never been in question. What came through with it was a *plan*: sit at ground zero, for weeks or months or at the outside a year or two, and be erased. **Nobody wrote a doctrine for living eighty kilometers inland for two hundred years, because nobody expected to.** So every mechanism below — the archaea, the wrappings, the weekly balm, the returning, a spear built to rot — is the colony extending an instruction it was given into a situation it was not given instructions for.
+
+**Which is why the taboos are as hard as they are.** They are the terms the leavers accepted in the third year at Genesis in exchange for permission to go (§3). A rule you adopted as the price of getting your way is held harder than one you were handed, and it hardens further in the generation that inherits it without the argument. **The Traditionalists are not superstitious and they are not wrong about the duty.** What has drifted is not the obligation; it is the belief that the apparatus came down from the founders rather than being built here, by people who knew exactly what they were improvising.
 
 The **failsafe** is elegant and worth using. Every old-tech item is wrapped in bindings impregnated with dormant engineered archaea. If the custodians miss the weekly nutrient-balm ritual, or the chamber floods or collapses, the archaea wake and reduce metal to rust and polymer to sterile sludge within hours. *Their mistakes will die with them.* The wrappings smell faintly of soured figs.
 
