@@ -1,5 +1,5 @@
 ---
-approval: approved 9d9276b7
+approval: approved 4ca001f1
 ---
 
 # **PALEOECOLOGICAL REPORT: YUCATAN PLATFORM, LATE MAASTRICHTIAN (ca. 66.0005 Mya)**
@@ -104,7 +104,7 @@ approval: approved 9d9276b7
 
 ### **4.4 Other Reptiles**
 
-* **A large crocodylian, genus indeterminate.** Around six meters, an apex ambush predator taking prey at the water's edge. **It is deliberately unnamed, and *Deinosuchus* is specifically excluded** — that genus is Campanian, securely dated in the Aguja and Kaiparowits at roughly 82 to 73 Ma, and absent from the well-sampled terminal Maastrichtian faunas, so it had been extinct some seven million years by the time this story opens. No terminal-Cretaceous terrestrial or freshwater vertebrate assemblage is documented from the Yucatan platform at all, so nothing here can be placed to genus honestly. The colonists are scientists with no reference collection, looking at an animal that matches nothing they were taught; **"croc" is the only name anyone has for it, in the world and on the page.**  
+* **A large crocodylian, genus indeterminate.** Around six meters, an apex ambush predator taking prey at the water's edge. `[retired]` **It is deliberately unnamed, and *Deinosuchus* is specifically excluded** — that genus is Campanian, securely dated in the Aguja and Kaiparowits at roughly 82 to 73 Ma, and absent from the well-sampled terminal Maastrichtian faunas, so it had been extinct some seven million years by the time this story opens. No terminal-Cretaceous terrestrial or freshwater vertebrate assemblage is documented from the Yucatan platform at all, so nothing here can be placed to genus honestly. The colonists are scientists with no reference collection, looking at an animal that matches nothing they were taught; **"croc" is the only name anyone has for it, in the world and on the page.**  
 * *Borealosuchus sternbergii*: Boreal Crocodile. A more modestly sized crocodyliform, around 3-4 meters long, that co-existed with its giant relative in freshwater systems.31  
 * *Coniophis precedens*: A primitive, transitional snake with a serpentine body but a more lizard-like, non-kinetic skull; it was a small, burrowing carnivore.32  
 * *Palaeosaniwa canadensis*: Ancient Monitor Lizard. A large, predatory varanid lizard up to 3 meters long, an active hunter analogous to the modern Komodo dragon.23  

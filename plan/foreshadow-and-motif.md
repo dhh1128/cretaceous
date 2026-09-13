@@ -1,5 +1,5 @@
 ---
-approval: approved 5802ca39
+approval: approved 6dfad4a7
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -28,7 +28,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 4 | Keo leaves the machete on the taboo shelf | 4.2 | he pilots the wig | 13.1 | faint |
 | 5 | **Joram's face holding only fear** | 3.1 | the fear was for him, and it was about Yara | 14.1 | none |
 | 6 | Sila: "one lost lightcell" | 3.1 | they come home in a machine | 14.1 | none |
-| 7 | **The archaea failsafe dissolves unmaintained old-tech** | 4.2 | **at Genesis, nothing has dissolved — the failsafe is a colony invention, not a founder instruction** | 12.1 | none |
+| 7 | **The archaea failsafe dissolves unmaintained old-tech** | 4.2 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | 12.1 | none |
 | 8 | The First Walk: 200 out, 94 arrived | 3.1 | their own journey costs them Noli and nearly Keo | 7–9 | none |
 | 9 | Omya taught Teva to read the stars | 1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | 2.4, Day 3 | none |
 | 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | 2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, 12.1 | none |

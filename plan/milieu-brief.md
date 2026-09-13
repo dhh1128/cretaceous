@@ -1,5 +1,5 @@
 ---
-approval: approved 8caa45d0
+approval: approved 4c4061f2
 ---
 
 # Cretaceous — Milieu Brief
@@ -63,7 +63,7 @@ The Enclave sits **80 km inland** from the coast, on ground slightly higher and 
 
 They left Genesis because it had **no fresh water once the desalination failed, no way to grow food, brutal coastal weather, and a persistent temporal disorientation nobody could explain.** The founders were at Genesis **three years** before the transfer. They left with **200** and arrived with **94**.
 
-**Shelter was never the problem, and saying it was is a contradiction the corpus carried for a while.** Genesis is a built research station: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
+`[retired]` **Shelter was never the problem, and the corpus said it had no stable shelter for a while, which Act 3 contradicts on every page.** Genesis is a built research station: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
 
 ### What actually happened at Genesis, and it is where the schism starts
 
@@ -284,7 +284,7 @@ Viral vectors carrying genetic modification, cultured from human cell lines in t
 
 Nobody is compelled to accept/apply upgrades, but declining is read by others in the Enclave as neglect.
 
-**Baseline, in nearly everyone:** immune enhancement, digestive adaptation to Cretaceous flora, telepathic proximity sense, and **the returning flora** — the engineered gut bacteria that reduce the body after death. Nobody counts that last one as an upgrade. It is simply what happens to a person, and every colonist has carried it since infancy. See §4, *Death, and the returning*.
+**Baseline, in nearly everyone:** immune enhancement, digestive adaptation to Cretaceous flora, a proximity sense `[retired]`, and **the returning flora** — the engineered gut bacteria that reduce the body after death. Nobody counts that last one as an upgrade. It is simply what happens to a person, and every colonist has carried it since infancy. See §4, *Death, and the returning*.
 
 **Variable:** enhanced vision (tetrachromatic, low-light, UV), enhanced hearing, enhanced smell, proprioception, magnetic sense, bone density, muscle efficiency, endurance, thermal regulation, accelerated healing, venom resistance, and mental projection — rare in full expression.
 
@@ -296,7 +296,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **That is the whole of it.** Presence and kind, at short range.
 
-**This is not a culture of telepaths, and the limits matter more than the ability.** Nobody senses mood. Nobody feels a death across the Enclave. There is no shared frequency, no village-wide web, and grief here is as private as it is anywhere. Do not extend the proximity sense past presence and kind at close range; it has been extended before, and the extension does not survive contact with how these people actually live.
+`[retired]` **This is not a culture of telepaths, and the limits matter more than the ability.** Nobody senses mood. Nobody feels a death across the Enclave. There is no shared frequency, no village-wide web, and grief here is as private as it is anywhere. Do not extend the proximity sense past presence and kind at close range; it has been extended before, and the extension does not survive contact with how these people actually live.
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 

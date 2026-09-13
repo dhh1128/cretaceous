@@ -86,6 +86,26 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 - **Do not invent organizing schemes.** Ask before adding a folder or a naming convention. *(A `process/` directory was created on 2026-09-10 without being asked for.)*
 - **`kb/worldbuilding/lingo.md` is a closed list, and it is closed.** Coining colony vocabulary during drafting is a defect, not a flourish. If a scene seems to need a word that is not there, that is a note for Daniel.
 
+## 7. Retired claims — things the corpus said and no longer may
+
+**When Daniel rules something out, the ruling has to outlive the session that got it.** This is the one place §2's no-history rule is deliberately inverted, under the exception §2 already carves: a constraint that exists to stop a known error being re-made is stated as a standing prohibition. The suite reads this table and fails on any of these phrases appearing in a tracked file.
+
+**Why it exists.** On 2026-09-12 five rulings made that same day were still contradicted in live plan files hours later, two of them in files the session believed it had already fixed. Applying a ruling by hand means finding every instance by memory, and memory is exactly what fails across a corpus of twenty-five files. **A prohibition is checkable; an intention is not.**
+
+| phrase | what is true instead |
+|---|---|
+| `noble lie` | The corruption was **drift, not deceit**. The duty is a genuine founder instruction and the Traditionalists are right about it; what drifted is the belief that the *apparatus* enforcing it came from the founders. Teva reads it as a lie and that reading is the emotional truth and is wrong — the distance her arc travels. `kb/worldbuilding/the-second-jump.md` |
+| `no stable shelter` | Genesis is a **built research station** and much of it still stands. The mission's purpose was laboratory work, so they arrived with structures good enough to culture in. They left over water, food and the disorientation. `plan/milieu-brief.md` §3 |
+| `colony invention, not a founder` | The **duty** is a founder instruction; the **apparatus** is the colony's extension of it into a situation nobody wrote rules for. `plan/milieu-brief.md` §6 |
+| `four micrometer` | The croc reads **disturbance on the water's surface**, not vibration through the ground. Leitch and Catania measured a probe indenting *modern* crocodilian skin — a local touch threshold, not ground displacement, not an extinct animal. `plan/tech-rules.md` |
+| `Deinosuchus` | **Campanian, and extinct some seven million years before this story opens.** The animal stays, at six meters, and is deliberately not placed to genus. `kb/research/geo-flora-fauna.md` §4.4 |
+| `67mya jump` | The second jump is **a thousand years**. 67 Mya is where the Enclave emigrates at the end of book 3 — a different jump. `plan/sequels.md` |
+| `telepath` | **This is not a culture of telepaths.** The proximity sense is not to be extended. |
+
+**Three exemptions, and they are narrow.** `AGENTS.md` itself, since the table has to name what it forbids. `content/superseded/` and `content/rejected/`, because those are the record of what was actually drafted and editing them destroys the evidence they are kept for. And **any single line carrying the token `[retired]`**, which is how a file cites a retired claim in order to correct it — the escape is per line and visible in a grep, so nobody can quietly exempt a paragraph.
+
+**Adding to this table is part of applying a ruling, not a follow-up to it.** A ruling that retires a phrase and does not land here will be re-made.
+
 ## 6. Standing hazards, learned the expensive way
 
 **Preferences inflate into laws.** Something he said once in passing comes back as *never*, *not one, not ever*, *one per act*. The content is usually fine and the modality is invented — and a model obeys grammar, so a quota gets spent against like a budget. The test: does the rule cite something? His critique, a measurement against his own novels, a physical fact? If yes it keeps its force. If not it is a guideline, and should read like one.

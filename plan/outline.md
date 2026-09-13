@@ -1,5 +1,5 @@
 ---
-approval: approved 7b3588c2
+approval: approved 4aa41e8d
 ---
 
 # Cretaceous — Outline
@@ -21,7 +21,7 @@ Content Example (for Act 3): Corrupted Log Entry: "...schism is complete. They'r
 
 Structural Device: Temporal Flashes (Visions)
 
-Purpose: To deliver the subjective, emotional backstory of the "Noble Lie" and foreshadow the "Lost Colonists" — a thousand years back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
+Purpose: To deliver the subjective, emotional backstory of the drift and foreshadow the "Lost Colonists" — a thousand years back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
 
 Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak (Beat 8) and become overwhelming at the site (Beat 10).
 
@@ -158,7 +158,7 @@ Revelation (Part 3 - The Real Schism): He finds the data on the second jump — 
 
 Rationale (POV Irony): We are in Benal's head, the only one who truly understands the terrifying scale of this discovery. Keo and Teva see the "lie," but we (and Benal) see the "impossible new mission."
 
-Rationale (The "Lie"): The kids' initial, emotional reaction (especially from Teva's POV, which we'll see in Beat 14) is "They lied to us!" This is the emotional truth of the scene. Their maturation arc, particularly Teva's, will be to move from this black-and-white accusation to a more nuanced, gray understanding of why their ancestors created this "noble lie" (e.g., to prevent despair and maintain the Traditionalist mission).
+Rationale (The "Lie"): The kids' initial, emotional reaction (especially from Teva's POV, which we'll see in Beat 14) is "They lied to us!" This is the emotional truth of the scene. Their maturation arc, particularly Teva's, will be to move from this black-and-white accusation to understanding that nobody lied. The duty was real and the founders gave it; what drifted is the belief that the apparatus enforcing it came down with the duty. See `kb/worldbuilding/the-second-jump.md`.
 
 13. THE RETURN (The Heretic's Ride):
 [POV: Keo] [Fear Level: Extreme (Action / Adrenaline)]
@@ -186,7 +186,7 @@ Rationale (Emotional Climax): Vindication.
 
 Rationale (Maturation Climax): This is the emotional payoff. From Keo's POV, he understands his parents (seeing their fear and pride) rather than just feeling guilty.
 
-Rationale (Teva's Nuance Arc): As Teva makes the accusation (which we see through Keo's POV), she will see the Council's faces. She won't see villains who were "caught." She will see the same terrified, paralyzed faces from Beat 1. This is the moment of her epiphany. She has a flash of the ancestors' faces she saw in her vision (Beat 10) and realizes they are identical. This is the seed of her nuance arc: she's the first to realize, "They... they're not liars. They're... believers. They're just wrong." This fulfills her maturation from "Rage to Nuance," as she sees the flawed, frightened humanity behind the "noble lie."
+Rationale (Teva's Nuance Arc): As Teva makes the accusation (which we see through Keo's POV), she will see the Council's faces. She won't see villains who were "caught." She will see the same terrified, paralyzed faces from Beat 1. This is the moment of her epiphany. She has a flash of the ancestors' faces she saw in her vision (Beat 10) and realizes they are identical. This is the seed of her nuance arc: she's the first to realize, "They... they're not liars. They're... believers. They're just wrong." This fulfills her maturation from "Rage to Nuance," as she sees the flawed, frightened humanity behind two hundred years of keeping a promise nobody could any longer explain.
 
 Rationale (Benal's Vindication Arc): Ben stands with his friends, his "useless" work now vindicated as the most important knowledge in their world.
 

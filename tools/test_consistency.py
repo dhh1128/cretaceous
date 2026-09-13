@@ -177,3 +177,8 @@ def test_no_two_consecutive_scenes_move_no_ladder():
 def test_scenes_appear_in_day_order():
     """Anything that compares neighboring scenes is meaningless if the list is shuffled."""
     holds("scenes_in_day_order")
+
+
+def test_no_retired_claim_survives():
+    """AGENTS.md §7. A ruling applied by memory across 25 files misses some."""
+    holds("retired_claims")

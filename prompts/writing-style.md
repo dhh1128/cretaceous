@@ -1,5 +1,5 @@
 ---
-approval: approved 1051b35a
+approval: approved d7916533
 ---
 
 # Cretaceous — Writing Style
@@ -162,4 +162,4 @@ Put a space before and after an em dash.
 
 Follow the British convention of only placing punctuation inside of quotes if the punctuation is part of what was quoted.
 
-Do not capitalize species names like tyrannosaurus or deinosuchus.
+Do not capitalize species names like tyrannosaurus or quetzalcoatlus.

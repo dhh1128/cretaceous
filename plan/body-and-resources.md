@@ -1,5 +1,5 @@
 ---
-approval: approved c3a7a787
+approval: approved 7c48daa7
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -14,7 +14,7 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 `[?]` **Position at the act boundary:** 50–100 m beyond the border-tangle, pre-dawn of Day 3, ground fog to about three meters, razortails clicking nearby.
 
-**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a deinosuchus tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord and a spare water skin in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
+**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord and a spare water skin in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
 
 **Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. Septic gel on what is exposed.
 

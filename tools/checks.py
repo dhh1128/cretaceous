@@ -1028,3 +1028,49 @@ def check_scenes_in_day_order() -> list[Violation]:
 
 
 CHECKS["scenes_in_day_order"] = check_scenes_in_day_order
+
+
+
+# --------------------------------------------------------------------------
+# retired claims — a ruling that is not checkable is a ruling that gets re-made
+# --------------------------------------------------------------------------
+
+RETIRED_EXEMPT_DIRS = ("content/superseded/", "content/rejected/")
+RETIRED_EXEMPT_FILES = ("AGENTS.md",)
+
+
+@cache
+def retired_claims() -> tuple[tuple[str, str], ...]:
+    """(phrase, what is true instead), read from AGENTS.md §7 at runtime."""
+    out = []
+    for _, cells in table_rows(section("AGENTS.md", r"Retired claims")):
+        if len(cells) >= 2 and cells[0].startswith("`"):
+            out.append((plain(cells[0]), plain(cells[1])))
+    return tuple(out)
+
+
+def check_retired_claims() -> list[Violation]:
+    """No tracked file states a claim Daniel has retired.
+
+    The failure this exists for is not that a ruling is ignored -- it is that a
+    ruling is *applied by memory*, across twenty-five files, and memory misses
+    some. Five rulings made on 2026-09-12 were still contradicted in live plan
+    files hours later, two of them in files the session believed it had fixed.
+
+    A line carrying `[retired]` is exempt, which is how a file cites a retired
+    claim in order to correct it. Per line, so a paragraph cannot be quietly
+    excused."""
+    out = []
+    for path, n, line in iter_lines():
+        if path in RETIRED_EXEMPT_FILES or path.startswith(RETIRED_EXEMPT_DIRS):
+            continue
+        if "[retired]" in line:
+            continue
+        low = line.lower()
+        for phrase, instead in retired_claims():
+            if phrase.lower() in low:
+                out.append(Violation(path, n, f"retired: {phrase!r} — {instead[:88]}"))
+    return out
+
+
+CHECKS["retired_claims"] = check_retired_claims

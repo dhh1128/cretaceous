@@ -80,7 +80,7 @@ Benal's mathematics. Marek's *"do something real."*
 Croc drill in driving warm rain. *Monsters in the water* against *monsters in the blood.*
 **Add:** a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh.
 **Milieu:** the rainstorm, the leaking fern-thatch — already allocated here, spent elsewhere.
-**And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc vibration sensing** (`tech-rules.md`): Teva makes a yazhi put a hand flat on the ground and feel her own footsteps. Four micrometers, said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 3.
+**And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc surface sensing** (`tech-rules.md`): the drill is in a pool, so it is taught on water — Teva drops something in at one end and makes a child watch the ring travel, or hold a hand flat on the surface and feel another child's kick from across it. **What the animal reads is the water, not the bank.** Said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
 **Do not mention Yara here.** The reader should be able to assemble it later without help.
 
 ---
@@ -632,7 +632,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 > Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `plan/knowledge-ledger.md`.
 
 
-14.1 [Day 19 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with the truth of the "Noble Lie".
+14.1 [Day 19 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with what they found. **Not a lie** — the duty was real and the drift is in the apparatus; Teva arrives intending to accuse and stops. See `kb/worldbuilding/the-second-jump.md`.
 * **B-Story Note:** **Maturation Climax / Nuance Forged**. Keo’s perspective focuses on his parents’ reaction (vindicated pride). Teva's accusation is softened by her internal epiphany: seeing the Council's paralyzed fear and realizing the lie was born from grief, not malice, completing her **Rage to Nuance** arc. Benal stands vindicated.
 
 ### BEAT 15: FINAL IMAGE
