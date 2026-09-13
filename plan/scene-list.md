@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**The rescene is done.** **69 scenes**, which is the count `pacing-and-stakes.md` §5 proposes, and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, thirty-eight in Act 2, seventeen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+**The rescene is done.** **70 scenes**, which is the count `pacing-and-stakes.md` §5 proposes, and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, thirty-eight in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
 **Two formats are still live and that is temporary.** Act 1 and everything rescened carry size, day and hour, POV, place, ladders, must-carry, hazard and ending. A handful of Act 2 entries are still in the older single-line form with a B-Story note. Ids are **provisional and day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
@@ -498,7 +498,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ---
 
-## ACT 3: GENESIS AND THE RETURN — RESCENED, 17 scenes
+## ACT 3: GENESIS AND THE RETURN — RESCENED, 18 scenes
 
 ### D16.1 — [MEDIUM] [Day 16, morning] [BENAL] [The structure] — **NEW**
 **Ladders:** E7 P6 S6 X7
@@ -687,6 +687,19 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The parent payoff, seen by the person who has none left.** Joram and Riel look at their son with vindicated pride, and Marek looks at Benal with shocked respect — and Teva watches both, having left her grandmother to a room she can no longer follow a conversation in.
 - **The three of them, no longer children**, having saved their people and challenged their entire existence.
 **Hazard:** resolution. Nothing is settled. The Enclave does not know about the cure, the schism is worse than when they left, the asteroid is still coming, and the wig is sitting in the river being an argument nobody has had yet.
-**Ends on:** the final image, and then **the coda — epigraph 13**, delivered to the reader and to nobody in the room, correcting the false solution in the same channel that planted it.
+**Ends on:** the Council's faces, and nothing settled.
+
+### D19.9 — [MEDIUM, ~1100] [Day 19, later that night] [TEVA] [Outside, above the Enclave] — **NEW**
+**Ladders:** E8 P2 S10 X9
+**She goes out and watches the sky, and that is the epiphany rather than a statement of it.**
+**Must carry:**
+- **The Watch, resumed, deliberately.** `plan/scene-list.md` 2.4 planted it — Omya asks whether the sky was watched last night and Teva has no good answer, because nobody ever told her the duty had become hers. **Watching the sky is keeping a promise nobody can any longer explain**, which is exactly what she has just decided the Council has been doing for two hundred years. Doing it on purpose, knowing how it looks, is the whole distance her arc travels. It is not forgiveness; it is her becoming one of them with her eyes open.
+- **Benal and Keo come out too**, separately rather than as a delegation, and she **speaks**. She is bad at it. `[?]` It should be short, slightly wrong, and abandoned halfway — the fact that she said anything at all is the seal on the arc, not the content of it. Concealment was her entire apparatus and this is the first time she has put something down without being forced to.
+- **The bookend against 1.1, on every axis.** That scene was enclosed in a culture chamber lit only by its own cultures; this is outdoors under a real sky. There, Omya failed a protocol in public and was watched; here, the thing Omya can still do turns out to matter. There, a child died; today a child will not. There, Teva was alone in a crowded room; here she has two friends. There, rage; here, something harder to name and more useful.
+- `[?]` **The asteroid is up there and they still cannot find it.** The question was asked on Day 6 and Benal's answer was funny and appalling at once; it landed hardest on the Day 10 star night. **This is the third and last time the sky gets asked**, and now they know roughly how long, which is worse.
+- `[?]` **Noli was at the other star night.** Day 10 is the last peaceful night and she is alive in it, and nobody says her name here.
+- **One small comic callback**, which is what `plan/humor-plan.md` reserves for the final image — the joke that became theirs on Day 6, returning and landing differently.
+**Hazard:** her explaining her arc. She does not say *they weren't lying*. She says something smaller and does not finish it, and the reader supplies the rest, because a character articulate about her own change has not changed.
+**Ends on:** the three of them looking up, and then **the coda — epigraph 13**, delivered to the reader and to nobody in the world, correcting the false solution in the same channel that planted it.
 
 

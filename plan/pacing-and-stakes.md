@@ -112,7 +112,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
 | 17 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
 | 18 | **3** | no boat, and no route home · Keo finds something to talk to, and two hulls · **the flash that shows a man burying something where Benal was lying yesterday**. Raised from two: the row always named three things, and the capsule is a fourth |
-| 19 | ~8 | salvaging one wig from two · understanding the machine · the launch · the chase · the landing on the river · the handover · the confrontation · fact B failing · the final image and the coda |
+| 19 | **9** | salvaging one wig from two · the capsule · the launch · the chase · the landing on the river · the handover · the confrontation with fact B failing · the final image · **and one scene after it, outside, under the sky.** Raised from eight: the row listed nine separate jobs, and the last of them is two — the chamber settles nothing by design, and Teva's turn cannot happen in a cave |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.
 

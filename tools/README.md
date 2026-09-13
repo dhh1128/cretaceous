@@ -98,7 +98,9 @@ The search key is derived from the allocation row's own label, and the page and 
 | Day 19 rescened | `scenes_per_day` | 1 → **0** | **the rescene is done.** 69 scenes against the 69 §5 proposes, and every day holds its number. |
 | Day 19 rescened | `allocation_covered` | 1 → **0** | the flybeak's second and last appearance is the chase, so writing the chase cleared it. It stayed red for four commits because the honest fix was always to write the scene. |
 
-**Where the baseline ended up.** `scenes_per_day` 14 → 0, `allocation_covered` 12 → 0, `epigraph_count` 1 → 0. `eliminated_unit_word` is still at 97 and the sweep has not started. `every_scene_moves_a_ladder` sits at 1, on a pair in Act 1 that predates the rescene. **Nothing was reached by weakening a check**; the one target that moved is Day 18, two to three, argued above.
+**Where the baseline ended up.** `scenes_per_day` 14 → 0, `allocation_covered` 12 → 0, `epigraph_count` 1 → 0. `eliminated_unit_word` is still at 97 and the sweep has not started. `every_scene_moves_a_ladder` sits at 1, on a pair in Act 1 that predates the rescene.
+
+**Two targets moved during the rescene and both are argued rather than quiet.** Day 18, two to three, because the §5 row always named three things and the capsule made a fourth. Day 19, eight to nine, because the row listed nine separate jobs and its last entry was two of them — the chamber settles nothing by design, and Teva's turn cannot happen in a cave. **`act_composition` caught the second one within a minute**, because the Act 3 heading still claimed seventeen: a count stated in two places is a count that can be checked.
 
 ## Not yet built
 
