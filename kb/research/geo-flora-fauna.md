@@ -1,5 +1,5 @@
 ---
-approval: approved 4ca001f1
+approval: approved 880be723
 ---
 
 # **PALEOECOLOGICAL REPORT: YUCATAN PLATFORM, LATE MAASTRICHTIAN (ca. 66.0005 Mya)**
@@ -62,6 +62,7 @@ approval: approved 4ca001f1
 * Angiosperms (Flowering Plants): Formed the dominant main canopy layer.  
   * *Palmae* (Palm Family): Common components of the forest, representing an early diversification of palms.16  
   * *Lauraceae* (Laurel Family): Evergreen dicots, ancestors to modern bay laurels and avocados, were widespread.15  
+  * *Annonaceae* (Custard-Apple Family): The magnoliid family the colony's **stonefruit** comes from. `[?]` **Confidence is lower than for the rest of this section.** Annonaceae are securely known from the Paleogene; a terminal-Cretaceous presence is inferred from the age of the magnoliid radiation rather than read off a Maastrichtian specimen. Defensible for fiction, and the honest statement is that the family's ancestors were around rather than that this family was.
   * *Fagaceae* (Beech/Oak Family): Early members of this family were present in southern North American floras.16  
   * *Juglandaceae* (Walnut Family): Ancestors of modern walnut and hickory trees were part of the ecosystem.16  
   * Aquatic Angiosperms: Relatives of lotuses, water cabbage, and cattails populated freshwater environments.17  
@@ -106,7 +107,8 @@ approval: approved 4ca001f1
 
 * **A large crocodylian, genus indeterminate.** Around six meters, an apex ambush predator taking prey at the water's edge. `[retired]` **It is deliberately unnamed, and *Deinosuchus* is specifically excluded** — that genus is Campanian, securely dated in the Aguja and Kaiparowits at roughly 82 to 73 Ma, and absent from the well-sampled terminal Maastrichtian faunas, so it had been extinct some seven million years by the time this story opens. No terminal-Cretaceous terrestrial or freshwater vertebrate assemblage is documented from the Yucatan platform at all, so nothing here can be placed to genus honestly. The colonists are scientists with no reference collection, looking at an animal that matches nothing they were taught; **"croc" is the only name anyone has for it, in the world and on the page.**  
 * *Borealosuchus sternbergii*: Boreal Crocodile. A more modestly sized crocodyliform, around 3-4 meters long, that co-existed with its giant relative in freshwater systems.31  
-* *Coniophis precedens*: A primitive, transitional snake with a serpentine body but a more lizard-like, non-kinetic skull; it was a small, burrowing carnivore.32  
+* *Coniophis precedens*: A primitive, transitional snake with a serpentine body but a more lizard-like, non-kinetic skull; it was a small, burrowing carnivore.32
+* *Madtsoiidae*: A family of large constricting snakes, well established in the Late Cretaceous of Gondwana and North America and surviving long after it. **This is the constrictor of Day 5** — `plan/milieu-allocation.md` allocates it there and the planning layers were using it before this file carried it. Genus deliberately unspecified: madtsoiid material is fragmentary and the story needs a large ambush constrictor rather than a named species.  
 * *Palaeosaniwa canadensis*: Ancient Monitor Lizard. A large, predatory varanid lizard up to 3 meters long, an active hunter analogous to the modern Komodo dragon.23  
 * *Polyglyphanodon sternbergi*: An extinct polyglyphanodontian lizard, a dominant group in the Late Cretaceous; this species was a relatively large herbivore.34  
 * *Mosasaurus hoffmanni*: Meuse River Lizard. A giant (up to 17 meters) marine reptile, the apex predator of the nearby seas, preying on fish, turtles, and other marine reptiles.25

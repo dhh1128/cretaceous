@@ -1467,3 +1467,97 @@ def check_no_legacy_addresses() -> list[Violation]:
 
 
 CHECKS["no_legacy_addresses"] = check_no_legacy_addresses
+
+
+# --------------------------------------------------------------------------
+# post-renumber: the address checks that were blocked on it
+# --------------------------------------------------------------------------
+
+SCENE_ADDRESS = re.compile(r"(?<![\w.])(D\d{1,2}\.\d{1,2})(?:\.(\d{1,3}))?(?![\w.])")
+
+
+def check_scene_addresses_resolve() -> list[Violation]:
+    """Every `D<day>.<n>` cited anywhere is a scene the list actually holds.
+
+    Blocked on the rescene until now, because the ids were about to move. Green
+    on arrival and that is the point: 261 references were rewritten by script in
+    one pass, and this is the check that says the pass landed. It earns its place
+    afterwards as the guard on every future insertion -- a layer assigning work to
+    a scene that does not exist is the failure that made the old list unusable."""
+    have = {sid for _, sid, _ in scenes()}
+    out = []
+    for path, n, line in iter_lines():
+        if "[retired]" in line:
+            continue
+        for m in SCENE_ADDRESS.finditer(line):
+            if m.group(1) not in have:
+                out.append(Violation(path, n, f"{m.group(1)} is cited and is not a scene"))
+    return out
+
+
+REQUIRES = re.compile(r"\[requires ([^\]]+)\]")
+
+
+def check_requires_resolve() -> list[Violation]:
+    """Every `[requires …]` pointer names a scene that exists.
+
+    `foreshadow-and-motif.md` §2 defines the form and its own text says the
+    payload matters as much as the address -- what has to still be true at the far
+    end, not just where it lives. The address half is checkable now; **the payload
+    half is not, and no proxy for it belongs here.** A `[requires D2.3.17]` also
+    names a move, and moves do not exist until the scene maps do, so the move
+    number is parsed and deliberately not verified."""
+    have = {sid for _, sid, _ in scenes()}
+    out = []
+    for path, n, line in iter_lines():
+        for m in REQUIRES.finditer(line):
+            body = m.group(1)
+            if body.startswith("<"):        # the form's own template line
+                continue
+            for a in SCENE_ADDRESS.finditer(body):
+                if a.group(1) not in have:
+                    out.append(Violation(path, n, f"[requires {a.group(1)}] names no scene"))
+            if not SCENE_ADDRESS.search(body):
+                out.append(Violation(path, n, f"[requires {body[:40]}] names no address"))
+    return out
+
+
+# Family, order and subfamily names are unambiguous; a bare two-word italic is
+# not, because italics in this corpus carry emphasis far more often than taxa and
+# a two-word pattern comes back 85% noise. So this covers rank names only, and
+# says so rather than pretending to cover binomials.
+TAXON_RANK = re.compile(r"\*([A-Z][a-z]+(?:idae|aceae|ales|inae|ceae))\*")
+RESEARCH = "kb/research/geo-flora-fauna.md"
+
+
+def check_taxa_in_research() -> list[Violation]:
+    """A taxon named in the planning layers exists in the research file.
+
+    `plan/milieu-brief.md` states the precedence outright -- *if this file and one
+    of those disagree, the specialist file wins and the discrepancy is a defect to
+    be reported* -- and nothing enforced it. A plan that names an animal or a plant
+    the research does not carry is either an invention or a research gap, and both
+    want reporting.
+
+    **This is the narrow, deterministic slice of a wider problem it does not
+    solve.** The wider one is `plan/` contradicting `kb/research/` on *behavior*:
+    the scene list had a *Quetzalcoatlus* snatching prey on the wing while the
+    research file said, on its own line, that the animal was a terrestrial stalker
+    hunting on the ground. Both files named the animal. No string comparison can
+    see that, and the lens tier is where it belongs."""
+    research = "\n".join(lines_of(RESEARCH))
+    out = []
+    for path, n, line in iter_lines():
+        if path.startswith(("plan/", "kb/worldbuilding/")):
+            for m in TAXON_RANK.finditer(line):
+                if m.group(1) not in research:
+                    out.append(Violation(path, n,
+                                         f"{m.group(1)} is named here and is absent from {RESEARCH}"))
+    return out
+
+
+CHECKS.update({
+    "scene_addresses_resolve": check_scene_addresses_resolve,
+    "requires_resolve": check_requires_resolve,
+    "taxa_in_research": check_taxa_in_research,
+})

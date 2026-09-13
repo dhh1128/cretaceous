@@ -204,3 +204,20 @@ def test_no_payoff_lands_before_its_plant():
 def test_no_retired_scene_address_survives():
     """Four of the Act 1 mappings kept their digits, so a missed one looks almost right."""
     holds("no_legacy_addresses")
+
+
+# --- post-renumber: the address checks the rescene was blocking ------------
+
+def test_every_scene_address_resolves():
+    """261 references were rewritten by script in one pass; this says the pass landed."""
+    holds("scene_addresses_resolve")
+
+
+def test_every_requires_pointer_names_a_scene():
+    """The address half is checkable; the payload half is not, and no proxy for it belongs here."""
+    holds("requires_resolve")
+
+
+def test_every_taxon_named_in_the_plan_exists_in_the_research():
+    """milieu-brief states the precedence: the specialist file wins."""
+    holds("taxa_in_research")
