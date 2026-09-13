@@ -1,5 +1,5 @@
 ---
-approval: approved 29e11728
+approval: approved b32e274a
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -45,7 +45,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
 | 20 | The suits are fed sugar | 4.3 | the honey is split between four mouths and two suits | Day 6 | none |
-| 21 | **The river gratings pass anything small, which grows up inside** | 2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | 2.3 / 10.1 | none |
+| 21 | **The river gratings pass anything small, which grows up inside** | 2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | 4.1 / 10.1 | none |
 | 22 | The gratings must be raised to open the river | 2.5 or 4.x | **flying the wig means opening the croc barrier, every time** | 15.1, book 2 | none |
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.

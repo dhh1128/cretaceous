@@ -1309,13 +1309,39 @@ def scene_days_by_address() -> dict[str, int]:
     return {**aliases, **current}
 
 
+@cache
+def scene_position_by_address() -> dict[str, int]:
+    """address -> its ordinal position in the scene list, aliases included.
+
+    **Position in the file is the ordering, not anything parsed out of the id**,
+    and that is the only way to compare two schemes at once. In the day-major
+    scheme the minor number sequences the day, so `D2.5` follows `D2.3`. In the
+    older scheme the *major* number does, because it was an outline unit — so
+    `4.1` is late that night and `2.5` is that afternoon, and reading the minor
+    number puts them backwards. `scenes_in_day_order` already guarantees the days
+    ascend down the file, so file order is story order and it needs no parsing.
+
+    Written after a corrected ledger row stayed red: the row was right and the
+    comparison was wrong."""
+    pos, where = {}, scene_days_by_address()
+    order = {sid: i for i, (_, sid, _) in enumerate(scenes())}
+    for addr in where:
+        if addr in order:
+            pos[addr] = order[addr]
+    # aliases inherit the position of the entry that records them
+    for i, (n, sid, line) in enumerate(scenes()):
+        for alias in re.findall(r"\*was (?:part of )?([A-Za-z]?\d+\.\d+)\*", line):
+            pos.setdefault(alias, i)
+    return pos
+
+
 def _addresses(cell: str) -> list[tuple[int, int | None, str]]:
-    """(day, minor number, as written) for every address in a ledger cell.
+    """(day, position in the scene list, as written) for every address in a cell.
 
     Sorted earliest first, and a bare day reference sorts ahead of a scene on the
     same day because it names the whole day rather than a position inside it."""
-    where = scene_days_by_address()
-    found = [(where[tok], int(tok.split(".")[1]), tok)
+    where, pos = scene_days_by_address(), scene_position_by_address()
+    found = [(where[tok], pos.get(tok), tok)
              for tok in SCENE_ADDR.findall(cell) if tok in where]
     found += [(int(d), None, f"Day {d}") for d in DAY_ADDR.findall(cell)]
     return sorted(found, key=lambda a: (a[0], -1 if a[1] is None else a[1]))

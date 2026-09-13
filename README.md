@@ -39,6 +39,7 @@ The story runs nineteen days. A child dies in the Vitarium because the last Mast
 | `tech-rules.md` | every capability audited for where its rule is taught and where it is exploited |
 | `minor-characters.md` | everyone but the three; four `[provisional]` names |
 | `sequels.md` | the shape of books 2 and 3, and what book 1 has to protect for them |
+| `titles-and-cover-art.md` | the series and book titles, the systems declined and why, and the three-cover house style |
 
 ### `prompts/` — what you hand a model
 
