@@ -122,6 +122,12 @@ Every check above `allocation_covered` asserts something about the *list* — ho
 
 The demonstration, from the session that built these: a drafting pass produced three Day 6 scenes and silently dropped six things the allocation assigns to Day 6 — the amber, the armored indifferent animal, the oaks and walnuts, the stonefruit, the face-height spiderwebs, and the harmless croc in clear water, which had been argued for in conversation minutes earlier. Nothing in the suite noticed. **A counting check can be satisfied by doing the wrong thing**, which is the same defect as a statistic averaged over two populations, and the answer is the same: look inside.
 
+### The hazard in using `allocation_covered` as a to-do list
+
+**It tells you a day is missing an item. It cannot tell you what the item does there, and the fastest way to clear it is to invent one.** That happened within an hour of the check being praised for exactly this use: Day 14 was flagged for not mentioning the ovos, and the fix written into the entry said the turtle eggs were *food they cannot stop for* — which contradicts `plan/body-and-resources.md:105`, where the Day 14 row reads *ovos at the turtle beach — the last real meal*. The check went green on an invention that broke an approved layer.
+
+**So the order matters.** Read the miss, then read what the owning layer already says about the item, and only then write. The check is a good instrument and a bad brief.
+
 ### The known false-positive class in `allocation_covered`
 
 The search key is derived from the allocation row's own label, and the page and the table rarely agree on wording. Matching is on a six-character prefix, which handles *Grounders* against *a grounder* and *Mosasaurus* against *the Mosasaur* — the first attempt stripped a trailing `s`, which fixed the first pair and broke the second. It will still miss a scene that names an animal by the colony's word while the row names it by binomial. **When that starts costing more than the check catches, the fix is a declared key column in the allocation table**, which is a change to an approved file.
