@@ -1,5 +1,5 @@
 ---
-approval: approved 7c48daa7
+approval: approved 19d28306
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -71,7 +71,7 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 
 Taken from viking and cordimancy, where **somebody is always doing something with their hands** while the conversation happens: whittling a spear point with a broken arm, tossing a stick for a dog, rubbing crushed fern into swollen ankles, turning a skewer, weaving a hat that comes out too big.
 
-**The task carries the scene, not the dialogue.** It supplies the beats, it supplies the silences, and it gives a character a reason not to look at anyone. In viking a man whittles through an entire despairing conversation and his only line is *"Can't hurt"* — which answers both the question about the spear and the one about hopelessness. Remove the whittling and the scene becomes people taking turns delivering backstory into a void, which is precisely the failure mode.
+**The task carries the scene, not the dialogue.** It supplies the rhythm, it supplies the silences, and it gives a character a reason not to look at anyone. In viking a man whittles through an entire despairing conversation and his only line is *"Can't hurt"* — which answers both the question about the spear and the one about hopelessness. Remove the whittling and the scene becomes people taking turns delivering backstory into a void, which is precisely the failure mode.
 
 **Cretaceous has an unusually good supply of these**, and they are all already canon: drying and re-treating spear shafts, feeding the suits, tending the biofilm, cleaning and re-dressing Keo's wound, processing forage, mending, sharpening, checking the seams of a suit that is failing. **Every lay-up scene should open with somebody's hands already busy.**
 
@@ -127,7 +127,7 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 |---|---|---|
 | 4–5 | biofilm dying along the pack straps where it abrades | **constrictor: left elbow seal compromised, integrity ~40%.** Plating groaned and held |
 | 6 | **fed properly** — honey and fruit, split between four mouths and two suits, and somebody says so out loud | biofilm begins repairing the elbow, drawing sugar he cannot spare |
-| 8 | river silt in the ankle seams; chromatophores lag by a beat after | lag the same; he notices, she doesn't |
+| 8 | river silt in the ankle seams; chromatophores lag a moment after | lag the same; he notices, she doesn't |
 | 10 | **thermal saturation on the savanna.** The system loses and she cooks inside her own protection | thermal fine; his regulation is good and the suit barely has to work |
 | 11 | unshelled since Day 10; she is carrying it rather than wearing it, and the rain is the only reason she can walk at all | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
 | 12–13 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
@@ -135,7 +135,7 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 | 15 | **immersion.** Biofilm dying in sheets, and she has been out of the suit since Day 10 anyway. What the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
 | 16 | a dead gray skin she is still wearing because taking it off is worse | the same |
 
-**Two beats worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
+**Two moments worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
 
 ## 3c. Weapons are on a clock, and the weather winds it
 

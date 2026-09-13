@@ -117,7 +117,7 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 
 ### Three entries doing more work than they look
 
-**B — the upgrades are the cure.** Moving this from beat 12 to an Act 1 epigraph is the single highest-yield change available, and it costs nothing but reordering. Once the reader holds it, every Seeding, every failed expression, Teva's grief over the sensory upgrades that didn't take, Benal's freakish height — all of it carries the knowledge that these people are carrying the salvation of a species and have forgotten. And **Omya's dementia stops being a local tragedy and becomes the extinction of humanity happening inside one old woman's head** while a boy watches her offer the wrong gel and ask about bread. Three hundred pages of free dread.
+**B — the upgrades are the cure.** Moving this from the Genesis revelation to an Act 1 epigraph is the single highest-yield change available, and it costs nothing but reordering. Once the reader holds it, every Seeding, every failed expression, Teva's grief over the sensory upgrades that didn't take, Benal's freakish height — all of it carries the knowledge that these people are carrying the salvation of a species and have forgotten. And **Omya's dementia stops being a local tragedy and becomes the extinction of humanity happening inside one old woman's head** while a boy watches her offer the wrong gel and ask about bread. Three hundred pages of free dread.
 
 **M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc took her while their parents watched. Teva and Benal don't learn it until the confessional at 10.1. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes 10.1 a release rather than an information delivery.
 
@@ -136,7 +136,7 @@ Twelve, plus a coda.
 | # | placement | form | job |
 |---|---|---|---|
 | 1 | before 1.1 *(written)* | CDC alert | The pandemic. 99.97%. Stakes, no irony yet. |
-| 2 | Act 1, before beat 3 | Joint Command memo *(sketched, in the rejected ch6 draft)* | The Chicxulub Solution authorized despite paradox risk. |
+| 2 | Act 1, before the debate | Joint Command memo *(sketched, in the rejected ch6 draft)* | The Chicxulub Solution authorized despite paradox risk. |
 | 3 | **end of Act 1** | Program brief | **The vector work IS the deliverable.** Irony begins here and runs to 12.1. |
 | 4 | early Act 2, recurring | **Dr. Cecilia Arroyo**, writing to her sister **Marisol** | **Gives the future a face.** See below. |
 | 5 | mid Act 2 | Targeting parameters | Confidence bounds. Seeds F and D — they will not know precisely when they land. |
@@ -183,7 +183,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 - **Act 1** — pressure builds fast: B, M, N, O all go ironic here. The reader ends Act 1 knowing four things the characters don't. Every ordinary scene is now loaded.
 - **Act 2** — pressure at maximum. D, E, K join. The reader is ahead on seven counts and waiting. This is the page-turning engine, and it is what carries a long middle that is otherwise just walking.
-- **Act 3** — pressure discharges. Beats 11–14 are the trio catching up to the reader, which is why they should feel like *release* rather than instruction. The only thing the reader doesn't have is G, which is why G is the climax.
+- **Act 3** — pressure discharges. Everything from the hatch at Genesis to the confrontation is the trio catching up to the reader, which is why they should feel like *release* rather than instruction. The only thing the reader doesn't have is G, which is why G is the climax.
 
 ## Validator rules
 
@@ -209,7 +209,7 @@ But the trio must not **choose** to withhold it, or they become unlikeable in th
 
 **He must try twice.** Not one quiet failed attempt — the second is the one Sila swallows.
 
-**The guard against anticlimax:** the timeline revelation must land hard in that scene. Beat 14 is not a failure, it is a success with one splinter left in it. The reader — holding fact B since Act 1 — watches a room fail to receive what they have carried for three hundred pages, which is the payoff the whole allocation was built for. And the splinter is book 2's first scene, where pressing it becomes Benal's deliberate choice, which is where the noble-lie temptation belongs.
+**The guard against anticlimax:** the timeline revelation must land hard in that scene. The confrontation is not a failure, it is a success with one splinter left in it. The reader — holding fact B since Act 1 — watches a room fail to receive what they have carried for three hundred pages, which is the payoff the whole allocation was built for. And the splinter is book 2's first scene, where pressing it becomes Benal's deliberate choice, which is where the noble-lie temptation belongs.
 
 ## Open
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 4c4061f2
+approval: approved 971f42c1
 ---
 
 # Cretaceous — Milieu Brief
@@ -18,7 +18,7 @@ approval: approved 4c4061f2
 | the wig | `kb/worldbuilding/the-wig.md` |
 | the second jump, and the deep backstory | `kb/worldbuilding/the-second-jump.md` |
 | names | `kb/worldbuilding/names.md` |
-| plot, beats, rationale | `plan/outline.md` → `plan/scene-list.md` |
+| plot, structure, rationale | `plan/outline.md` → `plan/scene-list.md` |
 | prose style | `prompts/writing-style.md` |
 
 If this file and one of those disagree, **the specialist file wins** and the discrepancy is a defect to be reported, not a choice to be made at the keyboard.
@@ -314,7 +314,7 @@ As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 7
 
 ## 9. Characters
 
-Full arcs, beat placement and rationale live in `outline.md`. Here: the facts a scene needs.
+Full arcs, their placement in the structure and rationale live in `outline.md`. Here: the facts a scene needs.
 
 ### Keo — 16–18, male, POV
 

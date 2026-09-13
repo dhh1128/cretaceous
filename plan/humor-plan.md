@@ -1,5 +1,5 @@
 ---
-approval: approved 524d9fc1
+approval: approved 2087a902
 ---
 
 # Humor plan
@@ -46,7 +46,7 @@ Rough ratio: for every ten jokes in the book, Benal gets six, Keo three, Teva on
 
 ### Noli — and the mechanism, which is not what I first wrote
 
-I had a quota here — four funny beats before the midpoint. That is not a method. The method is in viking, and it is this:
+I had a quota here — four funny moves before the midpoint. That is not a method. The method is in viking, and it is this:
 
 **Give her opinions. Specifically, give her grievances.**
 
@@ -58,13 +58,13 @@ Viking makes a fifty-meter flying alien lovable in two sentences by having her b
 
 Keo's private projected register with her — *good-pack-good-food* — is already charming and should be used far more, because it is the channel where her opinions arrive.
 
-Four beats before the midpoint remains a reasonable floor. But **write the opinions first and the beats will exist.**
+Four moves before the midpoint remains a reasonable floor. But **write the opinions first and the moves will exist.**
 
 ---
 
 ## Budget and placement
 
-- **Roughly one comic beat per scene through Act 1 and the first half of Act 2.** Not a joke — a beat, which may be one line or a piece of business.
+- **Roughly one comic move per scene through Act 1 and the first half of Act 2.** Not a joke — a move, which may be one line or a piece of business.
 - **Placement is before or after peak tension rather than inside it.** A joke inside a crisis tends to dissolve the crisis. A joke on the far side of one is release, and a joke just before one is the thing the reader will remember when it goes wrong.
 - **The frequency should fall after the midpoint and not recover** — except Benal's, which rises. That crossing is the point.
 - Act 3 gets almost none until the final image, where one small callback does more than a paragraph.
@@ -91,7 +91,7 @@ These matter more than the registers above, because they are what a model gets w
 
 **1. Bits, not quips.** His comedy is *business* other characters can watch and react to — sleight of hand with a dog, juggling a too-hot piece of meat, a hat woven too big. Not one-liners. A bit gives everyone in the scene something to do, which is exactly what a lay-up needs.
 
-**2. The laugh always has something underneath it.** Viking gives its best comic timing to the antagonist — a man telling a story about a crewmate vomiting worms, purely to watch someone's face drain, then roaring with laughter at their fear. The reader laughs a beat before understanding what they laughed at. Cretaceous has no bully, so the equivalent is **Benal's gallows register**: every joke he makes is about a way one of them could die.
+**2. The laugh always has something underneath it.** Viking gives its best comic timing to the antagonist — a man telling a story about a crewmate vomiting worms, purely to watch someone's face drain, then roaring with laughter at their fear. The reader laughs a moment before understanding what they laughed at. Cretaceous has no bully, so the equivalent is **Benal's gallows register**: every joke he makes is about a way one of them could die.
 
 **3. The deadpan straight man tops the comedian.** Paka clowns and Shivi flattens him, every time — *"Perhaps I'll just spit it again."* **The funny one does not win his own exchange.** So: Benal performs and **Teva lands the last line**, which is also how her one-joke-in-ten rate stops being a deficit and becomes a weapon.
 
@@ -104,18 +104,18 @@ These matter more than the registers above, because they are what a model gets w
 - **Narration being funny.** The register belongs to the characters. The prose stays close third and does not wink at the reader.
 - **Explaining the joke** — a laugh described after a line, a "he was joking, mostly." Let it sit.
 - **Anachronism.** No reference outside a world these three have actually lived in. The anachronism rule in `writing-style.md` applies to comedy hardest, because jokes reach for cultural furniture reflexively.
-- **Charm that costs nothing.** The best comic beats should also carry plot, characterization, or foreshadowing. The scene list has room for exactly one purely delightful moment, and it should be Noli's.
+- **Charm that costs nothing.** The best comic moves should also carry plot, characterization, or foreshadowing. The scene list has room for exactly one purely delightful moment, and it should be Noli's.
 
 ## Where it goes in Act 1
 
-The current draft has no room for any of this because every scene is at full emotional load. Beat 2 — the unsettled-normalcy morning — is the natural home and is currently the thinnest material in the act. That is not a coincidence: **beat 2 has no job in the plan except to mark time**, and giving it the charm assignment turns its weakness into its purpose. It becomes the deposit against which the whole rest of the book draws.
+The current draft has no room for any of this because every scene is at full emotional load. The unsettled-normalcy morning is the natural home and is currently the thinnest material in the act. That is not a coincidence: **that morning has no job in the plan except to mark time**, and giving it the charm assignment turns its weakness into its purpose. It becomes the deposit against which the whole rest of the book draws.
 
-**Allocation, against the rescened fourteen-scene Act 1.** *(The previous version of this line pointed at scene numbers that have since moved — its `02.3` was Teva and the yazhi, which is now 2.5, and the new 2.3 had no allocation at all. Caught by a forward structure map of 2.3, which had to invent comic beats to fill the hole.)*
+**Allocation, against the rescened fourteen-scene Act 1.** *(The previous version of this line pointed at scene numbers that have since moved — its `02.3` was Teva and the yazhi, which is now 2.5, and the new 2.3 had no allocation at all. Caught by a forward structure map of 2.3, which had to invent comic moves to fill the hole.)*
 
 | scene | comic assignment |
 |---|---|
 | **2.1** Keo trains Noli | **two of Noli's four opinions.** Seed *"we'll be fine"* as the tic the others will later throw back at him |
-| **2.2** Benal at home | the first audible note of his gallows register — it exists before the perimeter, not from beat 8 |
+| **2.2** Benal at home | the first audible note of his gallows register — it exists before the perimeter, not once the mudwalk turns bad |
 | **2.3** Keo with his parents | **this family has jokes that predate the novel, and that is the whole assignment.** Riel's quantifying is the delivery mechanism — she gives a number where anyone else would give an impression — but **the joke is the family's, not the narration's.** They tease her about it, the tease exaggerates her, and the gap between the tease and the mild reality is the warmth. She is not a human abacus and the prose never plays her as one. An old running bit about Joram's silence that all three can run without explaining. **The register dies the instant Alira's name is said** and does not return in the scene — which is how the reader learns what the morning cost |
 | **2.4** Teva with Omya | **Omya is funny when lucid** — exacting, dry, unsentimental. This is the only time in the novel the reader sees it, which is the point |
 | **2.5** Teva and the yazhi | a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh |

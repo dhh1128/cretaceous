@@ -29,7 +29,7 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | file | what it gives this scene |
 |---|---|
 | `scene-list.md` | the scene's entry: size, day, POV, location, ladders, what it must carry, what it ends on |
-| `outline.md` | the beat of the fifteen-beat structure this sits in |
+| `outline.md` | which step of the fifteen-step structure this sits in |
 | `body-and-resources.md` | the loadout at departure, and the physical state this scene inherits |
 | `pacing-and-stakes.md` | the four ladders and this scene's rung on each |
 | `character-arcs.md` | what each character wants, believes, fears and hides at this point |

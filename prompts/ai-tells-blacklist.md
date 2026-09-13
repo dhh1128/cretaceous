@@ -1,5 +1,5 @@
 ---
-approval: approved 11097f14
+approval: approved 0e190a4f
 ---
 
 # AI tells — the blacklist
@@ -65,7 +65,7 @@ approval: approved 11097f14
 > What is a "perimeter cord"? You've used the term twice and I have no idea what it is, even though I read the entire milieu brief and helped plan the whole novel.
 > "overnight cloth" and "catch basin" need some explanation. Using the terms without explanation may be what your instructions say, but this one needs slightly better hints. Maybe instead of "Water ran" you could say "Rainwater caught overnight ran in a thin line".
 
-**Rule.** Leaving in-world terms unglossed is right — that instruction stands. What he is asking for is *hints*, not explanation: his own fix was *"Water ran"* → *"Rainwater caught overnight ran in a thin line"*, which glosses nothing and teaches everything. The test he applied: if the author, who planned the novel, cannot decode it, the reader cannot. All three terms he flagged were **coined compound nouns**, so those are the ones to look at hardest — a clause showing the thing working usually beats a name for it.
+**Rule.** Leaving in-world terms unglossed is right — that instruction stands. What he is asking for is *hints*, not explanation: his own fix was *"Water ran"* → *"Rainwater caught overnight ran in a thin line"*, which glosses nothing and teaches everything. The test he applied: if the author, who planned the novel, cannot decode it, the reader cannot. All three terms he flagged were **coined compound nouns**, so those are the ones to look at hardest — a clause showing the thing working is usually worth more than a name for it.
 
 ## 8. Unearned callbacks
 

@@ -1,5 +1,5 @@
 ---
-approval: approved bab547ea
+approval: approved 8c311aee
 ---
 
 # Style canon
@@ -25,7 +25,7 @@ Quotes spot-checked against source, 2026-09-09. Line numbers point at the passag
 | semicolons : colons | — | **474 : 18** |
 | attribution | `said` 111, `replied` 1 | `said` 492, `asked` 124 |
 
-**Short sentences cluster at paragraph *ends* as beat-closers, and are frequently paragraphs of their own.** A model told to write punchy prose distributes them evenly inside paragraphs. That is the single most common way to sound almost right and be wrong.
+**Short sentences cluster at paragraph *ends* as closers, and are frequently paragraphs of their own.** A model told to write punchy prose distributes them evenly inside paragraphs. That is the single most common way to sound almost right and be wrong.
 
 ---
 
@@ -77,7 +77,7 @@ Situation, relationship, danger level and the speaker's age, in nine words. It w
 
 Paragraphs shorten to two words; the negations run from external senses inward to the man.
 
-**[three beats of reaction before the fact that caused them]** `viking.md:5498`
+**[three reactions before the fact that caused them]** `viking.md:5498`
 > He stopped crawling.
 >
 > He stopped breathing.
@@ -103,7 +103,7 @@ Whether the tracheotomy works is never told, here or later. The reader is left h
 **[ends on paralysis in both directions]** `cordimancy.md:2248`
 > She stood in the dark until the sound behind her stopped. Then she stood a while longer, because she could not make herself move in either direction.
 
-The emotional beat is made physical — a countable ten paces — and the final clause refuses to choose.
+The emotion is made physical — a countable ten paces — and the final clause refuses to choose.
 
 ## 3. Transitions and time skips
 
@@ -302,7 +302,7 @@ The chapter ends there. The answer is withheld from the listener and the reader 
 
 ## 11. Attribution
 
-**[fourteen untagged lines, one re-anchoring beat at the midpoint]** `viking.md:2432`
+**[fourteen untagged lines, one re-anchoring tag at the midpoint]** `viking.md:2432`
 > "Maybe something was damaged. They were parked awfully close to the herd when it all started."
 >
 > "Maybe."
@@ -340,7 +340,7 @@ He is cut off mid-point, someone else takes the floor, and he has to fight back 
 **[italics, no quotes, no tags — the typography does it]** `viking.md:4850`
 > *Erisa Explorer, this is Dr. Edvardsen. The emergency beacon tells us you're there and alive, but it isn't set up to relay your implants. So I'm afraid this will be a one-sided conversation.*
 
-Paragraph breaks become the beats where listeners would have interrupted. Reaction deferred to prose afterward.
+Paragraph breaks become the pauses where listeners would have interrupted. Reaction deferred to prose afterward.
 
 **[two channels alternating — the model for Keo and the AI]** `viking.md:6408`
 > *You may not know this, but I've been following you for a while*, Geire began.
@@ -417,7 +417,7 @@ Three people who nearly died yesterday spend their first waking minute on urinat
 **[the laugh has something underneath it]** `viking.md:1440`
 > When Whemper's face blanched, Heward burst into laughter. "Don't be a fool! You think I'd re-enlist if it had really been that bad?"
 
-The joke is a small act of torture with a punchline, and the reader laughs a beat before realizing what they laughed at.
+The joke is a small act of torture with a punchline, and the reader laughs a moment before realizing what they laughed at.
 
 **[comic bravado as refusal to acknowledge fear]** `viking.md:2482`
 > Abbott yawned mightily and rubbed his eyes. "Let's go. I've got dibs on the presidential suite," he said. "And I'll kill anyone who wakes me up. I plan to sleep in tomorrow."
@@ -449,7 +449,7 @@ The impulse is toward **laughter**, which is truer and unavailable to sentimenta
 >
 > Abbott blinked, kicked at the sand, and turned away.
 
-The reader supplies the loss. The last beat goes to the third party, in three physical verbs.
+The reader supplies the loss. The last move goes to the third party, in three physical verbs.
 
 **[a confession answered with a gesture]** `cordimancy.md:2618`
 > He looked at Malena, waited for a comment.
@@ -542,13 +542,13 @@ The character asks and gets a reply about **naming policy**, not about the anima
 
 **Endings get glossed.** A model closes on summary or emotional interpretation. These stop on an implement, a two-word question, a gesture, or a countdown into absence, and never explain what the ending means. **A summarizing sentence afterward is the single thing that would destroy every restraint passage in §15.**
 
-**Everyone speaks in complete sentences.** His characters are constantly cut off — by lungs, by rank, by someone else's better information — and the interruption carries the meaning. Attribution is over-supplied too: expect *he said grimly* on every line, where he runs fourteen turns with one re-anchoring beat.
+**Everyone speaks in complete sentences.** His characters are constantly cut off — by lungs, by rank, by someone else's better information — and the interruption carries the meaning. Attribution is over-supplied too: expect *he said grimly* on every line, where he runs fourteen turns with one re-anchoring tag.
 
 **Subtext gets stated.** Asked for a conspiracy, a model writes characters referencing the crime; viking transacts a murder via a seating chart and a good wish. Asked for a proposition and a refusal, a model has someone say what is being offered.
 
 **Humor fails in four specific ways.** A model writes jokes everyone enjoys — his land on someone or fail outright. A model gives comic lines to likable characters — he gives the best timing to the bully and to the dying old man. A model writes quips — he writes *bits*, business other characters can watch. And a model lets the comedian win his own exchange, where the deadpan straight man always tops him.
 
-**Stillness gets filled with exposition or lyricism.** He fills it with hands. Someone is always whittling, tossing a stick, rubbing fern into swollen ankles. The task supplies the beats and the silences; remove it and the scene becomes people taking turns delivering backstory into a void.
+**Stillness gets filled with exposition or lyricism.** He fills it with hands. Someone is always whittling, tossing a stick, rubbing fern into swollen ankles. The task supplies the rhythm and the silences; remove it and the scene becomes people taking turns delivering backstory into a void.
 
 **Invented terms get explained.** The reflex is an appositive, a "what's a X?", or a paragraph of etymology. His method is to put the new noun in the *last* position of a sentence about something mundane and never return to it.
 

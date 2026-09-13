@@ -1,5 +1,5 @@
 ---
-approval: approved 65694d28
+approval: approved bdafdb7c
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -106,7 +106,7 @@ Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wall
 
 - **Hand-sized iridescent day-flying moths**, in clouds — Day 4. *(Butterflies are the one item here I would not defend: Lepidoptera are firmly present and moth leaf-mining traces are cited in the research, but the oldest butterfly body fossils are Eocene. Moths are safer, stranger, and better.)*
 - **Bioluminescent beetles** at night, pulsing on an unfamiliar rhythm — Days 2 and 6. *(Luminous elateroid beetles are known from Cretaceous amber; this is inference to the Maastrichtian rather than direct evidence, and it is a small, cheap inference.)*
-- **A saropo herd from a ridge** — Day 6. The awe beat with nothing at stake.
+- **A saropo herd from a ridge** — Day 6. Awe with nothing at stake.
 - ***Ornithomimus* running** — Day 10. Pure pleasure, no threat.
 - **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at, and what it means that it will still be there in sixty-six million years.
 
@@ -134,7 +134,7 @@ Food is labor. Nothing here is picked.
 
 ### The cute and harmless
 
-**Grounders** get their own beat on Day 6 — small, warm, opossum-ish, entirely unbothered, watching them eat. One of the three should feed one, and it should be the one you would not expect. This is the sort of thing that costs forty words and buys a great deal.
+**Grounders** get their own moment on Day 6 — small, warm, opossum-ish, entirely unbothered, watching them eat. One of the three should feed one, and it should be the one you would not expect. This is the sort of thing that costs forty words and buys a great deal.
 
 ## 4. Flora allocation
 

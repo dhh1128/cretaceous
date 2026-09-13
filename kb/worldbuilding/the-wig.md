@@ -1,10 +1,10 @@
 ---
-approval: approved ff1e9416
+approval: approved d673ee76
 ---
 
 # The wig
 
-**CANON.** The old-tech vehicle at Genesis that carries them home on Day 19. Beat 13, the action climax, and the largest act of heresy in the novel. Supersedes all references to a "skiff."
+**CANON.** The old-tech vehicle at Genesis that carries them home on Day 19. The action climax, and the largest act of heresy in the novel. Supersedes all references to a "skiff."
 
 ---
 
@@ -127,7 +127,7 @@ They arrive low on charge, in hard afternoon light, and they have been hoarding 
 
 **That last part is deliberate and it is the point.** A wrecked wig is a story that ends. An intact, working, **solar-recharging** wig is an object the colony now has to have an argument about, forever — and it is the centerpiece of book 2.
 
-### Why he aims for the river specifically, and why it is the last beat of his arc
+### Why he aims for the river specifically, and why it is the last turn of his arc
 
 On Day 19 there is floodwater everywhere, and almost all of it is easy. **The river channel is the hard target — narrow, fast, and full of the animals his culture is most afraid of.** It is also the only water that will still be there when the flood goes down. Everything else strands the machine on mud within a week.
 

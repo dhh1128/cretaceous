@@ -1,5 +1,5 @@
 ---
-approval: approved d7916533
+approval: approved b1861ede
 ---
 
 # Cretaceous — Writing Style
@@ -40,7 +40,7 @@ Requirement for Deep Internal Monologue: In action sequences, this may not make 
 
 What are they thinking? (Their anxieties, their plans, their judgments, how they are relating to each other).
 
-What are they feeling? (The grief from Beat 1, the guilt from Beat 4, the bravado masking fear).
+What are they feeling? (The grief from the cold open, the guilt from the theft, the bravado masking fear).
 
 How is their backstory (upbringing, family dynamics, friendship, training, upgrades) shaping their experience? What does it feel like to be Keo, with his exceptional mental projection, or Teva, with her poor thermal regulation, or Benal, with his overwhelming senses?
 
@@ -117,12 +117,12 @@ World-Building Integration (Context First): The novel's "drift" terms (yazhi, ki
 
 Example: "The yazhi cried, and Teva picked up the child." (Implies yazhi = child).
 
-The "Exposition Valve": For highly complex sci-fi/temporal concepts, we save the exposition for Genesis (Beats 11-12), where it can be delivered diegetically.
+The "Exposition Valve": For highly complex sci-fi/temporal concepts, we save the exposition for Genesis, where it can be delivered diegetically.
 
 ## Dialogue Handling
 Dialogue is fast, naturalistic, and often fragmented. It is a primary tool for characterization.
 
-Tags: Dialogue tags are "invisible." The primary tag is "said." More often, tags are replaced with action beats.
+Tags: Dialogue tags are "invisible." The primary tag is "said." More often, the tag is replaced by an action.
 
 Example: Teva slammed the tablet on the table. "You were wrong."
 
@@ -141,16 +141,16 @@ The narrative must always move forward. We will never use a traditional, full-ch
 
 Mechanism 1: Archival Fragments (Epigraphs): As defined in the outline, these brief snippets of "modern-day" news/logs will provide objective context (the pandemic, the mission) before major chapter blocks.
 
-Mechanism 2: Temporal Flashes (Active, Diegetic): As defined in the scene list (Beats 8, 10, 12, 14), these are not memories. They are disorienting events that happen to the characters in the present tense, a symptom of proximity to Genesis.
+Mechanism 2: Temporal Flashes (Active, Diegetic): As defined in the scene list (Day 11, Day 15, at Genesis, and at the confrontation), these are not memories. They are disorienting events that happen to the characters in the present tense, a symptom of proximity to Genesis.
 
 ## Handling of Sensitive Content
 This is a firm rule for the YA audience.
 
 No Swearing, No Graphic Gore, No Sexuality: Harsh events occur, and the harshness must come through, but not by showing graphic events in a voyeuristic way. This is not a horror novel or a steamy romance. To keep some of the immediacy of show-vs-tell, show reactions. For example, express extreme emotion (anger, despair) through physical action (Keo's reckless climb, Teva's accusation), sharp dialogue, or visceral internal monologue.
 
-Noli's Death (Beat 7): We will show the shock of the attack and Keo's grief-stricken silence, not a description of the animal being torn apart.
+Noli's Death (the midpoint): We will show the shock of the attack and Keo's grief-stricken silence, not a description of the animal being torn apart.
 
-Keo's Injury (Beat 8): We will focus on his pain, his vulnerability, and Teva's exhaustion in treating him, not on a clinical description of the wound.
+Keo's Injury (Day 11): We will focus on his pain, his vulnerability, and Teva's exhaustion in treating him, not on a clinical description of the wound.
 
 ## Anachronisms and Logic
 Metaphors: Be careful to only use metaphors and similes that would be understandable to the characters (e.g., no "watching like a hawk," as hawks were not known 66mya).

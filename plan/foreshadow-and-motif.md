@@ -1,5 +1,5 @@
 ---
-approval: approved 6dfad4a7
+approval: approved 29e11728
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -10,7 +10,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 
 ## 1. Signal levels
 
-**Default is NONE.** The lesson from viking: the book's best foreshadow is a beat tag in which the villain reaches for hand lotion mid-conversation. Never revisited, no emphasis, and it is the tell that he framed the protagonist. Models plant foreshadowing with a paragraph break and an "oddly."
+**Default is NONE.** The lesson from viking: the book's best foreshadow is an action tag in which the villain reaches for hand lotion mid-conversation. Never revisited, no emphasis, and it is the tell that he framed the protagonist. Models plant foreshadowing with a paragraph break and an "oddly."
 
 | level | means | budget |
 |---|---|---|

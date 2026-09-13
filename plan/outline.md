@@ -1,10 +1,10 @@
 ---
-approval: approved 4aa41e8d
+approval: approved 564405cd
 ---
 
 # Cretaceous — Outline
 
-The fifteen-beat structure, with the core rationale behind each decision, plus the two structural devices: **Archival Fragments** (the epigraph channel) and **Temporal Flashes** (backstory delivered as present-tense events rather than memory).
+The fifteen-step structure, with the core rationale behind each decision, plus the two structural devices: **Archival Fragments** (the epigraph channel) and **Temporal Flashes** (backstory delivered as present-tense events rather than memory).
 
 
 Structural Device: Archival Fragments (Modern Day News)
@@ -23,7 +23,7 @@ Structural Device: Temporal Flashes (Visions)
 
 Purpose: To deliver the subjective, emotional backstory of the drift and foreshadow the "Lost Colonists" — a thousand years back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
 
-Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak (Beat 8) and become overwhelming at the site (Beat 10).
+Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak late on the mudwalk and become overwhelming at the site during the Dark Night.
 
 ACT 1: THE FAILING WORLD
 
@@ -61,7 +61,7 @@ Rationale (Agency): Splitting the debate into "public" (paralyzed adults) and "p
 
 Rationale (POV): Keo's POV lets us see Teva's "terrifying" resolve and Benal's overt fear, which Benal overcomes. This makes Keo the "center" of the trio's formation.
 
-1. BREAK INTO TWO (The Theft):
+4. BREAK INTO TWO (The Theft):
 [POV: Keo] [Fear Level: Extreme (Heist Tension / Adrenaline)]
 They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits. His fear is not of dinosaurs, but of getting caught and the shame of betraying his parents' trust. Under cover of night, the theft is successful. The three (four, with Noli) slip out of the Enclave perimeter. The 80km "mudwalk" begins.
 
@@ -108,9 +108,9 @@ The persistent predator that stalks them is the same pterosaur. Its shadow passi
 
 Temporal Flash (Foreshadow): As they get closer to Genesis, the "temporal disorientation" begins. Keo, in his injured/feverish state, experiences the first temporal flash—a disorienting, meaningless symbol (the "signal" for the second jump) and a feeling of departure. He dismisses it as fever.
 
-Rationale (Friendship & Maturation): This beat is the crucible for their arcs. Keo is forced into vulnerability. Teva is forced to become a leader/caretaker.
+Rationale (Friendship & Maturation): This stretch is the crucible for their arcs. Keo is forced into vulnerability. Teva is forced to become a leader/caretaker.
 
-Rationale (POV Irony): We are in Teva's head as she cares for Keo, seeing him as a brave, foolish friend. We know (from Beat 3) he's also nursing a painful crush on her, which adds a layer of dramatic irony to their interactions.
+Rationale (POV Irony): We are in Teva's head as she cares for Keo, seeing him as a brave, foolish friend. We know (from the debate) he's also nursing a painful crush on her, which adds a layer of dramatic irony to their interactions.
 
 9. All Is Lost:
 [POV: Benal] [Fear Level: Extreme (Overwhelming Panic)]
@@ -152,13 +152,13 @@ They don't turn back. Benal is drawn to the temporal lab.
 
 Revelation (Part 1): They find the logs of the perfect arrival.
 
-Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from Beat 10. He realizes: "They couldn't go back. It's not about forward/backward. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
+Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from the Dark Night. He realizes: "They couldn't go back. It's not about forward/backward. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
 
-Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years back, though the book never states the figure — including the symbol Keo saw in his flash (Beat 8). **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
+Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years back, though the book never states the figure — including the symbol Keo saw in his first flash. **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
 
 Rationale (POV Irony): We are in Benal's head, the only one who truly understands the terrifying scale of this discovery. Keo and Teva see the "lie," but we (and Benal) see the "impossible new mission."
 
-Rationale (The "Lie"): The kids' initial, emotional reaction (especially from Teva's POV, which we'll see in Beat 14) is "They lied to us!" This is the emotional truth of the scene. Their maturation arc, particularly Teva's, will be to move from this black-and-white accusation to understanding that nobody lied. The duty was real and the founders gave it; what drifted is the belief that the apparatus enforcing it came down with the duty. See `kb/worldbuilding/the-second-jump.md`.
+Rationale (The "Lie"): The kids' initial, emotional reaction (especially from Teva's POV, which we'll see at the confrontation) is "They lied to us!" This is the emotional truth of the scene. Their maturation arc, particularly Teva's, will be to move from this black-and-white accusation to understanding that nobody lied. The duty was real and the founders gave it; what drifted is the belief that the apparatus enforcing it came down with the duty. See `kb/worldbuilding/the-second-jump.md`.
 
 13. THE RETURN (The Heretic's Ride):
 [POV: Keo] [Fear Level: Extreme (Action / Adrenaline)]
@@ -168,11 +168,11 @@ This is their first act of open heresy.
 
 The journey back is a fast, high-octane "chase" sequence. The vehicle is loud and attracts predators.
 
-Action Climax: The Quetzalcoatlus from Beat 7 spots them and gives chase. This is Keo's redemption. He's not just running; he's piloting. He's no longer the grieving, shattered boy; he's a focused leader using tech to fight the monster that mental projection couldn't. He successfully evades/defeats it (e.g., by luring it into a Mosasaur attack or a canyon wall).
+Action Climax: The Quetzalcoatlus from the midpoint spots them and gives chase. This is Keo's redemption. He's not just running; he's piloting. He's no longer the grieving, shattered boy; he's a focused leader using tech to fight the monster that mental projection couldn't. He successfully evades/defeats it (e.g., by luring it into a Mosasaur attack or a canyon wall).
 
-Rationale (Pacing & Theme): The wig solves the "return journey" pacing problem and serves as a critical thematic beat (embracing heretical hard-tech).
+Rationale (Pacing & Theme): The wig solves the "return journey" pacing problem and serves as a critical thematic turn (embracing heretical hard-tech).
 
-Rationale (Character Arc): This is Keo's action climax, where he faces the same threat that broke him (Beat 7) and wins, completing his "Hubris to Humility to Competence" arc.
+Rationale (Character Arc): This is Keo's action climax, where he faces the same threat that broke him at the midpoint and wins, completing his "Hubris to Humility to Competence" arc.
 
 14. THE CONFRONTATION:
 [POV: Kea] [Fear Level: High (Social Confrontation)]
@@ -186,7 +186,7 @@ Rationale (Emotional Climax): Vindication.
 
 Rationale (Maturation Climax): This is the emotional payoff. From Keo's POV, he understands his parents (seeing their fear and pride) rather than just feeling guilty.
 
-Rationale (Teva's Nuance Arc): As Teva makes the accusation (which we see through Keo's POV), she will see the Council's faces. She won't see villains who were "caught." She will see the same terrified, paralyzed faces from Beat 1. This is the moment of her epiphany. She has a flash of the ancestors' faces she saw in her vision (Beat 10) and realizes they are identical. This is the seed of her nuance arc: she's the first to realize, "They... they're not liars. They're... believers. They're just wrong." This fulfills her maturation from "Rage to Nuance," as she sees the flawed, frightened humanity behind two hundred years of keeping a promise nobody could any longer explain.
+Rationale (Teva's Nuance Arc): As Teva makes the accusation (which we see through Keo's POV), she will see the Council's faces. She won't see villains who were "caught." She will see the same terrified, paralyzed faces from the cold open. This is the moment of her epiphany. She has a flash of the ancestors' faces she saw in her vision at the Dark Night and realizes they are identical. This is the seed of her nuance arc: she's the first to realize, "They... they're not liars. They're... believers. They're just wrong." This fulfills her maturation from "Rage to Nuance," as she sees the flawed, frightened humanity behind two hundred years of keeping a promise nobody could any longer explain.
 
 Rationale (Benal's Vindication Arc): Ben stands with his friends, his "useless" work now vindicated as the most important knowledge in their world.
 

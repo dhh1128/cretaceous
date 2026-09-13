@@ -60,7 +60,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 |---|---|---|
 | N1 *(#18)* | **Romantic subplot?** Attraction between Keo and Teva? A triangle with Ben? Or platonic? How does it develop, and does it complicate the group? | `character-arcs.md` §3 — the three dyads, the temperature table, "Keo → Teva → Ben," and the rule that nothing resolves in book 1 |
 | N2 *(#19)* | **Major character moments** — the specific scenes that define each arc | the scene list's per-scene assignments |
-| N3 *(#23)* | **Character fears and demons** — what each is most afraid of, what trauma shapes them, what each must overcome internally | `character-arcs.md` §2, the entire wants/believes/fears/hides table for all three, at every beat |
+| N3 *(#23)* | **Character fears and demons** — what each is most afraid of, what trauma shapes them, what each must overcome internally | `character-arcs.md` §2, the entire wants/believes/fears/hides table for all three, day by day |
 | N4 *(#32)* | **Immediate aftermath.** Belief or skepticism? Political fallout? Heroes or criminals? | 14.1, 15.1 |
 | N5 *(#35)* | **Personal futures.** What roles do the three play going forward? | the sequel arcs in `outline.md` |
 
@@ -78,7 +78,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 | L15 | **The Watch.** Adopted by default rather than endorsed, and now load-bearing for scene 2.4, two foreshadow rows, Teva's fourth loss, and part of the species ladder. |
 | L16 | **Partitioning.** Never approved, term never heard. It is the answer somebody wrote to R8. |
 | L17 | **Projection pushes an image, not a word.** Never asked separately. |
-| L18 | **Where the elastic burst gets spent.** `tech-rules.md:42` forbids a capability first appearing when it is needed, so it wants a teaching beat in Act 1 and a payoff — or it should not be in the brief. |
+| L18 | **Where the elastic burst gets spent.** `tech-rules.md:48` forbids a capability first appearing when it is needed, so it wants a teaching moment in Act 1 and a payoff — or it should not be in the brief. |
 
 ---
 
@@ -86,7 +86,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 
 ### Genuinely answered, with a place to check
 
-0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline.md` beat 3), **10** (how they leave → 4.1–4.3), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the raft), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → 2.4), **24** (Noli's death → 7.2), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
+0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline.md`, the debate), **10** (how they leave → 4.1–4.3), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the raft), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → 2.4), **24** (Noli's death → 7.2), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
 
 **Twenty of forty-eight.** Not thirty-six.
 
@@ -100,7 +100,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 
 **R8 — mental projection biology — is the question partitioning was invented to answer.** It was open. Nobody asked. A cognitive architecture appeared in drafted scene prose, became the canon mechanic, and the question then left the list — so the invention now reads as settled rather than as a hole somebody filled. Restoring R8 and rejecting partitioning are the same act.
 
-**R9 — offshore navigation — is load-bearing and unanswered.** `character-arcs.md:18` builds Teva's de-escalation on "offshore, a magnetic sense is worth nothing," which is a strong beat and also leaves nobody in the book with a way to find a coral bank five to eight kilometers out. That is a hole in Act 2's endgame, not a detail.
+**R9 — offshore navigation — is load-bearing and unanswered.** `character-arcs.md:18` builds Teva's de-escalation on "offshore, a magnetic sense is worth nothing," which is strong and also leaves nobody in the book with a way to find a coral bank five to eight kilometers out. That is a hole in Act 2's endgame, not a detail.
 
 ## 4. And N1/N3 are larger than they look
 

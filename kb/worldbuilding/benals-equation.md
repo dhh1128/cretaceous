@@ -1,5 +1,5 @@
 ---
-approval: approved 40e3e885
+approval: approved 9470f5ac
 ---
 
 # Benal's equation
@@ -46,9 +46,9 @@ Everything follows from that. Nobody can date the impact closer than *about two 
 
 ## What it pays off
 
-The equation is the mechanism behind the beat-12 revelation. There is no *return anchor* — travel is not symmetrical, forward and backward are not the same operation, and the anchor is to an origin the traveler must have departed from. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
+The equation is the mechanism behind the revelation at Genesis. There is no *return anchor* — travel is not symmetrical, forward and backward are not the same operation, and the anchor is to an origin the traveler must have departed from. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
 
-And the second jump — a thousand years back, to the same spot — was launched on a signal the heretics received: the symbol Keo sees in his flash at beat 8. *(Not 67 Mya. That is book 3's emigration, a different jump a million years deep; see `plan/sequels.md`.)*
+And the second jump — a thousand years back, to the same spot — was launched on a signal the heretics received: the symbol Keo sees in his first temporal flash. *(Not 67 Mya. That is book 3's emigration, a different jump a million years deep; see `plan/sequels.md`.)*
 
 ## Why you can only return where you have been — the mechanism
 

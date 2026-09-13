@@ -87,7 +87,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | **3** | ~16 |
 | | **~69** |
 
-**Act 2, by day.** This is where the beat-indexed version of this document was actively misleading: it asked for nine scenes in "beat 6," which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
+**Act 2, by day.** This is where the template-indexed version of this document was actively misleading: it asked for nine scenes in *Fun and Games*, which spans Days 3 to 10 — a stretch containing the crossing, the constrictor, the only happy day in the novel, and the day the sun nearly kills Teva. Those need different treatment and the old granularity could not say so.
 
 | day | scenes | what it is |
 |---|---|---|

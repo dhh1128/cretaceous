@@ -75,7 +75,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 3 — Act 1, before beat 3
+### 3 — Act 1, before the debate
 
 > **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · T−19 mo]**
 >
