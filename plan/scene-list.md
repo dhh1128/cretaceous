@@ -507,7 +507,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** her being brave about it. She is vomiting and cannot stop, and dignity is not available; the scene should be about what it costs the two of them to watch.
 **Ends on:** Keo going down on one knee, and getting up.
 
-### D13.2 — [MEDIUM] [Day 13, afternoon] [BENAL] [Coastal plain] — **NEW**
+### D13.2 — [MEDIUM] [Day 13, afternoon] [KEO] [Coastal plain] — **NEW**
 **Ladders:** E7 P9 S8 X6
 **The drag-frame, and the thing that never touches them.** Ten kilometers, and morale and energy come apart: functional and hollow, moving well, nobody talking.
 **Must carry:**
@@ -516,8 +516,10 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **And one that does come.** ***Palaeosaniwa***, three meters of active-hunting monitor lizard, allocated to Day 13 and never spent — `milieu-allocation.md` calls it the best mid-tier land threat in the inventory. **The pairing is the point:** the apex predator ignores them and the mid-tier one does not, and they drive it off badly, on empty, with a bare spear shaft. It is also the reason they cannot put her down anywhere and walk away from her, which the drag-frame is otherwise an invitation to do.
 - **Forage returns and none of it stays down for her** — beetles working a carcass, frogs, fish, stonefruit. A hadrosaur carcass three days dead. All allocated to Day 13.
 - **The bond is real and nobody has the energy for it.** `body-and-resources.md`: morale and energy are different axes and must not track.
-- `[?]` **Benal holds both Day 13 scenes**, and the run is deliberate — one head, unbroken, for a day that is one unbroken slog.
-**Hazard:** the *T. rex* as a set-piece. It is a shape at distance on a day nobody has anything left, and the correct response from all three is to keep walking.
+- **What only Keo can deliver, and it is why the scene is his.** From outside he is thin and quiet and slow. From inside, **the accelerated healing is eating him** — it closes a wound fast at the cost of strength, warmth and clarity, and he has no reserves for it to spend, so what the reader gets is starvation cold rather than weather and a mind that keeps losing the thread. `plan/body-and-resources.md` and `plan/tech-rules.md`. Benal can see he looks bad. Only Keo can feel the upgrade doing it.
+- **And he is the one hiding something.** `plan/character-arcs.md` §2 has him concealing, from Day 12 onward, that he said the mash needed another day and let her overrule him. He is dragging the consequence of a thing he was right about, and the reader is inside that for an entire afternoon.
+- `[?]` **He does not resent her for it, and the scene must not let him.** The temptation is a flash of blame he suppresses, which is cheap. What he has instead is the arithmetic of how much of himself is left, and no room for anything else.
+**Hazard:** the *T. rex* as a set-piece. It is a shape at distance on a day nobody has anything left, and the correct response from all three is to keep walking. **Second hazard: heroism.** He is not being noble. He is doing the only available thing, badly, while his own body spends itself on a cut.
 **Ends on:** the smell of salt, which is good news and means the sea.
 
 ---

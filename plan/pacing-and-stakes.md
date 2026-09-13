@@ -46,7 +46,13 @@ At the count §5 proposes that implies **roughly 40 to 50 chapters**, which for 
 *the Vitarium ~ Teva, Day 1*
 ```
 
-The label earns its place twice over here. This is a **rotating three-POV novel**, so the reader learns whose head they are in before the first sentence rather than four lines down. And it is a **nineteen-day journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
+The label earns its place twice over here. This is a **rotating three-POV novel**, so the reader learns whose head they are in before the first sentence rather than four lines down.
+
+**No more than five consecutive scenes in one POV.**
+
+**Five rather than three, and the difference is a measurement.** Across Daniel's two novels the rotation is not mechanical: `viking` never stays in one head for three consecutive chapters in fifty-five, while `cordimancy` runs strict alternation for eleven chapters, brings a third POV in at twelve, and then holds one head for five. Three would be `viking`'s practice imposed on a book that is structurally closer to neither. Five is the wider of the two and it still binds — the list currently runs 38 single scenes, nine pairs, one triple and one run of five, and that five is Act 1's theft sequence, which sits exactly at the line and is the kind of deliberate long hold the ceiling exists to permit rather than punish.
+
+**The ceiling is not a target and the mean is not the measurement.** A book that alternated perfectly would satisfy any ceiling and read like a metronome; what the number is for is catching the run nobody chose. The one it caught on its first pass was six — Benal from the drag-frame through the mosasaur to the coral bank — assembled from two decisions that were each right on their own and never looked at together. And it is a **nineteen-day journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
 
 **And the `§` carries the transition, which means the first clause after it does the time-skip inside itself.** No "meanwhile." No standalone "later that day." That rule is the one that makes the mark worth having, and `prompts/style-canon.md` §3 has the passages.
 
