@@ -105,7 +105,7 @@ Teva: *"I'm going."* Not a request.
 **Add:** the intimacy layer's first real rung. Keo's crush is on the page, unspoken, and he misreads her entirely.
 
 ### ⟪3.4 — [MEDIUM] [Day 2, night] [KEO] [Same] — *was 3.3 — now `content/superseded/03.4.md`*
-**Ladders:** E6 P2 S6 X4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at ⟪4.1 and 4.2.
+**Ladders:** E6 P2 S6 X4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at ⟪4.1 and ⟪4.2.
 Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
 **Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.
 
@@ -113,7 +113,7 @@ Benal insists. *"You're the delivery system. I'm the key."* Keo's response is aw
 
 ### EPIGRAPH 3 — the vector program brief: **the upgrades ARE the deliverable**
 
-*Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to 12.1.*
+*Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to ⟪12.1.*
 
 ### ⟪4.1 — [MEDIUM] [Day 2, late night] [KEO] [His dwelling] — *canon, `content/superseded/04.1.md`*
 **Ladders:** E7 P3 S7 X4
@@ -122,7 +122,7 @@ Stealing food from his sleeping parents. Guilt, specifically — shame at destro
 ### ⟪4.2 — [MEDIUM] [Day 2, late night] [KEO] [The Repository] — *canon, `content/superseded/04.2.md`*
 **Ladders:** E7 P4 S8 X4
 The theft. The taboo shelf. The third suit left on the rack.
-**Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until 10.1.
+**Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until ⟪10.1.
 
 ### ⟪4.3 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
 **Ladders:** E6 P6 S8 X4
@@ -448,7 +448,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **She has been unshelled since the saturation** and is carrying the suit rather than wearing it, so what she has lost is camouflage and sensors. `body-and-resources.md` §3b.
 - **She feels cold and the others do not, and it comes from inside her** — hunger, two days without proper sleep, and the deficit. `journey-calendar.md` §2: write the symptom, never the climate. The rain is warm, and nobody in the scene may call it cold.
 - **Her one joke of the stretch, delivered with her hands in the wound.** He groans *"Careful,"* and she snaps *"Be quiet or be bait. Your choice."* `humor-plan.md` gives this as the model for her register — flat, hostile, dry, and the only way she has of saying anything warm.
-- **The irony belongs to the reader and never to her.** She sees a brave, foolish friend; the reader has been holding his crush since 3.3. Strict third means the scene delivers her competence and his misreading of it and never her knowing (`AGENTS.md` §6).
+- **The irony belongs to the reader and never to her.** She sees a brave, foolish friend; the reader has been holding his crush since ⟪3.3. Strict third means the scene delivers her competence and his misreading of it and never her knowing (`AGENTS.md` §6).
 - **Somebody's hands are already busy before any talking starts** — the dressing, the salves and the two chemical pods he has left, and the spears, which have not dried since the front came through. `body-and-resources.md`: the task carries the scene, not the dialogue.
 - A leaking roof of waxy fern fronds, and the rain going on all night. This is one of the few times rain is remarked on at all, and it is remarked on because it does not stop.
 **Hazard:** tenderness. She is exhausted, frightened and short with him, and the care is entirely in what her hands do while her voice does something else. Second: cold as weather, which this world does not have.
@@ -793,7 +793,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ladders:** E10 P3 S10 X9
 **Her epiphany, and the final image.**
 **Must carry:**
-- **`[?]` This scene is Teva's and the outline gives it to Keo, which is a POV defect at the climax.** `plan/outline.md` has her realizing *they're not liars, they're believers, they're just wrong* while the reader is in Keo's head — and strict third means he can see her stop and cannot see her realize. `AGENTS.md` §6 records the same defect being caught at 1.1. **The epiphany is the payoff of her whole arc and it has to be delivered from inside her.**
+- **`[?]` This scene is Teva's and the outline gives it to Keo, which is a POV defect at the climax.** `plan/outline.md` has her realizing *they're not liars, they're believers, they're just wrong* while the reader is in Keo's head — and strict third means he can see her stop and cannot see her realize. `AGENTS.md` §6 records the same defect being caught at ⟪1.1. **The epiphany is the payoff of her whole arc and it has to be delivered from inside her.**
 - **She sees the Council's faces and they are the faces from her flash on Day 15** — terror, grief, stubborn paralysis, not malice. Identical. That is what turns the accusation off in her mouth.
 - **The speech she prepared on Day 17 does not get given.** She decided what she was going to say to them two days ago and she does not say it, and the reader has been carrying that speech since.
 - **The parent payoff, seen by the person who has none left.** Joram and Riel look at their son with vindicated pride, and Marek looks at Benal with shocked respect — and Teva watches both, having left her grandmother to a room she can no longer follow a conversation in.

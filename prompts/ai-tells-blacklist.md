@@ -4,7 +4,7 @@ approval: approved 0e190a4f
 
 # AI tells — the blacklist
 
-*Built 2026-09-10 from Daniel's line-by-line critique of two generated drafts of scene 2.3. Every entry below is a defect he actually found in generated prose, in his words where possible. This file grows: each time he critiques a draft, new tells are added and the old ones are checked against the new draft.*
+*Built 2026-09-10 from Daniel's line-by-line critique of two generated drafts of scene ⟪2.3. Every entry below is a defect he actually found in generated prose, in his words where possible. This file grows: each time he critiques a draft, new tells are added and the old ones are checked against the new draft.*
 
 **How to use it.** Run it as a checklist over a draft *before* Daniel sees it. Every hit is either fixed or justified. This is a pre-delivery gate, not a style aspiration.
 

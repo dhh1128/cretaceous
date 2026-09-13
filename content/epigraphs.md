@@ -219,7 +219,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 13 — the coda, after 15.1. **The fragment they leave behind.**
+### 13 — the coda, after ⟪15.1. **The fragment they leave behind.**
 
 > **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · T−3 d]**
 >

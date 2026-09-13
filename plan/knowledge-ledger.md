@@ -94,7 +94,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 **Rows Q, R and S live here.** Its misjudgment table was the only place in the corpus assigning per-adult reader evidence to a scene, which is this ledger's job, so it was doing it twice and in one case wrongly.
 
-**The defect worth stating as a standing rule.** A layer once assigned Omya's evidence to ⟪1.1 as *"she submits to being tested in front of witnesses."* **Scene ⟪1.1 cannot deliver that.** The novel is strict third limited (`writing-style.md:30-32`), so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with ⟪2.4 as the completion scene**, not delivered at 1.1.
+**The defect worth stating as a standing rule.** A layer once assigned Omya's evidence to ⟪1.1 as *"she submits to being tested in front of witnesses."* **Scene ⟪1.1 cannot deliver that.** The novel is strict third limited (`writing-style.md:30-32`), so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with ⟪2.4 as the completion scene**, not delivered at ⟪1.1.
 
 **Worth checking the other rows for the same defect** — a reader payment assigned to a scene whose POV cannot carry it. Row O survives, because Hesh states the First Walk number aloud in ⟪3.1 and the reader can connect it in the moment. The rest have not been checked.
 
@@ -113,13 +113,13 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 3. **A row in several scenes, uncompleted, is repetition** — telling the reader what they already hold.
 4. **Every `[turn — READER ONLY]` move must correspond to a row here.** A reader-only turn with no ledger entry is a scene whose hinge nobody planned.
 
-**Note what the M / M2 split buys.** Yara's *name* is paid at ⟪2.3 and the *manner of her death* at 4.1. Without the column that split is invisible, and somebody re-pays the whole fact at ⟪10.1 — where the trio learn it, and where the reader would then be told twice.
+**Note what the M / M2 split buys.** Yara's *name* is paid at ⟪2.3 and the *manner of her death* at ⟪4.1. Without the column that split is invisible, and somebody re-pays the whole fact at ⟪10.1 — where the trio learn it, and where the reader would then be told twice.
 
 ### Three entries doing more work than they look
 
 **B — the upgrades are the cure.** Moving this from the Genesis revelation to an Act 1 epigraph is the single highest-yield change available, and it costs nothing but reordering. Once the reader holds it, every Seeding, every failed expression, Teva's grief over the sensory upgrades that didn't take, Benal's freakish height — all of it carries the knowledge that these people are carrying the salvation of a species and have forgotten. And **Omya's dementia stops being a local tragedy and becomes the extinction of humanity happening inside one old woman's head** while a boy watches her offer the wrong gel and ask about bread. Three hundred pages of free dread.
 
-**M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc took her while their parents watched. Teva and Benal don't learn it until the confessional at 10.1. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes ⟪10.1 a release rather than an information delivery.
+**M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc took her while their parents watched. Teva and Benal don't learn it until the confessional at ⟪10.1. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes ⟪10.1 a release rather than an information delivery.
 
 **P — the false solution.** Let the reader solve it wrong. Give them enough to conclude the founders lied to keep everyone calm — and make them **right about the lie and wrong about who told it and why**, because the corruption was six generations of drift, not deceit. The reader's cynicism about the ancestors then gets corrected in exactly the way the trio's cynicism about their parents gets corrected. **The reader undergoes the novel's thesis through the mechanics of reading it**, without any character having to articulate the lesson.
 
@@ -137,7 +137,7 @@ Twelve, plus a coda.
 |---|---|---|---|
 | 1 | before ⟪1.1 *(written)* | CDC alert | The pandemic. 99.97%. Stakes, no irony yet. |
 | 2 | Act 1, before the debate | Joint Command memo *(sketched, in the rejected ch6 draft)* | The Chicxulub Solution authorized despite paradox risk. |
-| 3 | **end of Act 1** | Program brief | **The vector work IS the deliverable.** Irony begins here and runs to 12.1. |
+| 3 | **end of Act 1** | Program brief | **The vector work IS the deliverable.** Irony begins here and runs to ⟪12.1. |
 | 4 | early Act 2, recurring | **Dr. Cecilia Arroyo**, writing to her sister **Marisol** | **Gives the future a face.** See below. |
 | 5 | mid Act 2 | Targeting parameters | Confidence bounds. Seeds F and D — they will not know precisely when they land. |
 | 6 | late Act 2 | An internal decision about what to tell the colonists | **Plants the false solution.** Should read as a choice to withhold. |
@@ -176,7 +176,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 **Two moves this opens that aren't yet in the plan.**
 
-1. **They cannot carry it all.** Three exhausted teenagers choose which records come home, under time pressure, and that choice shapes their society permanently. Belongs at ⟪12.1 or 13.1.
+1. **They cannot carry it all.** Three exhausted teenagers choose which records come home, under time pressure, and that choice shapes their society permanently. Belongs at ⟪12.1 or ⟪13.1.
 2. **The coda is a fragment they leave behind.** The correction of the false solution is read by the reader over their shoulders while they pick up something else and go. The characters walk away from the answer; the reader holds it; and the rest of the cache is still out there, offshore and unstable, which is exactly the contested territory book 2 needs.
 
 ## Irony pressure by act

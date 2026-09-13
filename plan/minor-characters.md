@@ -46,7 +46,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## The Keepers
 
-**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene 1.1.
+**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene ⟪1.1.
 
 ## The Council
 
@@ -70,7 +70,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Elana** — Alira's mother. Bursts into the Vitarium begging for an upgrade; her pleas dry into sobbing. Walks into the Council chamber and stops the argument without winning it: *"They are just words. They are air. My daughter is gone."*
 
-**Alira** — two and a half. Named, and therefore a person, and therefore a death the community must count. Dies of a stingburn infection in scene 1.1.
+**Alira** — two and a half. Named, and therefore a person, and therefore a death the community must count. Dies of a stingburn infection in scene ⟪1.1.
 
 ## Yazhi
 

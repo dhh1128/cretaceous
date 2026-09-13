@@ -122,8 +122,8 @@ SPINE  the one continuous thing the scene hangs on — a hand-task, an
        links:  [answers N] · [pays <scene>.<move>] · [plants → <scene>]
                [requires <scene>.<move> — what it needs to still be true]
                  written on the DEPENDENT move, and carrying a payload:
-                 `[requires 2.3.17 — four gourds filled for three, unremarked]`
-                 not `[requires 2.3.17]`. See §5.4.
+                 `[requires ⟪2.3.17 — four gourds filled for three, unremarked]`
+                 not `[requires ⟪2.3.17]`. See §5.4.
        duration: mark moves that run long (`~15% of scene`) AND moves that
                must land in a single sentence. Both directions.
 
@@ -169,7 +169,7 @@ Each states its question, its method, and what result kills the claim.
 - **What causes the staccato.** 41.6% short sentences in the existing drafts against ~26% in the target. Not underspecification (C8). The live hypothesis is total specification rather than move count, untested.
 - **Whether the expansion stage survives blind judgment** (T3).
 - **Whether shingling is necessary** (T5, C3).
-- **Whether move density has any regularity at all.** It is not measurable in absolute terms — two mappers under identical instructions on identical text differ by ~30%. It may be measurable as a within-author ratio; the one measurement showed an author varying density across scenes by ~2.85× and generated prose by ⟪1.2–1.7×, carried almost entirely by a single pair.
+- **Whether move density has any regularity at all.** It is not measurable in absolute terms — two mappers under identical instructions on identical text differ by ~30%. It may be measurable as a within-author ratio; the one measurement showed an author varying density across scenes by ~2.85× and generated prose by 1.2–1.7×, carried almost entirely by a single pair.
 - **How to verify an accumulated ledger payment.** A delivered row is checkable — one move, one scene. "The reader now has enough to have revised" is a judgment, and the completion-scene mechanism makes it *locatable* without making it *verifiable*.
 
 ## 8. Standing hazards

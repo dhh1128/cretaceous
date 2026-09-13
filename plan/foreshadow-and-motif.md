@@ -62,10 +62,10 @@ So every payoff move also carries **`[requires <scene>.<move>]`**, and the check
 2. Every `plants →` has a matching `requires` at the far end.
 3. An unmatched pair on either side is a broken chain, **found by walking the maps rather than by rereading the novel.**
 
-**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the move survives at 2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
+**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the move survives at ⟪2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
 
 > `[requires ⟪2.2 — Benal's mathematics shown as dismissable]`
-> `[requires 2.3.17 — four gourds filled for three people, unremarked]`
+> `[requires ⟪2.3.17 — four gourds filled for three people, unremarked]`
 
 That converts a link check into a **contract**: the dependent move states what it needs, and anyone editing the source can see what they would break. Pointer integrity is not semantic integrity, and every serious continuity failure this project has found — the helmet, Alira's age, the season pivot — was semantic with the addresses intact.
 
