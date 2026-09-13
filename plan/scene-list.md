@@ -68,18 +68,18 @@ Benal's mathematics. Marek's *"do something real."*
 - Their competence. They are Explorers; Hesh's numbers are *their* numbers, and they know exactly what is out there.
 - **Charm.** This is a family that loves each other and has jokes. The reader has to want it back.
 - Why Keo has never been given a suit.
-**Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant the confrontation at D19.7 pays.
+**Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant the confrontation at D19.7 pays. @D19.7
 
 ### D2.4 — [LONG, ~1800] [Day 2, afternoon] [TEVA] [Omya's dwelling] — **NEW — the other missing organ**
 **Ladders:** E7 P1 S4 X5
 **Teva with Omya, in a lucid hour.** The reader has never met the woman whose disappearance drives the protagonist.
 **Must carry:**
-- Omya sharp, exacting, funny. *"Precision, Teva. We are scientists, not shamans"* — quoted as memory in D1.1, delivered live here.
+- Omya sharp, exacting, funny. *"Precision, Teva. We are scientists, not shamans"* — quoted as memory in D1.1, delivered live here. @D1.1
 - The Keeper work dramatized. Teva knows fragments of it; that's why she's dangerous later.
 - Lumea named by her mother.
 - Something about the founders that will later contradict Sila.
 - **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
-**Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind.
+**Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind. @D15.4
 **Ends on:** `[?]` Omya asking whether the sky was watched last night, and Teva having no answer. The question returns in the last scene of the book, and by then she does.
 
 ### D2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool]
@@ -134,7 +134,7 @@ Stealing food from his sleeping parents. Guilt, specifically — shame at destro
 ### D2.11 — [MEDIUM] [Day 2, late night] [KEO] [The Repository] — *canon, `content/superseded/04.2.md`*
 **Ladders:** E7 P4 S8 X4
 The theft. The taboo shelf. The third suit left on the rack.
-**Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until D15.4.
+**Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until D15.4. @D15.4
 **Ends on:** the third suit on the rack, and the door floating shut on it.
 
 ### D3.1 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
@@ -240,7 +240,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **Good water, and a croc in it that does not matter.** A three-to-four-meter *Borealosuchus*, which is the day teaching them that "croc" is a range and not one animal. `[?]` This is the gift's real shape: the thing their whole culture is organized around fearing has a harmless version — and it makes Day 7 worse, because now they can tell the difference.
 - **Honey in resin pots** from stingless bees in a hollow limb. Climbing, and being mobbed rather than stung once. Split between four mouths and two suits, which pays `foreshadow-and-motif.md` row 20.
 - **Oaks and walnuts, stonefruit, turned earth and green sap.** The one day flora is allowed to be pleasant.
-- **The grounders come and watch them eat**, unbothered, and **Teva feeds one while they are all still hungry.** Nobody remarks on it. This pays D2.5, where a yazhi says something funny and we watch her not laugh — here she does.
+- **The grounders come and watch them eat**, unbothered, and **Teva feeds one while they are all still hungry.** Nobody remarks on it. This pays D2.5, where a yazhi says something funny and we watch her not laugh — here she does. @D2.5
 **Hazard:** the honey as a treat. It is a physical event — climbing, mobbing, sugar hitting four starving people — and if it reads as a picnic the day has spent its budget on nothing. Second: Teva and the grounder played for cuteness. She is the one you would not expect, and the moment works because nobody comments.
 **Ends on:** sticky, stupid with sugar, climbing into a tree, and somebody saying they will take first watch.
 
@@ -321,7 +321,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The crossing.** The single most frightening thing in the novel, and the only time they willingly enter deep water in a culture whose first law is *water is death*.
 **Must carry:**
 - **The mechanics, which are the whole scene:** the narrows between boulders, quicker water and a shorter gap; the herd churning fifty yards upstream across a wide front; their own ripples carried downstream away from the gathering. `journey-calendar.md` §2.
-- **What the croc actually senses is disturbance on the water**, not vibration through the ground — the correction taught back in the yazhi drill at D2.5 (`tech-rules.md`). The reader has to feel the lesson pay.
+- **What the croc actually senses is disturbance on the water**, not vibration through the ground — the correction taught back in the yazhi drill at D2.5 (`tech-rules.md`). The reader has to feel the lesson pay. @D2.5
 - **Blood and churn drift down onto them.** The last one in the water is swimming through water they can see has something in it.
 - Her suit: the warm suffocating press, the thermals fighting her. One brushes her anyway, its hide like a rough log.
 - **The extra help is not theirs.** It is on the page as conditions, never as a plan, and nobody in the scene remarks on it.
@@ -444,7 +444,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ladders:** E9 P9 S6 X5
 **The fall.** He climbs for a lookout on rain-slick clay, and what he comes down on is limestone.
 **Must carry:**
-- **This is what the third suit bought**, and it is one of the book's two overt Chekhov guns. `foreshadow-and-motif.md` row 2 — planted at D2.11 when he leaves it on the rack, paid here and again at D15.4, and the reader knows the real reason while Teva and Benal do not.
+- **This is what the third suit bought**, and it is one of the book's two overt Chekhov guns. `foreshadow-and-motif.md` row 2 — planted at D2.11 when he leaves it on the rack, paid here and again at D15.4, and the reader knows the real reason while Teva and Benal do not. @D2.11 @D15.4
 - **The damage, itemized, because nothing resets:** a deep laceration to the thigh or flank, a cracked rib, the ankle wrenched, bleeding into a wet dressing. `body-and-resources.md`.
 - **The clay is why he falls and the scree is what it costs.** Limestone opening skin is allocated to Day 11, and bright red gnetophyte berries are already canon here as litter, with nobody ever finding out whether they are edible.
 - **Grief is driving, not courage.** `character-arcs.md` has him wanting Noli back and believing nothing, and the risk is stupid rather than brave.
@@ -470,7 +470,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ladders:** E6 P8 S7 X5
 **The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and the ocean, under the bitter herbal taste of the salve.
 **Must carry:**
-- **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` row 14). It pays at D17.2.
+- **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` row 14). It pays at D17.2. @D17.2
 - **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.
 - **Benal sitting watch**, a frail silhouette that turns out to be a steady one, and a wave of pure gratitude. `character-arcs.md` puts Benal's real emotional turn here rather than at Genesis — being needed for something no upgrade provides — and this is where the strongest dyad in the book starts.
 - **Gratitude is what cuts the hubris, not the injury.** He is being kept alive by the one he used to dismiss, and neither of them says so.
@@ -524,7 +524,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The drag-frame, and the thing that never touches them.** Ten kilometers, and morale and energy come apart: functional and hollow, moving well, nobody talking.
 **Must carry:**
 - **Keo cannot carry her any further, so they build a frame of saplings and drag her.** `[?]` **The cordage costs them a weapon** — the only dry lashing they have is on a croc-spike, and taking it off means the shaft is bare and the binding is spent. A real trade, made without discussion, four days from open water.
-- **One distant *Tyrannosaurus rex*, once, and never again.** This pays `foreshadow-and-motif.md` row 13 — Liaso's story at D2.9, the animal that watched him for an hour. **It happens on the day they are least able to run and it does not come**, which is worth more than an encounter.
+- **One distant *Tyrannosaurus rex*, once, and never again.** This pays `foreshadow-and-motif.md` row 13 — Liaso's story at D2.9, the animal that watched him for an hour. **It happens on the day they are least able to run and it does not come**, which is worth more than an encounter. @D2.9
 - **And one that does come.** ***Palaeosaniwa***, three meters of active-hunting monitor lizard, allocated to Day 13 and never spent — `milieu-allocation.md` calls it the best mid-tier land threat in the inventory. **The pairing is the point:** the apex predator ignores them and the mid-tier one does not, and they drive it off badly, on empty, with a bare spear shaft. It is also the reason they cannot put her down anywhere and walk away from her, which the drag-frame is otherwise an invitation to do.
 - **Forage returns and none of it stays down for her** — beetles working a carcass, frogs, fish, stonefruit. A hadrosaur carcass three days dead. All allocated to Day 13.
 - **The bond is real and nobody has the energy for it.** `body-and-resources.md`: morale and energy are different axes and must not track.
@@ -569,7 +569,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The fieldpack goes**, and with it his mathematics and the last of the food. `character-arcs.md` — the second of his two losses, and the one that leaves him holding only what is in his head, which turns out to be everything.
 - **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
 - **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
-- **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water.
+- **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water. @D15.1
 **Hazard:** a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Second: him being brave. He is not, and the book has never asked him to be.
 **Ends on:** him under, with nothing in his hands.
 
@@ -648,7 +648,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The complete synthesis protocols, etched on metal tablets.** Surprise 2 in the budget: the journey was not futile. A relief-shaped surprise landing directly on all-is-lost.
 **Must carry:**
 - **They have solved the thing they came for**, and it is only the middle of Act 3.
-- `[?]` **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not be able to read it.
+- `[?]` **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not be able to read it. @D1.1 @D2.4
 - **Epigraph 6 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
 **Hazard:** triumph. They have what they came for and they are still on a coral spit with no boat, and the scene should know that before they do.
 **Ends on:** the tablets, and Benal already looking at the next door.
@@ -796,7 +796,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **He must try twice.** The second attempt is the one Sila swallows.
 - **The thematic exactness:** the colony fails to believe the cure for the same reason it forgot the cure. The link was always an inference, and inferences do not survive transmission. The drift mechanism and the disbelief mechanism are one mechanism.
 - **Teva accuses, and Keo watches her do it.** His parents are under guard; the theft cost them everything the social ladder has been tracking since Day 2.
-- **Keo's own payoff:** he understands his parents at last, seeing fear and pride rather than distrust. `foreshadow-and-motif.md` — the protective line at D2.3 pays here.
+- **Keo's own payoff:** he understands his parents at last, seeing fear and pride rather than distrust. `foreshadow-and-motif.md` — the protective line at D2.3 pays here. @D2.3
 **Hazard:** villains. Nobody in the room is lying and nobody is stupid. Sila is sincere, Hesh is right about the arithmetic, and the Council's paralysis is the same paralysis from scene D1.1 with more information.
 **Ends on:** Sila thanking him.
 
@@ -816,7 +816,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ladders:** E8 P2 S10 X9
 **She goes out and watches the sky, and that is the epiphany rather than a statement of it.**
 **Must carry:**
-- **The Watch, resumed, deliberately.** `plan/scene-list.md` D2.4 planted it — Omya asks whether the sky was watched last night and Teva has no good answer, because nobody ever told her the duty had become hers. **Watching the sky is keeping a promise nobody can any longer explain**, which is exactly what she has just decided the Council has been doing for two hundred years. Doing it on purpose, knowing how it looks, is the whole distance her arc travels. It is not forgiveness; it is her becoming one of them with her eyes open.
+- **The Watch, resumed, deliberately.** `plan/scene-list.md` D2.4 planted it — Omya asks whether the sky was watched last night and Teva has no good answer, because nobody ever told her the duty had become hers. **Watching the sky is keeping a promise nobody can any longer explain**, which is exactly what she has just decided the Council has been doing for two hundred years. Doing it on purpose, knowing how it looks, is the whole distance her arc travels. It is not forgiveness; it is her becoming one of them with her eyes open. @D2.4
 - **Benal and Keo come out too**, separately rather than as a delegation, and she **speaks**. She is bad at it. `[?]` It should be short, slightly wrong, and abandoned halfway — the fact that she said anything at all is the seal on the arc, not the content of it. Concealment was her entire apparatus and this is the first time she has put something down without being forced to.
 - **The bookend against D1.1, on every axis.** That scene was enclosed in a culture chamber lit only by its own cultures; this is outdoors under a real sky. There, Omya failed a protocol in public and was watched; here, the thing Omya can still do turns out to matter. There, a child died; today a child will not. There, Teva was alone in a crowded room; here she has two friends. There, rage; here, something harder to name and more useful.
 - `[?]` **The asteroid is up there and they still cannot find it.** The question was asked on Day 6 and Benal's answer was funny and appalling at once; it landed hardest on the Day 10 star night. **This is the third and last time the sky gets asked**, and now they know roughly how long, which is worse.

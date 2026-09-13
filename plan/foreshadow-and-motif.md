@@ -1,5 +1,5 @@
 ---
-approval: approved 92faa0e3
+approval: approved 46c093bc
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -22,31 +22,31 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 
 | # | plant | where | payoff | where | signal |
 |---|---|---|---|---|---|
-| 1 | Noli's total dependence on Keo's projection | D2.1 | she cannot be saved by it | D11.1 | none |
-| 2 | **The third suit, left on the rack** | D2.11 | Keo's injury; and the reader knows the real reason | D11.4 / D15.4 | **overt** |
-| 3 | Benal's mathematics dismissed as dead symbols | D2.2 | the only knowledge that matters | D17.2 | faint |
-| 4 | Keo leaves the machete on the taboo shelf | D2.11 | he pilots the wig | D19.1 | faint |
-| 5 | **Joram's face holding only fear** | D2.6 | the fear was for him, and it was about Yara | D19.7 | none |
-| 6 | Sila: "one lost lightcell" | D2.6 | they come home in a machine | D19.7 | none |
-| 7 | **The archaea failsafe dissolves unmaintained old-tech** | D2.11 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | D17.2 | none |
-| 8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none |
-| 9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none |
-| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none |
-| 9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none |
-| 10 | Teva's mother died of what kills Alira | D1.1 | the confession | D15.4 | faint |
-| 11 | **Four water gourds, filled for three people** | D2.3 | Yara | later in D2.3 | **none — never remarked on** |
-| 12 | "We'll be fine" | D2.1 | after the midpoint nobody can say it, and someone tries | D11.5 | faint |
-| 13 | Liaso's story: a T. rex watched him for an hour | D2.9 | the single distant sighting | Day 13 | none |
-| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
-| 14 | The temporal flash symbol | D11.6 | the signal the heretics received | D17.2 | **overt** |
-| 15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | Benal understands his father | D19.7 | none |
+| 1 | Noli's total dependence on Keo's projection | D2.1 | she cannot be saved by it | D11.1 | none @D2.1 @D11.1 |
+| 2 | **The third suit, left on the rack** | D2.11 | Keo's injury; and the reader knows the real reason | D11.4 / D15.4 | **overt** @D2.11 @D11.4 @D15.4 |
+| 3 | Benal's mathematics dismissed as dead symbols | D2.2 | the only knowledge that matters | D17.2 | faint @D2.2 @D17.2 |
+| 4 | Keo leaves the machete on the taboo shelf | D2.11 | he pilots the wig | D19.1 | faint @D2.11 @D19.1 |
+| 5 | **Joram's face holding only fear** | D2.6 | the fear was for him, and it was about Yara | D19.7 | none @D2.6 @D19.7 |
+| 6 | Sila: "one lost lightcell" | D2.6 | they come home in a machine | D19.7 | none @D2.6 @D19.7 |
+| 7 | **The archaea failsafe dissolves unmaintained old-tech** | D2.11 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | D17.2 | none @D2.11 @D17.2 |
+| 8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none @D2.6 |
+| 9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none @D1.1 @D2.4 |
+| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none @D2.4 @D17.2 |
+| 9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none @D2.4 |
+| 10 | Teva's mother died of what kills Alira | D1.1 | the confession | D15.4 | faint @D1.1 @D15.4 |
+| 11 | **Four water gourds, filled for three people** | D2.3 | Yara | later in D2.3 | **none — never remarked on** @D2.3 |
+| 12 | "We'll be fine" | D2.1 | after the midpoint nobody can say it, and someone tries | D11.5 | faint @D2.1 @D11.5 |
+| 13 | Liaso's story: a T. rex watched him for an hour | D2.9 | the single distant sighting | Day 13 | none @D2.9 |
+| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | D19.4 | faint @D17.2 |
+| 14 | The temporal flash symbol | D11.6 | the signal the heretics received | D17.2 | **overt** @D11.6 @D17.2 |
+| 15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | Benal understands his father | D19.7 | none @D2.2 @D2.6 @D19.7 |
 | 16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
-| 17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none |
+| 17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none @D2.11 |
 | 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
-| 20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none |
-| 21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none |
-| 22 | The gratings must be raised to open the river | D2.5 or 4.x | **flying the wig means opening the croc barrier, every time** | D19.8, book 2 | none |
+| 20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
+| 21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
+| 22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, book 2 | none @D2.5 @D19.5 |
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.
 
@@ -115,8 +115,8 @@ Star lore, checked nightly, intact after 206 years. The mission instructions, ch
 
 Per the cordimancy standard, where the title concept is said aloud exactly twice across 124,000 words. Here:
 
-1. **Teva at D19.7** — *they're not liars, they're believers.*
-2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.7 recontextualises it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small.
+1. **Teva at D19.7** — *they're not liars, they're believers.* @D19.7
+2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.7 recontextualizes it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small. @D2.3
 
 Nothing else in the novel states it. Not the narration, not the epigraphs, not Benal.
 

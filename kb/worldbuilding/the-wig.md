@@ -1,5 +1,5 @@
 ---
-approval: approved d4a63449
+approval: approved 58e04a45
 ---
 
 # The wig
@@ -159,7 +159,7 @@ So it is visible to every person in the Enclave, permanently, floating on the wa
 
 ## 8. The heresy
 
-At D2.11 Keo leaves a machete on a shelf because taking a single blade — bought with two lives — is unthinkable.
+At D2.11 Keo leaves a machete on a shelf because taking a single blade — bought with two lives — is unthinkable. @D2.11
 
 **On Day 19 he flies home in the largest piece of forbidden technology his people have ever seen**, and sets it down in front of the Council. That is the arc measured in objects, and nobody needs to comment on it.
 

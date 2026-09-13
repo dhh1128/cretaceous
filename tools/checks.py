@@ -1473,7 +1473,12 @@ CHECKS["no_legacy_addresses"] = check_no_legacy_addresses
 # post-renumber: the address checks that were blocked on it
 # --------------------------------------------------------------------------
 
-SCENE_ADDRESS = re.compile(r"(?<![\w.])(D\d{1,2}\.\d{1,2})(?:\.(\d{1,3}))?(?![\w.])")
+# The trailing `(?![\w.])` must NOT reject a following period, or an address at
+# the end of a sentence is invisible -- `D99.9.` passes while `see D99.9` fails.
+# This is the SECOND time the same hole has appeared today; the renumber
+# classifier had it, and it lost eighteen references there. Reject only a
+# following digit, which is what distinguishes `D2.3.17` from `D2.3.`
+SCENE_ADDRESS = re.compile(r"(?<![\w.])(D\d{1,2}\.\d{1,2})(?:\.(\d{1,3}))?(?![\w])(?!\.\d)")
 
 
 def check_scene_addresses_resolve() -> list[Violation]:
