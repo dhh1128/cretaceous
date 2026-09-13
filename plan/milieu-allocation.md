@@ -36,7 +36,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | band | days | character |
 |---|---|---|
-| **2.3, the family nest** | 2 | **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. |
+| **⟪2.3, the family nest** | 2 | **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. |
 | **The Enclave** | 1–2 | cultivated and managed. Cycad plantations, palm groves, fern gardens, insect farms, hadrosaur pens, conifer emergents holding the nests. Everything here is *worked*. **And the river bend running through it** — barred at both ends, rotting, repaired forever, and never quite holding. The one dangerous place inside the safe place. |
 | **Border-tangle and the near woodland** | 3 | the transition. Built barrier giving way to understory nobody maintains. |
 | **Open-canopy woodland** | 3–6, 9 | the default. Conifer emergents, laurel and palm canopy, understory of cycad and fern. Rivers with horsetail stands. |
@@ -56,7 +56,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | species | day | note |
 |---|---|---|
-| *Acheroraptor* — **razortail** | 3 | the pack escape. Established at 4.3 by sound only; seen on Day 3. |
+| *Acheroraptor* — **razortail** | 3 | the pack escape. Established at ⟪4.3 by sound only; seen on Day 3. |
 | the large river crocodylian — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. Six meters, and deliberately not placed to genus; `kb/research/geo-flora-fauna.md` §4.4 says why. |
 | *Anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
 | *Madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
@@ -72,7 +72,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *Palaeosaniwa* | 13 | 3 m monitor lizard, an active hunter. **Unused, and the best mid-tier land threat in the inventory.** |
 | *Hesperornis* | 14 | toothed diving bird, coast. |
 | *Muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
-| sea turtles, nesting | 14 | already allocated to 9.1 as the croc distraction. |
+| sea turtles, nesting | 14 | already allocated to ⟪9.1 as the croc distraction. |
 | *Mosasaurus* | 14 | night, the raft. |
 | ***Tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at 3.4. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. |
 
@@ -130,7 +130,7 @@ Food is labor. Nothing here is picked.
 
 - **Stone-cycad cones** look like something you could eat and will poison you — which is the whole reason for the multi-day leaching process at home. **A yazhi in Act 1 should be corrected about this**, so the reader carries the rule out onto the mudwalk.
 - **A mushroom Benal is not certain about**, and the argument about whether hungry is hungry enough. Unresolved is better than resolved.
-- **Gnetophyte berries** — bright red, already canon at 8.2 as ground litter. Leave it ambiguous whether they are edible. Nobody finds out.
+- **Gnetophyte berries** — bright red, already canon at ⟪8.2 as ground litter. Leave it ambiguous whether they are edible. Nobody finds out.
 
 ### The cute and harmless
 
@@ -148,7 +148,7 @@ Each of these is owned once. The number is the day.
 
 **Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days. Nobody has to point this out.
 
-**Sound** — the insect wall (already 4.3, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16).
+**Sound** — the insect wall (already ⟪4.3, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16).
 
 **Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 

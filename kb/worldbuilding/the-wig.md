@@ -80,7 +80,7 @@ Not a general intelligence and not an oracle. **It is the wig's maintenance and 
 
 **Keo activates it, and the reason is not convenience.**
 
-Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at 12.1, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, carried, waiting. So he wanders off, and finds something to talk to.
+Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at ⟪12.1, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, carried, waiting. So he wanders off, and finds something to talk to.
 
 And thematically it is his: **Keo is the one who talks to minds.** Proximity sense and projection are his whole gift; he spent the novel bonded to an animal that way and lost her at the midpoint, and he has been alone in his own head ever since. The boy who talks to minds meets a mind that is not alive, and it answers.
 
@@ -88,7 +88,7 @@ It also solves the pilot problem cleanly. **He is the pilot because the training
 
 ## 6. Who does what in the air
 
-**Keo flies.** **Teva navigates**, in the seat beside him, reading the line through the conifers — and this is where she gets back what she lost offshore at 9.2, in a form that matters more than it ever did on foot. **Benal is behind them with the salvage**, doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
+**Keo flies.** **Teva navigates**, in the seat beside him, reading the line through the conifers — and this is where she gets back what she lost offshore at ⟪9.2, in a form that matters more than it ever did on foot. **Benal is behind them with the salvage**, doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
 
 Three jobs, three people, one machine. Nobody is a passenger.
 
@@ -159,7 +159,7 @@ So it is visible to every person in the Enclave, permanently, floating on the wa
 
 ## 8. The heresy
 
-At 4.2 Keo leaves a machete on a shelf because taking a single blade — bought with two lives — is unthinkable.
+At ⟪4.2 Keo leaves a machete on a shelf because taking a single blade — bought with two lives — is unthinkable.
 
 **On Day 19 he flies home in the largest piece of forbidden technology his people have ever seen**, and sets it down in front of the Council. That is the arc measured in objects, and nobody needs to comment on it.
 

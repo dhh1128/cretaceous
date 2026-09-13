@@ -119,7 +119,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **It has to open.** A permanently sealed river silts, clogs with flood debris, and blocks their own access. So the grating is raisable, and raising it is an operation.
 
-**And it does not work.** A grating sized to stop a six-meter adult croc passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene 2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
+**And it does not work.** A grating sized to stop a six-meter adult croc passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene ⟪2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
 **It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement, and nobody in that family has ever needed it explained.
 
@@ -169,7 +169,7 @@ This is a scientific mission, not a tribe, and **status follows mission-critical
 
 **Two consequences that pay off later.** First, Teva was being trained for this — it is why Omya taught her the stars (`content/superseded/01.1.md:49`), and it recasts her failed sensory upgrades: she has the memory a Keeper needs and not the senses, so **she was supposed to inherit the sky and got part of the way.** Second, a 206-year positional record held in one dying woman's head is a scientific dataset, and Benal is the only person alive who would recognize it as one.
 
-**The clinical detail that makes scene 2.4 work.** In dementia, remote and heavily-rehearsed memory outlasts recent and complex memory. Omya learned the sky as a child and has recited it sixty years; she learned the full synthesis protocol later and it is far more intricate. **So she can still name every star and cannot remember the protein fold.** The knowledge nobody thinks is worth anything survives, and the knowledge keeping them alive is going — and Marek would call the star lore dead symbols, which is the exact phrase he uses on Benal's mathematics. Both turn out to matter.
+**The clinical detail that makes scene ⟪2.4 work.** In dementia, remote and heavily-rehearsed memory outlasts recent and complex memory. Omya learned the sky as a child and has recited it sixty years; she learned the full synthesis protocol later and it is far more intricate. **So she can still name every star and cannot remember the protein fold.** The knowledge nobody thinks is worth anything survives, and the knowledge keeping them alive is going — and Marek would call the star lore dead symbols, which is the exact phrase he uses on Benal's mathematics. Both turn out to matter.
 
 **Explorers** — Keo's parents — are valued for mastery of animal behavior and survival technique, and for rare upgrade combinations, not for courage alone.
 
@@ -191,7 +191,7 @@ The **failsafe** is elegant and worth using. Every old-tech item is wrapped in b
 
 **Soft tech — bioengineering.** Dangerous for the opposite reason: organisms move and reproduce, so they cannot be confined to the impact zone. Permitted only for humans, who can be kept inside it, and for engineered organisms carrying mandatory dependencies or kill-switches.
 
-**Soft tech is high technology, not primitive adaptation**, and the prose must carry this. Their solutions are *built*, not found. The kiva is lit by cultivated mycelial lattices — *lightmold* — grown on specific substrates, maintained by Keepers, calibrated to particular wavelengths, and carrying an embedded kill-switch so they cannot spread. The pheromone barrier is a synthesized compound, harvested and reapplied on a schedule, tuned to particular predators. It weeps as **viscous amber from ceramic nozzles set into the tangle**, and its chemistry is a piece of applied cruelty worth rendering in full: **the base note is the musk of a dominant, territorial tyrannosaur, laid over the chemical markers of sepsis and necrotic tissue.** To a rex it reads *the alpha here is wounded, sick and unpredictable* — a fight not worth having. To everything smaller it reads *the apex predator is here, and it is angry.* **Flee or die.** Which is why Noli has to be pinned to stand within ten meters of it. The Vitarium runs on synthetic nutrient compounds, apoptosis protocols and viral vectors, and the failure in scene 1.1 is a named protocol at a numbered position, not a ritual gone wrong.
+**Soft tech is high technology, not primitive adaptation**, and the prose must carry this. Their solutions are *built*, not found. The kiva is lit by cultivated mycelial lattices — *lightmold* — grown on specific substrates, maintained by Keepers, calibrated to particular wavelengths, and carrying an embedded kill-switch so they cannot spread. The pheromone barrier is a synthesized compound, harvested and reapplied on a schedule, tuned to particular predators. It weeps as **viscous amber from ceramic nozzles set into the tangle**, and its chemistry is a piece of applied cruelty worth rendering in full: **the base note is the musk of a dominant, territorial tyrannosaur, laid over the chemical markers of sepsis and necrotic tissue.** To a rex it reads *the alpha here is wounded, sick and unpredictable* — a fight not worth having. To everything smaller it reads *the apex predator is here, and it is angry.* **Flee or die.** Which is why Noli has to be pinned to stand within ten meters of it. The Vitarium runs on synthetic nutrient compounds, apoptosis protocols and viral vectors, and the failure in scene ⟪1.1 is a named protocol at a numbered position, not a ritual gone wrong.
 
 ### The unhappy compromise
 
@@ -300,7 +300,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 
-**Naming.** A birth name, informal and provisional. A **True Name** at roughly three, once the critical early Seedings are survived — this is the passage out of *yazhi* into personhood, and it matters more than any individual Seeding. An adult name at fourteen or fifteen, when all Seedings are complete. Alira in scene 1.1 was two and a half: named, and therefore a person, and therefore a death the community must count.
+**Naming.** A birth name, informal and provisional. A **True Name** at roughly three, once the critical early Seedings are survived — this is the passage out of *yazhi* into personhood, and it matters more than any individual Seeding. An adult name at fourteen or fifteen, when all Seedings are complete. Alira in scene ⟪1.1 was two and a half: named, and therefore a person, and therefore a death the community must count.
 
 ## 8. The crisis
 
@@ -344,7 +344,7 @@ She feels cold as a *symptom* too — of starvation, blood loss, exhaustion — 
 
 Her grandmother is **Omya**, the last Master Keeper. Because of that position she was expected to receive better upgrades than she got, and the failures read to her as a family failing.
 
-**Her mother died two years ago** (`content/superseded/01.1.md:77-83`) — a bite, then infection, then a Seeding that did not take. She carried the magnetic sense Teva inherited, and she navigated white-out fog by the pull in her bones. **She died of exactly what kills Alira in scene 1.1, after exactly the treatment that is now failing.** That is the engine of Teva's rage and it is already on the page. Her father is undefined; that gap is deliberate and belongs to the arc planning.
+**Her mother died two years ago** (`content/superseded/01.1.md:77-83`) — a bite, then infection, then a Seeding that did not take. She carried the magnetic sense Teva inherited, and she navigated white-out fog by the pull in her bones. **She died of exactly what kills Alira in scene ⟪1.1, after exactly the treatment that is now failing.** That is the engine of Teva's rage and it is already on the page. Her father is undefined; that gap is deliberate and belongs to the arc planning.
 
 Navigator, strategist, and the one who decides. Her mask is rage. Her thematic line: *monsters in the water* against *monsters in the blood*.
 

@@ -56,7 +56,7 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 
 ## 3. How to ask him things
 
-**His attention is the scarce resource in this project**, and the process is measured on it — see `process/methodology-theory.md` §11. Three numbers per scene: invention-ledger items put to him, words he had to read, words he had to write. The baseline is deliberately terrible: scene 2.3, zero ledger items, ~8,600 words read, thousands written, and the output unusable.
+**His attention is the scarce resource in this project**, and the process is measured on it — see `process/methodology-theory.md` §11. Three numbers per scene: invention-ledger items put to him, words he had to read, words he had to write. The baseline is deliberately terrible: scene ⟪2.3, zero ledger items, ~8,600 words read, thousands written, and the output unusable.
 
 - **Propose, don't ask.** An open question makes him do the work. A proposal lets him scan and object, which is an order of magnitude cheaper. Every proposal should be answerable in a few words.
 - **One or two questions at a time, in dependency order** — the one whose answer implies the most about the others first. A list of twenty questions makes him answer ones that later answers would have settled.
@@ -72,7 +72,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 **Nothing reaches him that has not passed the mechanical checks.** The blacklist, the logic checker, the repetition hawk, the four invariants, and the invention audit. Spending his attention on defects a checklist catches is the most expensive mistake available here.
 
-**Measure the sentence distribution every time, and measure it separately for dialogue and for narration.** `prompts/ai-tells-blacklist.md` used to say rhythm was not the problem and not to spend effort there. That was true of four particular drafts and false in general: the first draft of scene 1.1 came out at 42.4% sentences of five words or fewer, from a session that had read the exemption and believed it. Targets are in `prompts/style-canon.md` §0.
+**Measure the sentence distribution every time, and measure it separately for dialogue and for narration.** `prompts/ai-tells-blacklist.md` used to say rhythm was not the problem and not to spend effort there. That was true of four particular drafts and false in general: the first draft of scene ⟪1.1 came out at 42.4% sentences of five words or fewer, from a session that had read the exemption and believed it. Targets are in `prompts/style-canon.md` §0.
 
 **The comparison that finding was made against was wrong, and the corrected version is worth more.** 42.4% was read as fifteen points above a book-level norm of 25.7%, which sounds like a vague rhythm problem. It is not one. Daniel's dialogue runs about 41% short sentences and his narration about 19–22% once speech-attribution fragments are set aside, so the book-level figure is mostly a fact about his dialogue-to-narration ratio. That draft was writing **narration at his dialogue rate**, which is a specific defect with a specific fix.
 
@@ -114,6 +114,6 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 **The corpus is full of decisions nobody made.** Yesterday's rewrites bundled real decisions of his with large numbers of unrequested changes, and the real decisions made the commits look legitimate. Examples found in one day: an exact population replacing a deliberate vagueness, accents stripped from every name in the name file, a calendar arguing against a season pivot and then scheduling one three times, a character's dead sibling changing cause of death.
 
-**The novel is strict third-person limited, and that constrains what a scene can pay.** The reader receives exactly what the POV character receives. Irony works by the POV character *misreading shared information*, never by the reader getting extra information. A planning layer that assigns the reader a payment a POV cannot deliver is a defect — one did, at scene 1.1, and it took Daniel to notice.
+**The novel is strict third-person limited, and that constrains what a scene can pay.** The reader receives exactly what the POV character receives. Irony works by the POV character *misreading shared information*, never by the reader getting extra information. A planning layer that assigns the reader a payment a POV cannot deliver is a defect — one did, at scene ⟪1.1, and it took Daniel to notice.
 
 **Read the whole file before matching a neighbor.** Two artifacts can share a naming pattern and be different kinds of thing, and most of what looks like convention here is a previous session's arbitrary choice.

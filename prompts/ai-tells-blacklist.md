@@ -142,4 +142,4 @@ Not everything failed, and the successes are as instructive as the tells.
 
 **Rhythm was not the problem in those four drafts** — measured against `viking.md`, their sentence-length distribution came out close to target every time, and the real failures were all in §§5–15.
 
-**But do not read that as a standing exemption.** The first draft of scene 1.1 came out at **42.4% sentences of five words or fewer against viking's 25.7%**, and mean 13.0 against 11.2 — the same staccato that made `content/superseded/` unusable, from a drafter who had read this line and taken it at face value. Measure the distribution every time. It is one command and it caught a rewrite.
+**But do not read that as a standing exemption.** The first draft of scene ⟪1.1 came out at **42.4% sentences of five words or fewer against viking's 25.7%**, and mean 13.0 against 11.2 — the same staccato that made `content/superseded/` unusable, from a drafter who had read this line and taken it at face value. Measure the distribution every time. It is one command and it caught a rewrite.

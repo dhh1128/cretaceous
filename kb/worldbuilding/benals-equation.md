@@ -26,7 +26,7 @@ It appears in the text as a written artifact — on Benal's slate, later etched 
 
 The equation ought to work and does not. The $T_d$ it predicts does not match what they can observe. So a term is missing, and Benal is trying to find it.
 
-**His hypothesis, stated in scene 2.2:** *"They anchored to a point in space, not a point in spacetime. The anchor is unmoored."*
+**His hypothesis, stated in scene ⟪2.2:** *"They anchored to a point in space, not a point in spacetime. The anchor is unmoored."*
 
 The founders were brilliant and reasoned as though space held still. It does not. **In 66 million years the solar system travels something like a quarter of an orbit around the galactic center** — one galactic year runs roughly 225 to 250 million years — and the galaxy itself is moving within the Local Group. Across that span, "the same place" is not a statement that means anything. $f_{drift}$ is Benal's attempt at the correction, and the residue he cannot resolve he calls **asymptotic noise**.
 
@@ -72,7 +72,7 @@ And the second jump — a thousand years back, to the same spot — was launched
 
 1. **Never explain it.** No character delivers a lecture. Benal talks in fragments, to himself, and the reader assembles the shape from his frustration.
 2. **He is stuck for most of the book**, and being stuck is characterizing — it is why Marek can call the work useless and why Benal half believes him.
-3. **The fieldpack loss at 9.3 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically.
+3. **The fieldpack loss at ⟪9.3 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically.
 4. Use the notation sparingly and as an *image* — something seen on a slate, something etched in metal — not as text to be parsed.
 
 ## Open issue for the science pass

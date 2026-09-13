@@ -18,7 +18,7 @@ Read, in this order, before doing anything else:
 2. This runbook.
 3. `prompts/ai-tells-blacklist.md` — the defects Daniel has actually found in generated prose.
 
-**What went wrong before, so you do not repeat it.** On 2026-09-10 a draft of scene 2.3 was produced from a structure map alone, with every other layer deliberately switched off to isolate a variable. Daniel read 8,600 words and wrote thousands in critique to correct 2,000 words of unusable prose. The dominant failure was **unsubstantiated invention** — the drafter invented sleeping arrangements, a set of twins, a character's age, where suits are stored, the temperature at dawn, and then built further material on each invention, so each correction meant unwinding a structure rather than replacing a word. The second failure was **characters with no wants**, which was a defect in the brief and not in the writing. Phases 3 and 4 exist because of these two.
+**What went wrong before, so you do not repeat it.** On 2026-09-10 a draft of scene ⟪2.3 was produced from a structure map alone, with every other layer deliberately switched off to isolate a variable. Daniel read 8,600 words and wrote thousands in critique to correct 2,000 words of unusable prose. The dominant failure was **unsubstantiated invention** — the drafter invented sleeping arrangements, a set of twins, a character's age, where suits are stored, the temperature at dawn, and then built further material on each invention, so each correction meant unwinding a structure rather than replacing a word. The second failure was **characters with no wants**, which was a defect in the brief and not in the writing. Phases 3 and 4 exist because of these two.
 
 ---
 
@@ -41,7 +41,7 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | `milieu-brief.md` | world facts the scene touches |
 | `kb/worldbuilding/*` | everything else about the world |
 | `minor-characters.md` | cast, names, ages, established facts |
-| `tech-rules.md` | how the technology behaves — **and check its audit table for a gap assigned to this scene.** A capability taught here for the first time, cost-free, is an obligation, not a suggestion: 2.3 owes accelerated healing and its price, 2.5 owes croc vibration sensing, 4.3 owes suit thermal management and suit feeding. A scene that skips its teaching leaves a later scene exploiting a capability the reader has never seen |
+| `tech-rules.md` | how the technology behaves — **and check its audit table for a gap assigned to this scene.** A capability taught here for the first time, cost-free, is an obligation, not a suggestion: ⟪2.3 owes accelerated healing and its price, ⟪2.5 owes croc vibration sensing, ⟪4.3 owes suit thermal management and suit feeding. A scene that skips its teaching leaves a later scene exploiting a capability the reader has never seen |
 | `body-and-resources.md`, `journey-calendar.md` | physical state, food, water, weather, time of day |
 | `style-canon.md` | verbatim Hardman passages — the voice target |
 | `writing-style.md`, `word-choice-expert.md` | prose rules |
@@ -64,7 +64,7 @@ Requirements that exist because they were violated:
 
 ## Phase 3 — Check the map, before anything else
 
-Run the four invariants from `methodology-theory.md` §5 **against the map itself.** The 2.3 map promised a reader payment that no move delivered, sat in the open for a day, and neither of two AI sessions noticed.
+Run the four invariants from `methodology-theory.md` §5 **against the map itself.** The ⟪2.3 map promised a reader payment that no move delivered, sat in the open for a day, and neither of two AI sessions noticed.
 
 1. State closure against the neighboring scenes.
 2. Every ledger row named in `OUT — READER` is paid by a move.
@@ -93,7 +93,7 @@ Every answer goes into the appropriate canon file immediately, with a date and a
 
 One pass. One mind holding the scene at once. Do not factor the writing into layers — plan in layers, draft in one pass, revise in layers.
 
-Inputs: the map, plus **everything**. Style canon, voice sheets, world bible, milieu brief, cast list, tech rules, blacklist, the answered invention ledger. Never strip inputs to isolate a variable in a run that is meant to produce usable prose; that was the 2.3 mistake.
+Inputs: the map, plus **everything**. Style canon, voice sheets, world bible, milieu brief, cast list, tech rules, blacklist, the answered invention ledger. Never strip inputs to isolate a variable in a run that is meant to produce usable prose; that was the ⟪2.3 mistake.
 
 ## Phase 7 — Mechanical checks, before Daniel sees anything
 
@@ -124,4 +124,4 @@ Not optional, and not long. Budget it before you start so the session does not e
 
 ## Open question for the first run
 
-`Q-8HNV`, unanswered as of 2026-09-10: for scene 1.1, is `content/superseded/01.1.md` an **input** — map the existing scene and rebuild from that map, inheriting the architecture Daniel designed — or is it **set aside**, mapping 1.1 from the scene list and the layers alone and writing fresh? The first inherits a structure he liked along with whatever is wrong with it; the second is a cleaner test of the process. Ask him before phase 2.
+`Q-8HNV`, unanswered as of 2026-09-10: for scene ⟪1.1, is `content/superseded/01.1.md` an **input** — map the existing scene and rebuild from that map, inheriting the architecture Daniel designed — or is it **set aside**, mapping ⟪1.1 from the scene list and the layers alone and writing fresh? The first inherits a structure he liked along with whatever is wrong with it; the second is a cleaner test of the process. Ask him before phase 2.
