@@ -68,7 +68,7 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 
 The procedure is `process/scene-build-runbook.md`. Two things in it are load-bearing and both have been violated:
 
-**The map is approved before any prose exists.** Phase 4 is a hard stop — the forward map plus the invention ledger go to him together, and you wait. Objecting to a beat costs him a sentence; objecting to the drafted version of the same beat costs him a paragraph and you a rewrite. *(This has been skipped once, and the prose written out of order was discarded — which is the cheapest possible outcome and not one to rely on.)*
+**The map is approved before any prose exists.** Phase 4 is a hard stop — the forward map plus the invention ledger go to him together, and you wait. Objecting to a move costs him a sentence; objecting to the drafted version of the same move costs him a paragraph and you a rewrite. *(This has been skipped once, and the prose written out of order was discarded — which is the cheapest possible outcome and not one to rely on.)*
 
 **Nothing reaches him that has not passed the mechanical checks.** The blacklist, the logic checker, the repetition hawk, the four invariants, and the invention audit. Spending his attention on defects a checklist catches is the most expensive mistake available here.
 

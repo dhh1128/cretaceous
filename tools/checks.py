@@ -804,6 +804,11 @@ def check_act_composition() -> list[Violation]:
 # explained.
 UNIT_WORD = re.compile(r"\bbeats?\b", re.I)
 UNIT_WORD_EXEMPT = ("README.md",)
+# `content/superseded/` and `content/rejected/` are the record of what was actually
+# drafted, and two of their instances are the ordinary English word -- a wingbeat and
+# a heartbeat. Rewording them would both falsify the record and change prose that is
+# kept precisely as a negative example. Same exemption, same reason, as `retired_claims`.
+UNIT_WORD_EXEMPT_DIRS = ("content/superseded/", "content/rejected/")
 
 
 def check_eliminated_unit_word() -> list[Violation]:
@@ -814,7 +819,7 @@ def check_eliminated_unit_word() -> list[Violation]:
     check that proposed substitutions would be proposing prose."""
     out = []
     for path, n, line in iter_lines():
-        if path in UNIT_WORD_EXEMPT:
+        if path in UNIT_WORD_EXEMPT or path.startswith(UNIT_WORD_EXEMPT_DIRS):
             continue
         # Blockquotes in style-canon are verbatim passages from Daniel's own
         # novels. None of them currently carries the word, but rewording one

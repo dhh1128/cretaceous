@@ -4,20 +4,17 @@ approval: unapproved
 
 # Cretaceous — Scene List
 
-Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
+Breaks the fifteen-unit outline into scenes. Each is a distinct unit of action with a specific POV.
 
 **The rescene is done.** **70 scenes**, which is the count `pacing-and-stakes.md` §5 proposes, and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, thirty-eight in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
-**Two formats are still live and that is temporary.** Act 1 and everything rescened carry size, day and hour, POV, place, ladders, must-carry, hazard and ending. A handful of Act 2 entries are still in the older single-line form with a B-Story note. Ids are **provisional and day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
+**One format, everywhere.** Every entry carries size, day and hour, POV, place, ladders, must-carry, hazard and ending. The older single-line form with a B-Story note is gone; the last of it was Days 10, 11 and 14, and each of those entries carries a *was* note recording the id it converted from. **Act 1 keeps its `1.1`–`4.3` ids and everything below Act 1 is day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
 *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
 
-Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
-* **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
+## ACT 1: THE FAILING WORLD (outline units 1–4) — RESCENED, 14 scenes
 
-## ACT 1: THE FAILING WORLD (Beats 1-4) — RESCENED, 14 scenes
-
-*Act 1 is rescened against `plan/pacing-and-stakes.md`. Acts 2 and 3 below are still in the old format and still under-scened; they are rescened next.*
+*Act 1 is rescened against `plan/pacing-and-stakes.md`, and so are Acts 2 and 3 below.*
 
 Format per scene: size, day and hour, POV, location. **Ladders** are Emotional / Physical / Social / Species, 0–10, per `pacing-and-stakes.md` §6. **Plants** are entries in `knowledge-ledger.md`, whose rows N–S carry the misjudgment ledger.
 
@@ -47,14 +44,14 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 ---
 
 ### 2.1 — [MEDIUM] [Day 2, dawn] [KEO] [Perimeter] — *revise `content/superseded/02.1.md`*
-**Ladders:** E3 P2 S2 X2 — **rest beat, deliberately**
+**Ladders:** E3 P2 S2 X2 — **a rest, deliberately**
 Keo trains Noli. Bravado over a bad night.
-**Add:** two of Noli's four comic beats. Seed *"we'll be fine"* as a tic the others will later throw back at him.
+**Add:** two of Noli's four opinions, per `humor-plan.md`. Seed *"we'll be fine"* as a tic the others will later throw back at him.
 
 ### 2.2 — [MEDIUM] [Day 2, morning] [BENAL] [Family dwelling] — *revise `content/superseded/02.2.md`*
 **Ladders:** E4 P1 S3 X3
 Benal's mathematics. Marek's *"do something real."*
-**Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not appear at beat 8.
+**Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not first arrive on Day 11.
 **Plants:** fact O goes ironic. The reader will connect this scene to 3.1; Benal never will.
 
 ### 2.3 — [LONG, ~2000] [Day 2, morning] [KEO] [The family nest] — **NEW — the most important new scene in the novel**
@@ -66,7 +63,7 @@ Benal's mathematics. Marek's *"do something real."*
 - Their competence. They are Explorers; Hesh's numbers are *their* numbers, and they know exactly what is out there.
 - **Charm.** This is a family that loves each other and has jokes. The reader has to want it back.
 - Why Keo has never been given a suit.
-**Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant beat 14 pays.
+**Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant the confrontation at D19.7 pays.
 
 ### 2.4 — [LONG, ~1800] [Day 2, afternoon] [TEVA] [Omya's dwelling] — **NEW — the other missing organ**
 **Ladders:** E7 P1 S4 X5
@@ -77,7 +74,7 @@ Benal's mathematics. Marek's *"do something real."*
 - Lumea named by her mother.
 - Something about the founders that will later contradict Sila.
 - **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
-**Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what beat 10's *"I left her while she's disappearing"* currently has nothing behind.
+**Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind.
 
 ### 2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool] — *was 2.3 — now `content/superseded/02.5.md`*
 **Ladders:** E5 P3 S3 X3
@@ -108,7 +105,7 @@ Teva: *"I'm going."* Not a request.
 **Add:** the intimacy layer's first real rung. Keo's crush is on the page, unspoken, and he misreads her entirely.
 
 ### 3.4 — [MEDIUM] [Day 2, night] [KEO] [Same] — *was 3.3 — now `content/superseded/03.4.md`*
-**Ladders:** E6 P2 S5 X4
+**Ladders:** E6 P2 S6 X4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at 4.1 and 4.2.
 Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
 **Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.
 
@@ -137,8 +134,6 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Act 1 totals:** 14 scenes, ~15,800 words. Four canon scenes unchanged, three revised, **four new**, three renumbered.
 
 ## ACT 2: THE MUDWALK — RESCENED, 38 scenes
-
-### BEAT 5: B-STORY (Immediate Fallout)
 
 ### D3.3 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland] — *was 5.1*
 **Ladders:** E6 P7 S8 X4
@@ -221,7 +216,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ---
 
-> **Days 7, 8 and 9 are rescened below, in the Act 1 format.** The rest of this act is still in the old one. **Ids are provisional and day-keyed** — `D7.2` is the second scene of Day 7 — because the sequential renumber has to wait until a check exists that every scene address cited across the layers resolves; after the renumber the ordering evidence those 392 references carry is gone, and it is what the check reads. The day is the stable key in the meantime, per `plan/journey-calendar.md`.
+> **Everything from here to the end of the act is rescened, in the Act 1 format.** **Ids are provisional and day-keyed** — `D7.2` is the second scene of Day 7 — because the sequential renumber has to wait until a check exists that every scene address cited across the layers resolves; after the renumber the ordering evidence those 392 references carry is gone, and it is what the check reads. The day is the stable key in the meantime, per `plan/journey-calendar.md`.
 
 ---
 
@@ -353,36 +348,122 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** underlining. Signal level is *faint*. The bad version has someone say *we can't go back, can we?* Nobody says it, and the scene ends on the not-saying.
 **Ends on:** the thing unsaid, and one of them choosing not to say it.
 
-6.5 [Day 10] [KEO] [Open Savanna] [LOW (Hubris)] - The sunfever trek. Keo (no suit) feels fine, pushing the pace. His bravado is high. He forces a grin at Benal, who is still pale from the snake attack (6.4), "Next time, try not to look so delicious. You're making them hungry." [Milieu: Brutal, unfiltered, midday sun; shimmering heat. The 'savanna' is a sea of 'head-high ferns and cycads'. In the distance, he spots a herd of *Kritosaurus*, 'their calls like low, mournful horns'. **A band of *Ornithomimus* crosses ahead of them at speed** — fast, harmless, and simply a pleasure to watch, which is the allocation's whole brief for the animal and lands here because it is the one thing on this day that costs nothing. Keo watches it and Teva, four steps behind him, does not. His throat is parchment-dry, and he knows they're down to their last half-canteen of water; they need rain, or they'll be in crisis by nightfall.]
-* **B-Story Note:** **Unrequited Romance / Hubris Climax**. Keo's internal monologue is dominated by his pride in his **Thermal Regulation** upgrade and his desire to prove himself capable to Teva without the "crutch" of the suit. This is the apex of his **Hubris** arc.
+---
 
-6.6 [Day 10] [TEVA] [Open Savanna] [HIGH (Weakness)] - Same trek, her POV. Her suit is struggling with thermal load. She is dizzy, near collapse, but hides it. [Milieu: Her POV: The suit's HUD is 'flickering with red heat warnings.' The sun is 'a physical weight,' and the *Kritosaurus* calls are 'a dull, throbbing headache'.]
-* **B-Story Note:** **Skills Clash (Vulnerability)**. Teva must hide her **Poor Thermal Regulation** failure, ironically making her (the suited one) more vulnerable than Keo.
+### D10.1 — [MEDIUM] [Day 10, midday] [KEO] [Fern savanna] — *was 6.5*
+**Ladders:** E5 P7 S5 X5
+**The sunfever trek, and it is the top of his arc.** Unsuited, feeling fine, pushing the pace, and there is nowhere to stop pushing it.
+**Must carry:**
+- **He wants nothing and fears nothing, and that is the problem.** `character-arcs.md` gives Day 10 as the summit of the hubris arc: he wants to be seen doing it, he believes his body is the answer, and he is hiding nothing. His pride is specifically in the thermal regulation upgrade and in proving he needs no crutch.
+- **The marching doctrine breaks because the terrain breaks it.** A fern savanna has nowhere to lay up, so they walk through the worst of the day; `body-and-resources.md` §2b is explicit that the terrain removes the option and his hubris only decides how fast. That is better than him simply pushing too hard, and the scene must not convert it back.
+- **The joke, and it is the last clean run of the old register.** *"Next time, try not to look so delicious. You're making them hungry"* — at Benal, still pale from the constrictor. `humor-plan.md` names this line as the calibration point for Keo's bravado, and says the register must die at the midpoint and stay dead.
+- **The water.** His throat is parchment-dry, they are down to the last half canteen, and they need rain or they are in crisis by nightfall. `body-and-resources.md` §2 makes Day 10 the water crisis of the journey.
+- **A *Kritosaurus* herd at distance, calls like low mournful horns**, and **a band of *Ornithomimus* crossing ahead of them at speed** — fast, harmless, and simply a pleasure to watch, which is the allocation's whole brief for the animal. It lands here because it is the one thing on this day that costs nothing. **Keo watches it and Teva, four steps behind him, does not.**
+- **Head-high ferns and cycads to the horizon, heat shimmer, dust and hot fern**, and the fliers are gone — this is a mite-and-tick day, working up under clothing unnoticed for hours. All allocated to Day 10.
+- **He is burning and does not notice until night.** Unsuited, no shade, UV all day.
+**Hazard:** writing him as a fool. He is right that he can do this, he is doing it, and the reader should be enjoying him at roughly the rate he is enjoying himself — which is what makes tomorrow cost something. Second: the sun rendered as weather. It is a weight on a person, and the same hour is his best and her worst.
+**Ends on:** the pace, and nobody asking him to slow down.
 
-### BEAT 7: MIDPOINT (Noli's Death)
+### D10.2 — [SHORT, ~900] [Day 10, midday] [TEVA] [Fern savanna] — *was 6.6*
+**Ladders:** E7 P9 S5 X5
+**The same hours from inside a suit that is losing.** Dizzy, dry, concealing it, and the one of them wearing protection is the one in danger.
+**Must carry:**
+- **Thermal saturation, and the suit's primary job in this climate is cooling.** The phase-change reservoirs fill, the system cannot dump heat faster than it arrives, and a saturated suit is a hot box (`kb/worldbuilding/safety-suits.md`). `body-and-resources.md` §3b puts the failure here and gives it no overnight reset.
+- **The irony is structural and never stated.** She is the suited one and therefore the worse off. `character-arcs.md` has her wanting to keep up, believing she can outlast her own body, fearing collapse in front of Keo, and hiding that she is dying of heat, actively.
+- **Reading her own status is an act somebody could see.** Eye shield down is the rich channel and puts the warnings in front of her; shield up leaves her haptics through the weave and a bioluminescent forearm display she would have to stop and look at. `kb/worldbuilding/safety-suits.md`, and which channel she is on is a choice this scene gets to make.
+- **The sun as physical weight, and the hadrosaur calls as a dull throbbing headache.** Both allocated to Day 10, and both are hers rather than the narration's.
+- **No lay-up, and it is the mistake of the day** — but not one anybody made. See D10.1.
+**Hazard:** suspense about whether she collapses. She does not collapse today. The subject is the labor of concealment, carried out beside somebody having the best day of his life. Second: cold, in any form. `journey-calendar.md` §2 — the lethal half of her thermal failure is heat, and there is no cold available in this world.
+**Ends on:** the light going, and her having said nothing.
 
-7.1 [Day 10 - Night] [KEO] [Camp (Open Clearing)] [LOW (Content)] - A rare moment of peace. Keo is playing with Noli, sharing food. [Milieu: The star-gazing scene: a windless, perfectly clear night. They are eating 'roasted 'grounder' meat' and 'sweet, mealy 'dinosaur-fruit' (*Annonaceae*)'. Noli proudly drags a fresh-killed grounder into camp. Keo roasts the small mammal, and they share the precious carne with foraged 'dinosaur-fruit', a rare and risky feast far better than their dry "journey-pan".]
-* **B-Story Note:** **False Peace**. Establish the trio as a functional unit and Noli as a key part of their internal camaraderie before the crisis.
+### D10.3 — [LONG, ~2000] [Day 10, night] [KEO] [Camp on the savanna] — *was 7.1*
+**Ladders:** E4 P5 S6 X5
+**The last peaceful night in the novel**, and the reader has to be allowed to enjoy it without being told that is what it is. Windless, perfectly clear, and they eat properly for the first time since the gift.
+**Must carry:**
+- **Noli, with opinions.** She drags a fresh-killed grounder into camp, proud of it. `humor-plan.md` is explicit that the mechanism is grievance rather than charm — a thing she has decided is food and is not, a rule she obeys except in the one circumstance where she pretends not to hear — and that for the midpoint to hurt she has to have had views first. Keo's projected register with her, *good-pack-good-food*, is the channel the opinions arrive on.
+- **The meal is a risk taken, not an idyll.** Roasted grounder against dry journey-pan, and grounders are allocated to Days 6 and 10 because they are Noli's catch. After Day 11 nobody catches them, and that is how the reader feels her absence in the food (`foreshadow-and-motif.md` row 19).
+- **The fresh meat is the whole treat, and the rest of the meal is what is in the pack.** *(The old entry also served sweet mealy dinosaur-fruit here. `milieu-allocation.md` §3b allocates stonefruit to Days 4, 6 and 13, and §3 allows an item to be referenced after its day but not re-described — a full sensory description on a day the fruit was never given. It is dropped rather than moved.)*
+- **The sky, searched, and the question landing hardest.** `journey-calendar.md` §3 gives Night 10 the star-gazing scene and calls it the right place for the asteroid question: they look up for the thing that will end the world and find ordinary stars. The same section puts Benal, on Nights 6 and 10, in the position of being the only person alive who would recognize what a memorized positional sky is — a 206-year dataset held in a dying woman's head.
+- **False peace, and the charm is a deposit rather than a decoration.** `humor-plan.md`: the humor budget and the grief budget are one account, and the midpoint draws directly on this scene.
+- `[?]` **The kill is what brings the flybeak.** The old entry has the animal drawn at dawn by the scent of Noli's kill, which makes the feast the cause of the death. It is a harder version of the same night and no planning layer supports it.
+**Hazard:** an idyll. They are camped in the open on ground with nothing to hide behind or under, and the peace has to be real anyway. Second: the scene knowing what happens at dawn. Treating the meal as ironic spends the midpoint a night early.
+**Ends on:** the fire down, and the watch changing.
 
-7.2 [Day 11 - Dawn] [KEO] [Camp (Open Clearing)] [SHOCK] - The Quetzalcoatlus attack. It's over in seconds. The sky is empty. [Milieu: The *Quetzalcoatlus* attacks at dawn, using the 'low, blinding sun at its back' to mask its approach. It is a 'sudden, impossible shadow' that moves 'faster than thought'. The pterosaur was almost certainly drawn by the scent of Noli's kill from the night before.]
-* **B-Story Note:** **Noli's Loss**. The failure is absolute and vertical. Keo's **Mental Projection** is utterly useless, shattering his confidence and marking the end of the "adventure."
+---
 
-7.3 [Day 11 - Dawn] [KEO] [Camp (Open Clearing)] [GRIEF (Numb)] - The silence. Teva moves his pack for him. Benal just sits nearby. Their quiet, physical presence is the first act of true compassion. [Milvieu: The 'deafening, ringing silence' after the attack. Keo is staring at a single, 'blood-spattered purple feather' from Noli. Benal just sits, 'methodically picking a fern apart'.]
-* **B-Story Note:** **Chosen Family Bond**. The compassion from Teva and Benal in his grief moves their relationship past **Shared Guilt** into a truly positive bond.
+### D11.1 — [SHORT, ~600] [Day 11, dawn] [KEO] [Camp on the savanna] — *was 7.2*
+**Ladders:** E9 P6 S6 X5
+**Noli is taken.** It is over in seconds, out of a low blinding sun, and then the sky is empty.
+**Must carry:**
+- **Dread first, shock second.** `knowledge-ledger.md` makes this surprise 1 of four and states the condition: the reader must already have been given the flybeak — a shadow, a silence, a wrongness — so that what surprises them is *when, and who*. It also has to recontextualize, and what it recontextualizes is every previous scene of Keo's competence.
+- **The sun is the ambush.** `journey-calendar.md` §2 requires a clear dawn for exactly this reason: no sun, no ambush.
+- **Mental projection is useless, and that is the loss.** `tech-rules.md` gives this scene as the place the capability fails outright — it nudges natural inclination and cannot override a committed predator. The gift is intact and it could not save the one thing it was for (`character-arcs.md`).
+- **A sudden impossible shadow, and the tearing-sail sound**, which is the flybeak's allocated sound and belongs to this day.
+- **Vertical, and not a fight.** Nobody reaches anything and nothing anybody does works.
+**Hazard:** a set-piece. There is no struggle and no near-miss, and the power of it is how little happens and how fast. Second: describing the animal at length. It has one showcase and a return on Day 19 (`milieu-allocation.md` §3), and here it is mostly absence.
+**Ends on:** the sky, empty, and how quickly it became that.
 
-### BEAT 8: BAD GUYS CLOSE IN
+### D11.2 — [MEDIUM] [Day 11, dawn] [KEO] [Camp on the savanna] — *was 7.3*
+**Ladders:** E8 P6 S7 X5
+**The silence afterward, and the first act of plain compassion in the book.** Teva moves his pack for him. Benal sits near him and methodically picks a fern apart. Neither of them says anything about it.
+**Must carry:**
+- **The bond moves, and it moves without a conversation.** `character-arcs.md` §3 has every dyad shifting on Day 11 and none of them shifting by speech; this is where shared guilt turns into something positive.
+- **A single blood-spattered feather**, which is the day's allocated image. Her plumage is iridescent, so whether it reads purple-black or mud-brown is the light's decision and both are canon (`plan/milieu-brief.md` §9).
+- **The deafening, ringing silence** after, which is most of what he can hear.
+- **He has stopped being able to hide anything.** `character-arcs.md`: he wants Noli back, he believes nothing, and he fears that it was his fault, correctly.
+- `[?]` **There is no rite and nothing to return.** In a culture that dissolves its own dead within the hour and keeps no graves, a body that has been taken is the one loss that leaves something behind — which is exactly Yara (`plan/minor-characters.md`). Whether that parallel reaches an animal is unestablished, and nobody in the scene may say it.
+**Hazard:** grief narrated. He is numb and the POV is his, so the compassion has to arrive as things being done to him that he does not respond to. Second: anybody making it better, or anybody saying her name.
+**Ends on:** the pack on his back, and the three of them walking.
 
-8.1 [Day 11] [TEVA] [Jungle Undergrowth] [HIGH (Dread)] - The shadow of the Quetzalcoatlus passes overhead. They hide. Teva is now terrified of the sky. [Milieu: A drenching rain. They are trapped between the low-flying *Quetzalcoatlus* and a living carpet of 'hell ants' (*Haidomyrmecinae*) moving 'like a single, flowing oil-slick'. Benal, his eyes wide, whispers, "Sky or ground. Pick your death," and Teva whispers back, "Shut up, Benal," but she feels a flash of dark, shared humor. Keo also snorts.]
-* **B-Story Note:** **Shared Humor / Terror**. The shared, dark humor provides brief, cathartic release from the mounting dread.
+### D11.3 — [SHORT, ~800] [Day 11, morning] [TEVA] [Limestone broken country] — *was 8.1*
+**Ladders:** E9 P8 S7 X5
+**Sky or ground.** The front comes through with drenching rain, and they spend the morning pinned between a shadow overhead and a carpet of ants at their feet.
+**Must carry:**
+- **She is frightened of the sky now and hiding that as well.** `character-arcs.md` Day 11 — she is the only one left standing, and being the only one left standing is what she is afraid of.
+- **The shadow, not the animal.** `milieu-allocation.md` §3 gives the flybeak Day 11 and the Day 19 chase and forbids a second appearance between; its shadow may pass, and it is a pressure rather than an encounter. `plan/outline.md` has that pressure pushing them off open ground and onto worse.
+- **Hell ants moving over leaf litter** like a single flowing oil-slick, allocated to Day 11 in the species table and again in the sound list.
+- **Benal's line, and it is the model for the whole comic register:** *"Sky or ground. Pick your death."* `humor-plan.md` calls it exactly right. Teva answers *"Shut up, Benal,"* and feels a flash of dark shared humor, and Keo snorts. **She lands the last line**, which is the mechanism that turns her one-joke-in-ten rate into a weapon rather than a deficit.
+- **The rain is deliverance before it is misery.** `journey-calendar.md` §2 — the front is the best thing that has happened to her, she puts her face up into it, and the suffering starts later and starts because it does not stop.
+- **The ground they are driven onto is the limestone broken country** — scree, gulches, ravines, thin soil, exposed rock — allocated to Days 11 and 12. The old entry set this scene in jungle undergrowth, which is the wrong biome band (`milieu-allocation.md` §2) and reaches for the rainforest §1 exists to correct.
+**Hazard:** the ants as a monster. They are a thing you do not step in, on a day whose threat is above, and the pairing is the joke. Second: the humor dissolving the dread — the release is two lines long and the ants are still moving.
+**Ends on:** them under cover, on worse ground, because of something they can no longer see.
 
-8.2 [Day 11] [KEO] [Gulch/Ravine] [HIGH (Reckless Rage)] - Keo's injury. He takes a stupid risk trying to climb (e.g., against a pack of Razortails), driven by grief over Noli. [Milieu: The ground is slick, unstable clay from the rain, causing his fall. He was climbing to get a 'lookout', falling onto 'sharp-edged limestone scree' and 'bright red *Gnetophyte* berries'.]
-* **B-Story Note:** **Hubris Crash**. Keo's injury is the direct consequence of his **unsuited state** and his unresolved **Grief/Rage** over Noli's death. He is forced into vulnerability.
+### D11.4 — [MEDIUM] [Day 11, afternoon] [KEO] [A gulch on the scree] — *was 8.2*
+**Ladders:** E9 P9 S6 X5
+**The fall.** He climbs for a lookout on rain-slick clay, and what he comes down on is limestone.
+**Must carry:**
+- **This is what the third suit bought**, and it is one of the book's two overt Chekhov guns. `foreshadow-and-motif.md` row 2 — planted at 4.2 when he leaves it on the rack, paid here and again at D15.4, and the reader knows the real reason while Teva and Benal do not.
+- **The damage, itemized, because nothing resets:** a deep laceration to the thigh or flank, a cracked rib, the ankle wrenched, bleeding into a wet dressing. `body-and-resources.md`.
+- **The clay is why he falls and the scree is what it costs.** Limestone opening skin is allocated to Day 11, and bright red gnetophyte berries are already canon here as litter, with nobody ever finding out whether they are edible.
+- **Grief is driving, not courage.** `character-arcs.md` has him wanting Noli back and believing nothing, and the risk is stupid rather than brave.
+- **The healing upgrade turns into a liability at this moment.** It closes the wound fast at the price of strength, warmth and clarity, out of reserves he does not have — and `tech-rules.md` wants the rule taught in Act 1 so that this is not the first the reader hears of the cost.
+- **The reversal starts here and he does not understand it yet.** Before the fall he protects; after it he is protected.
+**Hazard:** an animal causing it. The old entry offered a razortail pack, hedged with an *e.g.* that gives it away as a placeholder nobody replaced; razortails have their one showcase on Day 3 and `milieu-allocation.md` §3 forbids re-describing them afterward. **Do not import an animal to motivate the fall** — rain-slick clay, the climb and the grief are already canon and are enough. Second: the injury written as a setback he shakes off. It ends his usefulness for four days.
+**Ends on:** him on the scree, and the other two getting to him.
 
-8.3 [Day 11 - Night] [TEVA] [Camp (Night)] [HIGH (Exhaustion)] - Tending Keo's wound. Her suit failed yesterday, to the heat, and she is walking unshelled. The "POV Irony" scene (caring for him, while we know he has a crush). As she's tending Keo's wound, he groans, "Careful," and Teva, her hands shaking from hunger and two days without proper sleep, snaps, "Be quiet or be bait. Your choice." [Milieu: The warm, miserable, all-night rain continues — it is not cold and nobody should say it is; what is failing is Teva, from hunger and exhaustion, and she feels it as cold when the others do not. They huddle under a 'leaking roof of waxy fern fronds'.]
-* **B-Story Note:** **POV Irony / Caretaker Climax**. Teva's emotional state (exhaustion, rising fear, but forced competence) conflicts with Keo's perception of her. She embodies the compassionate role, which develops the **Romance Subtext** through action, not words.
+### D11.5 — [LONG, ~1800] [Day 11, night] [TEVA] [Camp, in the rain] — *was 8.3*
+**Ladders:** E8 P8 S6 X5
+**Tending his wound, in warm rain that will not stop.** She is caring for him and has no idea what it means to him.
+**Must carry:**
+- **She has been unshelled since the saturation** and is carrying the suit rather than wearing it, so what she has lost is camouflage and sensors. `body-and-resources.md` §3b.
+- **She feels cold and the others do not, and it comes from inside her** — hunger, two days without proper sleep, and the deficit. `journey-calendar.md` §2: write the symptom, never the climate. The rain is warm, and nobody in the scene may call it cold.
+- **Her one joke of the stretch, delivered with her hands in the wound.** He groans *"Careful,"* and she snaps *"Be quiet or be bait. Your choice."* `humor-plan.md` gives this as the model for her register — flat, hostile, dry, and the only way she has of saying anything warm.
+- **The irony belongs to the reader and never to her.** She sees a brave, foolish friend; the reader has been holding his crush since 3.3. Strict third means the scene delivers her competence and his misreading of it and never her knowing (`AGENTS.md` §6).
+- **Somebody's hands are already busy before any talking starts** — the dressing, the salves and the two chemical pods he has left, and the spears, which have not dried since the front came through. `body-and-resources.md`: the task carries the scene, not the dialogue.
+- A leaking roof of waxy fern fronds, and the rain going on all night. This is one of the few times rain is remarked on at all, and it is remarked on because it does not stop.
+**Hazard:** tenderness. She is exhausted, frightened and short with him, and the care is entirely in what her hands do while her voice does something else. Second: cold as weather, which this world does not have.
+**Ends on:** the wound dressed, and the functional touch lasting a moment longer than the job needs — `character-arcs.md` rule 4, and it does more than an embrace would.
 
-8.4 [Day 11 - Night] [KEO] [Camp (Night/Fever)] [DISORIENTATION] - Keo's Temporal Flash (the symbol). He's feverish, dismisses it. [Milieu: His Temporal Flash is 'a gleaming, impossible symbol' and the 'smell of ozone and the ocean,' mixed with the 'bitter, herbal taste' of the salve on his wound. Through the fever-haze, he's vaguely aware of Benal sitting watch, his frail form a surprisingly steady silhouette against the rain, and Keo feels a wave of pure gratitude.]
-* **B-Story Note:** **Shame/Gratitude**. Keo's vulnerability forces him to rely on Benal's silent watchfulness, generating a wave of **gratitude** that cuts through his earlier hubris and arrogance.
+### D11.6 — [SHORT, ~700] [Day 11, night] [KEO] [Camp, feverish] — *was 8.4*
+**Ladders:** E6 P8 S7 X5
+**The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and the ocean, under the bitter herbal taste of the salve.
+**Must carry:**
+- **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` row 14). It pays at D17.2.
+- **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.
+- **Benal sitting watch**, a frail silhouette that turns out to be a steady one, and a wave of pure gratitude. `character-arcs.md` puts Benal's real emotional turn here rather than at Genesis — being needed for something no upgrade provides — and this is where the strongest dyad in the book starts.
+- **Gratitude is what cuts the hubris, not the injury.** He is being kept alive by the one he used to dismiss, and neither of them says so.
+**Hazard:** the flash written as a vision sequence. It is a perception with nothing attached, delivered in the same register as the taste of the salve and the sound of the rain, and the prose must not signal that it matters. Second: him working anything out. He is febrile, he files it, and he sleeps.
+**Ends on:** him going under, and Benal still sitting up.
 
 ---
 
@@ -439,20 +520,48 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** the *T. rex* as a set-piece. It is a shape at distance on a day nobody has anything left, and the correct response from all three is to keep walking.
 **Ends on:** the smell of salt, which is good news and means the sea.
 
-### BEAT 9: ALL IS LOST (The Offshore Journey)
+---
 
-9.1 [Day 14] [BENAL] [The Coast] [HIGH (Dread)] - They find the raft. It's a wreck. Benal's absolute terror of the open water. [Milieu: They arrive at low tide: 'a kilometer of treacherous, croc-infested mudflats.' On the horizon: the 'wall of black' of an approaching tropical cyclone. Solution: Benal spots a 'path of chaos'—massive sea turtles laying eggs, creating a 'frenzied distraction' for the crocs, giving them a corridor. **Also allocated here and previously unspent:** ***Hesperornis*** working the shallows, a toothed diving bird that goes under and does not come up for a long time; ***Muzquizopteryx*** soaring, small and coastal, and **the contrast that matters — most things in the sky are harmless**, three days after one of them took Noli; and **ovos**, the turtle eggs themselves, which are food they cannot stop for because the eggs are what the crocs are here for.]
-* **B-Story Note:** **Skills Clash (Intellectual Value)**. Benal's **Superb Smell/Hearing** allows him to detect the chaos of the coast (croc paths, egg-laying turtles) and propose a clever, pragmatic solution, proving his value in a survival context.
+### D14.1 — [MEDIUM] [Day 14, low tide] [BENAL] [The coast] — *was 9.1*
+**Ladders:** E8 P8 S8 X6
+**The coast, the raft, and a kilometer of mudflat that reads as ground and is not.** On the horizon, a wall of black.
+**Must carry:**
+- **They planned to find the raft, which is why finding it counts.** `plan/outline.md` — the old raft is barely seaworthy and they knew it was there, and knowing it was there is what makes them competent rather than lucky.
+- **The corridor is his, and it is the second of three times his senses are the reason they live** — the honey on Day 6, this, and the hatch on Day 16. Sea turtles hauling out to lay in numbers, crocs working the turtles, and a path of chaos through the middle that only he can read. `milieu-allocation.md` §3 allocates the nesting turtles to Day 14 as exactly this distraction.
+- ***Hesperornis*** working the shallows, going under and staying under a long time, and ***Muzquizopteryx*** soaring, small and coastal. **Most things in the sky are harmless**, three days after one of them took Noli, and that contrast is the allocation's brief for the animal.
+- **Ovos.** `[?]` The old entry has the eggs as food they cannot stop for, because the eggs are what the crocs are there for; `body-and-resources.md` has ovos at the turtle beach as the last real meal of the journey. One of the two is wrong and the scene cannot carry both.
+- **The unnatural calm, and he notices the air before anyone sees the sky.** Hot, glassy, no wind at all. `journey-calendar.md` §2 makes that a real cyclone signature and gives the noticing to him.
+- **They walked into the dark to get here ahead of the storm**, which is one of the two days the marching doctrine is deliberately broken (`body-and-resources.md` §2b). They are on a clock made of a tide and a sky.
+**Hazard:** the mudflats as scenery. They are a surface that is not a surface, crossed now because both the tide and the storm are moving, and the reason is arithmetic. Second: his solution as cleverness. He hears and smells his way to it and can barely explain it afterward.
+**Ends on:** the raft in the water, and the black nearer than it was.
 
-9.2 [Day 14 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Panic)] - The storm hits. The raft is tossing. [Milieu: The full fury of the cyclone hits. The raft is an 'old-tech' remnant, 'corroded polymer and metal,' and the waves are 'black, moving mountains'.]
-* **B-Story Note:** **Thematic Fear**. Benal's most primal fear is realized: chaos, drowning, and physical helplessness.
+### D14.2 — [LONG, ~1800] [Day 14, night] [BENAL] [The raft, open water] — *was 9.2*
+**Ladders:** E9 P9 S7 X6
+**The cyclone, and hours of it.** Chaos, drowning and physical helplessness — the three things he is most afraid of, arriving together and then not stopping.
+**Must carry:**
+- **The full fury of it**, and waves as black moving mountains. The raft is an old-tech remnant of corroded polymer and metal, and nobody aboard is sailing anything.
+- **Old-tech that has not dissolved, and the answer is already in canon.** The archaea failsafe is a **colony** invention and Genesis predates it — `plan/knowledge-ledger.md`, and it is why paper survives in the Archive. **The raft is founder-era for the same reason**, so nothing ever wrapped it and there is nothing in it to wake. It is not an exception to the rule; it is the rule's other instance, sitting on a beach two days before the reader meets the big one. **Do not have anyone remark on it here** — noticing it early spends the Genesis payoff, and three people who have never left the Enclave have no reason to expect a two-century-old hull to have rotted.
+- **Everything he is for is switched off.** Rain defeats his hearing — `tech-rules.md` has that as the limit — and here there is nothing to hear through it and nobody who could be told anything.
+- **The suits are past helping.** His shoulder capacitor died on Day 11 and he told nobody, and salt is catastrophic to a living biofilm. `body-and-resources.md` §3b.
+- **The length is the point.** This is an ordeal rather than an event, and the physical ladder is climbing to the top of its column.
+**Hazard:** the storm as spectacle. The POV is the most fragile person in the book with nothing to do, so the sea should reach the reader only in proportion to how much of it is happening to him. Second: competence. Nobody manages anything; they hold on.
+**Ends on:** the night not being over.
 
-9.3 [Day 14 - Night] [BENAL] [Raft (Open Water)] [EXTREME (Terror)] - The Mosasaur attacks. The raft shatters. Benal is plunged into the dark water. [Milieu: The *Mosasaur* attacks. He sees its eye, 'as large as his head, ancient and cold.' The 'smell of brine and dead fish' from its breath washes over him. He realizes with a lurch of panic that his fieldpack—containing his math, and all their remaining "journey-pan," dried crawlers, and pinyons—is gone, lost to the sea.]
-* **B-Story Note:** **Intellectual Loss**. The loss of his fieldpack (and his theoretical work) symbolizes the loss of his last physical connection to his **Vindication** arc, reinforcing his belief in failure.
+### D14.3 — [SHORT, ~800] [Day 14, night] [BENAL] [The water] — *was 9.3*
+**Ladders:** E9 P10 S6 X6
+**The mosasaur, the raft in pieces, and Benal in the dark water.** `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
+**Must carry:**
+- **One image and one smell.** An eye as large as his head, ancient and cold, and brine and dead fish washing over him. Both allocated to Day 14 and neither of them repeatable.
+- **The fieldpack goes**, and with it his mathematics and the last of the food. `character-arcs.md` — the second of his two losses, and the one that leaves him holding only what is in his head, which turns out to be everything.
+- **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
+- **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
+- **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water.
+**Hazard:** a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Second: him being brave. He is not, and the book has never asked him to be.
+**Ends on:** him under, with nothing in his hands.
 
 ---
 
-> **Days 15 through 19 are rescened below, in the Act 1 format.** Ids stay provisional and day-keyed until the sequential renumber. Everything from here is at Genesis except the last five entries of Day 19, which are not yet rebuilt.
+> **Ids stay provisional and day-keyed until the sequential renumber.** Everything from here is at Genesis until Day 19 lifts off.
 
 ---
 
