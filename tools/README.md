@@ -93,6 +93,8 @@ The search key is derived from the allocation row's own label, and the page and 
 | Genesis rescened | `allocation_covered` | 12 → **13** | went **up**, correctly. Replacing the old combined Day 19 entry with three Genesis scenes removed the only mention of the flybeak on its allocated day. The check noticed that the chase had been deleted before I got round to saying so. |
 | Days 3–5 rescened | `scenes_per_day` | 6 → **3** | seven scenes across three days. Only Days 12, 13 and the back half of 19 are left. |
 | Days 3–5 rescened | `allocation_covered` | 13 → **5** | the largest single drop the check has produced, and it was not aimed at: writing three days properly picked up frogs, fish, snails, mushrooms, stonefruit and *Anzu*, all of which had been allocated and unspent for months. **This is the check working as an instrument rather than a guard** — the misses were a to-do list for what the scenes had to contain. |
+| Days 12–13 rescened | `scenes_per_day` | 3 → **1** | four scenes across the two days. **Only Day 19 is left**, at 5 against 8. |
+| Days 12–13 rescened | `allocation_covered` | 5 → 4 → **1** | went up before it went down, which is the expected shape: a day with no scenes is skipped, so building one *exposes* its allocations. *Thescelosaurus*, *Palaeosaniwa* and the *T. rex* all surfaced the moment those days had entries, and all three earned their place — the burrow holes are a hazard on the day the ground is worst, and the apex predator that ignores them pairs against the mid-tier one that does not. |
 
 ## Not yet built
 

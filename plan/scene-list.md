@@ -380,6 +380,61 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 8.4 [Day 11 - Night] [KEO] [Camp (Night/Fever)] [DISORIENTATION] - Keo's Temporal Flash (the symbol). He's feverish, dismisses it. [Milieu: His Temporal Flash is 'a gleaming, impossible symbol' and the 'smell of ozone and the ocean,' mixed with the 'bitter, herbal taste' of the salve on his wound. Through the fever-haze, he's vaguely aware of Benal sitting watch, his frail form a surprisingly steady silhouette against the rain, and Keo feels a wave of pure gratitude.]
 * **B-Story Note:** **Shame/Gratitude**. Keo's vulnerability forces him to rely on Benal's silent watchfulness, generating a wave of **gratitude** that cuts through his earlier hubris and arrogance.
 
+---
+
+### D12.1 — [LONG, ~2000] [Day 12, midday lay-up] [TEVA] [A sulfur spring above the camp] — **NEW**
+**Ladders:** E7 P7 S8 X5
+**She decides, and she is wrong, and it is the hinge of her arc.** Rain, continuous, warm and saturating, gray and unchanging. The calendar's own phrase for the day is *misery without incident*.
+**Must carry:**
+- **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` row 19.
+- **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
+- **The sulfur is why the error is invisible.** The way you know it is done is that the bitterness is gone, and you cannot taste bitter through that water.
+- **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, being carried, and has stopped trusting himself. The reader hears him.
+- **She tests it on herself.** A full portion, and nobody else eats until she has. `[?]` **And that is what kills her, because the onset is twelve to twenty-four hours and the test cannot return inside it.** She feels fine at dawn and they all eat, and she has now had twice what they have. Her caution is the dose.
+- **Her venom resistance is excellent and does not cover a plant glycoside** — she is the one who should have been safe. `plan/milieu-brief.md` §9.
+**Hazard:** her being reckless. She is the most careful person in the scene, she is right about the chemistry, and she takes the risk onto her own body rather than theirs. **The rage that makes her decisive is what makes her wrong**, and if she reads as impatient the arc collapses into a lesson about temper.
+**Ends on:** her eating it, in front of them, and nobody saying anything.
+
+### D12.2 — [MEDIUM] [Day 12, night] [KEO] [Camp, in the rain] — **NEW**
+**Ladders:** E6 P8 S7 X5
+**He does not say it again**, and that is the thing he will be hiding from Act 3.
+**Must carry:**
+- **Keo is febrile** — infection, and the healing upgrade burning through reserves he does not have. `body-and-resources.md`. The fever is why he did not press, and he knows that too.
+- **A *Didelphodon* raids the camp** — badger-sized, bone-crushing, entirely unimpressed. Allocated here, and the humor plan wants a nuisance on a miserable day. It should be funny and then not, because it is after the same food.
+- **The weapons.** Nothing has dried since Day 11 and the archaea in the bindings wake on sustained wetting. `plan/milieu-brief.md` §6. **Keeping the spears dry is a losing daily labor** and the reader should see them fail at it.
+- **Nothing at all on Day 12 but rain.** The allocation gives the day one sound and that is it.
+- ***Thescelosaurus*** burrows — allocated to Day 12 and unspent. **Their holes are a hazard on bad ground**, and bad ground in continuous rain is what the whole day is. Somebody goes in to the knee, and on this day that is nearly a catastrophe.
+- `[?]` **Benal is taking watches he cannot afford** and neither of the others stops him.
+**Hazard:** guilt narrated. He does not think *I should have insisted*. He thinks about the fever, and the reader does the rest.
+**Ends on:** the rain, and Teva asleep, and him awake.
+
+---
+
+### D13.1 — [LONG, ~1900] [Day 13, morning] [BENAL] [Coastal plain] — **NEW**
+**Ladders:** E8 P9 S7 X6
+**It comes due.** Six to twelve hours after they ate and about a day after she did: vomiting, cramping, and water she cannot spare.
+**Must carry:**
+- **All three are sick and only she is down.** `[?]` Keo and Benal had one portion this morning; she had one last night as well. The two of them walk the whole day queasy, which makes everything harder and which nobody mentions.
+- **The carry escalates by stages and the stages are the story.** Her hand. Then her arm over his shoulder. Then on his back. Each step is a thing she stops being able to do and a thing he has to spend more to cover.
+- **Keo is the one carrying**, and he spent Days 11 and 12 being carried. The reversal is the whole reason the pair of days exists.
+- **He is thin, cold and quiet with starvation cold rather than weather** — the wound closing fast and costing him everything.
+- **Benal watches.** He has nothing to give but arithmetic: how far, how long, how much water. It is the only thing he has ever had and today it is worth something.
+**Hazard:** her being brave about it. She is vomiting and cannot stop, and dignity is not available; the scene should be about what it costs the two of them to watch.
+**Ends on:** Keo going down on one knee, and getting up.
+
+### D13.2 — [MEDIUM] [Day 13, afternoon] [BENAL] [Coastal plain] — **NEW**
+**Ladders:** E7 P9 S8 X6
+**The drag-frame, and the thing that never touches them.** Ten kilometers, and morale and energy come apart: functional and hollow, moving well, nobody talking.
+**Must carry:**
+- **Keo cannot carry her any further, so they build a frame of saplings and drag her.** `[?]` **The cordage costs them a weapon** — the only dry lashing they have is on a croc-spike, and taking it off means the shaft is bare and the binding is spent. A real trade, made without discussion, four days from open water.
+- **One distant *Tyrannosaurus rex*, once, and never again.** This pays `foreshadow-and-motif.md` row 13 — Liaso's story at 3.4, the animal that watched him for an hour. **It happens on the day they are least able to run and it does not come**, which is worth more than an encounter.
+- **And one that does come.** ***Palaeosaniwa***, three meters of active-hunting monitor lizard, allocated to Day 13 and never spent — `milieu-allocation.md` calls it the best mid-tier land threat in the inventory. **The pairing is the point:** the apex predator ignores them and the mid-tier one does not, and they drive it off badly, on empty, with a bare spear shaft. It is also the reason they cannot put her down anywhere and walk away from her, which the drag-frame is otherwise an invitation to do.
+- **Forage returns and none of it stays down for her** — beetles working a carcass, frogs, fish, stonefruit. A hadrosaur carcass three days dead. All allocated to Day 13.
+- **The bond is real and nobody has the energy for it.** `body-and-resources.md`: morale and energy are different axes and must not track.
+- `[?]` **Benal holds both Day 13 scenes**, and the run is deliberate — one head, unbroken, for a day that is one unbroken slog.
+**Hazard:** the *T. rex* as a set-piece. It is a shape at distance on a day nobody has anything left, and the correct response from all three is to keep walking.
+**Ends on:** the smell of salt, which is good news and means the sea.
+
 ### BEAT 9: ALL IS LOST (The Offshore Journey)
 
 9.1 [Day 14] [BENAL] [The Coast] [HIGH (Dread)] - They find the raft. It's a wreck. Benal's absolute terror of the open water. [Milieu: They arrive at low tide: 'a kilometer of treacherous, croc-infested mudflats.' On the horizon: the 'wall of black' of an approaching tropical cyclone. Solution: Benal spots a 'path of chaos'—massive sea turtles laying eggs, creating a 'frenzied distraction' for the crocs, giving them a corridor. **Also allocated here and previously unspent:** ***Hesperornis*** working the shallows, a toothed diving bird that goes under and does not come up for a long time; ***Muzquizopteryx*** soaring, small and coastal, and **the contrast that matters — most things in the sky are harmless**, three days after one of them took Noli; and **ovos**, the turtle eggs themselves, which are food they cannot stop for because the eggs are what the crocs are here for.]
