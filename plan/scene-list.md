@@ -619,15 +619,16 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
 
-### D16.2 — [MEDIUM] [Day 16, midday] [TEVA] [The dry section] — **NEW**
+### D16.2 — [MEDIUM] [Day 16, midday] [KEO] [The dry section] — **NEW**
 **Ladders:** E5 P4 S6 X7
 **Warm, dry, lit, and they eat for the first time since the raft.** The exhale, and the only one they get.
 **Must carry:**
-- `[?]` **Dry is the luxury, not the food.** Nineteen days of being wet, and the thing that undoes them is a room that is not.
+- `[?]` **Dry is the luxury, not the food.** Nineteen days of being wet, and the thing that undoes them is a room that is not. **It lands hardest on Keo, who has never had a suit** — everything the other two's shells were for has been happening directly to his skin since Day 3.
+- **This scene is why Keo wanders off on Day 18, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. Two days of watching the others be necessary, from inside his head, is what makes finding something to talk to land.
 - **Old-tech everywhere and none of it dissolving**, which is wrong and which nobody has the energy to find wrong yet. `plan/tech-rules.md` flags this as a payoff owed; the answer is that the failsafe is a colony invention and Genesis predates it.
 - Genesis groaning on its own weight — allocated to Day 16.
-**Hazard:** the sanctuary scene. The dryness is not safety; the structure is unstable, the food is two centuries old, and the reader should be uneasy about both while the characters are not.
-**Ends on:** somebody asking what else is in here.
+**Hazard:** the sanctuary scene. The dryness is not safety; the structure is unstable, the food is two centuries old, and the reader should be uneasy about both while the characters are not. **Second hazard: Keo sulking.** He is not resentful and he does not say anything. He is glad they can do it and he is the only one with his hands empty, and the scene should let the reader notice before he does.
+**Ends on:** somebody asking what else is in here — and it is not him.
 
 ### D16.3 — [MEDIUM] [Day 16, afternoon] [BENAL] [The archive] — *was 11.1*
 **Ladders:** E8 P4 S7 X8
