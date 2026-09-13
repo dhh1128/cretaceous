@@ -1,5 +1,5 @@
 ---
-approval: approved 3a40e7dc
+approval: approved 7b3588c2
 ---
 
 # Cretaceous — Outline
@@ -21,7 +21,7 @@ Content Example (for Act 3): Corrupted Log Entry: "...schism is complete. They'r
 
 Structural Device: Temporal Flashes (Visions)
 
-Purpose: To deliver the subjective, emotional backstory of the "Noble Lie" and foreshadow the "Lost Colonists" (67mya).
+Purpose: To deliver the subjective, emotional backstory of the "Noble Lie" and foreshadow the "Lost Colonists" — a thousand years back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
 
 Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak (Beat 8) and become overwhelming at the site (Beat 10).
 
@@ -106,7 +106,7 @@ What nearly kills her comes later and is her own doing. Noli's death takes the g
 
 The persistent predator that stalks them is the same pterosaur. Its shadow passing overhead forces them to hide and travel under cover, pushing them into more dangerous ground-level terrain. Teva is now terrified of the sky.
 
-Temporal Flash (Foreshadow): As they get closer to Genesis, the "temporal disorientation" begins. Keo, in his injured/feverish state, experiences the first temporal flash—a disorienting, meaningless symbol (the "signal" for the 67mya jump) and a feeling of departure. He dismisses it as fever.
+Temporal Flash (Foreshadow): As they get closer to Genesis, the "temporal disorientation" begins. Keo, in his injured/feverish state, experiences the first temporal flash—a disorienting, meaningless symbol (the "signal" for the second jump) and a feeling of departure. He dismisses it as fever.
 
 Rationale (Friendship & Maturation): This beat is the crucible for their arcs. Keo is forced into vulnerability. Teva is forced to become a leader/caretaker.
 
@@ -154,7 +154,7 @@ Revelation (Part 1): They find the logs of the perfect arrival.
 
 Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from Beat 10. He realizes: "They couldn't go back. It's not about forward/backward. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
 
-Revelation (Part 3 - The Real Schism): He finds the data on the second jump (to 67mya), including the symbol Keo saw in his flash (Beat 8). He realizes this was the "signal" for the heretic jumpers. Their ancestors lied—or rather, created a "noble lie" to hold their shattered society together.
+Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years back, though the book never states the figure — including the symbol Keo saw in his flash (Beat 8). **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
 
 Rationale (POV Irony): We are in Benal's head, the only one who truly understands the terrifying scale of this discovery. Keo and Teva see the "lie," but we (and Benal) see the "impossible new mission."
 

@@ -263,11 +263,11 @@ The channel has to keep working for two more novels, so it needs a rule that gen
 |---|---|---|---|
 | **Book 1** | the 21st century | `T−` | a world that is dying. Bulletins, memos, targeting, and one woman's sent folder. Plus **one** colony record, at the very end, to prove there is more. |
 | **Book 2** | the colony's own 206 years | `A+` | the world they are standing in. Founders' logs, the First Walk, the schism argued out at length, the moment doctrine hardened, the first Keeper to lose a protocol. **This is where the drift becomes visible as it happens**, and where Cecilia's descendants start misquoting her. |
-| **Book 3** | 67 Mya | ? | a world that may still exist. Whatever the Lost Colonists left, if anything, and it should not be in any format the reader recognizes. |
+| **Book 3** | the deep past | ? | a world that may still exist. Whatever the Lost Colonists left, if anything, and it should not be in any format the reader recognizes. **The Lost Colonists are a thousand years back, not a million;** 67 Mya is where the Enclave emigrates at the end of book 3. |
 
 **The escalation is built in:** book 1's fragments come from a world that is already dead, book 2's from the world under their feet, and book 3's from a world that might still be alive. The emotional temperature rises without anyone raising it.
 
-### The 67 Mya plant, and how to spend it
+### The deep-past plant, and how to spend it
 
 **Fragment 8 is the seed and it must not be explained in book 1.** A one-million-year artifact in the deep-window returns, consistent across four calibration runs, not an equipment fault, filed with no action.
 

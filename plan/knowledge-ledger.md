@@ -50,7 +50,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | E | Impact is ~2 decades out, not centuries | epigraph 6, late Act 2 | 12.1 | 14.1 | ironic |
 | F | The colony does not know what year it is | seeded epigraph 5 (targeting confidence), completed by Benal | 12.1 | 14.1 | shared confusion → shared |
 | G | Only original colonists could return | **hidden** | 12.1 | 14.1 | **hidden — surprise 3** |
-| H | The schism; a second jump to 67 mya | 10.1 (Teva's flash) | 10.1 partial, 12.1 whole | — | shared confusion → shared |
+| H | The schism; a second jump, a thousand years back | 10.1 (Teva's flash) | 10.1 partial, 12.1 whole | — | shared confusion → shared |
 | I | The signal symbol | 8.4 (Keo's flash) | 8.4, meaningless | — | shared confusion |
 | J | What became of the Lost Colonists | **never** | never | — | **hidden — surprise 4, stays dark** |
 | K | The flashes are real, not fever | Act 2, by pattern | 12.1 | — | ironic |

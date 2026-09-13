@@ -69,13 +69,31 @@ Marked `[?]` items are session inference, not rulings.
 - **The damaged temporal equipment at Genesis must not read as the whole of it.** Book 2 turns on something being absent.
 - **Marek's rejection of Benal has to be repairable.** Book 2 has him supporting his son.
 
-## Contradictions and open questions
+## What became of the Lost Colonists
 
-**The 67 Mya figure is used for two different jumps and one of them is wrong.** `plan/outline.md` calls the second jump "the 67mya jump," and `plan/knowledge-ledger.md` has "exactly 1.0 million years prior." But the second jumpers went back **one thousand** years, and **67 Mya is book 3's destination**, a million years back. `[?]` The reading that makes everything fit: the outline's label is the error, and it should be corrected to the thousand-year figure. **Needs confirming, because it touches book 1's text.**
+**Benal never finds them, and that is settled.** The mystery arc pays off through Cecilia instead, and the two figures are not in conflict: **the second jump is a thousand years, and 67 Mya is where the Enclave emigrates at the end of book 3.** Two different jumps, a million years apart.
 
-**Do the Enclavists meet the Lost Colonists?** If the second jump was a thousand years and book 3's is a million, the two groups miss each other by 999,000 years — and the mystery arc book 2 is built on never pays off in person. If book 3 targets the same point instead, they arrive to find a settlement a thousand years old. **This looks like the largest unmade decision in the trilogy.**
+**They failed.** They never built the equipment they went back for, and they lived out their lives in simple subsistence. What they did manage was to **bury the capsule and the jump equipment for the other scientists to find at 66 Mya** — a message and a machine, addressed forward across a thousand years to people they had walked away from.
 
-**Why did Cecilia not simply go home?** She is an original colonist, so the worldline is hers. She had the proof that the cure works. She took the backup rig. Every element needed to end the pandemic was in her hands and she disappeared instead. **Book 3 has to answer this and the answer probably determines what kind of person she was.**
+**Cecilia reaches them, and the jump is inexact.** She goes back intending a thousand years and travels about nine hundred and seventy-five, so she does not arrive among peers — **she arrives among old men.** She is in her fifties; they have been there four decades. She learns their whole story and is able to give them the one thing that would have made it bearable: **she found the cure.**
+
+**And then she is stuck.** They have had setbacks and can no longer generate power, so there is no way to send her back. She lives out years there, a little younger than the people she came to find.
+
+**Benal ends it.** He digs up the equipment they buried, uses it with power generation carried from 66 Mya, and goes back — which is the moment the capsule's whole purpose finally lands, a thousand-odd years late. He collects Cecilia and tells the scientists what they have never known: **they now have both the cure and working time-travel equipment.** They choose to stay; forty years is a life, and it is theirs. **Cecilia returns to 66 Mya, and then to the twenty-first century.**
+
+`[?]` **The capsule and the equipment are two caches, not one.** Otherwise Benal's dig in book 1 turns up the machine as well and there is no book 3. The capsule is small, findable, and is the index; the equipment is elsewhere and larger. That also explains book 2's frustration — the capsule is damaged, so the part that says *where* is exactly what is lost.
+
+## Open questions
+
+**Why did Cecilia not simply go home?** She is an original colonist, so the worldline is hers, and she had the proof. Instead she took the backup rig and went **backward**, to the people who had left. `[?]` The shape of an answer is visible: the only thing she could not do alone was *prove it to anyone who mattered*, and the men who had refused her the trial were a thousand years upstream. But it has not been decided, and the answer probably determines what kind of person she was — which reaches back into how her letters read in book 1.
+
+**The return rule needs stating precisely, because the ending rests on it.** Fact G says you travel forward only along a worldline you personally traveled outbound. Cecilia's outbound legs are 21st century → year 0, and year ~22 → year ~−953. Coming home she retraces the second and then the first, but she boards the first leg from year ~22 rather than from the instant she arrived. **So the anchor is the departure event, not the arrival instant**, and a returning traveler can reach it from their own later. That is consistent with everything else and has never been written down.
+
+**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried upstream, while what remains at Genesis is the damaged **arrival** apparatus. Two devices, not one.
+
+**Keo in book 2**, above.
+
+**The order and placement of book 2's two closing reveals**, above.
 
 **What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried a thousand years upstream, while what remains at Genesis is the damaged **arrival** apparatus. Two devices, not one.
 
