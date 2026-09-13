@@ -6,7 +6,11 @@ approval: unapproved
 
 Breaks the fifteen-beat outline into scenes. Each is a distinct unit of action with a specific POV, and B-Story notes accompany the A-Story scenes for pacing and arc consistency.
 
-**This file needs rewriting.** It contains **38** scenes against the count proposed in `pacing-and-stakes.md` §5, which is the gate on any rewrite. Act 1 has been rescened to fourteen; Acts 2 and 3 are still in the old format and under-scened, with beats 10 through 15 running at one scene each. **Days 6, 9, 12, 13 and 18 of the journey have no scenes at all, and Days 7, 8 and 17 have one apiece where they need three** — the river and the revelation. *(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
+**The rescene is done.** **69 scenes**, which is the count `pacing-and-stakes.md` §5 proposes, and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, thirty-eight in Act 2, seventeen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+
+**Two formats are still live and that is temporary.** Act 1 and everything rescened carry size, day and hour, POV, place, ladders, must-carry, hazard and ending. A handful of Act 2 entries are still in the older single-line form with a B-Story note. Ids are **provisional and day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
+
+*(An earlier header called this a 40-scene list, and `pacing-and-stakes.md` called it 34. Neither was right.)*
 
 Format: [Scene #] [Day #] [POV Character] [Location] [Fear Level (and/or Key Emotion)] [Milieu Note]
 * **B-Story Note:** Focus on the internal/interpersonal conflict specific to this moment.
@@ -132,7 +136,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 **Act 1 totals:** 14 scenes, ~15,800 words. Four canon scenes unchanged, three revised, **four new**, three renumbered.
 
-## ACT 2: THE MUDWALK (Beats 5-10)
+## ACT 2: THE MUDWALK — RESCENED, 38 scenes
 
 ### BEAT 5: B-STORY (Immediate Fallout)
 
@@ -494,6 +498,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ---
 
+## ACT 3: GENESIS AND THE RETURN — RESCENED, 17 scenes
+
 ### D16.1 — [MEDIUM] [Day 16, morning] [BENAL] [The structure] — **NEW**
 **Ladders:** E7 P6 S6 X7
 **Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
@@ -625,17 +631,62 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ---
 
-> **Day 19 continues past Genesis and is not yet rebuilt:** the chase, the landing on the river, the handover, the confrontation, fact B failing, and the final image with the coda. Roughly five more scenes against the eight `pacing-and-stakes.md` §5 proposes for the day.
+### D19.4 — [LONG, ~2200] [Day 19, early afternoon] [KEO] [Above the flood] — **NEW**
+**Ladders:** E9 P10 S8 X8
+**The chase, and it is a resource crisis rather than a stunt.**
+**Must carry:**
+- **The storm that closed the walking route opened the flying one.** Eighty kilometers of shallow standing water on a low-relief plain is precisely the surface this machine wants, and it is a sheet rather than a lake — woodland stands out of it, conifers stand far above it, herds move through it.
+- **Ground effect is cheap, altitude is expensive, the lift rotors are ruinous**, so the rotors are hoarded from the moment they launch. `kb/worldbuilding/the-wig.md` §7.
+- **The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it.** Charge, altitude and airspeed are one number being spent three ways, and every evasion makes the next one harder. **This is the flybeak's second and last appearance** and its only allocated day besides 11.
+- **Keo's redemption is arithmetic under pressure, not courage.** He is not braver than he was at the midpoint. He is thinking, with a machine, about a problem mental projection cannot touch.
+- Thirty-meter conifer emergents cannot be cleared and have to be gone around, at speed, on Teva's reading of the line.
+**Hazard:** a dogfight. Nobody is fighting anything. They are spending a battery in front of an animal and the tension is a number going down.
+**Ends on:** the tangle ahead, and the rotors still unspent.
 
-### BEAT 14: THE CONFRONTATION
+### D19.5 — [MEDIUM] [Day 19, mid-afternoon] [TEVA] [The wig, over the tangle] — **NEW**
+**Ladders:** E8 P9 S9 X8
+**The border-tangle is fifteen meters and the wig's ceiling is fifteen meters.** The last barrier in the novel is exactly as tall as their maximum and it is a wall their own people built to keep the world out.
+**Must carry:**
+- **The rotors, spent here.** Established at launch and hoarded the whole way; this is what they were for. They clear it by almost nothing, fronds on the hull, everyone inside hearing it.
+- **He puts down on the river**, which is the one water everyone in this culture fears — and does it because a machine his people call an abomination told him to, since the channel is the only water still there when the flood goes down. **Choosing to believe it is the heresy completed in one act.**
+- **Teva holds this and that is the point.** She ran the yazhi drill; *water is death* is a rule she has taught to four-year-olds. She watches him aim for the river and does not stop him.
+- It settles onto its own boat hull on the inside reach, between the two barriers, and runs out against the near bank. **Substantially intact. It will fly again**, which is book 2's whole argument.
+**Hazard:** triumph. They have arrived in front of everybody in hard afternoon light with no weather to hide behind, which was always the price of the heresy, and the first faces they see are not glad.
+**Ends on:** the hull grounding, and the sound of the Enclave coming.
 
-> Handover and confrontation are two jobs in one scene and should split. **Fact B fails to land here** — Benal asserts the cure, cannot demonstrate it, and Sila absorbs it as confirmation of her own doctrine. See `plan/knowledge-ledger.md`.
+### D19.6 — [SHORT, ~800] [Day 19, late afternoon] [BENAL] [The Vitarium] — **NEW**
+**Ladders:** E7 P5 S9 X8
+**The handover, and it takes four minutes.** Nineteen days, eighty kilometers, Noli, and nearly Teva, and the thing they went for changes hands in the time it takes to hand over a metal tablet.
+**Must carry:**
+- **It works.** The protocols are complete and a Keeper can read them, and the immediate crisis — a child dying because the synthesis is dying inside Omya's head — is over. `[?]` The reader should feel the disproportion between the cost and the transaction.
+- `[?]` **Omya is present and cannot follow it.** The knowledge comes home and the person it was taken from is past receiving it, which is the cruelty the whole arc has been walking toward.
+- **This is separate from the confrontation on purpose.** They were one scene and they are two jobs — the mission succeeding, and the society failing to hear what else they found.
+**Hazard:** ceremony. Nobody makes a speech. Somebody takes the tablet and starts working, and the three of them are suddenly standing in a room with nothing to do.
+**Ends on:** being sent for.
+
+### D19.7 — [LONG, ~2400] [Day 19, evening] [KEO] [The Council chamber] — *was 14.1*
+**Ladders:** E9 P4 S10 X9
+**The confrontation. A success with one splinter left in it.**
+**Must carry:**
+- **The timeline revelation lands hard**, with proof — the records, the wig, the protocols. That is what stops this being an anticlimax.
+- **Fact B fails, and the failure is epistemic rather than medical.** No injury, no interruption, no fainting; the interrupted revelation is a recognizable cheat. Three mechanisms stack, per `plan/knowledge-ledger.md`. **It cannot be demonstrated** — the cure claim is inferential and rests on Benal's reading, and a room that accepts what is shown and declines what is merely argued is behaving correctly, which is what makes it devastating. **Nobody has bandwidth**, because in a room that has just learned it dies in twenty years, what the upgrades are *for* is not the urgent question. **And Sila agrees with him** — he says it a second time and she takes it up enthusiastically as confirmation of everything she has always said. **He is not disbelieved. He is absorbed.**
+- **He must try twice.** The second attempt is the one Sila swallows.
+- **The thematic exactness:** the colony fails to believe the cure for the same reason it forgot the cure. The link was always an inference, and inferences do not survive transmission. The drift mechanism and the disbelief mechanism are one mechanism.
+- **Teva accuses, and Keo watches her do it.** His parents are under guard; the theft cost them everything the social ladder has been tracking since Day 2.
+- **Keo's own payoff:** he understands his parents at last, seeing fear and pride rather than distrust. `foreshadow-and-motif.md` — the protective line at 2.3 pays here.
+**Hazard:** villains. Nobody in the room is lying and nobody is stupid. Sila is sincere, Hesh is right about the arithmetic, and the Council's paralysis is the same paralysis from scene 1.1 with more information.
+**Ends on:** Sila thanking him.
+
+### D19.8 — [MEDIUM] [Day 19, night] [TEVA] [The Council chamber] — *was 15.1*
+**Ladders:** E10 P3 S10 X9
+**Her epiphany, and the final image.**
+**Must carry:**
+- **`[?]` This scene is Teva's and the outline gives it to Keo, which is a POV defect at the climax.** `plan/outline.md` has her realizing *they're not liars, they're believers, they're just wrong* while the reader is in Keo's head — and strict third means he can see her stop and cannot see her realize. `AGENTS.md` §6 records the same defect being caught at 1.1. **The epiphany is the payoff of her whole arc and it has to be delivered from inside her.**
+- **She sees the Council's faces and they are the faces from her flash on Day 15** — terror, grief, stubborn paralysis, not malice. Identical. That is what turns the accusation off in her mouth.
+- **The speech she prepared on Day 17 does not get given.** She decided what she was going to say to them two days ago and she does not say it, and the reader has been carrying that speech since.
+- **The parent payoff, seen by the person who has none left.** Joram and Riel look at their son with vindicated pride, and Marek looks at Benal with shocked respect — and Teva watches both, having left her grandmother to a room she can no longer follow a conversation in.
+- **The three of them, no longer children**, having saved their people and challenged their entire existence.
+**Hazard:** resolution. Nothing is settled. The Enclave does not know about the cure, the schism is worse than when they left, the asteroid is still coming, and the wig is sitting in the river being an argument nobody has had yet.
+**Ends on:** the final image, and then **the coda — epigraph 13**, delivered to the reader and to nobody in the room, correcting the false solution in the same channel that planted it.
 
 
-14.1 [Day 19 - Evening] [KEO] [Enclave Kiva] [HIGH (Social Confrontation)] - They arrive, provide the protocols, and confront the Council with what they found. **Not a lie** — the duty was real and the drift is in the apparatus; Teva arrives intending to accuse and stops. See `kb/worldbuilding/the-second-jump.md`.
-* **B-Story Note:** **Maturation Climax / Nuance Forged**. Keo’s perspective focuses on his parents’ reaction (vindicated pride). Teva's accusation is softened by her internal epiphany: seeing the Council's paralyzed fear and realizing the lie was born from grief, not malice, completing her **Rage to Nuance** arc. Benal stands vindicated.
-
-### BEAT 15: FINAL IMAGE
-
-15.1 [Day 19 - Night] [KEO] [Council Chamber] [DETERMINATION] - The stunned Council and their parents. The trio stands together, no longer children.
-* **B-Story Note:** **The New Schism**. The final image of the trio standing as a unified, powerful unit—a **Chosen Family**—now facing the political fallout of their actions, ready to lead the *new* mission.

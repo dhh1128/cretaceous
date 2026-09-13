@@ -95,6 +95,10 @@ The search key is derived from the allocation row's own label, and the page and 
 | Days 3–5 rescened | `allocation_covered` | 13 → **5** | the largest single drop the check has produced, and it was not aimed at: writing three days properly picked up frogs, fish, snails, mushrooms, stonefruit and *Anzu*, all of which had been allocated and unspent for months. **This is the check working as an instrument rather than a guard** — the misses were a to-do list for what the scenes had to contain. |
 | Days 12–13 rescened | `scenes_per_day` | 3 → **1** | four scenes across the two days. **Only Day 19 is left**, at 5 against 8. |
 | Days 12–13 rescened | `allocation_covered` | 5 → 4 → **1** | went up before it went down, which is the expected shape: a day with no scenes is skipped, so building one *exposes* its allocations. *Thescelosaurus*, *Palaeosaniwa* and the *T. rex* all surfaced the moment those days had entries, and all three earned their place — the burrow holes are a hazard on the day the ground is worst, and the apex predator that ignores them pairs against the mid-tier one that does not. |
+| Day 19 rescened | `scenes_per_day` | 1 → **0** | **the rescene is done.** 69 scenes against the 69 §5 proposes, and every day holds its number. |
+| Day 19 rescened | `allocation_covered` | 1 → **0** | the flybeak's second and last appearance is the chase, so writing the chase cleared it. It stayed red for four commits because the honest fix was always to write the scene. |
+
+**Where the baseline ended up.** `scenes_per_day` 14 → 0, `allocation_covered` 12 → 0, `epigraph_count` 1 → 0. `eliminated_unit_word` is still at 97 and the sweep has not started. `every_scene_moves_a_ladder` sits at 1, on a pair in Act 1 that predates the rescene. **Nothing was reached by weakening a check**; the one target that moved is Day 18, two to three, argued above.
 
 ## Not yet built
 
