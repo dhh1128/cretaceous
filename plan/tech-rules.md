@@ -1,5 +1,5 @@
 ---
-approval: approved 3403e22a
+approval: approved 2ea168c1
 ---
 
 # Tech rules — taught before exploited
@@ -21,7 +21,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 | **Chromatophore camouflage** | works when still; motion breaks it; useless against vibration | D3.1, the suits waking | Day 8 crossing · Day 5 | Day 12–15, biofilm dying in patches | ok |
 | **Suit sound dampening** | filters, never amplifies | D3.1 — *"I can think"* | **Day 5, where the silence before the constrictor is what he hears** | Day 11, once the capacitor goes | ok |
 | **Benal's hearing and smell** | unfiltered assault without the suit | D2.2, D2.9 | Day 5 · Day 12 · D16.3 the hatch | Day 4, rain defeats it | ok |
-| **Teva's magnetic sense** | direction only, not position — a heading finds nothing without a departure point and a distance run | D2.8, stated by her | Days 3–14, constantly · **worth more offshore, not less** | **D14.2 — she can give a heading and cannot hold it**, through a headache from the short-leached mash | ok |
+| **Teva's magnetic sense** | direction only, not position — a heading finds nothing without a departure point and a distance run | **D2.8, and she overstates it.** The drafted scene has her saying *"My magnetic sense is perfect—we won't get lost"* (`content/superseded/03.3.md:47`), which asserts position-finding and is the opposite of the rule. **Keep the line and let it be wrong** — a sixteen-year-old overselling her one advantage while recruiting is characterization, and Day 3 corrects her in use rather than in dialogue | Days 3–14, constantly · **worth more offshore, not less** · **first correction at D3.3**, where a heading finds nothing without a departure point and a distance run, so she is counting | **D14.2 — she can give a heading and cannot hold it**, through a headache from the short-leached mash | ok |
 | **Pheromone barrier** | reads as wounded alpha to predators; terrifies small animals; **blinds the suits' chemical sensors** | D3.1, applied by hand | Day 3, the razortails stay wary | — | ok |
 | **Archaea failsafe** | dissolves unmaintained old-tech in hours | D2.11, the soured-fig smell | — | — | **payoff needed: at Genesis nothing has dissolved, because the failsafe is a colony invention** |
 | **Accelerated healing** | **metabolically expensive** — heals fast at the cost of strength, warmth and clarity | **nowhere** | Days 11–13, Keo | — | **GAP — must be taught in Act 1** |

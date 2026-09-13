@@ -31,6 +31,7 @@ Act 1 runs from an evening to the pre-dawn of the day after next — **about thi
 Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage solidifies.
 **Elana is the crisis walking through the door.** The scene opens on a failing test in a clean room, and a mother forces her way into it carrying a dying child — which is a violation of the place, because **the Vitarium is a culture chamber and not somewhere the sick are brought.** Nobody stops her. She holds the arm out for them to look at, and demands the rust-red by name and by dose, because the whole Enclave has been talking about that vector for weeks and every parent with an unSeeded child knows what it is. Then her demand dries into sobbing and the child dies on the floor among the lines that should have saved her.
 **Plants:** Omya submitting to a public test she will fail (misjudgment) · Teva's mother Lumea, dead of the same thing after the same treatment · the Vitarium's color diagnostics.
+**Ends on:** the child on the floor among the lines that should have saved her, and Elana's demand having stopped.
 
 ### D1.2 — [MEDIUM, ~1000] [Day 1, night] [TEVA] [Kiva → village] — **NEW**
 **Ladders:** E6 P1 S4 X3
@@ -49,12 +50,14 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 **Ladders:** E3 P2 S2 X2 — **a rest, deliberately**
 Keo trains Noli. Bravado over a bad night.
 **Add:** two of Noli's four opinions, per `humor-plan.md`. Seed *"we'll be fine"* as a tic the others will later throw back at him.
+**Ends on:** `[?]` *we'll be fine*, said to an animal, meaning it.
 
 ### D2.2 — [MEDIUM] [Day 2, morning] [BENAL] [Family dwelling] — *revise `content/superseded/02.2.md`*
 **Ladders:** E4 P1 S3 X3
 Benal's mathematics. Marek's *"do something real."*
 **Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not first arrive on Day 11.
 **Plants:** fact O goes ironic. The reader will connect this scene to D2.6; Benal never will.
+**Ends on:** *do something real*, and Benal going back to the work anyway.
 
 ### D2.3 — [LONG, ~2000] [Day 2, morning] [KEO] [The family nest] — **NEW — the most important new scene in the novel**
 **Ladders:** E5 P1 S4 X3
@@ -77,6 +80,7 @@ Benal's mathematics. Marek's *"do something real."*
 - Something about the founders that will later contradict Sila.
 - **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
 **Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind.
+**Ends on:** `[?]` Omya asking whether the sky was watched last night, and Teva having no answer. The question returns in the last scene of the book, and by then she does.
 
 ### D2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool]
 **Ladders:** E5 P3 S3 X3
@@ -85,6 +89,7 @@ Croc drill in driving warm rain. *Monsters in the water* against *monsters in th
 **Milieu:** the rainstorm, the leaking fern-thatch — already allocated here, spent elsewhere.
 **And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc surface sensing** (`tech-rules.md`): the drill is in a pool, so it is taught on water — Teva drops something in at one end and makes a child watch the ring travel, or hold a hand flat on the surface and feel another child's kick from across it. **What the animal reads is the water, not the bank.** Said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
 **Do not mention Yara here.** The reader should be able to assemble it later without help.
+**Ends on:** `[?]` the drill finishing and the children going, and Teva alone at the pool with the rain on it.
 
 ---
 
@@ -95,21 +100,25 @@ Croc drill in driving warm rain. *Monsters in the water* against *monsters in th
 The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 **Now lands harder** because we met Joram and Riel that morning: their silence is a choice by people we know.
 **Plants:** Hesh's arithmetic, unrefuted (he is book 2's antagonist) · Sila energized where everyone else is weary · Joram's face holding only fear (`content/superseded/03.1.md:70`).
+**Ends on:** the Council deciding to decide later, and Keo finding his father's face in the crowd.
 
 ### D2.7 — [SHORT, ~700] [Day 2, evening] [BENAL] [Outside the chamber] — **NEW**
 **Ladders:** E5 P1 S5 X4
 Marek after the debate. He fought in public and lost. Lunet gets a line.
 **The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding D2.2 and D2.6 together — can see a man who was right and unheard. Fact O at full pressure.
+**Ends on:** `[?]` Marek saying nothing to his son on the way past, and Benal reading it as the wrong thing.
 
 ### D2.8 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva]
 **Ladders:** E6 P2 S5 X4
 Teva: *"I'm going."* Not a request.
 **Add:** the intimacy layer's first real rung. Keo's crush is on the page, unspoken, and he misreads her entirely.
+**Ends on:** *I'm going* — and Keo already having agreed before he says so.
 
 ### D2.9 — [MEDIUM] [Day 2, night] [KEO] [Same]
 **Ladders:** E6 P2 S6 X4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at D2.10 and D2.11.
 Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
 **Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.
+**Ends on:** three of them, and none of them saying what it will cost.
 
 ---
 
@@ -120,16 +129,18 @@ Benal insists. *"You're the delivery system. I'm the key."* Keo's response is aw
 ### D2.10 — [MEDIUM] [Day 2, late night] [KEO] [His dwelling] — *canon, `content/superseded/04.1.md`*
 **Ladders:** E7 P3 S7 X4
 Stealing food from his sleeping parents. Guilt, specifically — shame at destroying their standing, not fear of the jungle.
+**Ends on:** `[?]` him leaving the dwelling without looking back at them, and knowing he did not.
 
 ### D2.11 — [MEDIUM] [Day 2, late night] [KEO] [The Repository] — *canon, `content/superseded/04.2.md`*
 **Ladders:** E7 P4 S8 X4
 The theft. The taboo shelf. The third suit left on the rack.
 **Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until D15.4.
+**Ends on:** the third suit on the rack, and the door floating shut on it.
 
 ### D3.1 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
 **Ladders:** E6 P6 S8 X4
 Suiting up, the septic gel, past the watcher, through the gap. Razortails clicking in the fog.
-**Ends the act** in the middle of a threat.
+**Ends on:** clicking in the fog, closer than it was, and the act stopping there. **Mid-threat, and nothing is resolved** — the reader turns the page into Act 2 with the sound still going.
 
 ---
 
