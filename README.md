@@ -70,7 +70,9 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 
    - **Act** — three.
    - **Chapter** — the reader-facing unit, the thing you finish before putting the book down. Holds one or more scenes. This has never existed and was asked for at the start of the project.
-   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **sequentially from 1**, so a scene number is an address and carries no other claim. The count is `pacing-and-stakes.md` §5's to propose and is not settled.
+   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. **Numbered day-major: `D<day>.<n>`**, so `D7.2` is the second scene of Day 7.
+
+     **Sequential numbering from 1 was the earlier plan and is retired.** Its argument was that an address should carry no other claim, and that is real — a day-major id does assert something, and if a scene moves days its number is wrong rather than merely arbitrary. It loses to two things. **Sequential ids renumber on every insertion**, and this list gained thirty-two scenes in one day; day-major ids only move when the day moves, which the calendar makes rare. And **the day is the one stable key in the whole corpus** — `journey-calendar.md` says so outright, every planning layer is indexed by it, and half the checks already read it. An address that agrees with the index costs nothing to hold in your head.
    - **Move** — one action by one party inside a scene. What the scene maps enumerate.
 
    The present numbering is beat-major, so `4.3` means the third scene of beat 4, which sits inside Act 1 — the first digit is not an act and reads as though it were. **The fifteen "beats" are Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. The structure is demoted to **an analysis note** — a check that the story would also work as a film, which is a fair test — and stops being the organizing principle or the address system.

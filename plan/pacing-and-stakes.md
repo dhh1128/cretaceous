@@ -184,4 +184,4 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 
 **Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the four missing days most of all — Day 6 because it is the deposit, Day 9 because it is what the river cost, and Days 12 and 13 because they are the hinge of Teva's arc. It also needs the river built out: Days 7 and 8 carry one scene each and the crossing is the courage the book is built on. Act 3 needs roughly to triple.
 
-That rescene is also when the numbering changes: scenes are numbered sequentially from 1, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.
+The rescene is done. What remains of it is the numbering: scenes become **`D<day>.<n>`**, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.
