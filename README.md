@@ -63,22 +63,16 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 2. **Approve the rows of `knowledge-ledger.md`.**
 3. **Rewrite the scene list** to the approved count. Much of the open-question backlog gets worked off here rather than in the abstract.
 4. **Thirty-five open questions**, in `plan/open-questions.md` — twelve carried over, twelve restored after being removed without answers, five reopened, and the rest raised during the 2026-09-10 review.
-5. **Renumber, and eliminate "beat" entirely.** Deferred until the rescene because the scene count goes from 38 to roughly 60 and every number moves then anyway.
+5. **Chapters.** They have never existed and were asked for at the start of the project. A chapter is the reader-facing unit — what you finish before putting the book down — and holds one or two scenes, rarely three. `plan/pacing-and-stakes.md` §3 has the form: a cordimancy-style label naming the POV and the day, with viking's `§` separating scenes inside a chapter.
 
-   **"Beat" is not retired as an organizing term. It is retired as a word**, at every granularity, including ordinary craft usage — *worth a beat*, *a beat of silence*, *the last beat of his arc*. The reason is precision rather than taste. As a craft term it has a real meaning, but it names a unit at two or three different scales depending on who is writing, **no model has been able to use it consistently**, and an imprecise unit inside a corpus organized around units is a defect. The four units below are the whole vocabulary and there is no fifth.
-
-   Four units, and nothing else:
+   The four units, and there is no fifth:
 
    - **Act** — three.
-   - **Chapter** — the reader-facing unit, the thing you finish before putting the book down. Holds one or more scenes. This has never existed and was asked for at the start of the project.
-   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. **Numbered day-major: `D<day>.<n>`**, so `D7.2` is the second scene of Day 7.
-
-     **Sequential numbering from 1 was the earlier plan and is retired.** Its argument was that an address should carry no other claim, and that is real — a day-major id does assert something, and if a scene moves days its number is wrong rather than merely arbitrary. It loses to two things. **Sequential ids renumber on every insertion**, and this list gained thirty-two scenes in one day; day-major ids only move when the day moves, which the calendar makes rare. And **the day is the one stable key in the whole corpus** — `journey-calendar.md` says so outright, every planning layer is indexed by it, and half the checks already read it. An address that agrees with the index costs nothing to hold in your head.
+   - **Chapter** — above.
+   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **`D<day>.<n>`**, so `D7.2` is the second scene of Day 7.
    - **Move** — one action by one party inside a scene. What the scene maps enumerate.
 
-   The present numbering is beat-major, so `D3.1` means the third scene of beat 4, which sits inside Act 1 — the first digit is not an act and reads as though it were. **The fifteen "beats" are Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. The structure is demoted to **an analysis note** — a check that the story would also work as a film, which is a fair test — and stops being the organizing principle or the address system.
-
-   **Scope: 392 scene references across 25 files, and 89 uses of "beat" — 46 of them addressing (*beat 12*, *beat-major*, the `### BEAT 7:` headers), 43 ordinary craft usage. The craft ones are blocked on nothing and can go at any time; each needs its own replacement word rather than a substitution.** `methodology-theory.md` §8 records that this corpus has already suffered layer drift from a renumber that did not sweep everything, so this is a scripted sweep with a verification pass, not hand-editing.
+   **The fifteen-unit structure is Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. It is an analysis note — a check that the story would also work as a film, which is a fair test — and it is not the organizing principle or the address system.
 
 6. **Tag scene obligations `@D2.3` across the layers**, once the rewrite has settled the numbering. Every line in any layer that assigns work to a scene gets the tag, so `grep -rn '@2\.3' plan/` returns that scene's complete obligation set. The scene map's layers-joined table is then generated rather than hand-assembled, and phase 3 gains an invariant: every tagged obligation has a move. Deferred until after the rewrite because half the numbers will move.
 7. The layers still marked unapproved in their own frontmatter, in any order.

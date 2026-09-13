@@ -1414,23 +1414,23 @@ LEGACY_UNIT = re.compile(
     r"^\s*(?:[-–—]\s*[\d.]+\s*)?(m\b|km\b|kg\b|cm\b|mm\b|%|×|x\b|meters?\b|metres?\b"
     r"|tonnes?\b|hours?\b|words?\b)")
 LEGACY_EXEMPT_DIRS = ("content/superseded/", "content/rejected/")
+# AGENTS.md section 7 has to name what it forbids, exactly as it does for the
+# retired phrases. Same file, same reason, same exemption.
+LEGACY_EXEMPT_FILES = ("AGENTS.md",)
 
 
 @cache
 def legacy_ids() -> frozenset[str]:
-    """Every retired address, read from the scene list's own `*was N.N*` notes.
+    """Every retired scene address, read from AGENTS.md section 7 at runtime.
 
-    Derived rather than listed, so the check cannot drift from the bridge. When
-    the notes are removed this set empties and the check becomes a no-op that
-    still guards the shape -- which is correct, because by then nothing in the
-    corpus should contain one."""
-    out = set()
-    for _, _, line in scenes():
-        out.update(re.findall(r"\*was (?:part of )?([A-Za-z]?\d+\.\d+)", line))
-    # Act 1's fourteen had no notes; they are the outline-unit space 1.x-4.x.
-    for major, count in ((1, 2), (2, 5), (3, 4), (4, 3)):
-        out.update(f"{major}.{n}" for n in range(1, count + 1))
-    return frozenset(out)
+    It used to derive these from the scene list's `*was N.N*` notes, which was
+    right while those notes existed and wrong the moment they came out -- the
+    check would have quietly lost most of what it knew about at exactly the
+    point the bridge was demolished. Declaring them makes the prohibition
+    outlive the migration that produced it."""
+    body = "\n".join(t for _, t in section("AGENTS.md", r"Retired claims"))
+    m = re.search(r"Retired scene addresses\.\*\*(.+?)`no_legacy_addresses`", body, re.S)
+    return frozenset(re.findall(r"`(\d{1,2}\.\d{1,2})`", m.group(1))) if m else frozenset()
 
 
 def check_no_legacy_addresses() -> list[Violation]:
@@ -1449,7 +1449,7 @@ def check_no_legacy_addresses() -> list[Violation]:
     was written and not a place anyone navigates from."""
     ids, out = legacy_ids(), []
     for path, n, line in iter_lines():
-        if path.startswith(LEGACY_EXEMPT_DIRS) or "[retired]" in line:
+        if path in LEGACY_EXEMPT_FILES or path.startswith(LEGACY_EXEMPT_DIRS) or "[retired]" in line:
             continue
         for m in LEGACY_ADDR.finditer(line):
             tok = m.group(1)
