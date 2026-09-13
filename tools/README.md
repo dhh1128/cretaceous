@@ -157,9 +157,9 @@ The search key is derived from the allocation row's own label, and the page and 
 
 ## Not yet built
 
-**Blocked on the rescene.** Every scene id cited anywhere resolves to a scene in `scene-list.md`; every `[requires]` pointer resolves. Scene numbers are about to be reassigned, so building these now buys a suite that goes red for the right reason at the wrong time.
+**The semantic half of `plan/` versus `kb/research/`, and it needs the lens tier.** `taxa_in_research` covers whether a taxon is *named* in both. It cannot cover whether they *agree*: the scene list had a *Quetzalcoatlus* snatching prey on the wing while `kb/research/geo-flora-fauna.md` said, on its own line, that the animal was a terrestrial stalker hunting on the ground. Both files named the animal. No string comparison sees that.
 
-**A check nobody has written, and it would have caught a real error.** `plan/` may not contradict `kb/research/`. `milieu-brief.md` already states the precedence — *if this file and one of those disagree, the specialist file wins and the discrepancy is a defect* — and nothing enforces it. The scene list had a *Quetzalcoatlus* snatching prey on the wing while `kb/research/geo-flora-fauna.md` said, on its own line, that the animal was a terrestrial stalker hunting on the ground. The research was right and the plan ignored it for months.
+**A number appearing in three or more files with no declared owner.** The 67 Mya figure sat in five, attached to two different jumps, and was found by hand rather than by the suite. The obstacle is that repetition alone is not the signal — *206 years* is repeated legitimately everywhere — so this needs an owners table that does not exist yet, naming each shared figure and the one file that owns it. **The table is the work; the check over it is small.**
 
 **Blocked on prose.** The blacklist and word-choice rules, the sentence-distribution targets in `prompts/style-canon.md` §0, and the repetition window. The allocation-against-prose check — one search key per allocated item, flagging any use outside its day — is now written as `allocation_off_day` and is not registered; it needs prose to run against and a way to tell a permitted reference from a re-description, and "Why `allocation_off_day` is written and not registered" above has the measurements.
 
