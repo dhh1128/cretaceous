@@ -1074,3 +1074,298 @@ def check_retired_claims() -> list[Violation]:
 
 
 CHECKS["retired_claims"] = check_retired_claims
+
+
+# --------------------------------------------------------------------------
+# the shape of a scene entry, and the order of the layers hung on it
+# --------------------------------------------------------------------------
+
+LINGO = "kb/worldbuilding/lingo.md"
+
+# The POV is the bracket immediately after the day bracket, in BOTH live entry
+# formats -- `[LONG] [Day 1, evening] [TEVA] [Vitarium]` and the older
+# `[Day 10] [KEO] [Open Savanna] [LOW (Hubris)]`. Reading it by position from the
+# left would need a rule per format; reading it by position from the day needs
+# none, and the day is the corpus's own stable key during the renumber.
+BRACKETS = re.compile(r"\[([^\[\]]*)\]")
+DAY_BRACKET = re.compile(r"^\s*Day\s+\d", re.I)
+
+
+def _scene_fields(line: str) -> tuple[list[str], int | None]:
+    """(bracketed fields, index of the day bracket) for a scene entry line."""
+    fields = [b.strip() for b in BRACKETS.findall(line)]
+    day_at = next((i for i, f in enumerate(fields) if DAY_BRACKET.match(f)), None)
+    return fields, day_at
+
+
+def scene_povs() -> list[tuple[int, str, str]]:
+    """(line, scene id, POV) for every scene that names one, in file order.
+
+    A scene carrying no POV is skipped rather than counted as a break in the run,
+    because a run of one head interrupted by an entry that forgot to say whose
+    head it is has not stopped being a run. `scene_entry_complete` owns that
+    failure; all 70 entries name one today."""
+    out = []
+    for n, sid, line in scenes():
+        fields, day_at = _scene_fields(line)
+        if day_at is not None and day_at + 1 < len(fields):
+            out.append((n, sid, fields[day_at + 1]))
+    return out
+
+
+@cache
+def closed_vocabulary() -> frozenset[str]:
+    """The colony's closed word list, read from lingo.md's own tables.
+
+    The terms and the free compounds only -- not the bold in the surrounding
+    prose, which is emphasis rather than vocabulary. Hyphenated compounds
+    contribute their parts too, because a scene says *croc* where the list says
+    *croc-spike*."""
+    terms: set[str] = set()
+    for heading in (r"^#+\s*The list", r"^#+\s*Free compounds"):
+        body = section(LINGO, heading)
+        # `tables`, not `table_rows`: the section holds four tables and
+        # `table_rows` would return only the last one's rows, leaving the other
+        # three to be scraped as prose.
+        in_table = {n: cells for rows in tables(body) for n, cells in rows}
+        for n, line in body:
+            if n in in_table:
+                found = [plain(in_table[n][0])]
+            else:
+                found = re.findall(r"\*\*([a-z][a-z-]*)\*\*", line)
+            for term in found:
+                for part in term.lower().split("-"):
+                    if part:
+                        terms.add(part)
+    return frozenset(terms)
+
+
+# `_alloc_keys` truncates each label word to six characters, so a key SHORTER
+# than six is a whole short word -- and short words are the ones that collide.
+# `croc`, `fish`, `ants` and `hell` between them account for most of the noise
+# measured against the scene list.
+MIN_OFF_DAY_KEY = 6
+
+
+def check_allocation_off_day() -> list[Violation]:
+    """An allocated item shows up on a day it was not allocated to.
+
+    The inverse of `allocation_covered`, and the repetition instrument
+    `milieu-allocation.md` exists to be: a world is finite, each striking thing is
+    assigned to one or two days, and spending it a third time is how a book comes
+    to feel small.
+
+    **Not registered, and the reasoning is in `tools/README.md`.** Two things
+    defeat it against the scene list. §3 of the allocation permits the thing this
+    would fail -- *after its day it may be referenced but not re-described* -- and
+    nothing mechanical separates a reference from a re-description. And the scene
+    list is a plan rather than prose, so most of what fires is the plan discussing
+    its own allocations. It is kept because the check it wants to be is the one
+    README lists as blocked on prose, and this is the half of it that can be
+    written now."""
+    scened = _scene_text_by_day()
+    vocabulary = closed_vocabulary()
+    out = []
+    allocated: dict[tuple[int, str], set[int]] = defaultdict(set)
+    for day, items in _allocated_by_day().items():
+        for n, label in items:
+            allocated[(n, label)].add(day)
+    for (n, label), days in sorted(allocated.items()):
+        keys = [k for k in _alloc_keys(label)
+                if len(k) >= MIN_OFF_DAY_KEY
+                and not any(term.startswith(k) for term in vocabulary)]
+        if not keys:
+            continue
+        for day in sorted(scened):
+            if day in days:
+                continue
+            hit = [k for k in keys if re.search(rf"\b{k}\w*\b", scened[day])]
+            if hit:
+                out.append(Violation(ALLOC, n,
+                                     f"{label!r} is allocated to {sorted(days)} and a Day {day} "
+                                     f"scene names it ({', '.join(hit)})"))
+    return out
+
+
+POV_CEILING = re.compile(
+    r"no more than\s+(" + "|".join(NUMBER_WORDS) + r"|\d+)\s+consecutive scenes?\s+in\s+one POV",
+    re.I)
+
+
+def _declared_pov_run() -> tuple[int, int] | None:
+    """(ceiling, line) from pacing-and-stakes.md's own sentence, or None."""
+    for n, line in enumerate(lines_of(PACING), start=1):
+        m = POV_CEILING.search(line)
+        if m:
+            token = m.group(1).lower()
+            return (NUMBER_WORDS.get(token, 0) or int(token)), n
+    return None
+
+
+def check_pov_run_length() -> list[Violation]:
+    """A run of scenes in one head long enough that the rotation stops being one.
+
+    Three POVs that take turns are a promise to the reader, and a stretch that
+    forgets to rotate reads as a different book for as long as it lasts. The
+    ceiling is not a number this file may choose: `pacing-and-stakes.md` owns
+    scene shape and has to say it, in a sentence of the form *no more than N
+    consecutive scenes in one POV*. Until it does, the check reports the missing
+    declaration rather than a default, because a default invented here would be
+    the suite enforcing a decision nobody made."""
+    declared = _declared_pov_run()
+    if declared is None:
+        return [Violation(PACING, 1,
+                          "no ceiling on consecutive same-POV scenes is declared anywhere; "
+                          "this file owns scene shape and is where it belongs")]
+    ceiling, where = declared
+    povs = scene_povs()
+    out, start, run = [], None, 0
+    for i, (n, sid, pov) in enumerate(povs + [(0, "", None)]):
+        if start is not None and pov == start[2]:
+            run += 1
+            continue
+        if start is not None and run > ceiling:
+            out.append(Violation(SCENES, start[0],
+                                 f"{run} consecutive scenes in {start[2]}, from {start[1]} "
+                                 f"to {povs[i - 1][1]}; {PACING}:{where} allows {ceiling}"))
+        start, run = (n, sid, pov), 1
+    return out
+
+
+def _size_bands() -> list[str]:
+    """The size vocabulary, from the sizing table in pacing-and-stakes.md §4."""
+    return [plain(cells[0]).lower()
+            for _, cells in table_rows(section(PACING, r"Scene sizing"))
+            if cells and plain(cells[0])]
+
+
+def check_scene_entry_complete() -> list[Violation]:
+    """A scene entry that does not say what the format promises it says.
+
+    Every layer downstream reads these fields off the entry: the ladders feed
+    `every_scene_moves_a_ladder`, the day feeds everything indexed by day, and the
+    POV feeds the rotation. An entry missing one is invisible to whichever check
+    would have caught the defect, and it fails silently rather than loudly --
+    `scenes_per_day` counted the day-keyed entries as absent for a whole rescene
+    because the pattern that found them had not been widened yet.
+
+    `**Hazard:**` is deliberately not required. It arrived after the format did
+    and the entries that predate it are not defective for lacking it."""
+    bands = _size_bands()
+    lines = lines_of(SCENES)
+    entries = [(i, l) for i, l in enumerate(lines) if SCENE_ENTRY.match(l.strip())]
+    out = []
+    for idx, (i, line) in enumerate(entries):
+        end = entries[idx + 1][0] if idx + 1 < len(entries) else len(lines)
+        body = "\n".join(lines[i + 1:end])
+        fields, day_at = _scene_fields(line)
+        missing = []
+        if bands and not (fields and any(fields[0].lower().startswith(b) for b in bands)):
+            missing.append("size band")
+        if day_at is None:
+            missing.append("day")
+        else:
+            if day_at + 1 >= len(fields):
+                missing.append("POV")
+            if day_at + 2 >= len(fields):
+                missing.append("place")
+        if "**Ladders:**" not in body:
+            missing.append("**Ladders:**")
+        if "**Ends on:**" not in body:
+            missing.append("**Ends on:**")
+        if missing:
+            sid = SCENE_ENTRY.match(line.strip()).group(1)
+            out.append(Violation(SCENES, i + 1, f"scene {sid} carries no {', '.join(missing)}"))
+    return out
+
+
+# Three address schemes are live in the layers at once -- `4.3` from the old
+# act-major list, `D7.2` from the day-keyed rescene, and bare day references --
+# and the day is the only key all three share. So the map is built from the scene
+# list's own entries, and an entry that records what it used to be called
+# (`*was 6.1*`) contributes that name too, since the layers still cite it.
+SCENE_ALIAS = re.compile(r"\bwas (?:part of )?([A-Za-z]?\d+\.\d+)")
+SCENE_ADDR = re.compile(r"\b([A-Za-z]?\d+\.\d+)\b")
+DAY_ADDR = re.compile(r"\b(?:Days?|Nights?)\s+(\d+)", re.I)
+
+
+@cache
+def scene_days_by_address() -> dict[str, int]:
+    """Every address a scene answers to -> its day. Current ids win over aliases."""
+    current, aliases = {}, {}
+    for _, sid, line in scenes():
+        m = SCENE_DAY.search(line)
+        if not m:
+            continue
+        day = int(m.group(1))
+        current[sid] = day
+        for old in SCENE_ALIAS.findall(line):
+            aliases.setdefault(old, day)
+    return {**aliases, **current}
+
+
+def _addresses(cell: str) -> list[tuple[int, int | None, str]]:
+    """(day, minor number, as written) for every address in a ledger cell.
+
+    Sorted earliest first, and a bare day reference sorts ahead of a scene on the
+    same day because it names the whole day rather than a position inside it."""
+    where = scene_days_by_address()
+    found = [(where[tok], int(tok.split(".")[1]), tok)
+             for tok in SCENE_ADDR.findall(cell) if tok in where]
+    found += [(int(d), None, f"Day {d}") for d in DAY_ADDR.findall(cell)]
+    return sorted(found, key=lambda a: (a[0], -1 if a[1] is None else a[1]))
+
+
+def unresolved_payment_addresses() -> list[tuple[int, str, str, str]]:
+    """Ledger cells naming no address that resolves. Reported, never failed.
+
+    `Act 1`, `book 2`, `13.x` and `7–9` are four different kinds of not-a-scene,
+    and guessing which day any of them means would be the suite inventing an
+    ordering. Whether every cited address resolves is its own invariant, and
+    `tools/README.md` has it blocked on the renumber."""
+    out = []
+    for n, cells in table_rows(section(FORESHADOW, r"The ledger")):
+        if len(cells) < 5:
+            continue
+        for end, cell in (("plant", plain(cells[2])), ("payoff", plain(cells[4]))):
+            if not _addresses(cell):
+                out.append((n, plain(cells[0]), end, cell))
+    return out
+
+
+def check_payment_order() -> list[Violation]:
+    """A payoff that lands before the scene that plants it.
+
+    A plant only works forward. Read in order, a payoff that arrives first is not
+    a quiet plant paying off -- it is a scene explaining something the reader has
+    no reason to be holding, and then a later scene setting up what they were
+    already told. The ledger's addresses are what the drafting order is built
+    from, so a reversed pair sends the writing pass at it backwards.
+
+    Days rather than addresses, because three numbering schemes are live at once
+    and only the day is stable. Where both ends land on the same day the position
+    inside it decides, and a cell whose address resolves to nothing is left to
+    `unresolved_payment_addresses` rather than guessed at."""
+    out = []
+    for n, cells in table_rows(section(FORESHADOW, r"The ledger")):
+        if len(cells) < 5:
+            continue
+        plant = _addresses(plain(cells[2]))
+        payoff = _addresses(plain(cells[4]))
+        if not plant or not payoff:
+            continue
+        (p_day, p_minor, p_at), (y_day, y_minor, y_at) = plant[0], payoff[0]
+        backward = y_day < p_day or (
+            y_day == p_day and p_minor is not None and y_minor is not None and y_minor < p_minor)
+        if backward:
+            out.append(Violation(FORESHADOW, n,
+                                 f"row {plain(cells[0])} plants at {p_at} (Day {p_day}) and pays "
+                                 f"at {y_at} (Day {y_day}), which is earlier"))
+    return out
+
+
+CHECKS.update({
+    "pov_run_length": check_pov_run_length,
+    "scene_entry_complete": check_scene_entry_complete,
+    "payment_order": check_payment_order,
+})

@@ -53,6 +53,52 @@ Five files. `checks.py` holds the logic as plain functions returning violations;
 | `epigraph_count` | the epigraph suite's declared size equals the fragments that exist | Three numbering systems are live in a channel the species ladder runs through. |
 | `allocation_covered` | every species or small-life item allocated to a day appears in a scene on that day | **The first check that looks inside a scene.** Catches twelve today, including *Anzu*, which has a full species showcase on Day 4 and appears in no Day 4 scene, and *Ornithomimus* on Day 10, which the allocation calls the one animal that is simply a pleasure to watch. |
 | `every_scene_moves_a_ladder` | no two consecutive scenes carry identical ladder values | `pacing-and-stakes.md` §6 — a scene that moves none is cut. Catches one today and grows teeth as the rescene fills the values in. |
+| `scene_entry_complete` | every scene entry carries a size band, a day, a POV, a place, a `**Ladders:**` line and an `**Ends on:**` line | A field an entry does not carry is a field no other check can read, and the failure is silent — `scenes_per_day` read the day-keyed entries as absent for a whole rescene because nothing had widened the pattern that finds them. **Catches 24 today, in two distinct groups:** twelve Act 2 entries still in the older single-line form, which carry no size band, no ladders and no ending and are being converted now; and **twelve Act 1 entries — 1.1, 2.1, 2.2, 2.4, 2.5, 3.1 through 3.4, 4.1 through 4.3 — that carry everything else and no `**Ends on:**`**, which is not the conversion and is nobody's known work item. `**Hazard:**` is deliberately not required: it arrived after the format did, and the 26 entries that predate it are not defective for lacking it. |
+| `pov_run_length` | no more scenes run consecutively in one POV than the corpus says may | Three POVs that take turns are a promise, and a stretch that forgets to rotate reads as a different book for as long as it lasts. **Catches one today, and it is the absence of the rule rather than a breach of it:** no file declares the ceiling, so the check reports the missing declaration. See "The POV run ceiling has no owner yet" below. |
+| `payment_order` | no ledger row pays before the scene that plants it | A plant only works forward, and the ledger is what a drafting pass reads to decide what has to exist first, so a reversed row sends the writing at it backwards. **Catches one today:** row 21 of `foreshadow-and-motif.md` §2 plants the river gratings at 2.5 and pays them at 2.3, both on Day 2. Four cells resolve to no scene at all — `Act 1`, `book 2`, `13.x`, `7–9` — and those are reported by `unresolved_payment_addresses()` rather than guessed at, because whether every cited address resolves is its own invariant and it is blocked on the renumber. |
+| `allocation_off_day` | an allocated item does not appear on a day it was not allocated to | **Written and deliberately not registered.** The inverse of `allocation_covered` and the instrument `milieu-allocation.md` says it exists to be. It cannot be made honest against the scene list; the measurements are below. |
+
+### The POV run ceiling has no owner yet
+
+`pov_run_length` reads its ceiling from `plan/pacing-and-stakes.md` and finds nothing, because nothing in the corpus states one. It reports the missing declaration rather than falling back on a default, because a number chosen in this directory would be the suite enforcing a decision nobody made — rule one, in its most tempting form, since three is such an obvious answer that it barely feels like an invention.
+
+**Where it belongs: `plan/pacing-and-stakes.md` §3.** That is where the rotation is asserted — *"This is a rotating three-POV novel, so the reader learns whose head they are in before the first sentence rather than four lines down"* — and a ceiling on the run is the same fact stated as a constraint. §4 already carries the sibling rule for size, *"Never two consecutive scenes of the same shape."*
+
+**In these words**, as its own line after that paragraph:
+
+> **No more than N consecutive scenes in one POV.**
+
+`N` spelled as a word or a numeral; the check reads either, and reads nothing else, so a paraphrase will not register. What the number has to be decided against, all of it measurement rather than opinion:
+
+- **The scene list today** runs 70 scenes in 50 runs — 38 of one scene, nine of two, one of three, **one of five** (KEO, 3.3 through 4.3, which is the theft) and **one of six** (BENAL, D13.1 through D15.1, which is the drag-frame, the coast, the raft and the coral bank).
+- **In Daniel's own novels:** `viking.md` never runs three consecutive chapters in one head across fifty-five, and `cordimancy.md` has a single run of five.
+- So a ceiling of three flags both long runs, and a ceiling of five flags only the six. Neither is a number this directory may pick.
+
+### Why `allocation_off_day` is written and not registered
+
+It is the inverse of `allocation_covered` and it is the instrument `milieu-allocation.md` says it exists to be — *the world is a finite set of striking things, and each one is assigned to one or two days and is off-limits elsewhere.* It is in `checks.py`, out of `CHECKS`, and this is the argument.
+
+**The corpus does not assert what the check would enforce.** §3 of the allocation, one line under that premise: *"Each species gets one showcase. After its day it may be referenced but not re-described."* The croc row spells out what a permitted reference looks like — *after Day 8 it is a shape, a wake, an absence of birds.* So the invariant is not *appears nowhere else*; it is *is not re-described elsewhere*, and re-description is a property of prose that no key match can see. Registering the stronger claim would enforce a rule that was never made.
+
+**And the scene list is a plan, not prose.** This directory's own "Not yet built" list already has this check under **Blocked on prose**, and that judgment was right. Most of what fires is the plan discussing its own allocations: the saropo-riding plan proposed and rejected on Days 7 and 8, *"the honey on Day 6, the turtle corridor on Day 14"* in a Day 16 hazard note, *"four days after a mosasaur destroyed their raft"* on Day 19.
+
+**The measurements**, all against the scene list, all counting one (day, item) pair as one finding:
+
+| what is filtered | fires | genuine |
+|---|---|---|
+| nothing — `_alloc_keys` and substring matching, exactly as `allocation_covered` uses them | 29 | 2 |
+| word-boundary matching, and keys of fewer than six characters dropped | 11 | 2 |
+| the above, plus lines that name a day other than the scene's own | 10 | 2 |
+| **word boundary, six-character floor, and keys that prefix a closed-list term exempted — what is implemented** | **3** | **1** |
+| all four together | 2 | 1 |
+
+**The noise has three sources and the first is worth keeping as a warning.** Substring matching collides: `achero`, from *Acheroraptor*, matches **treacherous**; `ants`, from hell ants, matches *wants* and *plants*; `hell` matches *unshelled*. Then `_alloc_keys` takes the first three words of the whole cell rather than the colony name, so *"the large river crocodylian — croc"* yields `large`, `river` and `crocod`, and `river` fires on seven days. Then the permitted references above.
+
+**The trade that decides it.** The closed-list exemption is what buys the precision in that table, and it is bought by refusing to look at *croc*, *saropo*, *razortail*, *flybeak*, *grounder* and *stonefruit* — the five animals and the one food the colony has words for, which are the most repeated nouns in the book and precisely where a repetition instrument is needed. A version that sees them cries wolf four times in five; a version that does not is blind in the middle of its own subject. **Neither is worth a human's attention, so neither is registered.**
+
+**Two genuine findings it did surface, recorded here because the check cannot be trusted to keep finding them.** Scene 7.1 on Day 10 serves *"sweet, mealy 'dinosaur-fruit' (Annonaceae)"* while the stonefruit is allocated to Days 4, 6 and 13. Scene 8.2 on Day 11 has Keo climbing *"(e.g., against a pack of Razortails)"* while the razortail's one showcase is Day 3. Both sit in the older Act 2 entries.
+
+**What would make it registrable**, in order of cost: a declared key column in the allocation table, which is already this directory's stated fix for `allocation_covered`'s false-positive class and is a change to an approved file; a way for a scene entry to mark a mention as the permitted kind of reference; or drafted prose in `content/` to run it against instead of a planning document, which is what it was always meant for.
 
 ## The rescene baseline, recorded before the rebuild started
 
@@ -108,7 +154,7 @@ The search key is derived from the allocation row's own label, and the page and 
 
 **A check nobody has written, and it would have caught a real error.** `plan/` may not contradict `kb/research/`. `milieu-brief.md` already states the precedence — *if this file and one of those disagree, the specialist file wins and the discrepancy is a defect* — and nothing enforces it. The scene list had a *Quetzalcoatlus* snatching prey on the wing while `kb/research/geo-flora-fauna.md` said, on its own line, that the animal was a terrestrial stalker hunting on the ground. The research was right and the plan ignored it for months.
 
-**Blocked on prose.** The blacklist and word-choice rules, the sentence-distribution targets in `prompts/style-canon.md` §0, the repetition window, and the allocation-against-prose check — one search key per allocated item, flagging any use outside its day. That last one is the repetition instrument `milieu-allocation.md` exists to be, and it stays deterministic.
+**Blocked on prose.** The blacklist and word-choice rules, the sentence-distribution targets in `prompts/style-canon.md` §0, and the repetition window. The allocation-against-prose check — one search key per allocated item, flagging any use outside its day — is now written as `allocation_off_day` and is not registered; it needs prose to run against and a way to tell a permitted reference from a re-description, and "Why `allocation_off_day` is written and not registered" above has the measurements.
 
 **Blocked on nothing but time.** `milieu-allocation.md` §3 and §5 must agree on every day number; every day is covered by exactly one biome band; the motif budgets against their own tables; every character's physical attributes stated in one place only.
 

@@ -182,3 +182,20 @@ def test_scenes_appear_in_day_order():
 def test_no_retired_claim_survives():
     """AGENTS.md §7. A ruling applied by memory across 25 files misses some."""
     holds("retired_claims")
+
+
+# --- the shape of an entry, and the order of the layers hung on it ----------
+
+def test_no_run_of_scenes_exceeds_the_declared_pov_ceiling():
+    """Red until pacing-and-stakes.md declares the ceiling. The number is Daniel's."""
+    holds("pov_run_length")
+
+
+def test_every_scene_entry_carries_its_required_fields():
+    """A field an entry does not carry is a field no other check can read."""
+    holds("scene_entry_complete")
+
+
+def test_no_payoff_lands_before_its_plant():
+    """A plant only works forward, and the ledger is what the drafting order reads."""
+    holds("payment_order")
