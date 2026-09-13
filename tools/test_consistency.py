@@ -199,3 +199,8 @@ def test_every_scene_entry_carries_its_required_fields():
 def test_no_payoff_lands_before_its_plant():
     """A plant only works forward, and the ledger is what the drafting order reads."""
     holds("payment_order")
+
+
+def test_no_retired_scene_address_survives():
+    """Four of the Act 1 mappings kept their digits, so a missed one looks almost right."""
+    holds("no_legacy_addresses")

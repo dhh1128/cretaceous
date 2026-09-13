@@ -1,5 +1,5 @@
 ---
-approval: approved 2087a902
+approval: approved 2f160897
 ---
 
 # Humor plan
@@ -28,19 +28,19 @@ He holds the book's comic register, and the assignment is structural rather than
 
 It also characterizes precisely: **deadpan is the only control available to someone physically helpless.** He cannot fight, he cannot run, and he cannot stop being afraid — so he narrates. The joke is the one thing in the situation he gets to author.
 
-Mechanism: flat literalism at the worst possible moment, usually delivered in the precision register while everyone else is in the drift register. The model already exists in the plan, at ⟪8.1 — *"Sky or ground. Pick your death."* That is exactly right and should be the calibration point.
+Mechanism: flat literalism at the worst possible moment, usually delivered in the precision register while everyone else is in the drift register. The model already exists in the plan, at D11.3 — *"Sky or ground. Pick your death."* That is exactly right and should be the calibration point.
 
 He is funniest when most frightened, and **he does not know he is being funny**, which is what keeps it from becoming quipping.
 
 ### Keo — bravado, and it curdles
 
-His mask is "we'll be fine," so his comedy is deflection and swagger — teasing, overconfidence played for laughs at his own expense, the older-brother register he uses on Benal. The planned line at ⟪6.5 is the right note: *"Next time, try not to look so delicious. You're making them hungry."*
+His mask is "we'll be fine," so his comedy is deflection and swagger — teasing, overconfidence played for laughs at his own expense, the older-brother register he uses on Benal. The planned line at D10.1 is the right note: *"Next time, try not to look so delicious. You're making them hungry."*
 
 **This must die at the midpoint and stay dead.** After Noli, Keo's attempts at the old register should land wrong — either he can't finish them, or nobody laughs, or he doesn't try. One failed joke after the midpoint is worth more than any amount of described grief.
 
 ### Teva — almost never, and lethal when she does
 
-She is the one who doesn't laugh. That is her whole comic function: scarcity. When she does land one it should be flat, hostile and dry, and it should surprise everyone including her. The planned line at ⟪8.3 — *"Be quiet or be bait. Your choice."* — is the model, and note that it arrives while she is caring for him, which is the only way she has of saying anything warm.
+She is the one who doesn't laugh. That is her whole comic function: scarcity. When she does land one it should be flat, hostile and dry, and it should surprise everyone including her. The planned line at D11.5 — *"Be quiet or be bait. Your choice."* — is the model, and note that it arrives while she is caring for him, which is the only way she has of saying anything warm.
 
 Rough ratio: for every ten jokes in the book, Benal gets six, Keo three, Teva one.
 
@@ -110,13 +110,13 @@ These matter more than the registers above, because they are what a model gets w
 
 The current draft has no room for any of this because every scene is at full emotional load. The unsettled-normalcy morning is the natural home and is currently the thinnest material in the act. That is not a coincidence: **that morning has no job in the plan except to mark time**, and giving it the charm assignment turns its weakness into its purpose. It becomes the deposit against which the whole rest of the book draws.
 
-**Allocation, against the rescened fourteen-scene Act 1.** *(The previous version of this line pointed at scene numbers that have since moved — its `02.3` was Teva and the yazhi, which is now ⟪2.5, and the new ⟪2.3 had no allocation at all. Caught by a forward structure map of ⟪2.3, which had to invent comic moves to fill the hole.)*
+**Allocation, against the rescened fourteen-scene Act 1.** *(The previous version of this line pointed at scene numbers that have since moved — its `02.3` was Teva and the yazhi, which is now D2.5, and the new D2.3 had no allocation at all. Caught by a forward structure map of D2.3, which had to invent comic moves to fill the hole.)*
 
 | scene | comic assignment |
 |---|---|
-| **⟪2.1** Keo trains Noli | **two of Noli's four opinions.** Seed *"we'll be fine"* as the tic the others will later throw back at him |
-| **⟪2.2** Benal at home | the first audible note of his gallows register — it exists before the perimeter, not once the mudwalk turns bad |
-| **⟪2.3** Keo with his parents | **this family has jokes that predate the novel, and that is the whole assignment.** Riel's quantifying is the delivery mechanism — she gives a number where anyone else would give an impression — but **the joke is the family's, not the narration's.** They tease her about it, the tease exaggerates her, and the gap between the tease and the mild reality is the warmth. She is not a human abacus and the prose never plays her as one. An old running bit about Joram's silence that all three can run without explaining. **The register dies the instant Alira's name is said** and does not return in the scene — which is how the reader learns what the morning cost |
-| **⟪2.4** Teva with Omya | **Omya is funny when lucid** — exacting, dry, unsentimental. This is the only time in the novel the reader sees it, which is the point |
-| **⟪2.5** Teva and the yazhi | a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh |
-| **⟪3.4** Benal insists | at least one inside joke visible; the three have shorthand before they leave |
+| **D2.1** Keo trains Noli | **two of Noli's four opinions.** Seed *"we'll be fine"* as the tic the others will later throw back at him |
+| **D2.2** Benal at home | the first audible note of his gallows register — it exists before the perimeter, not once the mudwalk turns bad |
+| **D2.3** Keo with his parents | **this family has jokes that predate the novel, and that is the whole assignment.** Riel's quantifying is the delivery mechanism — she gives a number where anyone else would give an impression — but **the joke is the family's, not the narration's.** They tease her about it, the tease exaggerates her, and the gap between the tease and the mild reality is the warmth. She is not a human abacus and the prose never plays her as one. An old running bit about Joram's silence that all three can run without explaining. **The register dies the instant Alira's name is said** and does not return in the scene — which is how the reader learns what the morning cost |
+| **D2.4** Teva with Omya | **Omya is funny when lucid** — exacting, dry, unsentimental. This is the only time in the novel the reader sees it, which is the point |
+| **D2.5** Teva and the yazhi | a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh |
+| **D2.9** Benal insists | at least one inside joke visible; the three have shorthand before they leave |

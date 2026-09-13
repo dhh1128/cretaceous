@@ -1,10 +1,10 @@
 ---
-approval: approved 0e190a4f
+approval: approved f921dcdf
 ---
 
 # AI tells — the blacklist
 
-*Built 2026-09-10 from Daniel's line-by-line critique of two generated drafts of scene ⟪2.3. Every entry below is a defect he actually found in generated prose, in his words where possible. This file grows: each time he critiques a draft, new tells are added and the old ones are checked against the new draft.*
+*Built 2026-09-10 from Daniel's line-by-line critique of two generated drafts of scene D2.3. Every entry below is a defect he actually found in generated prose, in his words where possible. This file grows: each time he critiques a draft, new tells are added and the old ones are checked against the new draft.*
 
 **How to use it.** Run it as a checklist over a draft *before* Daniel sees it. Every hit is either fixed or justified. This is a pre-delivery gate, not a style aspiration.
 
@@ -142,4 +142,4 @@ Not everything failed, and the successes are as instructive as the tells.
 
 **Rhythm was not the problem in those four drafts** — measured against `viking.md`, their sentence-length distribution came out close to target every time, and the real failures were all in §§5–15.
 
-**But do not read that as a standing exemption.** The first draft of scene ⟪1.1 came out at **42.4% sentences of five words or fewer against viking's 25.7%**, and mean 13.0 against 11.2 — the same staccato that made `content/superseded/` unusable, from a drafter who had read this line and taken it at face value. Measure the distribution every time. It is one command and it caught a rewrite.
+**But do not read that as a standing exemption.** The first draft of scene D1.1 came out at **42.4% sentences of five words or fewer against viking's 25.7%**, and mean 13.0 against 11.2 — the same staccato that made `content/superseded/` unusable, from a drafter who had read this line and taken it at face value. Measure the distribution every time. It is one command and it caught a rewrite.

@@ -1,5 +1,5 @@
 ---
-approval: approved b1861ede
+approval: approved 834fc80e
 ---
 
 # Cretaceous — Writing Style
@@ -10,7 +10,7 @@ The workflow, tone, voice and stylistic rules for the novel. Daniel's document, 
 ## Core Workflow: The Scene-by-Scene Method
 This is the primary workflow for generating the novel. We will not write in "chapters," but in "scenes."
 
-Rule: The novel will be built one scene at a time, based on the numbering in `plan/scene-list.md`. (e.g., We will write "Scene ⟪2.1," then "Scene ⟪2.2," etc.).
+Rule: The novel will be built one scene at a time, based on the numbering in `plan/scene-list.md`. (e.g., We will write "Scene D2.1," then "Scene D2.2," etc.).
 
 Target Length: **There is no per-scene word target, and the old 1,800-word figure is struck.** Scene length is derived, not budgeted — see `plan/pacing-and-stakes.md` for the three size bands and `plan/knowledge-ledger.md` for why. A scene can be very short when the reader arrives already carrying what it needs: in viking, a named crew member the reader has followed for forty chapters dies in **295 words**, and it is the right length precisely because the dread was built elsewhere. The book-level arithmetic is what binds, and `plan/pacing-and-stakes.md` §4 owns it: the scene count, the size mix and the word total are one calculation and live in one place. **Going long is fine** — the draft may run to 90 or 95 thousand and get trimmed in the post-edit; no scene is cut to protect a number. Each time you produce a draft of a scene, please give me its word count, so I can track how it maps to this general guideline.
 

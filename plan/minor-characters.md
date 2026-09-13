@@ -1,5 +1,5 @@
 ---
-approval: approved 76520ac2
+approval: approved 3179f6f9
 ---
 
 # Character register
@@ -32,7 +32,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:49`) because Teva was being trained for this.
 
-**Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene ⟪1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page.
+**Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page.
 
 **Daven** — father. Dead, earlier than Lumea. **`[?]`** *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
 
@@ -46,7 +46,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## The Keepers
 
-**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene ⟪1.1.
+**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1.
 
 ## The Council
 
@@ -70,7 +70,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Elana** — Alira's mother. Bursts into the Vitarium begging for an upgrade; her pleas dry into sobbing. Walks into the Council chamber and stops the argument without winning it: *"They are just words. They are air. My daughter is gone."*
 
-**Alira** — two and a half. Named, and therefore a person, and therefore a death the community must count. Dies of a stingburn infection in scene ⟪1.1.
+**Alira** — two and a half. Named, and therefore a person, and therefore a death the community must count. Dies of a stingburn infection in scene D1.1.
 
 ## Yazhi
 

@@ -45,7 +45,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 1 — before ⟪1.1
+### 1 — before D1.1
 
 > **[HEALTH BULLETIN — REGIONS 2, 4, 11 · T−26 mo]**
 >
@@ -219,7 +219,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 13 — the coda, after ⟪15.1. **The fragment they leave behind.**
+### 13 — the coda, after D19.8. **The fragment they leave behind.**
 
 > **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · T−3 d]**
 >
@@ -273,7 +273,7 @@ The channel has to keep working for two more novels, so it needs a rule that gen
 
 The reader cannot solve it here. What they can do is *itch*. And it pays in stages:
 
-- **Book 1:** it resonates against Keo's flash at ⟪8.4 — a gleaming impossible symbol — and against Genesis's persistent temporal disorientation. Nobody connects them. **Nobody may connect them.**
+- **Book 1:** it resonates against Keo's flash at D11.6 — a gleaming impossible symbol — and against Genesis's persistent temporal disorientation. Nobody connects them. **Nobody may connect them.**
 - **Book 2:** Benal connects them. The anomaly was the second jump, **detected from the 21st century before the first jump had even happened**, because the jump it detected went a million years deeper. Causality read backward off an instrument nobody trusted.
 - **Book 3:** whatever is at the other end.
 

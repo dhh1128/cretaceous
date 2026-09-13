@@ -1400,3 +1400,70 @@ CHECKS.update({
     "scene_entry_complete": check_scene_entry_complete,
     "payment_order": check_payment_order,
 })
+
+
+# --------------------------------------------------------------------------
+# the renumber's permanent verifier
+# --------------------------------------------------------------------------
+
+# The retired address form: a bare `N.N` where the first number was an outline
+# unit. Scene ids are `D<day>.<n>` now, so any surviving bare pair is either a
+# stale pointer or a number that was never an address.
+LEGACY_ADDR = re.compile(r"(?<![\w.§⟪])(\d{1,2}\.\d{1,2}(?:\.\d{1,3})?)(?![\w])")
+LEGACY_UNIT = re.compile(
+    r"^\s*(?:[-–—]\s*[\d.]+\s*)?(m\b|km\b|kg\b|cm\b|mm\b|%|×|x\b|meters?\b|metres?\b"
+    r"|tonnes?\b|hours?\b|words?\b)")
+LEGACY_EXEMPT_DIRS = ("content/superseded/", "content/rejected/")
+
+
+@cache
+def legacy_ids() -> frozenset[str]:
+    """Every retired address, read from the scene list's own `*was N.N*` notes.
+
+    Derived rather than listed, so the check cannot drift from the bridge. When
+    the notes are removed this set empties and the check becomes a no-op that
+    still guards the shape -- which is correct, because by then nothing in the
+    corpus should contain one."""
+    out = set()
+    for _, _, line in scenes():
+        out.update(re.findall(r"\*was (?:part of )?([A-Za-z]?\d+\.\d+)", line))
+    # Act 1's fourteen had no notes; they are the outline-unit space 1.x-4.x.
+    for major, count in ((1, 2), (2, 5), (3, 4), (4, 3)):
+        out.update(f"{major}.{n}" for n in range(1, count + 1))
+    return frozenset(out)
+
+
+def check_no_legacy_addresses() -> list[Violation]:
+    """No file cites a scene by its retired outline-unit address.
+
+    Scene ids are `D<day>.<n>`. The renumber that made them so had to move 261
+    references, and **four of the fourteen Act 1 mappings kept their digits** --
+    `2.3` became `D2.3` -- so a reference the sweep missed does not look wrong,
+    it looks almost right. This is the check that makes that visible, and it is
+    permanent rather than a one-off, because the failure it guards against is
+    somebody writing `2.3` again from memory a month from now.
+
+    A `*was N.N*` note is exempt: it is a deliberate citation of a dead address,
+    the same case `[retired]` covers. So are the drafted scenes under
+    `content/superseded/` and `content/rejected/`, which are the record of what
+    was written and not a place anyone navigates from."""
+    ids, out = legacy_ids(), []
+    for path, n, line in iter_lines():
+        if path.startswith(LEGACY_EXEMPT_DIRS) or "[retired]" in line:
+            continue
+        for m in LEGACY_ADDR.finditer(line):
+            tok = m.group(1)
+            scene = tok if tok in ids else ".".join(tok.split(".")[:2])
+            if scene not in ids:
+                continue
+            if re.search(r"\*was (?:part of )?$", line[:m.start(1)]):
+                continue
+            if LEGACY_UNIT.match(line[m.end(1):]):
+                continue
+            if re.match(r"^#{1,6}\s*\**\s*$", line[:m.start(1)]):
+                continue
+            out.append(Violation(path, n, f"retired address {tok!r} — scene ids are D<day>.<n>"))
+    return out
+
+
+CHECKS["no_legacy_addresses"] = check_no_legacy_addresses

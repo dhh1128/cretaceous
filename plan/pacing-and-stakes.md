@@ -22,9 +22,9 @@ Sets scene count, scene sizing, chapters, and the four stakes curves — which a
 
 Two organs were missing, and both are now scened. Recorded because the reasoning generalizes.
 
-**Keo's parents never spoke to him on the page.** He was with Noli, then he saw Joram across a crowded chamber, then he robbed them while they slept. The parent-nuance arc — the novel's stated subject — rested on two adults who never had a conversation with their son, so there was nothing to plant the misjudgment with. Scene ⟪2.3 exists for this.
+**Keo's parents never spoke to him on the page.** He was with Noli, then he saw Joram across a crowded chamber, then he robbed them while they slept. The parent-nuance arc — the novel's stated subject — rested on two adults who never had a conversation with their son, so there was nothing to plant the misjudgment with. Scene D2.3 exists for this.
 
-**Omya never spoke to Teva.** The grandmother was already failing when we met her, so the reader never met the woman whose disappearance drives the protagonist, and the Day 15 confession — *"I left her while she's disappearing"* — had nothing behind it. Scene ⟪2.4 exists for this.
+**Omya never spoke to Teva.** The grandmother was already failing when we met her, so the reader never met the woman whose disappearance drives the protagonist, and the Day 15 confession — *"I left her while she's disappearing"* — had nothing behind it. Scene D2.4 exists for this.
 
 **The generalization: a relationship the book asks the reader to revise must be dramatized before the revision.** Wherever an arc turns on someone being misjudged, check that they have been *present* first.
 

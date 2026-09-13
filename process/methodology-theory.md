@@ -27,7 +27,7 @@ Each layer allocates something *per scene*. None of them can say **where inside 
 
 **The missing artifact is a join: a per-scene structure where every layer's allocation gets bound to a position in time.** Everything else here follows from that.
 
-Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene ⟪2.3) immediately showed that two layers were specifying the same move and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list.md`'s "one small thing Riel does that is about her."
+Independent support: an adversarial review of the fourteen layers by a non-Claude model, run without sight of any of this work, returned as its headline absence — *"No file says which file wins… The scene brief is the missing layer where the thirty dimensions were supposed to be assembled."* Constructive support: the first forward map ever written (scene D2.3) immediately showed that two layers were specifying the same move and neither knew — `foreshadow-and-motif.md`'s four water gourds filled for three people, and `scene-list.md`'s "one small thing Riel does that is about her."
 
 ## 2. The claims
 
@@ -78,7 +78,7 @@ prose             voice       one pass, one mind holding the scene at once
 
 ### The invention ledger (Daniel's design, 2026-09-10)
 
-**The problem it solves is the economics of correction.** Drafting ⟪2.3 cost him 8,600 words of reading and thousands of words of critique to produce 2,000 words of unusable prose — and that ratio is the failure mode this whole project exists to escape. The largest single cause was **unsubstantiated invention**: a drafter with gaps in its brief invented sleeping arrangements, a set of twins, a character's age, where a suit is stored, and the temperature at dawn — and then built further material on top of each invention, so every correction required unwinding a small structure rather than replacing a word.
+**The problem it solves is the economics of correction.** Drafting D2.3 cost him 8,600 words of reading and thousands of words of critique to produce 2,000 words of unusable prose — and that ratio is the failure mode this whole project exists to escape. The largest single cause was **unsubstantiated invention**: a drafter with gaps in its brief invented sleeping arrangements, a set of twins, a character's age, where a suit is stored, and the temperature at dawn — and then built further material on top of each invention, so every correction required unwinding a small structure rather than replacing a word.
 
 **Inverting it is cheap.** Before drafting, enumerate everything the scene will have to invent that no canon file substantiates, and put it to the author as a list. Design rules, all learned from what went wrong:
 
@@ -88,7 +88,7 @@ prose             voice       one pass, one mind holding the scene at once
 4. **Write every answer back to canon.** Otherwise the same question is invented again in the next scene, differently. This is the property that makes the ledger shrink: by scene 40 most of what scene 1 had to invent is established, and the pass gets cheaper as the book proceeds.
 5. **Unlisted invention is the failure.** The pass is judged on what it failed to *ask about*, not on the quality of its proposals. A drafter that invents something absent from the ledger means the ledger pass was incomplete.
 
-**Claim C10 — a pre-draft invention ledger reduces total author cost per scene. Untested.** Falsifier: run it on one scene and count the author's words in and read in, against the ⟪2.3 baseline of ~8,600 read and thousands written. If the total is not dramatically lower, the stage does not earn its checkpoint.
+**Claim C10 — a pre-draft invention ledger reduces total author cost per scene. Untested.** Falsifier: run it on one scene and count the author's words in and read in, against the D2.3 baseline of ~8,600 read and thousands written. If the total is not dramatically lower, the stage does not earn its checkpoint.
 
 **The expansion stage is the newest and least established.** Its rationale: somebody must invent the moves that lie between the decided ones — the specific deflection, the gesture, the interruption. Currently that is the drafter, inventing structure and producing sentences simultaneously under a word target. The expansion stage moves that invention somewhere with no obligation to produce a sentence, and makes it reviewable before any prose exists.
 
@@ -122,8 +122,8 @@ SPINE  the one continuous thing the scene hangs on — a hand-task, an
        links:  [answers N] · [pays <scene>.<move>] · [plants → <scene>]
                [requires <scene>.<move> — what it needs to still be true]
                  written on the DEPENDENT move, and carrying a payload:
-                 `[requires ⟪2.3.17 — four gourds filled for three, unremarked]`
-                 not `[requires ⟪2.3.17]`. See §5.4.
+                 `[requires D2.3.17 — four gourds filled for three, unremarked]`
+                 not `[requires D2.3.17]`. See §5.4.
        duration: mark moves that run long (`~15% of scene`) AND moves that
                must land in a single sentence. Both directions.
 
@@ -229,7 +229,7 @@ The canon loop is the one with the steepest curve. Scene 1 must invent almost ev
 2. **author words read** — how much prose he had to read
 3. **author words written** — how much critique he had to write
 
-The baseline, and it is deliberately a bad one: **scene ⟪2.3, 2026-09-10 — 0 ledger items, ~8,600 words read, thousands written, and the output was unusable.** Every subsequent scene is measured against that. If the numbers do not fall, the flywheel is not turning, and the right response is to fix the procedure rather than to try harder at the scene.
+The baseline, and it is deliberately a bad one: **scene D2.3, 2026-09-10 — 0 ledger items, ~8,600 words read, thousands written, and the output was unusable.** Every subsequent scene is measured against that. If the numbers do not fall, the flywheel is not turning, and the right response is to fix the procedure rather than to try harder at the scene.
 
 ## 10. Log
 

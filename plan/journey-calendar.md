@@ -1,5 +1,5 @@
 ---
-approval: approved fd5164df
+approval: approved 40372a4e
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -177,7 +177,7 @@ A weather layer that maps bad weather to bad feeling is a mood ring. The assignm
 - **Rain as mercy, Days 11–12.** Unbearable, and the only thing that clears the biting insects. Weather that hurts and helps in the same hour is worth more than either.
 - **The eye of the storm as the cruelest weather in the book, Day 15.** It looks exactly like deliverance.
 
-**Do not let weather move to suit an emotional moment.** The temptation to refuse is Omya's lucidity ending as the storm-dark comes on in ⟪2.4 — it ends because she tires. If Teva notices herself wanting the dark to mean something and refuses it, that is character. If the narration makes it mean something, that is pathetic fallacy.
+**Do not let weather move to suit an emotional moment.** The temptation to refuse is Omya's lucidity ending as the storm-dark comes on in D2.4 — it ends because she tires. If Teva notices herself wanting the dark to mean something and refuses it, that is character. If the narration makes it mean something, that is pathetic fallacy.
 
 ---
 
@@ -199,7 +199,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 
 **How it lands:**
 
-- **Scene ⟪2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now.
+- **Scene D2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now.
 - **Night 3, first night out.** Teva tries the recitation alone and gets partway, then finds a gap she cannot fill, and understands that the gap is permanent.
 - **Nights 6 and 10.** Benal works out what a memorized positional sky actually *is* — a 206-year observational dataset held in one dying woman's head — and is the only person alive who would recognize it as a resource.
 - **Genesis.** The colony had two ways to find the impactor: instruments here, the Watch at home. It lost both and only noticed one.

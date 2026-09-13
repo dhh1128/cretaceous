@@ -1,5 +1,5 @@
 ---
-approval: approved b32e274a
+approval: approved 92faa0e3
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -22,31 +22,31 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 
 | # | plant | where | payoff | where | signal |
 |---|---|---|---|---|---|
-| 1 | Noli's total dependence on Keo's projection | ⟪2.1 | she cannot be saved by it | ⟪7.2 | none |
-| 2 | **The third suit, left on the rack** | ⟪4.2 | Keo's injury; and the reader knows the real reason | ⟪8.2 / ⟪10.1 | **overt** |
-| 3 | Benal's mathematics dismissed as dead symbols | ⟪2.2 | the only knowledge that matters | ⟪12.1 | faint |
-| 4 | Keo leaves the machete on the taboo shelf | ⟪4.2 | he pilots the wig | ⟪13.1 | faint |
-| 5 | **Joram's face holding only fear** | ⟪3.1 | the fear was for him, and it was about Yara | ⟪14.1 | none |
-| 6 | Sila: "one lost lightcell" | ⟪3.1 | they come home in a machine | ⟪14.1 | none |
-| 7 | **The archaea failsafe dissolves unmaintained old-tech** | ⟪4.2 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | ⟪12.1 | none |
-| 8 | The First Walk: 200 out, 94 arrived | ⟪3.1 | their own journey costs them Noli and nearly Keo | 7–9 | none |
-| 9 | Omya taught Teva to read the stars | ⟪1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | ⟪2.4, Day 3 | none |
-| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | ⟪2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, ⟪12.1 | none |
-| 9c | Nobody counts the Watch as a loss | ⟪2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none |
-| 10 | Teva's mother died of what kills Alira | ⟪1.1 | the confession | ⟪10.1 | faint |
-| 11 | **Four water gourds, filled for three people** | ⟪2.3 | Yara | later in ⟪2.3 | **none — never remarked on** |
-| 12 | "We'll be fine" | ⟪2.1 | after the midpoint nobody can say it, and someone tries | ⟪8.3 | faint |
-| 13 | Liaso's story: a T. rex watched him for an hour | ⟪3.4 | the single distant sighting | Day 13 | none |
-| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, ⟪12.1 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
-| 14 | The temporal flash symbol | ⟪8.4 | the signal the heretics received | ⟪12.1 | **overt** |
-| 15 | Marek dismissive at home / fighting in the chamber | ⟪2.2 / ⟪3.1 | Benal understands his father | ⟪14.1 | none |
+| 1 | Noli's total dependence on Keo's projection | D2.1 | she cannot be saved by it | D11.1 | none |
+| 2 | **The third suit, left on the rack** | D2.11 | Keo's injury; and the reader knows the real reason | D11.4 / D15.4 | **overt** |
+| 3 | Benal's mathematics dismissed as dead symbols | D2.2 | the only knowledge that matters | D17.2 | faint |
+| 4 | Keo leaves the machete on the taboo shelf | D2.11 | he pilots the wig | D19.1 | faint |
+| 5 | **Joram's face holding only fear** | D2.6 | the fear was for him, and it was about Yara | D19.7 | none |
+| 6 | Sila: "one lost lightcell" | D2.6 | they come home in a machine | D19.7 | none |
+| 7 | **The archaea failsafe dissolves unmaintained old-tech** | D2.11 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | D17.2 | none |
+| 8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none |
+| 9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none |
+| 9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none |
+| 9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none |
+| 10 | Teva's mother died of what kills Alira | D1.1 | the confession | D15.4 | faint |
+| 11 | **Four water gourds, filled for three people** | D2.3 | Yara | later in D2.3 | **none — never remarked on** |
+| 12 | "We'll be fine" | D2.1 | after the midpoint nobody can say it, and someone tries | D11.5 | faint |
+| 13 | Liaso's story: a T. rex watched him for an hour | D2.9 | the single distant sighting | Day 13 | none |
+| 13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | 13.x | faint |
+| 14 | The temporal flash symbol | D11.6 | the signal the heretics received | D17.2 | **overt** |
+| 15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | Benal understands his father | D19.7 | none |
 | 16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
-| 17 | Benal's shoulder capacitor red-lined at the theft | ⟪4.2 | it dies, and he hides it | Day 11 | none |
+| 17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none |
 | 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
-| 20 | The suits are fed sugar | ⟪4.3 | the honey is split between four mouths and two suits | Day 6 | none |
-| 21 | **The river gratings pass anything small, which grows up inside** | ⟪2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | ⟪4.1 / ⟪10.1 | none |
-| 22 | The gratings must be raised to open the river | ⟪2.5 or 4.x | **flying the wig means opening the croc barrier, every time** | ⟪15.1, book 2 | none |
+| 20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none |
+| 21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none |
+| 22 | The gratings must be raised to open the river | D2.5 or 4.x | **flying the wig means opening the croc barrier, every time** | D19.8, book 2 | none |
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.
 
@@ -62,16 +62,16 @@ So every payoff move also carries **`[requires <scene>.<move>]`**, and the check
 2. Every `plants →` has a matching `requires` at the far end.
 3. An unmatched pair on either side is a broken chain, **found by walking the maps rather than by rereading the novel.**
 
-**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the move survives at ⟪2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
+**And `requires` carries a payload, not just an address.** A pointer can stay valid while the thing it points at stops doing its job — the move survives at D2.3.17 but gets rewritten so Riel fills three gourds and mentions a fourth, and the address still resolves. So the form is:
 
-> `[requires ⟪2.2 — Benal's mathematics shown as dismissable]`
-> `[requires ⟪2.3.17 — four gourds filled for three people, unremarked]`
+> `[requires D2.2 — Benal's mathematics shown as dismissable]`
+> `[requires D2.3.17 — four gourds filled for three people, unremarked]`
 
 That converts a link check into a **contract**: the dependent move states what it needs, and anyone editing the source can see what they would break. Pointer integrity is not semantic integrity, and every serious continuity failure this project has found — the helmet, Alira's age, the season pivot — was semantic with the addresses intact.
 
 **An unresolved `requires` is a work queue.** A dependent move naming a scene that does not exist yet is telling you what must be written before this scene can be, which is the build order falling out of the annotation for free.
 
-**This generalizes past foreshadowing.** The same mechanism carries the reader-payment chains in `knowledge-ledger.md` — fact O's payment at ⟪3.1 carries `[requires ⟪2.2]`, and fact N's completion scene carries `[requires ⟪2.3, ⟪3.1, ⟪4.1]`, naming the contributions it completes. Retroactive plants are allowed and encouraged — cordimancy tells the legend of the seedling *after* the reader has already seen the impossible oak, so it lands as recognition rather than setup.
+**This generalizes past foreshadowing.** The same mechanism carries the reader-payment chains in `knowledge-ledger.md` — fact O's payment at D2.6 carries `[requires D2.2]`, and fact N's completion scene carries `[requires D2.3, D2.6, D2.10]`, naming the contributions it completes. Retroactive plants are allowed and encouraged — cordimancy tells the legend of the seedling *after* the reader has already seen the impossible oak, so it lands as recognition rather than setup.
 
 ## 3. Motifs
 
@@ -115,8 +115,8 @@ Star lore, checked nightly, intact after 206 years. The mission instructions, ch
 
 Per the cordimancy standard, where the title concept is said aloud exactly twice across 124,000 words. Here:
 
-1. **Teva at ⟪14.1** — *they're not liars, they're believers.*
-2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until ⟪14.1 recontextualises it. Best candidate: Riel or Joram in ⟪2.3, about the founders or about the Council, said in passing, about something small.
+1. **Teva at D19.7** — *they're not liars, they're believers.*
+2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.7 recontextualises it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small.
 
 Nothing else in the novel states it. Not the narration, not the epigraphs, not Benal.
 
