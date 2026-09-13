@@ -136,16 +136,86 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ### BEAT 5: B-STORY (Immediate Fallout)
 
-5.1 [Day 3 - Morning] [BENAL] [Deep Jungle] [EXTREME (Panic/Crash)] - The raptor escape, the adrenaline dump, and the beginning of the mudwalk.
-* **B-Story Note:** **Skills Clash (The First Failure)**. Keo's unrefined mental projection attempt is reckless and fails to achieve control, validating Teva’s immediate pragmatism. Benal’s body fails (vomiting/collapse), forcing him to articulate Keo’s recklessness ("reckless, unsuited idiot"). Teva validates Benal's intellect, forging their nascent bond.
+### D3.3 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland] — *was 5.1*
+**Ladders:** E6 P7 S8 X4
+**The razortail escape, the adrenaline dump, and the beginning of the mudwalk.**
+**Must carry:**
+- **Keo's projection is reckless and fails**, which validates Teva's pragmatism in front of everyone. **Benal's body fails** — he vomits from adrenaline — and it forces him to say out loud what Keo is: *reckless, unsuited idiot.* Teva backs Benal's intellect, and the two of them form before either forms with Keo.
+- **Keo's projection headache**: pressure behind the eyes, then a leaden weight. `body-and-resources.md`. First instance and the reader should log the cost.
+- **The first bites on Keo.** Still hot post-storm air is when the biters are worst, and he is the only one without a suit.
+**Hazard:** the escape written as an action sequence they win. They ran, and one of them threw up, and nobody did anything skillful.
+**Ends on:** the sound stopping, and none of them able to say how far they came.
 
-### BEAT 6: FUN & GAMES (The "Promise of the Premise")
+### D3.4 — [MEDIUM] [Day 3, midday to afternoon] [TEVA] [Open-canopy woodland] — **NEW**
+**Ladders:** E5 P8 S7 X4
+**The hard morning's march, and it is the first time any of them has walked in the world.** Eight kilometers, which is a long way and is not far enough.
+**Must carry:**
+- **The correction that changes every outdoor scene.** This is not a rainforest — light comes down, the sky is visible in patches, and what blinds you is the understory at chest height. Bright above, blind at eye level. `milieu-allocation.md` §1, and this is the first day it is on the page.
+- **Teva navigates and it is the first time her magnetic sense is used for real.** A heading finds nothing without a departure point and a distance run, so she is counting.
+- `[?]` **Frogs and fish** — both allocated to Day 3 and unspent, and slow water with horsetail stands is where they are.
+- Ground fog burning off, then glare. The insect day.
+**Hazard:** competence porn. She is doing the one thing she can do, badly, in terrain nobody trained her for, and the counting is a thing she has to keep re-starting.
+**Ends on:** the lay-up, and how little of the map they have moved.
 
-6.3 [Day 4] [BENAL] [Deep Jungle] [RISING (Dread)] - The environment closes in. His super-senses are overwhelmed. Claustrophobia. [Milieu: A 'bait and switch': a clearing with clouds of hand-sized, iridescent day-flying moths, followed by steaming 'sauna-heat' and swarms of 'protein-seeking' flies that crawl on his eyes and mouth.]
-* **B-Story Note:** **Sensory Burden / Isolation**. Benal's enhanced hearing is an "unfiltered assault", transforming the jungle into an aggressive environment. This isolation (being the only one experiencing the full assault) heightens his shame.
+### D3.5 — [SHORT, ~800] [Day 3, evening] [KEO] [First camp] — **NEW**
+**Ladders:** E7 P8 S8 X4
+**Briefly the best day of their lives**, and `body-and-resources.md` says so: terrified and elated. They got out. They got past crocs.
+**Must carry:**
+- **The elation is real and the reader has to have it**, because Day 4 takes it away and every day after that draws on the difference.
+- **Noli.** Two of her four comic moments belong in Act 1 and the rest of her life is nine days long.
+- `[?]` **Nobody mentions their families.** All three are avoiding the same subject and none of them notices the others doing it.
+- **Keo's rations, and the arithmetic nobody has done yet.**
+**Hazard:** foreshadowing. The scene must not know what is coming; the elation is not ironic yet and treating it as ironic spends Day 4 early.
+**Ends on:** somebody laughing, and it being the last easy laugh until Day 6.
 
-6.4 [Day 5] [BENAL] [Deep Jungle] [PARALYZING (Panic)] - The Madtsoiidae (constrictor) attack. Pure, silent terror. Keo/Teva save him. [Milieu: The constrictor is 'the color of dead leaves and shadow.' Its attack is 'crushing, breathless silence,' and all he smells is 'the snake's musky reek and his own terror'.]
-* **B-Story Note:** **Reliance / Debt**. Benal’s fear is paralyzing. His salvation by his friends' physical skills deepens his realization of his physical failure and his dependence on their **Chosen Family** strength.
+---
+
+### D4.1 — [MEDIUM] [Day 4, morning] [KEO] [Open-canopy woodland] — **NEW**
+**Ladders:** E5 P7 S6 X5
+**The first day that is only walking**, and the elation is gone by mid-morning. Showers on and off, ordinary, and nobody remarks on them.
+**Must carry:**
+- **The arithmetic arrives.** Rations gone by evening, and this is the scene where one of them says the number out loud. **First open doubt.**
+- **First forage** — snails, stonefruit, and mushrooms Benal vouches for. All three allocated to Day 4 and none currently used. The vouching is a thing he can do and they cannot.
+- ***Anzu*** — cassowary-like, crested, absurd, and **the only allocated species in Act 2 that has never been spent.** Comic, and the humor plan says the register here is relief rather than wit.
+- **Soft skin from constant wet, and the first hot spot** that becomes a real foot problem later.
+**Hazard:** a montage. The day has one job — the elation ending — and the forage is how it ends, not a sequence of pleasant discoveries.
+**Ends on:** the count, and Keo not arguing with it.
+
+### D4.2 — [MEDIUM] [Day 4, afternoon] [BENAL] [Deep understory] — *was 6.3*
+**Ladders:** E7 P7 S5 X5
+**The environment closes in and his senses are an unfiltered assault.** Claustrophobia.
+**Must carry:**
+- **The bait and switch**: a clearing with clouds of hand-sized iridescent day-flying moths, then sauna heat and protein-seeking flies that crawl on his eyes and mouth.
+- **He is the only one experiencing the full assault**, and the isolation is what deepens the shame. Nobody else can even see the problem.
+- **Rain on a raised hood**, and rain is the one thing that defeats his hearing — `tech-rules.md` has this as the limit, and it should be a relief and a blindness at once.
+**Hazard:** describing the jungle. The subject is a boy who cannot turn his senses down, and the environment should only ever be rendered through how much of it is reaching him.
+**Ends on:** him not saying anything about it.
+
+---
+
+### D5.1 — [MEDIUM] [Day 5, morning] [TEVA] [Deep understory] — **NEW**
+**Ladders:** E6 P8 S6 X5
+**Ambush weather, and hours of nothing.** Heavy overcast, wrung out, no wind — the lowest light in the book outside a cave.
+**Must carry:**
+- **Snails again, and the joke about snails stops being funny.** `body-and-resources.md` names this. The humor plan wants at least one joke that dies, and this is the cheapest one available.
+- `[?]` **The silence before the constrictor should start here**, hours early, as an absence nobody can name. Benal keeps stopping and cannot say why.
+- **Mushrooms**, allocated to Days 4 and 5 and unused.
+- **Parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he did not. Allocated here.
+**Hazard:** telegraphing. The reader should feel the ambush coming and the characters should have a reason not to — they are hungry, the light is bad, and Benal has cried wolf about his senses for two days.
+**Ends on:** Benal stopping again, and the others walking on.
+
+### D5.2 — [LONG, ~1900] [Day 5, afternoon] [BENAL] [Deep understory] — *was 6.4*
+**Ladders:** E9 P9 S8 X5
+**The constrictor.** Pure silent terror, and it is the first time the world tries to kill one of them specifically.
+**Must carry:**
+- **The color of dead leaves and shadow.** Crushing, breathless silence, and all he can smell is the snake's musky reek and his own terror. **Silence, absolute, before it** — allocated to Day 5 and it is the only absolute silence in the book.
+- **His hearing is defeated by silence rather than noise**, which is the one failure mode nobody would predict and the reason it gets him.
+- **Keo and Teva save him with their bodies**, and the debt is the point. Chest wall bruised the width of a body, breathing shallow for four days. Teva thrown, shoulder wrenched, calls it nothing. Keo's hands torn on scale.
+- **Shattered, then welded** — surviving it together does more than any conversation, and the scene should not follow it with a conversation.
+**Hazard:** the rescue as heroics. Three frightened teenagers pulling on an animal that is not letting go, badly, for a long time.
+**Ends on:** three kilometers made in the whole afternoon, and stopping early.
+
+---
 
 > **Days 7, 8 and 9 are rescened below, in the Act 1 format.** The rest of this act is still in the old one. **Ids are provisional and day-keyed** — `D7.2` is the second scene of Day 7 — because the sequential renumber has to wait until a check exists that every scene address cited across the layers resolves; after the renumber the ordering evidence those 392 references carry is gone, and it is what the check reads. The day is the stable key in the meantime, per `plan/journey-calendar.md`.
 

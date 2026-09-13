@@ -91,6 +91,8 @@ The search key is derived from the allocation row's own label, and the page and 
 | Day 6 written in | `scenes_per_day` | 11 → **10** | three scenes for Day 6. |
 | Genesis rescened | `scenes_per_day` | 10 → **7** | Days 15, 16 and 17 built out, twelve scenes where there were four. **Day 18's target was raised from 2 to 3 in the same commit and that is a moved goalpost, so here is the argument:** the §5 row always named three separate things for that day, and the capsule makes a fourth. Two scenes was under-specified from the start. Day 19 went from 3 to 5 and still fails at 5 against 8, which is correct — the chase and everything after it is unbuilt. |
 | Genesis rescened | `allocation_covered` | 12 → **13** | went **up**, correctly. Replacing the old combined Day 19 entry with three Genesis scenes removed the only mention of the flybeak on its allocated day. The check noticed that the chase had been deleted before I got round to saying so. |
+| Days 3–5 rescened | `scenes_per_day` | 6 → **3** | seven scenes across three days. Only Days 12, 13 and the back half of 19 are left. |
+| Days 3–5 rescened | `allocation_covered` | 13 → **5** | the largest single drop the check has produced, and it was not aimed at: writing three days properly picked up frogs, fish, snails, mushrooms, stonefruit and *Anzu*, all of which had been allocated and unspent for months. **This is the check working as an instrument rather than a guard** — the misses were a to-do list for what the scenes had to contain. |
 
 ## Not yet built
 
