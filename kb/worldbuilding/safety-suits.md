@@ -1,5 +1,5 @@
 ---
-approval: approved 8ba44ee9
+approval: approved 25eeddce
 ---
 
 # Environmental suits
@@ -50,6 +50,8 @@ Two data channels, and which one you're on is a choice with a cost.
 **Eye shield down:** a heads-up display projected onto the inner surface of the shield. The rich channel — sensor returns, suit status, bearings.
 
 **Shield up, or helmet down:** haptic pulses through the weave, plus a bioluminescent display woven into the forearm fabric. Coarser, and reading it is a physical act — a character checking status has to stop and look at their arm, which a scene can use.
+
+**And the forearm display can be driven hard for a second or two, which is the only portable light these people have.** Not a torch and not designed as one: you wake it the way you wake a dark screen, it is bright for a moment and then it is not, you have to hold your arm out and aim it with your whole body, **it lights the wearer more than it lights anything else**, and when it dies everyone who looked at it is blind for a minute. It costs stored charge, and generation is near zero at night — so in the dark it is a decision with a price rather than a lamp. **Clumsy on purpose.**
 
 **No holograms, and nothing projected into the world.** The display exists on the shield and on the forearm; it does not float in the air, and the suit never draws on the landscape.
 
