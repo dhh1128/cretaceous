@@ -1,5 +1,5 @@
 ---
-approval: approved 12888dcc
+approval: approved b44aef1e
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -22,7 +22,9 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 **Noli** — held by projection against her terror of the barrier smell.
 
-**And one small pot of the septic gel between the three of them**, which is the pheromone barrier in casual register — `milieu-brief.md` §6, *T. rex* musk over the chemical markers of sepsis, reading to a predator as a wounded alpha and to everything smaller as *flee or die*. It is the reason nothing small has come near them since Day 3, and **nobody thinks of it as equipment**, which is why nobody rations it.
+**And one small pot of the septic gel between the three of them**, which is the pheromone barrier in casual register — `milieu-brief.md` §6, *T. rex* musk over the chemical markers of sepsis, reading to a predator as a wounded alpha and to everything smaller as *flee or die*.
+
+**It cannot be worn while Noli travels with them, and that is a hard constraint rather than a preference.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, which is why Keo has to hold her by projection to get her within ten meters of the tangle at all (`milieu-brief.md` §6). **Worn continuously it would mean holding her continuously**, at pressure behind the eyes and then real pain, for as long as she is alive — and she is alive, and funny, and catching grounders, for eight days after they leave. **So the gel goes on for a stretch and comes off**, and every application costs Keo his concentration and the suits their chemical sensors, which the barrier blinds (`tech-rules.md`). A capability with two prices, spent rarely, which is why there is any left by Day 8.
 
 **Two of these are the seeds of everything in §3b.** Teva starts with a damaged biofilm and Benal starts with a dead capacitor, so neither suit is sound on Day 3 and the degradation schedule is a decline from an already-compromised start rather than from new.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved b6fe55af
+approval: approved 147fc64a
 ---
 
 # Tech rules — taught before exploited
@@ -22,7 +22,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 | **Suit sound dampening** | filters, never amplifies | D3.1 — *"I can think"* | **Day 5, where the silence before the constrictor is what he hears** | Day 11, once the capacitor goes | ok | @D3.1
 | **Benal's hearing and smell** | unfiltered assault without the suit | D2.2, D2.9 | Day 5 · Day 12 · D16.3 the hatch | Day 4, rain defeats it | ok | @D2.2 @D2.9 @D16.3
 | **Teva's magnetic sense** | direction only, not position — a heading finds nothing without a departure point and a distance run | **D2.8, and she overstates it.** The drafted scene has her saying *"My magnetic sense is perfect—we won't get lost"* (`content/superseded/03.3.md:47`), which asserts position-finding and is the opposite of the rule. **Keep the line and let it be wrong** — a sixteen-year-old overselling her one advantage while recruiting is characterization, and Day 3 corrects her in use rather than in dialogue | Days 3–14, constantly · **worth more offshore, not less** · **first correction at D3.3**, where a heading finds nothing without a departure point and a distance run, so she is counting | **D14.2 — she can give a heading and cannot hold it**, through a headache from the short-leached mash | ok | @D2.8 @D3.3 @D14.2
-| **Pheromone barrier** | reads as wounded alpha to predators; terrifies small animals; **blinds the suits' chemical sensors** | D3.1, applied by hand | Day 3, the razortails stay wary | — | ok | @D3.1
+| **Pheromone barrier** | reads as wounded alpha to predators; terrifies small animals; **blinds the suits' chemical sensors**; **and it cannot be worn while Noli is with them** — she is one of the small animals, so wearing it means Keo holding her the whole time it is on | D3.1, applied by hand | Day 3, the razortails stay wary | — | ok | @D3.1
 | **Archaea failsafe** | dissolves unmaintained old-tech in hours | D2.11, the soured-fig smell | **D14.2, the raft** — founder-era, never wrapped, and nobody remarks on it · **D16.2**, a dry room full of old-tech that has not dissolved, which is wrong and which nobody has energy to find wrong yet | — | ok — the payoff is placed. `foreshadow-and-motif.md` row 7 pays it at D17.2: the apparatus was built at the Enclave and Genesis predates it | @D2.11 @D14.2 @D16.2 @D17.2
 | **Accelerated healing** | **metabolically expensive** — heals fast at the cost of strength, warmth and clarity | **nowhere** | Days 11–13, Keo | — | **GAP — must be taught in Act 1** |
 | **Suit thermal management** | primary function is *cooling*; reservoirs saturate; a hot night does not reset them | **nowhere** | **Day 10, where it loses and Teva cooks** | Day 11 onward — she walks unshelled, and the cost is camouflage and sensors, never cold | **GAP — must be taught before Day 10** |
