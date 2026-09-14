@@ -11,7 +11,13 @@ python3 tools/report.py day_tokens          # one check
 
 `pytest` is not installed on this box and no `pyproject.toml` or venv is wanted in a novel repo, so `uv run --with pytest` supplies it per invocation. `report.py` needs nothing but the standard library.
 
-Five files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end; `report.py` is a second front end for the document Daniel reads and strikes; `ratify.py` is how a proposed rule becomes an enforced one and `approve.py` is how a file's contents get Daniel's marker, and both need a TTY so an agent cannot run them. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
+Nine files. `checks.py` holds the logic as plain functions returning violations; `test_consistency.py` is a thin pytest front end; `report.py` is a second front end for the document Daniel reads and strikes; `ratify.py` is how a proposed rule becomes an enforced one and `approve.py` is how a file's contents get Daniel's marker, and both need a TTY so an agent cannot run them. Logic never goes in the test methods — a suite that can say something is wrong but not what to change is half a tool.
+
+`obligations.py` answers *what does this scene owe* — and it exists because `README.md` item 6 could not deliver on tags alone. **Act 1 is addressed by scene and Acts 2 and 3 are addressed by day**: 107 lines carry an `@D12.1`-style tag and 262 name a day and no scene, because the foreshadow ledger pays at "Day 12", the species allocation is a day column, and `body-and-resources.md` is a day table.
+
+**Tagging those onto scenes would have been the wrong fix.** A statement made about a day is true of the day, and pushing it onto one of that day's scenes asserts a precision nobody chose — the exact failure this corpus exists to avoid. So the layers keep the precision they have and the *query* unions the levels. `python3 tools/obligations.py D12.1` prints the scene's own entry, then what is owed by the scene, then what is owed by the day — and says outright that **which sibling scene carries a day-level line is a drafting decision rather than a lookup**, naming the siblings so the choice is visible.
+
+`substance.py` and `gloss.py` are the two older front ends and are undocumented here.
 
 **One test per invariant, not per violation, and the test name states the claim.** `test_every_file_reference_resolves` fails once, listing all thirteen dangling pointers, rather than thirteen times. Two reasons. The failing line reads as a sentence and needs no docstring to decode it. And the failure count then means what it looks like it means: an earlier version parametrized per violation and reported thirteen pointers plus seven stray dates as *"20 failed"*, which reads as twenty problems and is two. The instances go in the message as `file:line — what`, which is the change-set row.
 

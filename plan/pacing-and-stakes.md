@@ -14,7 +14,7 @@ Sets scene count, scene sizing, chapters, and the four stakes curves — which a
 
 **The rescene is in progress and this section is the record of where it has got to.** Days 6, 7, 8, 9, 15, 16, 17, 18 and the Genesis half of 19 are rebuilt, in the Act 1 format, with ladders and hazards. `python3 tools/report.py scenes_per_day` prints what is left at any moment and is more current than this paragraph.
 
-**Still short:** Days 3, 4 and 5 by one or two scenes each; Days 12 and 13, which have none; and the second half of Day 19 — the chase, the landing, the handover, the confrontation, fact B failing, and the final image with the coda.
+**Nothing is short.** Every day holds the number §5 asks for, and `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer rather than this sentence.
 
 **Days 12 and 13 are the ones that need a conversation rather than a pass.** They are the mash and the hinge of Teva's arc, and the canon for them is unusually rich: `plan/outline.md`, `plan/character-arcs.md` and `plan/body-and-resources.md` between them already fix the decision, the physiology, the sleep debt and the reversal where Keo carries the person who carried him.
 
