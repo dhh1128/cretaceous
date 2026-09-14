@@ -1726,3 +1726,118 @@ def check_ending_distribution() -> list[Violation]:
 
 
 CHECKS["ending_distribution"] = check_ending_distribution
+
+
+# --------------------------------------------------------------------------
+# the scene maps: IN as a form, and backward closure
+# --------------------------------------------------------------------------
+
+MAPS_DIR = "plan/scene-maps/"
+THEORY = "process/methodology-theory.md"
+MAP_FIELD = re.compile(r"^- \*\*`([A-Z]+)`\*\*")
+IN_FIELD = re.compile(r"`([A-Z]+)`")
+REQUIRES = re.compile(r"\[requires\s+(D\d+\.\d+)(?:\.(\d+))?\s*(—|--)\s*([^\]]+)\]")
+PLANTS = re.compile(r"\[plants\s*(?:→|->)\s*(D\d+\.\d+)")
+
+
+@cache
+def map_fields() -> list[str]:
+    """The required IN fields, read from methodology-theory §4a at runtime.
+
+    Not restated here. A field list that lived in `tools/` would be the suite
+    deciding what a map must contain, which is the one thing a check may never
+    do -- and it would drift from the section that explains why each field is
+    on the list."""
+    body = section(THEORY, r"IN is a form")
+    return [m.group(1) for _, line in body if (m := MAP_FIELD.match(line.strip()))]
+
+
+def scene_maps() -> list[tuple[str, list[str]]]:
+    """(path, lines) for every forward map, in id order."""
+    out = []
+    for path, lines in corpus().items():
+        if path.startswith(MAPS_DIR) and path.endswith(".md"):
+            out.append((path, lines))
+    return sorted(out)
+
+
+def check_scene_map_in_complete() -> list[Violation]:
+    """Every scene map's IN answers every field the schema requires.
+
+    `methodology-theory.md` §4a. The fields are not a style preference: each one
+    is a question a real map failed to ask, and the reason IN is a form rather
+    than a free recall is that **a mapper cannot enumerate what he did not
+    notice.** The first map of a night camp in three days of rain had no light
+    in it across four moves that needed the POV to see, and the author of that
+    map was the last person who could have found it.
+
+    This half is checkable today. The backward half -- that each answer resolves
+    to canon, to an earlier scene's OUT, or to the gap -- needs maps to resolve
+    against and is `scene_map_backward_closure`."""
+    fields = map_fields()
+    if not fields:
+        return [Violation(THEORY, 1, "§4a declares no IN fields; the schema has no content to check")]
+    out = []
+    for path, lines in scene_maps():
+        body = section(path, r"^## IN")
+        if not body:
+            out.append(Violation(path, 1, "scene map has no IN block"))
+            continue
+        text = "\n".join(t for _, t in body)
+        present = set(IN_FIELD.findall(text))
+        missing = [f for f in fields if f not in present]
+        if missing:
+            out.append(Violation(path, body[0][0],
+                                 f"IN answers no {', '.join(f'`{m}`' for m in missing)}"))
+    return out
+
+
+def check_scene_map_backward_closure() -> list[Violation]:
+    """Every backward pointer names a scene that exists, and a move that exists if it is mapped.
+
+    §5.1 asks whether a scene contradicts its neighbor, which catches collisions
+    and **cannot catch an appearance** -- a fact true in scene N, true nowhere
+    earlier, contradicting nothing because nothing had an opinion about it. Every
+    expensive defect in the first two maps was of that kind.
+
+    **An unresolved `requires` is not a violation; it is the work queue**
+    (§5.4). A pointer at a scene that has no map yet is telling you what to write
+    next. A pointer at a scene that does not exist at all is a broken chain, and
+    a pointer at a move number a mapped scene does not have is the same chain
+    broken later. Those two are the violations.
+
+    The payload is checked for presence and not for truth. Whether the source
+    still *delivers* what the payload claims is a reading judgment and belongs to
+    the lens tier; what is mechanical is that the claim was made at all."""
+    known = set(scene_days_by_address())
+    mapped = {}
+    for path, lines in scene_maps():
+        sid = path[len(MAPS_DIR):-3]
+        moves = set()
+        for line in lines:
+            m = re.match(r"^(\d+)\. ", line.strip())
+            if m:
+                moves.add(int(m.group(1)))
+        mapped[sid] = moves
+    out = []
+    for path, lines in scene_maps():
+        for n, line in enumerate(lines, start=1):
+            for m in REQUIRES.finditer(line):
+                target, move, _, payload = m.groups()
+                if target not in known:
+                    out.append(Violation(path, n, f"requires {target}, which is not a scene"))
+                elif move and target in mapped and int(move) not in mapped[target]:
+                    out.append(Violation(path, n,
+                                         f"requires {target}.{move}; {target} is mapped and has no move {move}"))
+                elif not payload.strip():
+                    out.append(Violation(path, n, f"requires {target} with an empty payload"))
+            for m in PLANTS.finditer(line):
+                if m.group(1) not in known:
+                    out.append(Violation(path, n, f"plants into {m.group(1)}, which is not a scene"))
+    return out
+
+
+CHECKS.update({
+    "scene_map_in_complete": check_scene_map_in_complete,
+    "scene_map_backward_closure": check_scene_map_backward_closure,
+})

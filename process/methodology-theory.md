@@ -146,6 +146,35 @@ OUT    deltas only, against IN
 
 Cut from an earlier version: `[withheld]`, meaning the narration declines to tell the reader something. It fired once in sixteen blind maps because it asks a mapper to infer intention from an absence. Its work is done by OUT's "left open" and "refused outright" lines, which fired in every map in both lineages.
 
+### 4a. IN is a form, not a free recall — and these are the fields
+
+**The ledger's own measure is what the pass failed to ask about, and free recall does not meet it.** The first two maps written for this novel were built by a mapper enumerating what he noticed he was inventing, and what he did not notice was **that a night camp in three days of rain had no light in it**, across four moves that required the POV to see. Three outside readers found it in one pass each. An author cannot list what he failed to see, because knowing what he meant is exactly what conceals the gap — so the recall is replaced with a form, and every field below is one that a real map actually missed.
+
+**Each field is either answered with a citation to a canon file, or answered with the id of an earlier scene that establishes it, or declared as carried by the unscened gap.** An unsourced answer is an undeclared invention wearing a fact's clothes.
+
+- **`PLACE`** — where, and how far off the line of march.
+- **`TIME`** — when, and how much of the day is already spent.
+- **`WEATHER`** — sky, air, temperature, and what the weather is doing *to each body*, which is not the same question.
+- **`LIGHT`** — what the POV can see by. **Its own field, because it is the one that was missed.**
+- **`SOUND`** — what can be heard, and what is defeating whoever hears best.
+- **`CLOCK`** — why the scene lasts as long as it does, what ends it, and why they cannot simply stay. A scene with no clock is a scene that could run forever.
+- **`LOAD`** — who is carrying what, and who is carrying whom.
+- **`PRESENT`** — **every living thing traveling with the party, accounted for or explicitly placed off-page.** Noli walked out of the Enclave on Day 3 and died on Day 11, and she appears in none of the three scenes of the river crossing, because nobody ever asked.
+- **`BODY`** — per character, state and resources, and nothing resets.
+- **`WANTS`** — per character, **quoted from `character-arcs.md` rather than paraphrased.** A paraphrase drifts, and a drifted want is the join mis-made at the one line the map exists to make it.
+- **`CAPABILITIES`** — every ability in play, with the limit the corpus states for it. A map that has a capability doing something outside its stated limit has invented a new capability.
+- **`READER`** — computed, never authored. See §5.2.
+
+**The form is checked mechanically** (`scene_map_in_complete`), and the fields are read from this section at runtime rather than restated in `tools/`.
+
+### 4b. Backward closure, which is a different question from forward closure
+
+§5.1 asks *does this scene contradict its neighbor.* That catches collisions and **it cannot catch an appearance** — a fact that is true in scene N, was true nowhere earlier, and contradicts nothing because nothing had an opinion about it. Every expensive defect in the first two maps was of that kind: the light, the barrier still being in the pot, an animal on a riverbank.
+
+**So the backward question is asked of every IN field: where did this come from?** Canon, an earlier scene's OUT, or the gap. Three answers are permitted and a fourth — silence — is the defect. Read forward, the corpus is consistent; read backward, it has to be *derived*, and derivation is what exposes the thing that simply showed up.
+
+**The order this implies is late-to-early, and it is not the order anyone would guess.** A scene map tests every scene upstream of it, so its yield is proportional to the state it inherits. Mapping Day 12 first found holes in Days 3, 8, 10 and 11; mapping Day 2 first would have tested almost nothing, because Day 2 inherits nothing. **And each map's `[requires]` pointers accumulate into a specification for the scenes before it** — so by the time the earliest scenes are mapped, they arrive carrying a list of everything the rest of the book needs them to deliver, each demand with its payload stated. That inverts the job: instead of writing an early scene and hoping it plants enough, it is written against a brief.
+
 ## 5. Mechanical invariants
 
 Checkable by walking the maps. No prose is read.

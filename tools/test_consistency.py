@@ -228,3 +228,15 @@ def test_every_taxon_named_in_the_plan_exists_in_the_research():
 def test_scene_endings_match_the_measured_distribution_for_their_purpose():
     """A relationship scene settles 57% of the time; a flat hook rule writes it wrong."""
     holds("ending_distribution")
+
+
+# --- the scene maps ------------------------------------------------------
+
+def test_every_scene_map_answers_every_field_the_schema_requires():
+    """A mapper cannot enumerate what he did not notice; IN is a form for that reason."""
+    holds("scene_map_in_complete")
+
+
+def test_every_backward_pointer_names_a_scene_and_a_move_that_exist():
+    """Forward closure catches contradictions; this catches a fact that simply appeared."""
+    holds("scene_map_backward_closure")
