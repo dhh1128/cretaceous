@@ -1566,3 +1566,163 @@ CHECKS.update({
     "requires_resolve": check_requires_resolve,
     "taxa_in_research": check_taxa_in_research,
 })
+
+
+# --------------------------------------------------------------------------
+# the ending distribution
+# --------------------------------------------------------------------------
+
+PURPOSE_TAG = re.compile(r"^\*\*Purpose:\*\*\s*(\w+)\s*·\s*\*\*Ending:\*\*\s*(\w+)\s*$")
+BAND_DECL = re.compile(
+    r"band is ([\w]+) standard error.*?"
+    r"policed at ([\w]+) or more chapters and at ([\w]+) or more scenes", re.I | re.S)
+
+
+def _number(token: str) -> int | None:
+    token = token.lower()
+    if token in NUMBER_WORDS:
+        return NUMBER_WORDS[token]
+    return int(token) if token.isdigit() else None
+
+
+def _declared_band() -> tuple[int, int, int, int] | None:
+    """(sigma multiplier, chapter floor, scene floor, line) from §8d's own sentence."""
+    for n, line in enumerate(lines_of(PACING), start=1):
+        m = BAND_DECL.search(line)
+        if m:
+            vals = [_number(g) for g in m.groups()]
+            if all(v is not None for v in vals):
+                return vals[0], vals[1], vals[2], n
+    return None
+
+
+def _purpose_table() -> tuple[dict[str, tuple[int, float]], set[str], int]:
+    """(purpose -> (chapters, hook rate), the non-hook ending names, the table's line).
+
+    Both come out of §8c. The rates are the table's own cells; the non-hook endings
+    are read from its column headers, because the two columns that are not `hook`
+    name exactly the two ending kinds that do not pull forward. Nothing here
+    restates a figure the layer owns."""
+    body = section(PACING, r"The measured table")
+    header, sep_at = [], None
+    for n, line in body:
+        cells = [plain(c).lower() for c in line.strip().strip("|").split("|")] \
+            if line.strip().startswith("|") else []
+        if cells and all(set(c) <= set("-: ") for c in cells):
+            sep_at = n
+            break
+        if cells:
+            header = cells
+    nonhook = {c.upper() for c in header[2:] if c and c != "hook"}
+    table = {}
+    for n, cells in table_rows(body):
+        if len(cells) < 3:
+            continue
+        name = plain(cells[0]).upper()
+        chapters = _number(plain(cells[1]) or "")
+        m = re.match(r"([\d.]+)%", plain(cells[2]))
+        if name and chapters is not None and m:
+            table[name] = (chapters, float(m.group(1)) / 100)
+    return table, nonhook, sep_at or 1
+
+
+def _scene_purposes() -> list[tuple[int, str, str, str]]:
+    """(line, scene id, purpose, ending) for every scene that carries the tag."""
+    lines, out, pending = lines_of(SCENES), [], None
+    for n, line in enumerate(lines, start=1):
+        m = SCENE_ENTRY.match(line.strip())
+        if m:
+            pending = (n, m.group(1))
+            continue
+        if pending:
+            pm = PURPOSE_TAG.match(line.strip())
+            if pm:
+                out.append((pending[0], pending[1], pm.group(1).upper(), pm.group(2).upper()))
+                pending = None
+            elif line.startswith("#"):
+                pending = None
+    return out
+
+
+def check_ending_distribution() -> list[Violation]:
+    """Scene endings match the measured shape for the job each scene is doing, in the five classes big enough to police.
+
+    `pacing-and-stakes.md` §8. A purpose implies a *distribution* of endings and
+    never an ending, so this compares counts across the book and has nothing to
+    say about any one scene -- a relationship scene that hooks is a legitimate
+    choice, and only the aggregate can be wrong.
+
+    **The band compounds two uncertainties and it matters that it does.** The
+    measured rate is an estimate off twelve to twenty-two chapters, and this
+    book's n scenes are a draw at that rate, so `SE = sqrt(p(1-p)(1/N + 1/n))`.
+    Using only the second term would treat the measurement as exact, and the
+    measurement's own source says no per-book cell should be quoted as a rate.
+
+    Every number the band rests on -- the rates, the chapter counts, the sigma
+    multiplier and the two floors -- is read from §8 at runtime.
+
+    **Four classes are out of scope and this is where that is recorded**, since
+    a green run otherwise reads as "all seventy were checked." DECIDE is under
+    the scene floor; CONSOLIDATE, OPEN and CLOSE are under the chapter floor,
+    so the measurement has no rate for them worth quoting. Their scenes are
+    tagged and unchecked. §8f carries the live count; what is enforced for all
+    seventy, in or out of a policed class, is that the purpose is one the table
+    lists and the tag is there to read."""
+    decl = _declared_band()
+    if decl is None:
+        return [Violation(PACING, 1,
+                          "no band is declared; §8 owns the ending distribution and has to say "
+                          "*the band is N standard error, policed at N or more chapters and at "
+                          "N or more scenes*")]
+    sigma, chapter_floor, scene_floor, decl_at = decl
+    table, nonhook, table_at = _purpose_table()
+    if not table:
+        return [Violation(PACING, table_at, "§8c carries no readable purpose table")]
+
+    scenes = _scene_purposes()
+    out = []
+    by: dict[str, list[tuple[int, str, str]]] = defaultdict(list)
+    for n, sid, purpose, ending in scenes:
+        if purpose not in table:
+            out.append(Violation(SCENES, n, f"scene {sid} has purpose {purpose!r}, "
+                                            f"which {PACING}:{table_at} does not list"))
+            continue
+        by[purpose].append((n, sid, ending))
+
+    tagged = {sid for _, sid, _, _ in scenes}
+    for n, line in enumerate(lines_of(SCENES), start=1):
+        m = SCENE_ENTRY.match(line.strip())
+        if m and m.group(1) not in tagged:
+            out.append(Violation(SCENES, n, f"scene {m.group(1)} carries no **Purpose:** line"))
+
+    exp = obs = 0.0
+    var_ours = var_base = 0.0
+    for purpose, entries in sorted(by.items()):
+        n_scenes = len(entries)
+        chapters, p = table[purpose]
+        hooks = sum(1 for _, _, e in entries if e not in nonhook)
+        if chapters < chapter_floor or n_scenes < scene_floor:
+            continue
+        se = (p * (1 - p) * (1 / chapters + 1 / n_scenes)) ** 0.5
+        lo, hi = max(0.0, (p - sigma * se) * n_scenes), min(float(n_scenes), (p + sigma * se) * n_scenes)
+        if not lo <= hooks <= hi:
+            out.append(Violation(PACING, table_at,
+                                 f"{purpose}: {hooks} of {n_scenes} scenes hook "
+                                 f"({100 * hooks / n_scenes:.1f}%), outside {lo:.1f}-{hi:.1f} "
+                                 f"at {sigma}SE on a measured {100 * p:.1f}% over {chapters} chapters"))
+        exp += p * n_scenes
+        obs += hooks
+        var_ours += p * (1 - p) * n_scenes
+        var_base += n_scenes * n_scenes * p * (1 - p) / chapters
+
+    if exp:
+        se = (var_ours + var_base) ** 0.5
+        lo, hi = exp - sigma * se, exp + sigma * se
+        if not lo <= obs <= hi:
+            out.append(Violation(PACING, decl_at,
+                                 f"{obs:.0f} hooks across the policed classes, outside "
+                                 f"{lo:.1f}-{hi:.1f} around an expected {exp:.1f}"))
+    return out
+
+
+CHECKS["ending_distribution"] = check_ending_distribution

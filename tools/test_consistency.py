@@ -221,3 +221,10 @@ def test_every_requires_pointer_names_a_scene():
 def test_every_taxon_named_in_the_plan_exists_in_the_research():
     """milieu-brief states the precedence: the specialist file wins."""
     holds("taxa_in_research")
+
+
+# --- the hooks layer ------------------------------------------------------
+
+def test_scene_endings_match_the_measured_distribution_for_their_purpose():
+    """A relationship scene settles 57% of the time; a flat hook rule writes it wrong."""
+    holds("ending_distribution")

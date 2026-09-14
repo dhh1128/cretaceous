@@ -62,7 +62,7 @@ The cost, accepted: this is a visible formal device and not a YA-thriller conven
 
 Page-turning is not a function of short scenes. It comes from three things.
 
-**Every scene ends on a hook** — a question, a turn, or a threat. No scene closes on summary or on a settled feeling. Largest lever available, and it costs nothing.
+**Scene endings are governed by §8, not by a rule stated here.** This section used to say *every scene ends on a hook — a question, a turn, or a threat; no scene closes on summary or on a settled feeling*, and called it the largest lever available at no cost. It is not free and it is not what the two novels do: a quarter of their chapters close with no forward pull at all, and which ones do is predicted by what the chapter was for. §8 has the conditional form and the distribution that replaces the absolute.
 
 **Length runs inversely to tension.** Short scenes at crisis points, because the white space between them is where dread does its work; longer scenes for consolidation and world, where the reader wants to stay. Never two consecutive scenes of the same shape.
 
@@ -191,3 +191,84 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 **Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the four missing days most of all — Day 6 because it is the deposit, Day 9 because it is what the river cost, and Days 12 and 13 because they are the hinge of Teva's arc. It also needs the river built out: Days 7 and 8 carry one scene each and the crossing is the courage the book is built on. Act 3 needs roughly to triple.
 
 The rescene is done. What remains of it is the numbering: scenes become **`D<day>.<n>`**, chapters get drawn over them, and the fifteen-unit outline structure stops being an address system. See `README.md`, open work item 5.
+
+---
+
+## 8. Scene purpose, and the ending distribution that follows from it
+
+**Every scene carries one purpose, and the purpose implies a distribution of endings rather than an ending.** The entry names it on one line beside the ladders — `**Purpose:** TRAVERSE · **Ending:** THREAT`. The purpose is what the scene is for; the ending is what the scene map chose. A check then verifies the shape across the book, and never argues with any one scene.
+
+**This exists because the rule it replaces was a preference that had inflated into a law.** §4 used to require a hook at the end of every scene. Measured against Daniel's two novels, a quarter of chapters close with no forward pull and another eighth hold an emotion open — 37.8% do not hook — and the ones that do not are not scattered. They concentrate in two jobs. A relationship chapter settles 57% of the time. A chapter whose job is a commitment hooks 83% of the time. **The flat rule is a fact about a thriller's mixture of chapter jobs, mistaken for a fact about how he ends chapters**, and obeying it would write the relationship scenes wrong in a specific and predictable direction.
+
+### 8a. The eight purposes
+
+Derived from the two novels rather than imported from a craft manual, and assigned here from what a scene's entry says it is for — its premise line, its must-carry list, and which ladder its own note says moves.
+
+- **PRESSURE** — advance a threat. In a novel whose antagonist is a world, this is the scene where the world's threat is established, measured, or waited on rather than met: the river counted, the night before the crossing, the door closing behind them.
+- **CLASH** — a confrontation, attack, escape or rescue executed on the page.
+- **DISCOVER** — deliver information or a revelation.
+- **TRAVERSE** — move them through space or through a physical ordeal; the journey or the survival *is* the job.
+- **BOND** — two characters negotiate their standing with each other.
+- **DECIDE** — a character commits to a course, or is forced to choose.
+- **CONSOLIDATE** — regroup after a crisis. Count the cost, treat the wounded, grieve, rest.
+- **OPEN** and **CLOSE** — establish the premise at the start of the book, or resolve at the end. One scene each.
+
+**Where two jobs compete, take the one that occupies the most words and explains why the scene exists in the plot.** The boundaries that move under a second reader are CLASH against TRAVERSE, and DISCOVER against BOND — the same two the measurement named. Confidence in any single assignment is medium; confidence in the distribution over seventy of them is much higher, which is the whole reason the check is written over the aggregate.
+
+### 8b. The ending taxonomy
+
+Eight kinds, of which the first six pull the reader forward, the seventh holds an emotion open, and the eighth closes without pull.
+
+**QUESTION** — the last sentence is an interrogative. **THREAT** — a declared future action, condition or consequence. **REVEAL** — a fact lands that changes what the reader knows. **RESOLVE** — the POV decides or begins to act; a threshold is crossed. **BLACKOUT** — consciousness, contact or presence is cut. **OMINOUS** — a closing image charged with dread, carrying no new fact. **HELD** — grief, fear, tenderness or exhaustion held open, neither resolved nor advanced. **SETTLED** — a small gesture, a wry note or a summary that closes with no forward pull.
+
+### 8c. The measured table
+
+Pooled across `viking` and `cordimancy`, 111 chapters. **This table is the owner of these figures** — the working file they were measured in is untracked and does not survive a clone, so the numbers live here and the check reads them from here.
+
+| purpose | chapters | hook | held | settled |
+|---|---|---|---|---|
+| **DECIDE** | 12 | 83.3% | 8.3% | 8.3% |
+| **TRAVERSE** | 15 | 80.0% | 13.3% | 6.7% |
+| **PRESSURE** | 19 | 78.9% | 0.0% | 21.1% |
+| **CLASH** | 17 | 58.8% | 11.8% | 29.4% |
+| **DISCOVER** | 22 | 50.0% | 22.7% | 27.3% |
+| **BOND** | 14 | 28.6% | 14.3% | 57.1% |
+| **CONSOLIDATE** | 6 | 66.7% | 16.7% | 16.7% |
+| **OPEN** | 4 | 75.0% | 25.0% | 0.0% |
+| **CLOSE** | 2 | 0.0% | 0.0% | 100.0% |
+
+**The single strongest regularity in either novel: eight of twelve DECIDE chapters end on RESOLVE**, and RESOLVE appears in no other purpose more than four times. When the job is a commitment, the commitment is what the last sentence contains.
+
+**And the one that is counterintuitive: CLASH hooks least of the action purposes, at 58.8%.** The violence is not where the hooks are. The plotting and the traveling are.
+
+**The tier claim is more robust than any single row.** DECIDE, TRAVERSE and PRESSURE together hook 80.4% of the time across 46 chapters; BOND and DISCOVER together hook 41.7% across 36. That 39-point gap is four times its own standard error, while the gaps between neighboring rows mostly are not. Where a row and the tier disagree about a scene, the tier is the better guide.
+
+### 8d. How the band is built, and why it is one standard error
+
+A class of *n* scenes at a baseline rate *p* is checked against a band, and **the band has to absorb two independent uncertainties**: the baseline rate is itself an estimate off twelve to twenty-two chapters, and our own *n* scenes are a draw at that rate. They compound as `SE = sqrt(p(1-p) × (1/N + 1/n))`, where `N` is the chapter count in the table above. A band that used only the second term would be pretending the measurement is exact, and its own source says no per-book cell should be quoted as a rate.
+
+**The multiplier is one standard error, and the argument for it is that two standard errors produces bands that cannot fail.** At two, three of the five policed classes have a degenerate edge — TRAVERSE runs to 17.0 of 17, PRESSURE to 10.0 of 10 and CLASH to 8.0 of 8, so none of them can catch the failure this layer exists to prevent, which is a drafting pass reading the old §4 rule and hooking everything. BOND's lower edge falls to 0.0 of 13, so it cannot catch the opposite drift either. At one standard error all five bands are two-sided and all five classes pass on the list as it stands, which is the evidence that the threshold is demanding without being unfair: the check had a real chance of failing and did not.
+
+**The cost, stated rather than hidden:** a one-sigma band admits roughly a one-in-three false alarm per class on a book that genuinely matches the measurement. A class that drifts outside is worth reading, not an automatic error, and the check says which class and by how much rather than only that something is wrong.
+
+**Two floors, for two different reasons.** A class is not policed when the table's own chapter count is too small for the rate to be one its source would defend, and it is not policed when this book gives it so few scenes that almost any assignment satisfies almost any band. The first is a fact about the measurement, the second about this list, and they disqualify different classes: DECIDE fails on scenes at three, while CONSOLIDATE and OPEN and CLOSE fail on chapters. Those four carry a purpose and an ending and are not checked, and the check names them rather than passing them silently.
+
+**The three numbers, in these words**, because a check that chose them in `tools/` would be the suite enforcing a decision nobody made:
+
+> **The band is one standard error. A class is policed at twelve or more chapters and at five or more scenes.**
+
+Spelled as words or as numerals; the check reads either, and reads nothing else, so a paraphrase will not register.
+
+### 8e. The scene against the chapter, which is a real gap and not a rounding error
+
+**The measurement counts chapter endings and this layer applies it to scenes.** A chapter here will hold one or two scenes, so a scene that sits inside a chapter ends at a `§` where the reader does not stop, and the pressure to hook there is genuinely lower than at a chapter break. The two quantities are not the same and no correction between them is available yet, because the chapters have not been drawn.
+
+**What makes the application defensible anyway is that the table conditions on purpose.** The book-level 62.2% is mostly a fact about the mixture of jobs in those two novels and transports badly to any other book; a statement about what a *relationship* unit does at its end is a statement about the craft of relationship units, and transports much better. That is the whole reason the conditional form replaced the flat one.
+
+**When chapters are drawn, re-run the check over chapter-final scenes only.** That is the comparison that actually matches what was measured, and the interior `§` endings become a separate population with no baseline behind them.
+
+### 8f. What the list holds
+
+Seventy scenes: TRAVERSE 17, DISCOVER 14, BOND 13, PRESSURE 10, CLASH 8, DECIDE 3, CONSOLIDATE 3, and one each of OPEN and CLOSE. **Sixty-two of those are policed and eight are not** — DECIDE under the scene floor, CONSOLIDATE and OPEN and CLOSE under the chapter floor. Forty-five hook, twelve hold and thirteen settle — **64.3% against a measured 62.2%**, with every policed class inside its band.
+
+**That is a finding about the scene list rather than about this layer.** Those endings were written under the flat rule in §4, by passes that believed every scene had to hook, and they came out at the conditional shape anyway: BOND at 30.8% against a measured 28.6%, PRESSURE at 80.0% against 78.9%. The two classes that run high are DISCOVER at 64.3% against 50.0% and CLASH at 75.0% against 58.8%, both inside the band and both in the direction the old rule would push. **The instinct in the entries was better than the rule they were written under, and that is the argument for deleting the rule rather than for correcting the entries.**
