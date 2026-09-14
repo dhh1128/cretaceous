@@ -24,7 +24,7 @@ Act 1 runs from an evening to the pre-dawn of the day after next — **about thi
 
 ---
 
-### EPIGRAPH 1 — CDC alert *(written, `content/superseded/01.1.md:1-5`)*
+### EPIGRAPH 1 — the health bulletin: a novel pathogen designated L-9
 
 ### D1.1 — [LONG] [Day 1, evening] [TEVA] [Vitarium] — *canon, `content/superseded/01.1.md`*
 **Ladders:** E4 P1 S2 X3
@@ -47,6 +47,10 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 **Ends on:** she doesn't go home.
 
 ---
+
+### `[?]` EPIGRAPH 2 — Cecilia's first message, about her sister's tomatoes
+
+*Placed here rather than anywhere else in Act 1 because this is the novel's first ordinary morning, and the fragment is a woman complaining about four tomato plants. The colony's unsettled normalcy against the future's, sixty-six million years apart, and neither of them knowing what the other is. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.1 — [MEDIUM] [Day 2, dawn] [KEO] [Perimeter] — *revise `content/superseded/02.1.md`*
 **Ladders:** E3 P2 S2 X2 — **a rest, deliberately**
@@ -101,7 +105,7 @@ Croc drill in driving warm rain. *Monsters in the water* against *monsters in th
 
 ---
 
-### EPIGRAPH 2 — Joint Command memo, the Chicxulub Solution authorized
+### EPIGRAPH 3 — Joint Command: temporal displacement is the only remaining path
 
 ### D2.6 — [LONG] [Day 2, evening] [KEO] [Council Chamber] — *canon, `content/superseded/03.1.md`*
 **Ladders:** E5 P2 S5 X4
@@ -117,6 +121,10 @@ The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 Marek after the debate. He fought in public and lost. Lunet gets a line.
 **The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding D2.2 and D2.6 together — can see a man who was right and unheard. Fact O at full pressure.
 **Ends on:** `[?]` Marek saying nothing to his son on the way past, and Benal reading it as the wrong thing.
+
+### `[?]` EPIGRAPH 4 — Cecilia's second message: *you have had three weeks to be furious, and I think that is enough*
+
+*Placed immediately before Teva says she is going. Two women declining to go on negotiating, in the same words and two hundred and six years apart, and the reader holds both. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.8 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva]
 **Ladders:** E6 P2 S5 X4
@@ -134,7 +142,7 @@ Benal insists. *"You're the delivery system. I'm the key."* Keo's response is aw
 
 ---
 
-### EPIGRAPH 3 — the vector program brief: **the upgrades ARE the deliverable**
+### EPIGRAPH 5 — the deliverable statement: **the vector platform is not life support, it is the product**
 
 *Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to D17.2.*
 
