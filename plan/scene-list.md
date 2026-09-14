@@ -729,6 +729,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **It is a swap, not a fabrication** — take that off that one, put it on this one. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable.
 - **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their raft. All three have different work.
 - `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now and none of them says so.
+- **They cannot carry it all, and that is Benal's job.** A four-seat machine, a charge that will not stretch, and an archive with more in it than they can lift. **Three exhausted teenagers choose which records come home, and the choice shapes their society permanently** — `plan/knowledge-ledger.md`. He is the only one who can compute the trade and the only one who understands what is being left, and nobody has time to argue with him.
 **Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.
 **Ends on:** the rotors seated, and the charge indicator being the new problem.
 

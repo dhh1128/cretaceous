@@ -1,5 +1,5 @@
 ---
-approval: approved a5bf4e95
+approval: approved fbbf7695
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -36,7 +36,6 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | band | days | character |
 |---|---|---|
-| **D2.3, the family nest** | 2 | **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. | @D2.3
 | **The Enclave** | 1–2 | cultivated and managed. Cycad plantations, palm groves, fern gardens, insect farms, hadrosaur pens, conifer emergents holding the nests. Everything here is *worked*. **And the river bend running through it** — barred at both ends, rotting, repaired forever, and never quite holding. The one dangerous place inside the safe place. |
 | **Border-tangle and the near woodland** | 3 | the transition. Built barrier giving way to understory nobody maintains. |
 | **Open-canopy woodland** | 3–6, 9 | the default. Conifer emergents, laurel and palm canopy, understory of cycad and fern. Rivers with horsetail stands. |
@@ -47,6 +46,8 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **Open water** | 14–15 | the raft, the storm, the bank. |
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |
+
+**One scene has a budget of its own, and it is not a band.** **D2.3, the family nest:** **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. @D2.3
 
 ---
 

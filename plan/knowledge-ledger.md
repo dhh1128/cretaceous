@@ -58,7 +58,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | M | **Keo's sister Yara, and how she died** | **Act 1** | Teva & Benal at D15.4 | known | **ironic — see below** | @D15.4
 | N | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
 | O | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
-| P | The founders' corruption was drift, not deceit | **corrected at D17.2–D19.7** | D19.7 | D19.7 | **the false solution — see below** | @D19.7
+| P | The founders' corruption was drift, not deceit | **epigraph 13, the coda** | D19.7 | D19.7 | **the false solution — see below** | @D19.7
 
 ## The reader-payment column
 
@@ -176,7 +176,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 **Two moves this opens that aren't yet in the plan.**
 
-1. **They cannot carry it all.** Three exhausted teenagers choose which records come home, under time pressure, and that choice shapes their society permanently. Belongs at D17.2 or D19.1.
+1. **They cannot carry it all.** Three exhausted teenagers choose which records come home, under time pressure, and that choice shapes their society permanently. **It belongs at D19.1**, and the reason is where the constraint actually bites: at D17.2 they have two days and no payload problem, while D19.1 is a four-seat machine being rebuilt around a charge that will not stretch, with `kb/worldbuilding/the-wig.md` §6 already giving Benal the arithmetic on charge, distance and daylight. **Choosing what comes home is that arithmetic**, and it is the one job on that day that is his. @D19.1
 2. **The coda is a fragment they leave behind.** The correction of the false solution is read by the reader over their shoulders while they pick up something else and go. The characters walk away from the answer; the reader holds it; and the rest of the cache is still out there, offshore and unstable, which is exactly the contested territory book 2 needs.
 
 ## Irony pressure by act
