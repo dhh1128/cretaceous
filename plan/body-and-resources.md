@@ -1,5 +1,5 @@
 ---
-approval: approved 928bc55f
+approval: approved 169a5617
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -64,6 +64,10 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 | **~1100 to ~1500** | **lay-up.** Shade, eat, sleep in turns, feed the suits, dry gear, tend wounds, take stock | Heat is lethal, and lethal to Teva first. Most of what hunts them is also lying up. |
 | **~1500 to dusk** | second march, shorter | Cooling, and the light lasts |
 | **night** | **do not move** | Roots, burrows and scree in the dark is how you break a leg, and a broken leg out here is a death. Camp is chosen before the light goes, and that choice costs something every night. |
+
+**And camp is *built*, every night, because these are Explorer-trained colony children and the Enclave's entire answer to the world is the border-tangle.** They cut what the ground gives — thorny scrub, spined cycad fronds laid points outward, green stakes sharpened and angled out — and they wall whatever side the terrain does not already wall. It is an hour of labor at the end of every day, done by people who have not eaten, and it is a large part of why the doctrine stops them before the light goes rather than at dark.
+
+**It works on the things it is sized for, which is the point.** A fence built against a predator passes anything small, exactly as the Enclave's own river grating stops a six-meter croc and passes a one-meter juvenile that then grows up inside (`milieu-brief.md` §3). **The same failure, in miniature, every night.** Nobody in the novel remarks on the parallel.
 
 **The lay-up is where the B-story lives, and this solves a real problem.** Four hours a day of enforced stillness and proximity, nothing to do, nowhere to go. Every confession, argument, joke and silence in Act 2 has a natural home now, and no scene has to invent a reason for three exhausted people to talk to each other.
 
