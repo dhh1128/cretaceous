@@ -1,5 +1,5 @@
 ---
-approval: approved 90814dbc
+approval: approved 80b28e38
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -73,6 +73,8 @@ These are self-explaining English and cost the reader nothing on first sight, so
 ## Precision-register vocabulary
 
 Not drift — these are the words the colony *kept*, and using them correctly is what shows the reader that this is a scientific mission rather than a devolved tribe. Never simplify them: *apoptosis*, *viral vector*, *protein fold*, *amino acid*, *protocol*, *chromatophore*, *integumentary*, *proprioception*, *necrosis*, *lymphatic*, *synthesis*, *culture*, *sequencing*.
+
+**And the register is not uniform across subjects.** Keeper work is chemistry and is spoken as chemistry. **Food safety is Explorer work and is spoken as procedure** — how long in the water, how you know it is done, what happens if it is not. Nobody says *glycoside* about a cycad, and a character who has the method without the mechanism can be entirely right about the first and wrong about what the second implies.
 
 ## Proper nouns
 

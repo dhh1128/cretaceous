@@ -1,5 +1,5 @@
 ---
-approval: approved 78e31482
+approval: approved 56e914f5
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -139,7 +139,7 @@ Food is labor. Nothing here is picked.
 
 ## 4. Flora allocation
 
-Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 11–12: thin scrub, gnetophyte berries on scree, resurrection ferns on rock. Days 13–14: *Nypa*-type palms, *Weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
+Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 11–12: thin scrub, **wild stone-cycad on the thin soil over limestone** — cycads favor well-drained rock and this is better habitat for them than deep woodland — gnetophyte berries on scree, resurrection ferns on rock. Days 13–14: *Nypa*-type palms, *Weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
 
 ## 5. Sensory allocation
 

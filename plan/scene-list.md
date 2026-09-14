@@ -60,6 +60,7 @@ Keo trains Noli. Bravado over a bad night.
 **Purpose:** BOND · **Ending:** SETTLED
 Benal's mathematics. Marek's *"do something real."*
 **Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not first arrive on Day 11.
+**Plants R18, and the anchor is already in the drafted scene** (`content/superseded/02.2.md:29`, *the wet glump… glump… glump of the cycad processing pit*). **Stone-cycad takes days of leaching and the pit is where a household knows it** — ambient, in passing, as a fact of the week rather than a lesson: whose batch is in, how long it has left, what happens to somebody who does not wait. Signal level **none**. It has to be here because the reader meets the multi-day leach for the first time in the scene that breaks it, and it belongs to Benal because he is the one who fails to stop it at D12.1. @D12.1
 **Plants:** fact O goes ironic. The reader will connect this scene to D2.6; Benal never will.
 **Ends on:** *do something real*, and Benal going back to the work anyway.
 
@@ -529,7 +530,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
 - **The sulfur is why the error is invisible.** The way you know it is done is that the bitterness is gone, and you cannot taste bitter through that water.
 - **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, being carried, and has stopped trusting himself. The reader hears him.
-- **She tests it on herself.** A full portion, and nobody else eats until she has. **And that is what kills her, because the onset is twelve to twenty-four hours and the test cannot return inside it.** She feels fine at dawn and they all eat, and she has now had twice what they have. Her caution is the dose.
+- **She tests it on herself.** A full portion, and nobody else eats until she has. **And that is what kills her, because a partially leached dose runs late — later the more leaching it got — and no test she can run comes back inside the night.** She feels fine at dawn and they all eat. **But the rest of it went into the runoff overnight, which is what Keo said to do, so what the two of them eat has had the night in it and what she ate did not.** Her caution is the dose: she went first so nobody else would have to, and going first is what poisoned her.
 - **Her venom resistance is excellent and does not cover a plant glycoside** — she is the one who should have been safe. `plan/milieu-brief.md` §9.
 **Hazard:** her being reckless. She is the most careful person in the scene, she is right about the chemistry, and she takes the risk onto her own body rather than theirs. **The rage that makes her decisive is what makes her wrong**, and if she reads as impatient the arc collapses into a lesson about temper.
 **Ends on:** her eating it, in front of them, and nobody saying anything.
@@ -553,9 +554,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D13.1 — [LONG, ~1900] [Day 13, morning] [BENAL] [Coastal plain] — **NEW**
 **Ladders:** E8 P9 S7 X6
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
-**It comes due.** Six to twelve hours after they ate and about a day after she did: vomiting, cramping, and water she cannot spare.
+**It comes due, and only for her.** About eighteen hours after her portion at the spring: vomiting, cramping, and water she cannot spare.
 **Must carry:**
-- **All three are sick and only she is down.** Keo and Benal had one portion this morning; she had one last night as well. The two of them walk the whole day queasy, which makes everything harder and which nobody mentions.
+- **All three are sick and only she is down, and the reason is which batch.** Keo and Benal ate this morning from mash that spent the night in the runoff — roughly three times the leaching — and Teva ate the four-hour batch at the spring yesterday and a share of the good one this morning on top of it. The two of them walk the whole day queasy, which makes everything harder and which nobody mentions. **Nobody works out that the overnight leach is what saved them, and nobody ever says that it was Keo's idea.**
 - **The carry escalates by stages and the stages are the story.** Her hand. Then her arm over his shoulder. Then on his back. Each step is a thing she stops being able to do and a thing he has to spend more to cover.
 - **Keo is the one carrying**, and he spent Days 11 and 12 being carried. The reversal is the whole reason the pair of days exists.
 - **He is thin, cold and quiet with starvation cold rather than weather** — the wound closing fast and costing him everything.

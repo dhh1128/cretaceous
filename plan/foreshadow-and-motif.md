@@ -1,5 +1,5 @@
 ---
-approval: approved 46c093bc
+approval: approved 882b9dde
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -42,7 +42,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | 15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | Benal understands his father | D19.7 | none @D2.2 @D2.6 @D19.7 |
 | 16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
 | 17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none @D2.11 |
-| 18 | A yazhi corrected about stone-cycad poison | Act 1 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
+| 18 | **Stone-cycad takes days of leaching, and the pit is where everyone learns it** | D2.2 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | 19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
 | 20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
 | 21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
