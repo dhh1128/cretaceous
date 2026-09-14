@@ -1,5 +1,5 @@
 ---
-approval: approved fbbf7695
+approval: approved 78e31482
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -62,7 +62,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *Anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
 | *Madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
 | *Alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |
-| *Borealosuchus* | 6 | the 3–4 m croc, to establish that "croc" is a range and not one animal. |
+| *Borealosuchus*, juvenile | 6 | **a meter and a half, and young.** Establishes that "croc" is a range and not one animal — and anything larger is not harmless to a sixteen-year-old, so a bigger one would make the good day a lie. |
 | *Ankylosaurus* or *Nodosaurus* | 6 | armored, indifferent, unbothered by them. |
 | *Kritosaurus* / *Velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
 | *Ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
