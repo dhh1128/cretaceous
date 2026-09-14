@@ -843,7 +843,7 @@ def check_epigraph_count() -> list[Violation]:
     Three numbering systems are live in this channel and the species ladder runs
     through it, so a reader reaching for the wrong table gets the wrong fragment."""
     fragments = [n for n, line in enumerate(lines_of(EPIGRAPHS), start=1)
-                 if re.match(r"^###\s+\d+\s+[–—-]", line)]
+                 if re.match(r"^###\s+(?:EP)?\d+\s+[–—-]", line)]
     out = []
     for n, line in enumerate(lines_of(LEDGER), start=1):
         m = re.match(r"^\*{0,2}(\w+)\*{0,2},\s*plus a coda\.?\s*$", line.strip())
@@ -953,7 +953,7 @@ def check_allocation_covered() -> list[Violation]:
     return out
 
 
-LADDERS = re.compile(r"\*\*Ladders:\*\*\s*E(\d+)\s*P(\d+)\s*S(\d+)\s*X(\d+)", re.I)
+LADDERS = re.compile(r"\*\*Ladders:\*\*\s*EM(\d+)\s*P(\d+)\s*S(\d+)\s*SP(\d+)", re.I)
 
 
 def _scene_ladders() -> list[tuple[int, str, tuple[int, ...]]]:
@@ -1841,3 +1841,73 @@ CHECKS.update({
     "scene_map_in_complete": check_scene_map_in_complete,
     "scene_map_backward_closure": check_scene_map_backward_closure,
 })
+
+
+# --------------------------------------------------------------------------
+# identifier spaces: one owner each, and every reference resolves
+# --------------------------------------------------------------------------
+
+# type -> (owning file, pattern that finds the ids the owner declares)
+ID_OWNERS = {
+    "F":  ("plan/knowledge-ledger.md",     re.compile(r"^\|\s*\*{0,2}(F[A-Z]\d?)\*{0,2}\s*\|")),
+    "R":  ("plan/foreshadow-and-motif.md", re.compile(r"^\|\s*\*{0,2}(R\d+[a-c]?)\*{0,2}\s*\|")),
+    "SU": ("plan/knowledge-ledger.md",     re.compile(r"^\|\s*\*{0,2}(SU\d+)\*{0,2}\s*\|")),
+    "EP": ("content/epigraphs.md",         re.compile(r"^###\s+(EP\d+)\s")),
+}
+ID_REF = re.compile(r"(?<![A-Za-z0-9_])(F[A-Z]\d?|R\d+[a-c]?|SU\d+|EP\d+)(?![A-Za-z0-9_])")
+# `EM7 P7 S8 SP5` is a ladder line, not an id reference, and `R` is a common
+# initial. Anything inside a rule block or a code fence is machinery.
+ID_EXEMPT_FILES = ("tools/", "process/methodology-theory.md")
+
+
+@cache
+def declared_ids() -> dict[str, set[str]]:
+    out: dict[str, set[str]] = {}
+    for kind, (path, pat) in ID_OWNERS.items():
+        found = {m.group(1) for line in lines_of(path) if (m := pat.match(line.strip()))}
+        out[kind] = found
+    return out
+
+
+def check_identifiers_resolve() -> list[Violation]:
+    """Every `FB`, `R19`, `SU3` and `EP5` names something its owner declares.
+
+    Tick `3dqu`: each type's id space is owned by exactly one file, or a check
+    cannot tell a typo from a new id. That is the whole reason the prefixes
+    exist, and until this check existed the prefixes bought nothing -- the
+    corpus spent months with **the same epigraph called 3 in one file and 5 in
+    another**, and nothing could see it, because *epigraph 3* is not a
+    malformed anything.
+
+    **Two of the six agreed prefixes collided with the ladder notation** and had
+    to move before this was checkable: `E6` was both *epigraph 6* and
+    *Emotional 6*, and `X3` was both *surprise 3* and *Species 3*. The rule that
+    settled it is symmetric -- when two things collide on a letter, **both** go
+    to two letters, never one, because a one-sided rename parses correctly and
+    reads terribly. Hence `EM` and `EP`, `SP` and `SU`, and a ladder line that
+    now reads `EM7 P7 S8 SP5`.
+
+    Species and tech ids (`S-croc`, `T-projection`) are agreed and not yet swept;
+    they are deliberately out of scope here rather than silently unchecked."""
+    declared = declared_ids()
+    missing_owner = [k for k, v in declared.items() if not v]
+    if missing_owner:
+        return [Violation(ID_OWNERS[k][0], 1,
+                          f"declares no {k} identifiers; it owns that id space")
+                for k in missing_owner]
+    every = {i for s in declared.values() for i in s}
+    out = []
+    for path, n, line in iter_lines():
+        if path.startswith(ID_EXEMPT_FILES):
+            continue
+        for m in ID_REF.finditer(line):
+            ref = m.group(1)
+            if ref in every:
+                continue
+            kind = "SU" if ref.startswith("SU") else "EP" if ref.startswith("EP") else ref[0]
+            owner = ID_OWNERS.get(kind, ("?",))[0]
+            out.append(Violation(path, n, f"{ref} is not an id {owner} declares"))
+    return out
+
+
+CHECKS["identifiers_resolve"] = check_identifiers_resolve

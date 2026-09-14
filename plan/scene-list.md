@@ -24,10 +24,10 @@ Act 1 runs from an evening to the pre-dawn of the day after next — **about thi
 
 ---
 
-### EPIGRAPH 1 — the health bulletin: a novel pathogen designated L-9
+### EP1 — the health bulletin: a novel pathogen designated L-9
 
 ### D1.1 — [LONG] [Day 1, evening] [TEVA] [Vitarium] — *canon, `content/superseded/01.1.md`*
-**Ladders:** E4 P1 S2 X3
+**Ladders:** EM4 P1 S2 SP3
 **Purpose:** OPEN · **Ending:** BLACKOUT
 Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage solidifies.
 **Elana is the crisis walking through the door.** The scene opens on a failing test in a clean room, and a mother forces her way into it carrying a dying child — which is a violation of the place, because **the Vitarium is a culture chamber and not somewhere the sick are brought.** Nobody stops her. She holds the arm out for them to look at, and demands the rust-red by name and by dose, because the whole Enclave has been talking about that vector for weeks and every parent with an unSeeded child knows what it is. Then her demand dries into sobbing and the child dies on the floor among the lines that should have saved her.
@@ -35,7 +35,7 @@ Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage
 **Ends on:** the child on the floor among the lines that should have saved her, and Elana's demand having stopped.
 
 ### D1.2 — [MEDIUM, ~1000] [Day 1, night] [TEVA] [Kiva → village] — **NEW**
-**Ladders:** E6 P1 S4 X3
+**Ladders:** EM6 P1 S4 SP3
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Alira's returning.** The rite, in full, and it is the first one in the book — so it teaches the reader the single strangest fact about this culture at the moment it hurts most. See `milieu-brief.md` §4.
 
@@ -48,28 +48,28 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 
 ---
 
-### `[?]` EPIGRAPH 2 — Cecilia's first message, about her sister's tomatoes
+### `[?]` EP2 — Cecilia's first message, about her sister's tomatoes
 
 *Placed here rather than anywhere else in Act 1 because this is the novel's first ordinary morning, and the fragment is a woman complaining about four tomato plants. The colony's unsettled normalcy against the future's, sixty-six million years apart, and neither of them knowing what the other is. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.1 — [MEDIUM] [Day 2, dawn] [KEO] [Perimeter] — *revise `content/superseded/02.1.md`*
-**Ladders:** E3 P2 S2 X2 — **a rest, deliberately**
+**Ladders:** EM3 P2 S2 SP2 — **a rest, deliberately**
 **Purpose:** BOND · **Ending:** OMINOUS
 Keo trains Noli. Bravado over a bad night.
 **Add:** two of Noli's four opinions, per `humor-plan.md`. Seed *"we'll be fine"* as a tic the others will later throw back at him.
 **Ends on:** `[?]` *we'll be fine*, said to an animal, meaning it.
 
 ### D2.2 — [MEDIUM] [Day 2, morning] [BENAL] [Family dwelling] — *revise `content/superseded/02.2.md`*
-**Ladders:** E4 P1 S3 X3
+**Ladders:** EM4 P1 S3 SP3
 **Purpose:** BOND · **Ending:** SETTLED
 Benal's mathematics. Marek's *"do something real."*
 **Add:** the first audible note of Benal's gallows register — it should exist before the perimeter, not first arrive on Day 11.
 **Plants R18, and the anchor is already in the drafted scene** (`content/superseded/02.2.md:29`, *the wet glump… glump… glump of the cycad processing pit*). **Stone-cycad takes days of leaching and the pit is where a household knows it** — ambient, in passing, as a fact of the week rather than a lesson: whose batch is in, how long it has left, what happens to somebody who does not wait. Signal level **none**. It has to be here because the reader meets the multi-day leach for the first time in the scene that breaks it, and it belongs to Benal because he is the one who fails to stop it at D12.1. @D12.1
-**Plants:** fact O goes ironic. The reader will connect this scene to D2.6; Benal never will.
+**Plants:** FO goes ironic. The reader will connect this scene to D2.6; Benal never will.
 **Ends on:** *do something real*, and Benal going back to the work anyway.
 
 ### D2.3 — [LONG, ~2000] [Day 2, morning] [KEO] [The family nest] — **NEW — the most important new scene in the novel**
-**Ladders:** E5 P1 S4 X3
+**Ladders:** EM5 P1 S4 SP3
 **Purpose:** BOND · **Ending:** HELD
 **Keo with Joram and Riel, awake, talking.** The morning after a child died. Currently his parents never speak to him anywhere in the book, which is why the parent-nuance arc has nothing under it.
 **Must carry:**
@@ -81,7 +81,7 @@ Benal's mathematics. Marek's *"do something real."*
 **Ends on:** Joram says something protective that lands on Keo as an insult. That is the plant the confrontation at D19.7 pays. @D19.7
 
 ### D2.4 — [LONG, ~1800] [Day 2, afternoon] [TEVA] [Omya's dwelling] — **NEW — the other missing organ**
-**Ladders:** E7 P1 S4 X5
+**Ladders:** EM7 P1 S4 SP5
 **Purpose:** BOND · **Ending:** QUESTION
 **Teva with Omya, in a lucid hour.** The reader has never met the woman whose disappearance drives the protagonist.
 **Must carry:**
@@ -94,7 +94,7 @@ Benal's mathematics. Marek's *"do something real."*
 **Ends on:** `[?]` Omya asking whether the sky was watched last night, and Teva having no answer. The question returns in the last scene of the book, and by then she does.
 
 ### D2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool]
-**Ladders:** E5 P3 S3 X3
+**Ladders:** EM5 P3 S3 SP3
 **Purpose:** DISCOVER · **Ending:** HELD
 Croc drill in driving warm rain. *Monsters in the water* against *monsters in the blood.*
 **Add:** a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh.
@@ -105,10 +105,10 @@ Croc drill in driving warm rain. *Monsters in the water* against *monsters in th
 
 ---
 
-### EPIGRAPH 3 — Joint Command: temporal displacement is the only remaining path
+### EP3 — Joint Command: temporal displacement is the only remaining path
 
 ### D2.6 — [LONG] [Day 2, evening] [KEO] [Council Chamber] — *canon, `content/superseded/03.1.md`*
-**Ladders:** E5 P2 S5 X4
+**Ladders:** EM5 P2 S5 SP4
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 **Now lands harder** because we met Joram and Riel that morning: their silence is a choice by people we know.
@@ -116,25 +116,25 @@ The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 **Ends on:** the Council deciding to decide later, and Keo finding his father's face in the crowd.
 
 ### D2.7 — [SHORT, ~700] [Day 2, evening] [BENAL] [Outside the chamber] — **NEW**
-**Ladders:** E5 P1 S5 X4
+**Ladders:** EM5 P1 S5 SP4
 **Purpose:** BOND · **Ending:** HELD
 Marek after the debate. He fought in public and lost. Lunet gets a line.
 **The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding D2.2 and D2.6 together — can see a man who was right and unheard. Fact O at full pressure.
 **Ends on:** `[?]` Marek saying nothing to his son on the way past, and Benal reading it as the wrong thing.
 
-### `[?]` EPIGRAPH 4 — Cecilia's second message: *you have had three weeks to be furious, and I think that is enough*
+### `[?]` EP4 — Cecilia's second message: *you have had three weeks to be furious, and I think that is enough*
 
 *Placed immediately before Teva says she is going. Two women declining to go on negotiating, in the same words and two hundred and six years apart, and the reader holds both. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.8 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva]
-**Ladders:** E6 P2 S5 X4
+**Ladders:** EM6 P2 S5 SP4
 **Purpose:** DECIDE · **Ending:** RESOLVE
 Teva: *"I'm going."* Not a request.
 **Add:** the intimacy layer's first real rung. Keo's crush is on the page, unspoken, and he misreads her entirely.
 **Ends on:** *I'm going* — and Keo already having agreed before he says so.
 
 ### D2.9 — [MEDIUM] [Day 2, night] [KEO] [Same]
-**Ladders:** E6 P2 S6 X4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at D2.10 and D2.11.
+**Ladders:** EM6 P2 S6 SP4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at D2.10 and D2.11.
 **Purpose:** BOND · **Ending:** OMINOUS
 Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
 **Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.
@@ -142,25 +142,25 @@ Benal insists. *"You're the delivery system. I'm the key."* Keo's response is aw
 
 ---
 
-### EPIGRAPH 5 — the deliverable statement: **the vector platform is not life support, it is the product**
+### EP5 — the deliverable statement: **the vector platform is not life support, it is the product**
 
 *Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to D17.2.*
 
 ### D2.10 — [MEDIUM] [Day 2, late night] [KEO] [His dwelling] — *canon, `content/superseded/04.1.md`*
-**Ladders:** E7 P3 S7 X4
+**Ladders:** EM7 P3 S7 SP4
 **Purpose:** CLASH · **Ending:** RESOLVE
 Stealing food from his sleeping parents. Guilt, specifically — shame at destroying their standing, not fear of the jungle.
 **Ends on:** `[?]` him leaving the dwelling without looking back at them, and knowing he did not.
 
 ### D2.11 — [MEDIUM] [Day 2, late night] [KEO] [The Repository] — *canon, `content/superseded/04.2.md`*
-**Ladders:** E7 P4 S8 X4
+**Ladders:** EM7 P4 S8 SP4
 **Purpose:** CLASH · **Ending:** OMINOUS
 The theft. The taboo shelf. The third suit left on the rack.
 **Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until D15.4. @D15.4
 **Ends on:** the third suit on the rack, and the door floating shut on it.
 
 ### D3.1 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
-**Ladders:** E6 P6 S8 X4
+**Ladders:** EM6 P6 S8 SP4
 **Purpose:** CLASH · **Ending:** THREAT
 Suiting up, the septic gel, past the watcher, through the gap. Razortails clicking in the fog.
 **Ends on:** clicking in the fog, closer than it was, and the act stopping there. **Mid-threat, and nothing is resolved** — the reader turns the page into Act 2 with the sound still going.
@@ -172,7 +172,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ## ACT 2: THE MUDWALK — RESCENED, 38 scenes
 
 ### D3.2 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland]
-**Ladders:** E6 P7 S8 X4
+**Ladders:** EM6 P7 S8 SP4
 **Purpose:** CLASH · **Ending:** HELD
 **The razortail escape, the adrenaline dump, and the beginning of the mudwalk.**
 **Must carry:**
@@ -183,7 +183,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** the sound stopping, and none of them able to say how far they came.
 
 ### D3.3 — [MEDIUM] [Day 3, midday to afternoon] [TEVA] [Open-canopy woodland] — **NEW**
-**Ladders:** E5 P8 S7 X4
+**Ladders:** EM5 P8 S7 SP4
 **Purpose:** TRAVERSE · **Ending:** SETTLED
 **The hard morning's march, and it is the first time any of them has walked in the world.** Eight kilometers, which is a long way and is not far enough.
 **Must carry:**
@@ -195,7 +195,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** the lay-up, and how little of the map they have moved.
 
 ### D3.4 — [SHORT, ~800] [Day 3, evening] [KEO] [First camp] — **NEW**
-**Ladders:** E7 P8 S8 X4
+**Ladders:** EM7 P8 S8 SP4
 **Purpose:** BOND · **Ending:** SETTLED
 **Briefly the best day of their lives**, and `body-and-resources.md` says so: terrified and elated. They got out. They got past crocs.
 **Must carry:**
@@ -209,7 +209,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ---
 
 ### D4.1 — [MEDIUM] [Day 4, morning] [KEO] [Open-canopy woodland] — **NEW**
-**Ladders:** E5 P7 S6 X5
+**Ladders:** EM5 P7 S6 SP5
 **Purpose:** TRAVERSE · **Ending:** OMINOUS
 **The first day that is only walking**, and the elation is gone by mid-morning. Showers on and off, ordinary, and nobody remarks on them.
 **Must carry:**
@@ -221,7 +221,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** the count, and Keo not arguing with it.
 
 ### D4.2 — [MEDIUM] [Day 4, afternoon] [BENAL] [Deep understory]
-**Ladders:** E7 P7 S5 X5
+**Ladders:** EM7 P7 S5 SP5
 **Purpose:** TRAVERSE · **Ending:** HELD
 **The environment closes in and his senses are an unfiltered assault.** Claustrophobia.
 **Must carry:**
@@ -234,7 +234,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ---
 
 ### D5.1 — [MEDIUM] [Day 5, morning] [TEVA] [Deep understory] — **NEW**
-**Ladders:** E6 P8 S6 X5
+**Ladders:** EM6 P8 S6 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **Ambush weather, and hours of nothing.** Heavy overcast, wrung out, no wind — the lowest light in the book outside a cave.
 **Must carry:**
@@ -246,7 +246,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** Benal stopping again, and the others walking on.
 
 ### D5.2 — [LONG, ~1900] [Day 5, afternoon] [BENAL] [Deep understory]
-**Ladders:** E9 P9 S8 X5
+**Ladders:** EM9 P9 S8 SP5
 **Purpose:** CLASH · **Ending:** SETTLED
 **The constrictor.** Pure silent terror, and it is the first time the world tries to kill one of them specifically.
 **Must carry:**
@@ -263,20 +263,20 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ---
 
 ### D6.1 — [MEDIUM] [Day 6, morning] [BENAL] [Open-canopy woodland] — **NEW**
-**Ladders:** E4 P4 S5 X5
+**Ladders:** EM4 P4 S5 SP5
 **Purpose:** DISCOVER · **Ending:** SETTLED
 **They start hungry**, four days out and down to journey-pan, and the day begins as foraging rather than as a gift. **Benal's ladder moves:** he finds the honey by smell, and the sense that has been an unfiltered assault on him since Day 4 is the reason they eat.
 **Must carry:**
 - **Face-height spiderwebs strung across a game trail overnight** — allocated to Day 6 dawn and marked comic.
 - **Good water, and a croc in it that does not matter.** **A meter and a half, and young** — anything larger is not harmless to a sixteen-year-old and the scene would be lying. This is the day teaching them that "croc" is a range and not one animal, and it is the gift's real shape: the thing their whole culture is organized around fearing has a version that does not matter. **It makes Day 7 worse, because now they can tell the difference.** `[?]` And a reader who remembers `milieu-brief.md` §4 — a grating sized to stop an adult passes a one-meter juvenile, which then grows up inside — gets something the three of them do not.
-- **Honey in resin pots** from stingless bees in a hollow limb. Climbing, and being mobbed rather than stung once. Split between four mouths and two suits, which pays `foreshadow-and-motif.md` row 20.
+- **Honey in resin pots** from stingless bees in a hollow limb. Climbing, and being mobbed rather than stung once. Split between four mouths and two suits, which pays `foreshadow-and-motif.md` **R20**.
 - **Oaks and walnuts, stonefruit, turned earth and green sap.** The one day flora is allowed to be pleasant.
 - **The grounders come and watch them eat**, unbothered, and **Teva feeds one while they are all still hungry.** Nobody remarks on it. This pays D2.5, where a yazhi says something funny and we watch her not laugh — here she does. @D2.5
 **Hazard:** the honey as a treat. It is a physical event — climbing, mobbing, sugar hitting four starving people — and if it reads as a picnic the day has spent its budget on nothing. Second: Teva and the grounder played for cuteness. She is the one you would not expect, and the moment works because nobody comments.
 **Ends on:** sticky, stupid with sugar, climbing into a tree, and somebody saying they will take first watch.
 
 ### D6.2 — [LONG, ~1900] [Day 6, afternoon] [TEVA] [In the tree] — **NEW**
-**Ladders:** E3 P3 S6 X5
+**Ladders:** EM3 P3 S6 SP5
 **Purpose:** BOND · **Ending:** SETTLED
 **All three wake at once, hours gone, and nobody watched.** The trust event is the gap rather than anything said, and they discover it. **Teva's ladder moves:** talking costs her most, and concealment is her whole apparatus.
 **Must carry:**
@@ -289,7 +289,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** an hour later than they should be, and nobody minding.
 
 ### D6.3 — [MEDIUM] [Day 6, evening] [KEO] [A ridge, then on] — **NEW**
-**Ladders:** E3 P3 S5 X5
+**Ladders:** EM3 P3 S5 SP5
 **Purpose:** TRAVERSE · **Ending:** SETTLED
 **Most of the day's twelve kilometers are in this walk**, and it is easy ground in good light. **Keo's ladder moves:** *maybe he can do this*, which is the confidence Day 7 destroys and Day 10 punishes.
 **Must carry:**
@@ -306,7 +306,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ---
 
 ### D7.1 — [MEDIUM] [Day 7, late morning] [BENAL] [The bank, first sight] — **NEW**
-**Ladders:** E6 P4 S5 X5
+**Ladders:** EM6 P4 S5 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 They come out of the woodland onto the channel and stop. **The obstacle is delivered by the world, not announced by a character**, and Benal hears it before anyone sees it.
 **Must carry:**
@@ -318,7 +318,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the number, and nobody arguing with it.
 
 ### D7.2 — [LONG, ~2000] [Day 7, afternoon] [TEVA] [The bank]
-**Ladders:** E7 P4 S7 X5
+**Ladders:** EM7 P4 S7 SP5
 **Purpose:** DECIDE · **Ending:** RESOLVE
 **The day they exhaust every alternative to getting wet.** Build a raft. Ride a saropo across if a herd is headed that way. Follow the bank upstream and hope. Go around. Go home. Counting what they have. The full list is in `journey-calendar.md` §1, with the reason each one dies.
 **Must carry:**
@@ -330,7 +330,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the plan agreed, which is worse than no plan, because now it is going to happen.
 
 ### D7.3 — [SHORT, ~800] [Day 7, night] [KEO] [The bank] — **NEW**
-**Ladders:** E8 P4 S6 X5
+**Ladders:** EM8 P4 S6 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **Nobody sleeps.** The sky is enormous and useless and they are not looking at it.
 **Must carry:**
@@ -343,10 +343,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D8.1 — [MEDIUM] [Day 8, morning to lay-up] [KEO] [Upstream of the narrows] — **NEW**
-**Ladders:** E8 P6 S7 X5
+**Ladders:** EM8 P6 S7 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **The morning goes on preparing and on failing to be ready**, and the lay-up passes in the worst heat with nobody sleeping. `journey-calendar.md` §1.
 **Must carry:**
+- **Noli crosses first, an hour early, and on her own.** The narrows tighten between boulders that are too far apart for a human and still too far apart for her, so she takes them in long leaps — **the forearm feathers stretching and steadying each one on the way down, which is a controlled descent and not lift** — and swims the two gaps she cannot leap, fast and low and badly. **She does it without the trick**, because the decoy is an afternoon operation and this is the morning, so what they watch is the unprotected version of the thing they are about to do protected: it works, and it proves nothing, because she is fourteen kilograms and fast and they are not. **Then she calls from the far bank and does not stop.** `[?]`
+- **And that call is what ends the morning.** The day goes on preparing and on failing to be ready, and what finally gets them into the water is not courage — it is an animal on the wrong side, shouting at them. Three days before she dies. `[?]`
 - **Driving the herd.** The decoy is a two-tonne hadrosaur and it is part of a herd — hadrosaurs are the labor animals and saropo are too big for anything. Keo's mental projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so this is at the limit of what he can do and he knows it.
 - **The cost of projection is pressure behind the eyes and then real pain**, and he is spending it hours before he needs it most.
 - `[?]` The waiting is the worst part and it is the only place in the book where all three of them have nothing to do.
@@ -354,7 +356,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the hour arriving, in the heat, with the river exactly as flat as they needed it to be.
 
 ### D8.2 — [LONG, ~2200] [Day 8, mid-afternoon] [TEVA] [The narrows]
-**Ladders:** E9 P9 S7 X5
+**Ladders:** EM9 P9 S7 SP5
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The crossing.** The single most frightening thing in the novel, and the only time they willingly enter deep water in a culture whose first law is *water is death*.
 **Must carry:**
@@ -367,7 +369,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** touching the far bank, with one of them still in the water.
 
 ### D8.3 — [SHORT, ~700] [Day 8, late afternoon] [BENAL] [The far bank] — **NEW**
-**Ladders:** E7 P7 S7 X5
+**Ladders:** EM7 P7 S7 SP5
 **Purpose:** CONSOLIDATE · **Ending:** HELD
 **Nobody can do anything else for an hour or two**, and then they move a short distance before dark. Two kilometers in a day.
 **Must carry:**
@@ -380,7 +382,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D9.1 — [MEDIUM] [Day 9, the walk] [BENAL] [Thinning woodland] — **NEW**
-**Ladders:** E5 P6 S6 X5
+**Ladders:** EM5 P6 S6 SP5
 **Purpose:** TRAVERSE · **Ending:** OMINOUS
 **Eleven kilometers on no sleep, the longest walk since the gift**, and the calendar's own register for the day is that there is nothing to feel about it yet except that they are still walking. Overcast, breaking to showers.
 **Must carry:**
@@ -391,11 +393,11 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the country opening, which they read as good news.
 
 ### D9.2 — [SHORT, ~800] [Day 9, evening] [TEVA] [Camp] — **NEW**
-**Ladders:** E6 P6 S7 X5
+**Ladders:** EM6 P6 S7 SP5
 **Purpose:** PRESSURE · **Ending:** HELD
 **Somebody finally says that the river is behind them**, and the way home is not the way out.
 **Must carry:**
-- **This pays a faint plant** — `foreshadow-and-motif.md` row 16, the river crossed easily in low water, paid at Days 16–18 when the flood has spread it into kilometers of shallow water and it is not a crossing at all. Signal level here is *faint*; the scene must not underline it.
+- **This pays a faint plant** — `foreshadow-and-motif.md` **R16**, the river crossed easily in low water, paid at Days 16–18 when the flood has spread it into kilometers of shallow water and it is not a crossing at all. Signal level here is *faint*; the scene must not underline it.
 - They could not do that again. None of them says so in those words.
 - `[?]` The social ladder moves without an argument, which it has not yet done.
 **Hazard:** underlining. Signal level is *faint*. The bad version has someone say *we can't go back, can we?* Nobody says it, and the scene ends on the not-saying.
@@ -404,7 +406,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D10.1 — [MEDIUM] [Day 10, midday] [KEO] [Fern savanna]
-**Ladders:** E5 P7 S5 X5
+**Ladders:** EM5 P7 S5 SP5
 **Purpose:** TRAVERSE · **Ending:** OMINOUS
 **The sunfever trek, and it is the top of his arc.** Unsuited, feeling fine, pushing the pace, and there is nowhere to stop pushing it.
 **Must carry:**
@@ -419,7 +421,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the pace, and nobody asking him to slow down.
 
 ### D10.2 — [SHORT, ~900] [Day 10, midday] [TEVA] [Fern savanna]
-**Ladders:** E7 P9 S5 X5
+**Ladders:** EM7 P9 S5 SP5
 **Purpose:** TRAVERSE · **Ending:** HELD
 **The same hours from inside a suit that is losing.** Dizzy, dry, concealing it, and the one of them wearing protection is the one in danger.
 **Must carry:**
@@ -432,12 +434,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the light going, and her having said nothing.
 
 ### D10.3 — [LONG, ~2000] [Day 10, night] [KEO] [Camp on the savanna]
-**Ladders:** E4 P5 S6 X5
+**Ladders:** EM4 P5 S6 SP5
 **Purpose:** BOND · **Ending:** SETTLED
 **The last peaceful night in the novel**, and the reader has to be allowed to enjoy it without being told that is what it is. Windless, perfectly clear, and they eat properly for the first time since the gift.
 **Must carry:**
 - **Noli, with opinions.** She drags a fresh-killed grounder into camp, proud of it. `humor-plan.md` is explicit that the mechanism is grievance rather than charm — a thing she has decided is food and is not, a rule she obeys except in the one circumstance where she pretends not to hear — and that for the midpoint to hurt she has to have had views first. Keo's projected register with her, *good-pack-good-food*, is the channel the opinions arrive on.
-- **The meal is a risk taken, not an idyll.** Roasted grounder against dry journey-pan, and grounders are allocated to Days 6 and 10 because they are Noli's catch. After Day 11 nobody catches them, and that is how the reader feels her absence in the food (`foreshadow-and-motif.md` row 19).
+- **The meal is a risk taken, not an idyll.** Roasted grounder against dry journey-pan, and grounders are allocated to Days 6 and 10 because they are Noli's catch. After Day 11 nobody catches them, and that is how the reader feels her absence in the food (`foreshadow-and-motif.md` **R19**).
 - **The fresh meat is the whole treat, and the rest of the meal is what is in the pack.** *(The old entry also served sweet mealy dinosaur-fruit here. `milieu-allocation.md` §3b allocates stonefruit to Days 4, 6 and 13, and §3 allows an item to be referenced after its day but not re-described — a full sensory description on a day the fruit was never given. It is dropped rather than moved.)*
 - **The sky, searched, and the question landing hardest.** `journey-calendar.md` §3 gives Night 10 the star-gazing scene and calls it the right place for the asteroid question: they look up for the thing that will end the world and find ordinary stars. The same section puts Benal, on Nights 6 and 10, in the position of being the only person alive who would recognize what a memorized positional sky is — a 206-year dataset held in a dying woman's head.
 - **False peace, and the charm is a deposit rather than a decoration.** `humor-plan.md`: the humor budget and the grief budget are one account, and the midpoint draws directly on this scene.
@@ -448,11 +450,11 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D11.1 — [SHORT, ~600] [Day 11, dawn] [KEO] [Camp on the savanna]
-**Ladders:** E9 P6 S6 X5
+**Ladders:** EM9 P6 S6 SP5
 **Purpose:** CLASH · **Ending:** BLACKOUT
 **Noli is taken.** It is over in seconds, out of a low blinding sun, and then the sky is empty.
 **Must carry:**
-- **Dread first, shock second.** `knowledge-ledger.md` makes this surprise 1 of four and states the condition: the reader must already have been given the flybeak — a shadow, a silence, a wrongness — so that what surprises them is *when, and who*. It also has to recontextualize, and what it recontextualizes is every previous scene of Keo's competence.
+- **Dread first, shock second.** `knowledge-ledger.md` makes this **SU1** of four and states the condition: the reader must already have been given the flybeak — a shadow, a silence, a wrongness — so that what surprises them is *when, and who*. It also has to recontextualize, and what it recontextualizes is every previous scene of Keo's competence.
 - **The sun is the ambush.** `journey-calendar.md` §2 requires a clear dawn for exactly this reason: no sun, no ambush.
 - **Mental projection is useless, and that is the loss.** `tech-rules.md` gives this scene as the place the capability fails outright — it nudges natural inclination and cannot override a committed predator. The gift is intact and it could not save the one thing it was for (`character-arcs.md`).
 - **A sudden impossible shadow, and the tearing-sail sound**, which is the flybeak's allocated sound and belongs to this day.
@@ -461,7 +463,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the sky, empty, and how quickly it became that.
 
 ### D11.2 — [MEDIUM] [Day 11, dawn] [KEO] [Camp on the savanna]
-**Ladders:** E8 P6 S7 X5
+**Ladders:** EM8 P6 S7 SP5
 **Purpose:** BOND · **Ending:** SETTLED
 **The silence afterward, and the first act of plain compassion in the book.** Teva moves his pack for him. Benal sits near him and methodically picks a fern apart. Neither of them says anything about it.
 **Must carry:**
@@ -474,7 +476,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the pack on his back, and the three of them walking.
 
 ### D11.3 — [SHORT, ~800] [Day 11, morning] [TEVA] [Limestone broken country]
-**Ladders:** E9 P8 S7 X5
+**Ladders:** EM9 P8 S7 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **Sky or ground.** The front comes through with drenching rain, and they spend the morning pinned between a shadow overhead and a carpet of ants at their feet.
 **Must carry:**
@@ -488,11 +490,11 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** them under cover, on worse ground, because of something they can no longer see.
 
 ### D11.4 — [MEDIUM] [Day 11, afternoon] [KEO] [A gulch on the scree]
-**Ladders:** E9 P9 S6 X5
+**Ladders:** EM9 P9 S6 SP5
 **Purpose:** TRAVERSE · **Ending:** HELD
 **The fall.** He climbs for a lookout on rain-slick clay, and what he comes down on is limestone.
 **Must carry:**
-- **This is what the third suit bought**, and it is one of the book's two overt Chekhov guns. `foreshadow-and-motif.md` row 2 — planted at D2.11 when he leaves it on the rack, paid here and again at D15.4, and the reader knows the real reason while Teva and Benal do not. @D2.11 @D15.4
+- **This is what the third suit bought**, and it is one of the book's two overt Chekhov guns. `foreshadow-and-motif.md` **R2** — planted at D2.11 when he leaves it on the rack, paid here and again at D15.4, and the reader knows the real reason while Teva and Benal do not. @D2.11 @D15.4
 - **The damage, itemized, because nothing resets:** a deep laceration to the thigh or flank, a cracked rib, the ankle wrenched, bleeding into a wet dressing. `body-and-resources.md`.
 - **The clay is why he falls and the scree is what it costs.** Limestone opening skin is allocated to Day 11, and bright red gnetophyte berries are already canon here as litter, with nobody ever finding out whether they are edible.
 - **Grief is driving, not courage.** `character-arcs.md` has him wanting Noli back and believing nothing, and the risk is stupid rather than brave.
@@ -502,7 +504,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** him on the scree, and the other two getting to him.
 
 ### D11.5 — [LONG, ~1800] [Day 11, night] [TEVA] [Camp, in the rain]
-**Ladders:** E8 P8 S6 X5
+**Ladders:** EM8 P8 S6 SP5
 **Purpose:** BOND · **Ending:** SETTLED
 **Tending his wound, in warm rain that will not stop.** She is caring for him and has no idea what it means to him.
 **Must carry:**
@@ -516,11 +518,11 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the wound dressed, and the functional touch lasting a moment longer than the job needs — `character-arcs.md` rule 4, and it does more than an embrace would.
 
 ### D11.6 — [SHORT, ~700] [Day 11, night] [KEO] [Camp, feverish]
-**Ladders:** E6 P8 S7 X5
+**Ladders:** EM6 P8 S7 SP5
 **Purpose:** DISCOVER · **Ending:** BLACKOUT
 **The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and the ocean, under the bitter herbal taste of the salve.
 **Must carry:**
-- **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` row 14). It pays at D17.2. @D17.2
+- **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` **R14**). It pays at D17.2. @D17.2
 - **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.
 - **Benal sitting watch**, a frail silhouette that turns out to be a steady one, and a wave of pure gratitude. `character-arcs.md` puts Benal's real emotional turn here rather than at Genesis — being needed for something no upgrade provides — and this is where the strongest dyad in the book starts.
 - **Gratitude is what cuts the hubris, not the injury.** He is being kept alive by the one he used to dismiss, and neither of them says so.
@@ -530,11 +532,11 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D12.1 — [LONG, ~2000] [Day 12, midday lay-up] [TEVA] [A sulfur spring above the camp] — **NEW**
-**Ladders:** E7 P7 S8 X5
+**Ladders:** EM7 P7 S8 SP5
 **Purpose:** DECIDE · **Ending:** RESOLVE
 **She decides, and she is wrong, and it is the hinge of her arc.** Rain, continuous, warm and saturating, gray and unchanging. The calendar's own phrase for the day is *misery without incident*.
 **Must carry:**
-- **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` row 19.
+- **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` **R19**.
 - **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
 - **The sulfur is why the error is invisible.** The way you know it is done is that the bitterness is gone, and you cannot taste bitter through that water.
 - **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, being carried, and has stopped trusting himself. The reader hears him.
@@ -544,7 +546,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** her eating it, in front of them, and nobody saying anything.
 
 ### D12.2 — [MEDIUM] [Day 12, night] [KEO] [Camp, in the rain] — **NEW**
-**Ladders:** E6 P8 S7 X5
+**Ladders:** EM6 P8 S7 SP5
 **Purpose:** PRESSURE · **Ending:** HELD
 **He does not say it again**, and that is the thing he will be hiding from Act 3.
 **Must carry:**
@@ -560,7 +562,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D13.1 — [LONG, ~1900] [Day 13, morning] [BENAL] [Coastal plain] — **NEW**
-**Ladders:** E8 P9 S7 X6
+**Ladders:** EM8 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
 **It comes due, and only for her.** About eighteen hours after her portion at the spring: vomiting, cramping, and water she cannot spare.
 **Must carry:**
@@ -573,12 +575,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** Keo going down on one knee, and getting up.
 
 ### D13.2 — [MEDIUM] [Day 13, afternoon] [KEO] [Coastal plain] — **NEW**
-**Ladders:** E7 P9 S8 X6
+**Ladders:** EM7 P9 S8 SP6
 **Purpose:** TRAVERSE · **Ending:** REVEAL
 **The drag-frame, and the thing that never touches them.** Ten kilometers, and morale and energy come apart: functional and hollow, moving well, nobody talking.
 **Must carry:**
 - **Keo cannot carry her any further, so they build a frame of saplings and drag her.** **The cordage costs them a weapon** — the only dry lashing they have is on a croc-spike, and taking it off means the shaft is bare and the binding is spent. A real trade, made without discussion, four days from open water.
-- **One distant *Tyrannosaurus rex*, once, and never again.** This pays `foreshadow-and-motif.md` row 13 — Liaso's story at D2.9, the animal that watched him for an hour. **It happens on the day they are least able to run and it does not come**, which is worth more than an encounter. @D2.9
+- **One distant *Tyrannosaurus rex*, once, and never again.** This pays `foreshadow-and-motif.md` **R13** — Liaso's story at D2.9, the animal that watched him for an hour. **It happens on the day they are least able to run and it does not come**, which is worth more than an encounter. @D2.9
 - **And one that does come.** ***Palaeosaniwa***, three meters of active-hunting monitor lizard, allocated to Day 13 and never spent — `milieu-allocation.md` calls it the best mid-tier land threat in the inventory. **The pairing is the point:** the apex predator ignores them and the mid-tier one does not, and they drive it off badly, on empty, with a bare spear shaft. It is also the reason they cannot put her down anywhere and walk away from her, which the drag-frame is otherwise an invitation to do.
 - **Forage returns and none of it stays down for her** — beetles working a carcass, frogs, fish, stonefruit. A hadrosaur carcass three days dead. All allocated to Day 13.
 - **The bond is real and nobody has the energy for it.** `body-and-resources.md`: morale and energy are different axes and must not track.
@@ -591,7 +593,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D14.1 — [MEDIUM] [Day 14, low tide] [BENAL] [The coast]
-**Ladders:** E8 P8 S8 X6
+**Ladders:** EM8 P8 S8 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The coast, the raft, and a kilometer of mudflat that reads as ground and is not.** On the horizon, a wall of black.
 **Must carry:**
@@ -605,7 +607,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the raft in the water, and the black nearer than it was.
 
 ### D14.2 — [LONG, ~1800] [Day 14, night] [BENAL] [The raft, open water]
-**Ladders:** E9 P9 S7 X6
+**Ladders:** EM9 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The cyclone, and hours of it.** Chaos, drowning and physical helplessness — the three things he is most afraid of, arriving together and then not stopping.
 **Must carry:**
@@ -618,7 +620,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the night not being over.
 
 ### D14.3 — [SHORT, ~800] [Day 14, night] [BENAL] [The water]
-**Ladders:** E9 P10 S6 X6
+**Ladders:** EM9 P10 S6 SP6
 **Purpose:** CLASH · **Ending:** BLACKOUT
 **The mosasaur, the raft in pieces, and Benal in the dark water.** `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
 **Must carry:**
@@ -636,7 +638,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D15.1 — [MEDIUM] [Day 15, dawn] [BENAL] [The coral bank]
-**Ladders:** E10 P8 S6 X6
+**Ladders:** EM10 P8 S6 SP6
 **Purpose:** CONSOLIDATE · **Ending:** REVEAL
 **Washing up in the eye of the storm.** Battered, separated, finding Keo and then Teva. They believe they have failed.
 **Must carry:**
@@ -647,7 +649,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the horizon, and Benal understanding what the calm is.
 
 ### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
-**Ladders:** E10 P7 S7 X6
+**Ladders:** EM10 P7 S7 SP6
 **Purpose:** PRESSURE · **Ending:** THREAT
 **They reach Genesis and cannot get in.** Eighty kilometers, nineteen days, everything it cost, and the door does not open.
 **Must carry:**
@@ -658,7 +660,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the light going, and the wind returning from the other side.
 
 ### D15.3 — [SHORT, ~700] [Day 15, afternoon] [KEO] [The flooded section] — **NEW**
-**Ladders:** E10 P9 S7 X6
+**Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The back wall arrives and the tail closes over them for eighteen hours.** They get into the only part of Genesis that is open, which is the part that is under water.
 **Must carry:**
@@ -669,7 +671,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** full dark, with hours of it left.
 
 ### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Archive, flooded section]
-**Ladders:** E10 P7 S9 X7
+**Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.
 **Must carry:**
@@ -684,7 +686,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ## ACT 3: GENESIS AND THE RETURN — RESCENED, 18 scenes
 
 ### D16.1 — [MEDIUM] [Day 16, morning] [BENAL] [The structure] — **NEW**
-**Ladders:** E7 P6 S6 X7
+**Ladders:** EM7 P6 S6 SP7
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
 **Must carry:**
@@ -695,7 +697,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
 
 ### D16.2 — [MEDIUM] [Day 16, midday] [KEO] [The dry section] — **NEW**
-**Ladders:** E5 P4 S6 X7
+**Ladders:** EM5 P4 S6 SP7
 **Purpose:** CONSOLIDATE · **Ending:** QUESTION
 **Warm, dry, lit, and they eat for the first time since the raft.** The exhale, and the only one they get.
 **Must carry:**
@@ -707,20 +709,20 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** somebody asking what else is in here — and it is not him.
 
 ### D16.3 — [MEDIUM] [Day 16, afternoon] [BENAL] [The archive]
-**Ladders:** E8 P4 S7 X8
+**Ladders:** EM8 P4 S7 SP8
 **Purpose:** DISCOVER · **Ending:** RESOLVE
-**The complete synthesis protocols, etched on metal tablets.** Surprise 2 in the budget: the journey was not futile. A relief-shaped surprise landing directly on all-is-lost.
+**The complete synthesis protocols, etched on metal tablets.** **SU2** in the budget: the journey was not futile. A relief-shaped surprise landing directly on all-is-lost.
 **Must carry:**
 - **They have solved the thing they came for**, and it is only the middle of Act 3.
 - `[?]` **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not be able to read it. @D1.1 @D2.4
-- **Epigraph 6 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
+- **EP11 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
 **Hazard:** triumph. They have what they came for and they are still on a coral spit with no boat, and the scene should know that before they do.
 **Ends on:** the tablets, and Benal already looking at the next door.
 
 ---
 
 ### D17.1 — [MEDIUM] [Day 17, morning] [TEVA] [The archive] — **NEW**
-**Ladders:** E8 P4 S8 X8
+**Ladders:** EM8 P4 S8 SP8
 **Purpose:** DISCOVER · **Ending:** REVEAL
 **The logs of the arrival.** Two hundred people, named, with faces, on the day they got here.
 **Must carry:**
@@ -731,9 +733,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** a name she knows, spelled the long way.
 
 ### D17.2 — [LONG, ~2400] [Day 17, midday] [BENAL] [The temporal lab]
-**Ladders:** E9 P4 S8 X10
+**Ladders:** EM9 P4 S8 SP10
 **Purpose:** DISCOVER · **Ending:** REVEAL
-**The epiphany, and the largest surprise in the book.** Surprise 3: only the original colonists could ever have gone back. Everyone born here is stranded by birth.
+**The epiphany, and the largest surprise in the book.** **SU3**: only the original colonists could ever have gone back. Everyone born here is stranded by birth.
 **Must carry:**
 - **The impossible equation, and Benal stuck on it.** Then a simple frustrated comment from Keo or Teva — *it's like they just left; why couldn't they just go back* — and the epiphany. It is a **return anchor**, not a direction. `plan/outline.md`.
 - **He connects it to his own flash from Day 15** and to the symbol Keo saw on Day 11. The flashes were data.
@@ -743,7 +745,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** him saying it out loud, and it being much worse than a lie.
 
 ### D17.3 — [MEDIUM] [Day 17, afternoon] [TEVA] [The dry section] — **NEW**
-**Ladders:** E10 P4 S9 X9
+**Ladders:** EM10 P4 S9 SP9
 **Purpose:** BOND · **Ending:** RESOLVE
 **What it does to six generations**, in the head of the one who came here angry.
 **Must carry:**
@@ -756,18 +758,18 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D18.1 — [MEDIUM] [Day 18, morning] [TEVA] [The bank] — **NEW**
-**Ladders:** E9 P5 S8 X9
+**Ladders:** EM9 P5 S8 SP9
 **Purpose:** PRESSURE · **Ending:** RESOLVE
 **The impasse. There is no boat, and the way home is under water.**
 **Must carry:**
-- **This pays foreshadow row 16 at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
+- **This pays foreshadow **R16** at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
 - The raft is gone, the mudflats are under the surge, and eighty kilometers of walking is a route that no longer exists.
 - **They have the cure and cannot deliver it**, which is worse than not having it.
 **Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
 **Ends on:** nobody having an idea, and Keo walking off.
 
 ### D18.2 — [LONG, ~2000] [Day 18, afternoon] [KEO] [The far end of the site] — **NEW**
-**Ladders:** E7 P5 S8 X9
+**Ladders:** EM7 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Keo finds something to talk to.** Two derelict wigs and a flight-training system that answers when spoken to.
 **Must carry:**
@@ -780,7 +782,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** him going back to tell them, and not being sure they will let him.
 
 ### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [A rock above the anchor cleft] — **NEW**
-**Ladders:** E8 P5 S8 X9
+**Ladders:** EM8 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** HELD
 **The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock — **and there is no Genesis on the land behind him.**
 **Must carry:**
@@ -793,7 +795,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D19.1 — [LONG, ~2000] [Day 19, dawn to mid-morning] [KEO] [The two hulls]
-**Ladders:** E8 P9 S9 X8
+**Ladders:** EM8 P9 S9 SP8
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The salvage. One flyable wig out of two wrecks, guided by a machine his people call an abomination.**
 **Must carry:**
@@ -805,9 +807,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the rotors seated, and the charge indicator being the new problem.
 
 ### D19.2 — [SHORT, ~700] [Day 19, late morning] [BENAL] [The anchor cleft] — **NEW**
-**Ladders:** E9 P8 S8 X9
+**Ladders:** EM9 P8 S8 SP9
 **Purpose:** DISCOVER · **Ending:** RESOLVE
-**He digs, and there is something there.** Surprise 4 in the budget, and it opens book 2 rather than closing book 1.
+**He digs, and there is something there.** **SU4** in the budget, and it opens book 2 rather than closing book 1.
 **Must carry:**
 - **It proves the second jump happened and it explains nothing.** `plan/knowledge-ledger.md` requires the reader to end knowing less than they want; a capsule that supplies the physics would also retroactively do Benal's work for him two days early.
 - **There is no time.** The charge is short, the light is finite, and the others are shouting at him.
@@ -816,7 +818,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** him running, with it under his arm.
 
 ### D19.3 — [MEDIUM] [Day 19, noon] [KEO] [The wig] — **NEW**
-**Ladders:** E8 P8 S9 X8
+**Ladders:** EM8 P8 S9 SP8
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
 **The launch, undercharged.**
 **Must carry:**
@@ -829,7 +831,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ---
 
 ### D19.4 — [LONG, ~2200] [Day 19, early afternoon] [KEO] [Above the flood] — **NEW**
-**Ladders:** E9 P10 S8 X8
+**Ladders:** EM9 P10 S8 SP8
 **Purpose:** CLASH · **Ending:** THREAT
 **The chase, and it is a resource crisis rather than a stunt.**
 **Must carry:**
@@ -842,7 +844,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the tangle ahead, and the rotors still unspent.
 
 ### D19.5 — [MEDIUM] [Day 19, mid-afternoon] [TEVA] [The wig, over the tangle] — **NEW**
-**Ladders:** E8 P9 S9 X8
+**Ladders:** EM8 P9 S9 SP8
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The border-tangle is fifteen meters and the wig's ceiling is fifteen meters.** The last barrier in the novel is exactly as tall as their maximum and it is a wall their own people built to keep the world out.
 **Must carry:**
@@ -854,7 +856,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the hull grounding, and the sound of the Enclave coming.
 
 ### D19.6 — [SHORT, ~800] [Day 19, late afternoon] [BENAL] [The Vitarium] — **NEW**
-**Ladders:** E7 P5 S9 X8
+**Ladders:** EM7 P5 S9 SP8
 **Purpose:** DISCOVER · **Ending:** THREAT
 **The handover, and it takes four minutes.** Nineteen days, eighty kilometers, Noli, and nearly Teva, and the thing they went for changes hands in the time it takes to hand over a metal tablet.
 **Must carry:**
@@ -865,7 +867,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** being sent for.
 
 ### D19.7 — [LONG, ~2400] [Day 19, evening] [KEO] [The Council chamber]
-**Ladders:** E9 P4 S10 X9
+**Ladders:** EM9 P4 S10 SP9
 **Purpose:** DISCOVER · **Ending:** SETTLED
 **The confrontation. A success with one splinter left in it.**
 **Must carry:**
@@ -879,7 +881,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** Sila thanking him.
 
 ### D19.8 — [MEDIUM] [Day 19, night] [TEVA] [The Council chamber]
-**Ladders:** E10 P3 S10 X9
+**Ladders:** EM10 P3 S10 SP9
 **Purpose:** DISCOVER · **Ending:** HELD
 **Her epiphany, and the final image.**
 **Must carry:**
@@ -892,7 +894,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the Council's faces, and nothing settled.
 
 ### D19.9 — [MEDIUM, ~1100] [Day 19, later that night] [TEVA] [Outside, above the Enclave] — **NEW**
-**Ladders:** E8 P2 S10 X9
+**Ladders:** EM8 P2 S10 SP9
 **Purpose:** CLOSE · **Ending:** SETTLED
 **She goes out and watches the sky, and that is the epiphany rather than a statement of it.**
 **Must carry:**
@@ -906,6 +908,6 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Then a gesture and no words** — her hand, or stroking Teva's hair the way she always did. `[?]` Teva has been unable to say what she means all scene; the person who taught her the sky does not need her to. **It also repairs the structural cruelty of D2.4**, where we met Omya and lost her inside the same fourteen hundred words. One is given back.
 - `[?]` **Guard the lucidity against the trope.** It is small, nobody in the scene remarks on it as a gift, and it does not resolve anything — she is not better, and tomorrow is tomorrow. The scene should not know it is a last moment, because nobody in it does.
 **Hazard:** her explaining her arc. She does not say *they weren't lying*. She says something smaller and does not finish it, and the reader supplies the rest, because a character articulate about her own change has not changed.
-**Ends on:** the three of them looking up, and then **the coda — epigraph 13**, delivered to the reader and to nobody in the world, correcting the false solution in the same channel that planted it.
+**Ends on:** the three of them looking up, and then **the coda — EP13**, delivered to the reader and to nobody in the world, correcting the false solution in the same channel that planted it.
 
 

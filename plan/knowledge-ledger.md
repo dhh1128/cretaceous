@@ -28,10 +28,10 @@ A fourth exists and is worth using sparingly: **shared confusion**, where both r
 
 | # | where | what | what it recontextualizes |
 |---|---|---|---|
-| 1 | **Midpoint, D11.1** | Noli taken | Every previous scene of Keo's competence. The reader must have been given the flybeak earlier — a shadow, a silence, a wrongness — so they dread *something* and are surprised only by **when, and who**. Dread first, shock second. | @D11.1
-| 2 | **D16.1–D16.3** | The dry, powered section is real; the protocols exist | The journey was not futile. A relief-shaped surprise landing directly on "all is lost," which is the cheapest and most reliable emotional swing available. | @D16.3
-| 3 | **D17.2, climax** | **Only the original colonists could ever have gone back. Everyone born here is stranded by birth.** | Six generations of waiting. Every Traditionalist argument, every sacrifice to the Mission, the entire premise of the society. The largest surprise in the book and the reason to hold it. | @D17.2
-| 4 | **End of book** | The Lost Colonists exist, and may still be out there | Opens book 2. **The reader must end knowing less than they want to.** |
+| SU1 | **Midpoint, D11.1** | Noli taken | Every previous scene of Keo's competence. The reader must have been given the flybeak earlier — a shadow, a silence, a wrongness — so they dread *something* and are surprised only by **when, and who**. Dread first, shock second. | @D11.1
+| SU2 | **D16.1–D16.3** | The dry, powered section is real; the protocols exist | The journey was not futile. A relief-shaped surprise landing directly on "all is lost," which is the cheapest and most reliable emotional swing available. | @D16.3
+| SU3 | **D17.2, climax** | **Only the original colonists could ever have gone back. Everyone born here is stranded by birth.** | Six generations of waiting. Every Traditionalist argument, every sacrifice to the Mission, the entire premise of the society. The largest surprise in the book and the reason to hold it. | @D17.2
+| SU4 | **End of book** | The Lost Colonists exist, and may still be out there | Opens book 2. **The reader must end knowing less than they want to.** |
 
 Everything else is dread.
 
@@ -43,22 +43,22 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 
 | # | fact | reader gets it | trio gets it | Enclave | state for most of the book |
 |---|---|---|---|---|---|
-| A | The pandemic; why the mission was sent | epigraph 1 (D1.1) | already known | known | shared |
-| B | **The upgrades *are* the cure** | **epigraph 3, end of Act 1** | D17.2 | — | **ironic — the book's main engine** | @D17.2
-| C | Forward travel was never solved | Act 1 | known | known | shared |
-| D | The mission was to travel forward *with* the solution, not send it | epigraph 5, mid Act 2 | D17.2 | — | ironic | @D17.2
-| E | Impact is ~2 decades out, not centuries | epigraph 6, late Act 2 | D17.2 | D19.7 | ironic | @D17.2 @D19.7
-| F | The colony does not know what year it is | seeded epigraph 5 (targeting confidence), completed by Benal | D17.2 | D19.7 | shared confusion → shared | @D17.2 @D19.7
-| G | Only original colonists could return | **hidden** | D17.2 | D19.7 | **hidden — surprise 3** | @D17.2 @D19.7
-| H | The schism; a second jump, a thousand years back | D15.4 (Teva's flash) | D15.4 partial, D17.2 whole | — | shared confusion → shared | @D15.4 @D17.2
-| I | The signal symbol | D11.6 (Keo's flash) | D11.6, meaningless | — | shared confusion | @D11.6
-| J | What became of the Lost Colonists | **never** | never | — | **hidden — surprise 4, stays dark** |
-| K | The flashes are real, not fever | Act 2, by pattern | D17.2 | — | ironic | @D17.2
-| L | Teva's mother died of what kills Alira | D1.1 | Keo & Benal at D15.4 | — | ironic *within the cast* | @D1.1 @D15.4
-| M | **Keo's sister Yara, and how she died** | **Act 1** | Teva & Benal at D15.4 | known | **ironic — see below** | @D15.4
-| N | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
-| O | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
-| P | The founders' corruption was drift, not deceit | **epigraph 13, the coda** | D19.7 | D19.7 | **the false solution — see below** | @D19.7
+| FA | The pandemic; why the mission was sent | **EP1** (D1.1) | already known | known | shared |
+| FB | **The upgrades *are* the cure** | **EP5, end of Act 1, immediately before the theft** | D17.2 | — | **ironic — the book's main engine** | @D17.2
+| FC | Forward travel was never solved | Act 1 | known | known | shared |
+| FD | The mission was to travel forward *with* the solution, not send it | seeded **EP3** and **EP5**, completed **EP13** | D17.2 | — | ironic | @D17.2
+| FE | Impact is ~2 decades out, not centuries | **EP9**, the global alert | D17.2 | D19.7 | ironic | @D17.2 @D19.7
+| FF | The colony does not know what year it is | **EP7** (targeting confidence), completed by Benal | D17.2 | D19.7 | shared confusion → shared | @D17.2 @D19.7
+| FG | Only original colonists could return | **hidden** | D17.2 | D19.7 | **hidden — SU3** | @D17.2 @D19.7
+| FH | The schism; a second jump, a thousand years back | D15.4 (Teva's flash) | D15.4 partial, D17.2 whole | — | shared confusion → shared | @D15.4 @D17.2
+| FI | The signal symbol | D11.6 (Keo's flash) | D11.6, meaningless | — | shared confusion | @D11.6
+| FJ | What became of the Lost Colonists | **never** | never | — | **hidden — SU4, stays dark** |
+| FK | The flashes are real, not fever | Act 2, by pattern | D17.2 | — | ironic | @D17.2
+| FL | Teva's mother died of what kills Alira | D1.1 | Keo & Benal at D15.4 | — | ironic *within the cast* | @D1.1 @D15.4
+| FM | **Keo's sister Yara, and how she died** | **Act 1** | Teva & Benal at D15.4 | known | **ironic — see below** | @D15.4
+| FN | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
+| FO | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
+| FP | The founders' corruption was drift, not deceit | **EP13**, the coda | D19.7 | D19.7 | **the false solution — see below** | @D19.7
 
 ## The reader-payment column
 
@@ -77,20 +77,20 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 | # | fact | kind | reader's side is paid at | the move |
 |---|---|---|---|---|
-| **B** | the upgrades are the cure | delivered | **epigraph 5**, immediately before the theft | The deliverable statement, read cold. *Any confusion on this point will be fatal to the mission* |
-| **D** | carry it forward, don't send it | accumulated | seeded **epigraph 3** (*sent to work*), seeded **epigraph 5** (*what returns is the platform*), **completed epigraph 13** | the coda, plainly, to a dead woman |
-| **E** | ~two decades, not centuries | delivered | **epigraph 9**, the global alert | not stated — inferred from a fourth wave and no further guidance |
-| **F** | they don't know what year it is | delivered | **epigraph 7**, targeting confidence | *will not be resolvable from the far side* |
-| **K** | the flashes are real | delivered | **D11.6** | Keo dismisses it as fever in the same move the reader stops being able to | @D11.6
-| **L** | Teva's mother died of what kills Alira | delivered | **D1.1** | the wet rattle, twice, two years apart | @D1.1
-| **M** | Keo had a sister | delivered | **D2.3, move 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** | @D2.3
-| **M2** | a croc took her while their parents watched | delivered | **D2.10** | *the world that had killed his sister*, against the Repository he is about to rob | @D2.10
-| **N** | the protectiveness is guilt | accumulated | **D2.3** (the fourth gourd, filled and never remarked on), **D2.6** (they stand apart *because they know the number*), **completed D2.10** | the smell of their gear and the rationed food, with the fourth gourd behind it | @D2.3 @D2.6 @D2.10
-| **O** | Marek is right | delivered | **D2.6** | the man who said *do something real* at home is shouting for Genesis. **The reader holds D2.2 and D2.6 together; Benal cannot** | @D2.6
-| **P** | drift, not deceit | delivered *(as the correction)* | **epigraph 13** | the coda, in the same channel that planted the false reading at epigraph 11 |
-| **Q** | Omya's public submission is duty, not vanity | accumulated | **D1.1** plants, **D2.4** completes | D1.1: she gives back a stretch of protocol word-perfect and Rano lets it past, because it is not the part he needs. D2.4: she recites the whole sky and cannot hold a fold | @D1.1 @D2.4
-| **R** | Hesh's arithmetic is correct and goes unrefuted | delivered | **D2.6** | his case is made and nobody answers it | @D2.6
-| **S** | Sila's premises are sound and her conclusion is not | delivered | **D2.6** | *better to die with a clean soul*, said in a week when children are dying | @D2.6
+| **FB** | the upgrades are the cure | delivered | **EP5**, immediately before the theft | The deliverable statement, read cold. *Any confusion on this point will be fatal to the mission* |
+| **FD** | carry it forward, don't send it | accumulated | seeded **EP3** (*sent to work*), seeded **EP5** (*what returns is the platform*), **completed EP13** | the coda, plainly, to a dead woman |
+| **FE** | ~two decades, not centuries | delivered | **EP9**, the global alert | not stated — inferred from a fourth wave and no further guidance |
+| **FF** | they don't know what year it is | delivered | **EP7**, targeting confidence | *will not be resolvable from the far side* |
+| **FK** | the flashes are real | delivered | **D11.6** | Keo dismisses it as fever in the same move the reader stops being able to | @D11.6
+| **FL** | Teva's mother died of what kills Alira | delivered | **D1.1** | the wet rattle, twice, two years apart | @D1.1
+| **FM** | Keo had a sister | delivered | **D2.3, move 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** | @D2.3
+| **FM2** | a croc took her while their parents watched | delivered | **D2.10** | *the world that had killed his sister*, against the Repository he is about to rob | @D2.10
+| **FN** | the protectiveness is guilt | accumulated | **D2.3** (the fourth gourd, filled and never remarked on), **D2.6** (they stand apart *because they know the number*), **completed D2.10** | the smell of their gear and the rationed food, with the fourth gourd behind it | @D2.3 @D2.6 @D2.10
+| **FO** | Marek is right | delivered | **D2.6** | the man who said *do something real* at home is shouting for Genesis. **The reader holds D2.2 and D2.6 together; Benal cannot** | @D2.6
+| **FP** | drift, not deceit | delivered *(as the correction)* | **EP13** | the coda, in the same channel that planted the false reading at EP11 |
+| **FQ** | Omya's public submission is duty, not vanity | accumulated | **D1.1** plants, **D2.4** completes | D1.1: she gives back a stretch of protocol word-perfect and Rano lets it past, because it is not the part he needs. D2.4: she recites the whole sky and cannot hold a fold | @D1.1 @D2.4
+| **FR** | Hesh's arithmetic is correct and goes unrefuted | delivered | **D2.6** | his case is made and nobody answers it | @D2.6
+| **FS** | Sila's premises are sound and her conclusion is not | delivered | **D2.6** | *better to die with a clean soul*, said in a week when children are dying | @D2.6
 
 **Rows Q, R and S live here.** Its misjudgment table was the only place in the corpus assigning per-adult reader evidence to a scene, which is this ledger's job, so it was doing it twice and in one case wrongly.
 
@@ -98,7 +98,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 **Worth checking the other rows for the same defect** — a reader payment assigned to a scene whose POV cannot carry it. Row O survives, because Hesh states the First Walk number aloud in D2.6 and the reader can connect it in the moment. The rest have not been checked.
 
-**Two rows deliberately have no reader payment.** **G** (only the original colonists could return) is hidden from the reader as well and is surprise 3. **J** (the Lost Colonists) is never paid at all.
+**Two rows deliberately have no reader payment.** **FG** (only the original colonists could return) is hidden from the reader as well and is **SU3**. **FJ** (the Lost Colonists) is never paid at all.
 
 ### `IN — READER` is computed, never authored
 
@@ -148,7 +148,7 @@ The suite is reviewed on its own for chronological coherence, scientific plausib
 
 ### The recurring voice — Dr. Cecilia Arroyo
 
-The mission's lead geneticist. **She designed the upgrade system**, which makes her the author of fact B and the reason the epigraph channel and the irony engine are the same instrument.
+The mission's lead geneticist. **She designed the upgrade system**, which makes her the author of FB and the reason the epigraph channel and the irony engine are the same instrument.
 
 She writes to her sister **Marisol**, who was not selected. Every letter is therefore addressed to someone the reader knows is already dead, by a woman building the thing meant to save her, which will not exist in time. **The letters are not about the mission.** They are about Marisol's garden, a borrowed coat, an argument the two of them never finished. That is what makes them hurt, and what makes the contrast with the doctrine total.
 
@@ -160,12 +160,12 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 ## The Genesis cache — the fragments are physical objects
 
-**Epigraph 6 is a document the trio find at Genesis**, and the consequence is larger than one fragment: it retroactively makes **the entire epigraph channel diegetic.** Up to that moment the fragments read as authorial apparatus. The moment one is in a character's hands, all of them become things that exist in the world, and the reader realizes they have been reading the Archive's contents since page one. The book has been showing the destination from its first line.
+**EP11 is a document the trio find at Genesis**, and the consequence is larger than one fragment: it retroactively makes **the entire epigraph channel diegetic.** Up to that moment the fragments read as authorial apparatus. The moment one is in a character's hands, all of them become things that exist in the world, and the reader realizes they have been reading the Archive's contents since page one. The book has been showing the destination from its first line.
 
 **How the colony knows any of them:** it holds **degraded, partial copies** of the early fragments — which is why Mission doctrine exists at all — and Genesis holds the complete set plus fragments nobody ever had. This pays three ways:
 
 - **It validates the believers.** There really was a mission, real instructions, a real paradox concern. The Traditionalists have documentary basis, not just faith, and the nuance arc needs them to be evidenced rather than merely pitied.
-- **It supplies the mechanism of the drift.** The colony's copy is missing precisely the passages that would have corrected it. Corruption by lossy transmission, not deceit — fact P, demonstrated rather than asserted.
+- **It supplies the mechanism of the drift.** The colony's copy is missing precisely the passages that would have corrected it. Corruption by lossy transmission, not deceit — FP, demonstrated rather than asserted.
 - **It lets the reader compare** the true fragment against the remembered version. The sharpest irony instrument available.
 
 **Why paper survived the archaea failsafe:** *Genesis predates the failsafe.* The archaea apparatus was built at the Enclave, after the transfer, so nothing at Genesis was ever wrapped.
@@ -195,7 +195,7 @@ Mechanical, and cheap to check:
 4. **Every surprise names its recontextualization target** in this table, or it isn't a surprise, it's a shock.
 5. **The trio column and the Enclave column may not cross** without a scene where information physically moves between them.
 
-## How fact B fails to reach the Enclave at D19.7 @D19.7
+## How FB fails to reach the Enclave at D19.7 @D19.7
 
 The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *twenty years, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
 
@@ -209,7 +209,7 @@ But the trio must not **choose** to withhold it, or they become unlikeable in th
 
 **He must try twice.** Not one quiet failed attempt — the second is the one Sila swallows.
 
-**The guard against anticlimax:** the timeline revelation must land hard in that scene. The confrontation is not a failure, it is a success with one splinter left in it. The reader — holding fact B since Act 1 — watches a room fail to receive what they have carried for three hundred pages, which is the payoff the whole allocation was built for. And the splinter is book 2's first scene, where pressing it becomes Benal's deliberate choice, which is where the noble-lie temptation belongs.
+**The guard against anticlimax:** the timeline revelation must land hard in that scene. The confrontation is not a failure, it is a success with one splinter left in it. The reader — holding FB since Act 1 — watches a room fail to receive what they have carried for three hundred pages, which is the payoff the whole allocation was built for. And the splinter is book 2's first scene, where pressing it becomes Benal's deliberate choice, which is where the noble-lie temptation belongs.
 
 ## Open
 

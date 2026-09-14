@@ -1,5 +1,5 @@
 ---
-approval: approved ec45c8bc
+approval: approved fd935c5c
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -99,6 +99,8 @@ The dependency order:
 **The current then works for them, which is the part that makes the plan good rather than lucky.** Surface disturbance runs downstream. Their own ripples at the narrows are carried away from the gathering; the hadrosaur's are enormous and stationary and upstream of everything.
 
 **And it costs them.** Blood and churn drift down from the decoy and across the crossing, so the last one in the water is swimming through water they can see has something in it.
+
+**Noli is across before any of it starts.** She goes an hour early on her own, over the boulders the narrows are named for — long leaps steadied by the forearm feathers, and a hard ugly swim at the two gaps she cannot clear — and then calls from the far bank until they follow. She crosses without the decoy, because the decoy is an afternoon operation, which means the trio watch an unprotected crossing succeed and learn nothing from it that helps them.
 
 **The extra help is not theirs and must not read as theirs.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
 

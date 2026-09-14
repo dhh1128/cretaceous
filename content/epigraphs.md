@@ -37,7 +37,7 @@ This must be unambiguous, because a reader will ask.
 
 **Cecilia never receives anything after departure, and never sends anything forward.** Not because the targeting is fuzzy — because **transmission is not a thing that exists.** You cannot send matter or information through time. You can only *go*, in person, backward.
 
-And the return is worse than that: **you can only travel forward along a worldline you personally traveled outbound.** That is fact G, the novel's largest surprise, and it is the reason two hundred people had to physically make the trip. If anything could be *sent*, nobody needed to leave.
+And the return is worse than that: **you can only travel forward along a worldline you personally traveled outbound.** That is FG, the novel's largest surprise, and it is the reason two hundred people had to physically make the trip. If anything could be *sent*, nobody needed to leave.
 
 **This is what makes fragment 12's line the load-bearing sentence in the suite** — *"We are carrying it, and we are bringing it back ourselves"* — and it is exactly the sentence the colony lost.
 
@@ -45,7 +45,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 1 — before D1.1
+### EP1 — before D1.1
 
 > **[HEALTH BULLETIN — REGIONS 2, 4, 11 · T−26 mo]**
 >
@@ -57,7 +57,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 2 — Act 1, early
+### EP2 — Act 1, early
 
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · T−24 mo]**
 >
@@ -75,7 +75,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 3 — Act 1, before the debate
+### EP3 — Act 1, before the debate
 
 > **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · T−19 mo]**
 >
@@ -89,7 +89,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 4 — Act 1, mid
+### EP4 — Act 1, mid
 
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · T−18 mo]**
 >
@@ -105,7 +105,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 5 — end of Act 1, immediately before the theft
+### EP5 — end of Act 1, immediately before the theft
 
 > **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · T−11 mo]**
 >
@@ -119,7 +119,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 6 — Act 2, early
+### EP6 — Act 2, early
 
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 14d · T−7 mo]**
 >
@@ -137,7 +137,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 7 — Act 2, middle
+### EP7 — Act 2, middle
 
 > **[TARGETING — CONFIDENCE SUMMARY · T−5 mo]**
 >
@@ -149,7 +149,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 8 — Act 2, middle. **The clue nobody in the 21st century understood.**
+### EP8 — Act 2, middle. **The clue nobody in the 21st century understood.**
 
 > **[INSTRUMENTATION — ANOMALY LOG · T−5 mo · FILED, NO ACTION]**
 >
@@ -163,7 +163,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 9 — Act 2, late. **The floor drops out.**
+### EP9 — Act 2, late. **The floor drops out.**
 
 > **[GLOBAL ALERT — ALL REGIONS · T−4 mo]**
 >
@@ -177,7 +177,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 10 — Act 3, early
+### EP10 — Act 3, early
 
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 31d · UNDELIVERED — NO ROUTE · T−2 mo]**
 >
@@ -193,7 +193,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 11 — Act 3, at Genesis. **The fragment they find.**
+### EP11 — Act 3, at Genesis. **The fragment they find.**
 
 > **[RECORDS DISPOSITION — PERMANENT ARCHIVE · T−6 wk]**
 >
@@ -207,7 +207,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 12 — Act 3, during Genesis
+### EP12 — Act 3, during Genesis
 
 > **[LOG FRAGMENT — COLONY RECORD, RECOVERED, DEGRADED · A+31 y]**
 >
@@ -219,7 +219,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ---
 
-### 13 — the coda, after D19.8. **The fragment they leave behind.**
+### EP13 — the coda, after D19.8. **The fragment they leave behind.**
 
 > **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · T−3 d]**
 >

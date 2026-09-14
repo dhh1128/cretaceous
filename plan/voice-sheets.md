@@ -1,5 +1,5 @@
 ---
-approval: approved 1cf53fcc
+approval: approved 58c27698
 ---
 
 # Voice sheets
@@ -87,7 +87,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 - **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave the Enclave (`humor-plan.md`).
 - **It never vanishes**, unlike the stammer — which is the point. The stammer measures fear and disappears when he is on his own subject; the hedge measures certainty and stays. **So at Genesis he can be terrified and certain at once** — stammering while declining, for the only time, to say *possibly*. That is the single place its absence does the work, and nobody remarks on it.
 - **It has one rehearsal, at D12.1**, where he says the thing that would have stopped the short leach and the hedge takes the weight out of it. Nobody notices, including him, and the cost is one person's health rather than a species'. That is what makes the Day 19 failure a habit with a history instead of a device. @D12.1
-- **It helps kill him at the confrontation.** `knowledge-ledger.md` has fact B failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. If the most important sentence in the novel comes out as *the upgrades are possibly the cure*, his own habit is complicit in his defeat. **This is also the in-joke that stops being funny** — the thing `humor-plan.md` asks for and nothing else in the plan supplies. Nobody points at it.
+- **It helps kill him at the confrontation.** `knowledge-ledger.md` has FB failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. If the most important sentence in the novel comes out as *the upgrades are possibly the cure*, his own habit is complicit in his defeat. **This is also the in-joke that stops being funny** — the thing `humor-plan.md` asks for and nothing else in the plan supplies. Nobody points at it.
 
 **The tell, and it is real.** He stammers when frightened — *"I… I heard you. I was… waiting."* **[drafted]** — and **the stammer vanishes the moment he is on his own subject**: *"It's temporal anchoring. It's drift mechanics. It's the reason our ancestors couldn't just jump back."* **[drafted]** Fluency is the signal that he has stopped being afraid, and it is the fastest way to show him growing.
 

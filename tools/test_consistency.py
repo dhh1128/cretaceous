@@ -240,3 +240,8 @@ def test_every_scene_map_answers_every_field_the_schema_requires():
 def test_every_backward_pointer_names_a_scene_and_a_move_that_exist():
     """Forward closure catches contradictions; this catches a fact that simply appeared."""
     holds("scene_map_backward_closure")
+
+
+def test_every_identifier_resolves_to_the_file_that_owns_it():
+    """A check cannot tell a typo from a new id unless one file owns the id space."""
+    holds("identifiers_resolve")

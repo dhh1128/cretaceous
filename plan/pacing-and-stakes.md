@@ -116,9 +116,9 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | day | scenes | what it is |
 |---|---|---|
 | 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
-| 17 | ~3 | the logs of the arrival · the epiphany and fact G · the second jump |
+| 17 | ~3 | the logs of the arrival · the epiphany and FG · the second jump |
 | 18 | **3** | no boat, and no route home · Keo finds something to talk to, and two hulls · **the flash that shows a man burying something where Benal was lying yesterday**. Raised from two: the row always named three things, and the capsule is a fourth |
-| 19 | **9** | salvaging one wig from two · the capsule · the launch · the chase · the landing on the river · the handover · the confrontation with fact B failing · the final image · **and one scene after it, outside, under the sky.** Raised from eight: the row listed nine separate jobs, and the last of them is two — the chamber settles nothing by design, and Teva's turn cannot happen in a cave |
+| 19 | **9** | salvaging one wig from two · the capsule · the launch · the chase · the landing on the river · the handover · the confrontation with FB failing · the final image · **and one scene after it, outside, under the sky.** Raised from eight: the row listed nine separate jobs, and the last of them is two — the chamber settles nothing by design, and Teva's turn cannot happen in a cave |
 
 **Discovery and comprehension are different scenes**, and so are the handover and the confrontation. That is the principled reason to split rather than a feeling about length: see the three-ladder rule in §6.
 
@@ -126,11 +126,11 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 
 ## 6. The four ladders
 
-Emotional, Physical, Social, Species. Rough 0–10, by day.
+Emotional, Physical, Social, Species — written `EM`, `P`, `S`, `SP`, because `E` collided with the epigraph prefix and `X` with the surprise prefix, and when two things collide on a letter both go to two letters rather than one. Rough 0–10, by day.
 
 *(The per-day values are an interpolation of a coarser curve. Days 4, 5, 6, 12 and 13 previously had no rating of their own, which is how a novel came to have an unscened rest day sitting inside a rising stretch.)*
 
-| day | E | P | S | X | what moves |
+| day | EM | P | S | SP | what moves |
 |---|---|---|---|---|---|
 | **1** | 4 | 1 | 2 | 3 | rage ignites; the community fails in public |
 | **2** am | 3 | 1 | 3 | 3 | *rest — the deposit* |
@@ -150,7 +150,7 @@ Emotional, Physical, Social, Species. Rough 0–10, by day.
 | **14** | 8 | **10** | 7 | 6 | drowning, the mosasaur, the fieldpack lost |
 | **15** | **10** | 5 | 7 | 6 | the confessions; chosen family forged |
 | **16** | 7 | 4 | 6 | 7 | out of the water, fed, and still alive. The exhale |
-| **17** | 8 | 4 | 8 | **10** | the protocols are real, and then fact G |
+| **17** | 8 | 4 | 8 | **10** | the protocols are real, and then FG |
 | **18** | 9 | 5 | 8 | 9 | no way home — and then the machine |
 | **19** am | 8 | **10** | 9 | 8 | the chase |
 | **19** eve | 9 | 5 | **10** | 9 | the confrontation |

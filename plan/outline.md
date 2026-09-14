@@ -1,5 +1,5 @@
 ---
-approval: approved 564405cd
+approval: approved d370f24f
 ---
 
 # Cretaceous — Outline
@@ -198,4 +198,4 @@ The stunned, furious, terrified faces of the Council. Keo's parents, standing un
 
 **`plan/sequels.md` is the authority for books 2 and 3**, and this section is deliberately not a summary of it — a second copy would drift, and the version that stood here already had.
 
-Two things it got wrong are worth recording, because both would have propagated into book 1. It had the Lost Colonists "trying to communicate back," which breaks the rule that **nothing crosses time in either direction** — the rule fact G rests on, and the reason two hundred people had to make the trip in person. And it made Benal's endgame *sending the signal and jumping himself*, which is not the shape: he proves there is no paradox to fear, and the trilogy ends with a rescue and a migration rather than with one boy jumping.
+Two things it got wrong are worth recording, because both would have propagated into book 1. It had the Lost Colonists "trying to communicate back," which breaks the rule that **nothing crosses time in either direction** — the rule FG rests on, and the reason two hundred people had to make the trip in person. And it made Benal's endgame *sending the signal and jumping himself*, which is not the shape: he proves there is no paradox to fear, and the trilogy ends with a rescue and a migration rather than with one boy jumping.

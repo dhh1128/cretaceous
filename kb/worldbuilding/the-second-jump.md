@@ -136,7 +136,7 @@ Plus the physics that Benal earns: only the original crew could ever have gone h
 **Two specific prohibitions:**
 
 - **No fragment and no character may imply two-way contact.** The capsule is an object somebody buried and somebody else dug up. It traveled by sitting still.
-- **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning fact G from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Open question, and it is the one craft risk in this whole structure:** does he deduce it and *then* find the capsule confirming it, or is the capsule damaged so that it proves a second jump happened and cannot supply the physics? Either works. It has not been decided.
+- **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning FG from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Open question, and it is the one craft risk in this whole structure:** does he deduce it and *then* find the capsule confirming it, or is the capsule damaged so that it proves a second jump happened and cannot supply the physics? Either works. It has not been decided.
 
 ## 11. Still open
 
