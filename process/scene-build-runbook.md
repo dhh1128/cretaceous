@@ -73,6 +73,22 @@ Run the four invariants from `methodology-theory.md` §5 **against the map itsel
 
 Then re-read the scene-list entry and confirm every "must carry" item has a move.
 
+**And run the mechanical checks here, not only at phase 7.** `uv run --with pytest pytest tools/ -q` against the map itself. On the first two maps this caught a citation to a section that does not exist and an instance of the eliminated unit word, three phases before the runbook had been putting the gate. It costs five seconds and it is defects Daniel would otherwise have read.
+
+### The outside read, before the ledger goes to him
+
+**Hand the map to models from other lineages and ask them to break it.** `methodology-theory.md` C11 has the evidence and the two cautions; this is the procedure.
+
+The packet is self-contained or it is worthless — a reviewer who cannot see the canon invents objections out of the gaps. It carries the framing, the standard it is judging against, **the canon the map rests on, the entries for the state-closure neighbors**, and the map. `.ignored/redteam/build-packet.py` assembles it from the corpus at build time so it cannot drift from what the map actually cites.
+
+Three things that decide whether it is worth the call:
+
+- **Ask for refutation against the stated standard, not for an opinion.** "What do you think of this" returns polite endorsement from every provider.
+- **The highest-value section is the undeclared inventions**, because that is the ledger's own measure: what the pass failed to ask about. Say so in the prompt and ask for it exhaustively.
+- **Verify before adopting.** One seat's headline finding in the first run was confidently wrong and would have broken a working scene. Agreement across lineages is weak evidence and a single confident dissent is not evidence at all until you have chased it.
+
+**Its output is ledger items**, which is why it sits before phase 4 rather than after it. Two of the first run's findings reshaped the scenes and neither was reachable from the four invariants.
+
 ## Phase 4 — Invention ledger — **STOP HERE**
 
 List everything the scene will have to invent that no canon file substantiates. For each:
