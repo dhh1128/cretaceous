@@ -1,5 +1,5 @@
 ---
-approval: approved b44aef1e
+approval: approved 1453a44f
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -24,7 +24,11 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 **And one small pot of the septic gel between the three of them**, which is the pheromone barrier in casual register — `milieu-brief.md` §6, *T. rex* musk over the chemical markers of sepsis, reading to a predator as a wounded alpha and to everything smaller as *flee or die*.
 
-**It cannot be worn while Noli travels with them, and that is a hard constraint rather than a preference.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, which is why Keo has to hold her by projection to get her within ten meters of the tangle at all (`milieu-brief.md` §6). **Worn continuously it would mean holding her continuously**, at pressure behind the eyes and then real pain, for as long as she is alive — and she is alive, and funny, and catching grounders, for eight days after they leave. **So the gel goes on for a stretch and comes off**, and every application costs Keo his concentration and the suits their chemical sensors, which the barrier blinds (`tech-rules.md`). A capability with two prices, spent rarely, which is why there is any left by Day 8.
+**It does not go on their skin, and the Enclave already told them so.** At home the barrier weeps from ceramic nozzles set into the tangle (`milieu-brief.md` §6) — **it is a thing you put on a perimeter**, and smearing it on a person is the exception made for walking through one. So out here it goes on the stakes and the cut fronds of the night fence, and **their skin and their suits stay clean.**
+
+**Which is what makes Noli possible.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, and Keo has to hold her by projection to get her within ten meters of the tangle at all. On their bodies it would mean holding her every waking hour for the eight days she is alive after they leave. **On the fence it means she simply will not come near the camp after dark.** She forages instead, or beds down a long way off where the smell is not, and comes back at first light.
+
+**So the cost of a protected night is that the animal sleeps alone**, and Keo knows it every time somebody reaches for the pot. That is the argument he loses and then stops making.
 
 **Two of these are the seeds of everything in §3b.** Teva starts with a damaged biofilm and Benal starts with a dead capacitor, so neither suit is sound on Day 3 and the degradation schedule is a decline from an already-compromised start rather than from new.
 
@@ -71,7 +75,7 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 
 **And camp is *built*, every night, because these are Explorer-trained colony children and the Enclave's entire answer to the world is the border-tangle.** They cut what the ground gives — thorny scrub, spined cycad fronds laid points outward, green stakes sharpened and angled out — and they wall whatever side the terrain does not already wall. It is an hour of labor at the end of every day, done by people who have not eaten, and it is a large part of why the doctrine stops them before the light goes rather than at dark.
 
-**And the fence is doing a job that used to be done chemically.** The septic gel kept small animals off them for five days without anyone crediting it; it went into the river at the crossing and the pot has been empty since. **From Day 9 the camp is the only thing between them and whatever walks**, which is why the nights get worse in a way nobody can point at. *(It has no bearing on what took Noli. The barrier reads as a warning to things smaller than a tyrannosaur, and a ten-meter flybeak is not one.)*
+**And the fence used to be doing two jobs.** Until Day 8 the night stakes were dressed with the septic gel, which kept small things off them entirely and cost them Noli's company after dark; the gel went into the river at the crossing and the pot has been empty since, so from Day 9 the fence is bare wood and thorn. **What they got back in exchange is her**, sleeping inside the camp for the first time on the night of Day 8 and for two nights after that, and then she is taken at dawn on Day 11. **From Day 9 the camp is the only thing between them and whatever walks**, which is why the nights get worse in a way nobody can point at. *(It has no bearing on what took Noli. The barrier reads as a warning to things smaller than a tyrannosaur, and a ten-meter flybeak is not one.)*
 
 **It works on the things it is sized for, which is the point.** A fence built against a predator passes anything small, exactly as the Enclave's own river grating stops a six-meter croc and passes a one-meter juvenile that then grows up inside (`milieu-brief.md` §3). **The same failure, in miniature, every night.** Nobody in the novel remarks on the parallel.
 
