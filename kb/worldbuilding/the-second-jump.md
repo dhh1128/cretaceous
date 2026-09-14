@@ -53,7 +53,7 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 ## 5. What Cecilia does at the Enclave
 
-She smuggles equipment out, and an aliquot of the pathogen — not the encasement, which could not be carried. `[?]`
+She smuggles equipment out, and an aliquot of the pathogen — not the encasement, which could not be carried.
 
 **She gives herself the upgrades. Then she infects herself.**
 
@@ -67,7 +67,7 @@ The protocol is hers alone and it is not reckless. A blood test detects progress
 
 ## 6. The breakthrough, and the second jump
 
-**At Genesis, at roughly the same time, the remaining scientists finally get a fix.** `[?]` The mechanism is sensor data captured during the transit itself, re-analyzed — the one dataset they had that did not depend on a three-year baseline.
+**At Genesis, at roughly the same time, the remaining scientists finally get a fix.** The mechanism is sensor data captured during the transit itself, re-analyzed — the one dataset they had that did not depend on a three-year baseline.
 
 **The answer is: now, plus or minus two hundred and twenty years.**
 
@@ -89,7 +89,7 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 **So they leave a time capsule**, buried beside the cleft where the anchor shaft of a Genesis solar array will one day be drilled. They know the site's layout because they lived in it. They place it where somebody who has had the flash will think to look, and not where a survey would turn it up by accident. It is addressed to whoever comes back.
 
-`[?]` **And they leave other traces, which the founders will find and fail to explain.** Worked stone, an anchor cleft, scarring on rock that reads as habitation on a coral spit in the Cretaceous. It goes into the Archive as an unresolved oddity in year zero, because everyone has more urgent problems. **The reader passes it early and thinks it strange. Benal reaches it in Act 3 and it detonates.**
+**And they leave other traces, which the founders will find and fail to explain.** Worked stone, an anchor cleft, scarring on rock that reads as habitation on a coral spit in the Cretaceous. It goes into the Archive as an unresolved oddity in year zero, because everyone has more urgent problems. **The reader passes it early and thinks it strange. Benal reaches it in Act 3 and it detonates.**
 
 ## 8. The anomaly
 
@@ -97,7 +97,7 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 **A jump is an event at a place, and the place is damaged by it.** Two jumps have happened at that one spot. Anyone near it perceives fragments, unstuck from sequence — not a message, not a haunting, a **scar**.
 
-`[?]` **Intensity falls off with distance in space and not in time.** That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years before the jump that causes it; the Enclave feels it faintly at eighty kilometers, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
+**Intensity falls off far more steeply with distance in space than with distance in time — but it falls off with both.** It has to: if there were no temporal falloff the anomaly would still be detectable in the twenty-first century, and it is not. Space is the dominant term by a long way, which is why eighty kilometers dims it to a background unease while two centuries barely does, but the second term is not zero and the story should never imply it is. That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years before the jump that causes it; the Enclave feels it faintly at eighty kilometers, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
 
 **This is the paradox the mission could not guard against, and the irony is the sharpest thing in the book.** Every precaution they took was material — the archaea, the wrappings, the returning, a spear built to rot, the whole doctrine of leaving nothing that could survive to be found. **A scar in spacetime is made of no matter at all. It leaves no stratum, so the impact cannot erase it.** They defended against the wrong category, perfectly.
 
@@ -113,7 +113,11 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 **Benal does not derive a new figure at Genesis. He finds theirs and does the subtraction.** `[?]` The arithmetic wants one pass for consistency: 220 from year 3 puts the outer edge at year 223, so seventeen years remain, and `plan/milieu-brief.md` §2 says "about two decades out, plus or minus one." Those are close and not identical. Pick one and make both files say it.
 
-`[?]` **And the Watch is a duty whose purpose has been forgotten.** It was instituted to continue the dating work with the long baseline the founders never had, and nobody alive can say why they do it — the same shape as the upgrades, in a smaller key. Omya recites the sky perfectly and cannot tell you what it is for.
+**And the Watch is a duty whose purpose has been forgotten.** It was instituted to continue the dating work with the long baseline the founders never had, and nobody alive can say why they do it — the same shape as the upgrades, in a smaller key. Omya recites the sky perfectly and cannot tell you what it is for.
+
+**What the Watch actually records, because "memorizing the stars" would date nothing.** It logs **events**, not positions: conjunctions, occultations, the moon against fixed stars, anything whose period is known and whose recurrence can be timed. A single night of that is worthless. **Two hundred and six years of it is an instrument** — you compare when a configuration actually recurred against when it should have, and the drift between them pins the epoch. That is why the founders instituted it and why three years of their own observation could not do the same job.
+
+**And it is why the recitation survived and the purpose did not.** What a child can be drilled on is the sky itself — names, positions, the order of things. The reason for the drill is a sentence in a record, and a sentence is exactly the kind of thing two centuries of lossy transmission eats. `[?]` Omya can still say what she saw. Nobody can still say why anyone wrote it down.
 
 ---
 

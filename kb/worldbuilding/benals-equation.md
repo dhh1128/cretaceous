@@ -1,5 +1,5 @@
 ---
-approval: approved 6f2d62d3
+approval: approved 10e1ade0
 ---
 
 # Benal's equation
@@ -64,7 +64,7 @@ And the second jump — a thousand years back, to the same spot — was launched
 
 **So the anchor is the departure *event*, not the arrival instant.** She boards the leg home from year 22 rather than from the moment she originally landed, because the interval is what she is entangled with and the whole interval is live. **The trilogy's ending rests on this, and it had never been written down.**
 
-`[?]` The displacement is measured from the **arrival baseline** — the moment the expedition landed — rather than from the traveler's own departure year. That is the reading under which the figures close: the stayers go back a thousand years to year −1000, Cecilia intends a thousand and travels 975 to year −975, and she is collected at −953.
+The displacement is measured from the **arrival baseline** — the moment the expedition landed — rather than from the traveler's own departure year. That is the reading under which the figures close: the stayers go back a thousand years to year −1000, Cecilia intends a thousand and travels 975 to year −975, and she is collected at −953.
 
 **None of this is explained on the page in book 1.** Benal reaches *only original colonists could have gone back*, and the mechanism under it is book 2's and book 3's. See `plan/sequels.md`.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 2419f8fa
+approval: approved 9885d8b0
 ---
 
 # Character register
@@ -14,7 +14,7 @@ Entries marked `[?]` were invented to close a gap and are cheap to change. They 
 
 **Riel**, called **Ri** — mother. Explorer, suit custodian. Has proximity sense of her own, which is why she half-wakes when Keo is stealing from them. Both parents are implicated and confined after the theft, which is the reason no skilled rescue party follows.
 
-**Yara** — Keo's younger sister. Dead. **`[?]`**
+**Yara** — Keo's younger sister. Dead.
 
 *The prose says only "the world that had killed his sister" (`content/superseded/04.1.md`). She has no name anywhere and she is load-bearing, so: she was six or seven, and she was taken by a croc, near water, while under her parents' care.*
 
@@ -34,13 +34,13 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
-**Daven** — father. Dead, earlier than Lumea. **`[?]`** *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
+**Daven** — father. Dead, earlier than Lumea. *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
 
 ## Benal's family
 
 **Marek** — father. A Brancher. Dismisses Benal's mathematics: *"Still staring at those dead symbols? Do something real."* His weapon is pity, not contempt, and he is **the only adult publicly demanding action** — the man who says "do something real" at home is the man shouting for Genesis in the Council chamber. He is right, and his son cannot hear him.
 
-**Lunet** — mother. `[?]` *(name)* Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
+**Lunet** — mother. Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
 
 **Liaso** — cousin. On Watcher duty the night of the theft; nearly catches Keo at the Repository. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 43adba7b
+approval: approved 646b60aa
 ---
 
 # Cretaceous — Milieu Brief
@@ -69,7 +69,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Genesis had solar desalination and that is why three years was survivable.** There is no fresh water on a spit of coral and there did not need to be. **It rains, and the rain is no use** — coral is porous, there is no soil and no aquifer, so what falls drains straight through within the hour. The rain is worth having anyway, because it keeps the arrays from crusting with salt.
 
-**The desalination failed in the third year and the power did not, and the difference is the whole point.** Photovoltaic skin is passive: it sits in the sun, it is rinsed by rain, and small self-maintaining units keep it clear and draw their own power from it. `[?]` A desalination plant for two hundred people is the opposite — membranes, pumps, pressure vessels, scaling, and consumables nobody on this planet can manufacture. **The power survives two centuries and the water plant does not survive three years**, and that is why the site is still standing and still lit while being uninhabitable.
+**The desalination failed in the third year and the power did not, and the difference is the whole point.** Photovoltaic skin is passive: it sits in the sun, it is rinsed by rain, and small self-maintaining units keep it clear and draw their own power from it. A desalination plant for two hundred people is the opposite — membranes, pumps, pressure vessels, scaling, and consumables nobody on this planet can manufacture. **The power survives two centuries and the water plant does not survive three years**, and that is why the site is still standing and still lit while being uninhabitable.
 
 **The argument about what to do next is the first time the colony split.**
 
@@ -77,7 +77,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Those who stayed saw the others off and vowed to continue the work.** The Enclave never heard from them again and has assumed for two hundred years that they died.
 
-**They did not. They jumped.** `[?]` Somewhere on the order of a thousand to a million years further back — the figure is open and the story does not need it pinned — to buy themselves working time before the impact. That is **the origin of the temporal flashes**, and it is a surprise this novel delivers: **nobody in the colony knows it when the book opens.**
+**They did not. They jumped.** **A thousand years** further back — the figure is settled, and book 3's emigration to 67 Mya is a different jump; see `plan/sequels.md`. They went to buy themselves working time before the impact. That is **the origin of the temporal flashes**, and it is a surprise this novel delivers: **nobody in the colony knows it when the book opens.**
 
 **The whole of that story is in `kb/worldbuilding/the-second-jump.md`, and it is the authority for it** — why the cure could not be tested, the vote Cecilia lost, what she did at the Enclave instead, the dating breakthrough that panicked the people who stayed, and what book 1 may and may not show. Almost none of it is on the page in this novel. `plan/knowledge-ledger.md` governs who learns what and when; `plan/outline.md` has the epiphany that lands it.
 
