@@ -210,7 +210,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ambush weather, and hours of nothing.** Heavy overcast, wrung out, no wind — the lowest light in the book outside a cave.
 **Must carry:**
 - **Snails again, and the joke about snails stops being funny.** `body-and-resources.md` names this. The humor plan wants at least one joke that dies, and this is the cheapest one available.
-- `[?]` **The silence before the constrictor should start here**, hours early, as an absence nobody can name. Benal keeps stopping and cannot say why.
+- **The silence before the constrictor starts thirty to forty-five minutes early**, not hours — silence sustained across kilometers of travel is unnatural and a reader will feel the cheat. It is an absence nobody can name, and Benal keeps stopping and cannot say why.
 - **Mushrooms**, allocated to Days 4 and 5 and unused.
 - **Parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he did not. Allocated here.
 **Hazard:** telegraphing. The reader should feel the ambush coming and the characters should have a reason not to — they are hungry, the light is bad, and Benal has cried wolf about his senses for two days.
@@ -278,7 +278,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **The water looks harmless, and that is the problem.** Dead still, hot, cloudless, a river like a sheet of metal. Nothing about the day gives them an excuse to wait. Weather and register from `journey-calendar.md` §2.
 - **The croc's full showcase opens here and is never re-described** — `milieu-allocation.md` gives Days 7–8 and forbids it afterward. Day 7 is the day they *count* them, which is where the description belongs; Day 8 has no attention to spare.
-- The bank: slick black mud, rotting ferns, broken plate-sized ginkgo leaves. `[?]` The leaves are load-bearing later and should read as litter here.
+- The bank: slick black mud, rotting ferns, broken plate-sized ginkgo leaves. **The leaves are load-bearing later and must read as ordinary litter here** — a gust puts them on the water during the crossing, and the reader has to have seen them lying about first.
 - **Benal is the one who can measure it** and the first to say a number out loud. His intellect is useful before his body fails again.
 **Hazard:** the obstacle announced instead of delivered — somebody says *there's the river* and the scene turns into exposition. It has to arrive through Benal's ears and then his eyes. Second hazard: the croc's one showcase becoming a monster reveal. They are counting animals, not meeting a villain.
 **Ends on:** the number, and nobody arguing with it.
