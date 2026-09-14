@@ -522,7 +522,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ### D12.1 — [LONG, ~2000] [Day 12, midday lay-up] [TEVA] [A sulfur spring above the camp] — **NEW**
 **Ladders:** E7 P7 S8 X5
-**Purpose:** DECIDE · **Ending:** OMINOUS
+**Purpose:** DECIDE · **Ending:** RESOLVE
 **She decides, and she is wrong, and it is the hinge of her arc.** Rain, continuous, warm and saturating, gray and unchanging. The calendar's own phrase for the day is *misery without incident*.
 **Must carry:**
 - **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` row 19.
