@@ -1,5 +1,5 @@
 ---
-approval: approved 19af9387
+approval: approved 884f4d76
 ---
 
 # Character register
@@ -10,7 +10,7 @@ Entries marked `[?]` were invented to close a gap and are cheap to change. They 
 
 ## Keo's family
 
-**Joram** — father. Explorer, suit custodian. A heavy sleeper (`content/superseded/04.1.md`). Sat with his arms crossed through the Council debate and said nothing, and when Keo looked at him he had nothing in his face but fear (`content/superseded/03.1.md:71`). That fear is not cowardice, and the novel owes the reader an answer about what it was.
+**Joram** — father. Explorer, suit custodian. A heavy sleeper (`content/superseded/04.1.md`). Sat with his arms crossed through the Council debate and said nothing, and when Keo looked at him he had nothing in his face but fear (`content/superseded/03.1.md:74`). That fear is not cowardice, and the novel owes the reader an answer about what it was.
 
 **Riel**, called **Ri** — mother. Explorer, suit custodian. Has proximity sense of her own, which is why she half-wakes when Keo is stealing from them. Both parents are implicated and confined after the theft, which is the reason no skilled rescue party follows.
 
@@ -30,7 +30,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **She is also the last of the Watch, and nobody has noticed.** Keepers hold a memorized sky, drilled and verified nightly for 206 years, precise enough that anything new in it would be obvious — see `plan/milieu-brief.md` §5. A watch that finds nothing is indistinguishable from a watch that is not happening, so while the whole colony measures the death of the synthesis protocol, this half of her is going unmeasured and unmourned. **The impactor could already be findable and there is nobody left who would know.**
 
-**And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:49`) because Teva was being trained for this.
+**And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:53`) because Teva was being trained for this.
 
 **Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
@@ -50,7 +50,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## The Council
 
-**Sila** — Elder, female, Traditionalist. *"Better to die with a clean soul than to live as contaminants."* Sits at the center of the dais; **where everyone else in the room looks weary, the crisis energizes her** (`content/superseded/03.1.md:17`), which is the tell. She is unmoved even by Elana — *"The grief is raw. But the protocol…"*
+**Sila** — Elder, female, Traditionalist. *"Better to die with a clean soul than to live as contaminants."* Sits at the center of the dais; **where everyone else in the room looks weary, the crisis energizes her** (`content/superseded/03.1.md:21`), which is the tell. She is unmoved even by Elana — *"The grief is raw. But the protocol…"*
 
 **She is descended from Dr. Cecilia Arroyo**, the mission's lead geneticist and the recurring voice of the epigraphs — and her name is Cecilia worn down across 206 years. The colony remembers Arroyo as a near-saint of the Mission, and Sila speaks for her constantly. The reader has Arroyo's actual letters, which are warm, doubting and mostly about her sister's garden. **Sila is therefore the proof of drift rather than an exception to it**: sincerely misrepresenting the person she most reveres. See `plan/knowledge-ledger.md`.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 5623e57a
+approval: approved 771cefa3
 ---
 
 # Cretaceous — Milieu Brief
@@ -171,7 +171,7 @@ This is a scientific mission, not a tribe, and **status follows mission-critical
 
 **Which means the impactor could already be findable, and there is nobody left who would know.**
 
-**Two consequences that pay off later.** First, Teva was being trained for this — it is why Omya taught her the stars (`content/superseded/01.1.md:49`), and it recasts her failed sensory upgrades: she has the memory a Keeper needs and not the senses, so **she was supposed to inherit the sky and got part of the way.** Second, a 206-year positional record held in one dying woman's head is a scientific dataset, and Benal is the only person alive who would recognize it as one.
+**Two consequences that pay off later.** First, Teva was being trained for this — it is why Omya taught her the stars (`content/superseded/01.1.md:53`), and it recasts her failed sensory upgrades: she has the memory a Keeper needs and not the senses, so **she was supposed to inherit the sky and got part of the way.** Second, a 206-year positional record held in one dying woman's head is a scientific dataset, and Benal is the only person alive who would recognize it as one.
 
 **The clinical detail that makes scene D2.4 work.** In dementia, remote and heavily-rehearsed memory outlasts recent and complex memory. Omya learned the sky as a child and has recited it sixty years; she learned the full synthesis protocol later and it is far more intricate. **So she can still name every star and cannot remember the protein fold.** The knowledge nobody thinks is worth anything survives, and the knowledge keeping them alive is going — and Marek would call the star lore dead symbols, which is the exact phrase he uses on Benal's mathematics. Both turn out to matter. @D2.4
 
@@ -249,7 +249,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 
 **Bio-safe** is not "primitive" — it is anything in the first two tiers above. It **rots**, or it is a **natural object**. Anything durable and recognizably worked fails, and fails worse than metal, because metal corrodes and their archaea eat it.
 
-**They understand this perfectly, and it is already on the page.** The Vitarium's vessels are deliberately made lopsided, each shaped to mimic a random clump of clay, "a precaution against paradoxes" (`content/superseded/01.1.md:19`). A society that careful about disguising its pottery is the design principle in miniature.
+**They understand this perfectly, and it is already on the page.** The Vitarium's vessels are deliberately made lopsided, each shaped to mimic a random clump of clay, "a precaution against paradoxes" (`content/superseded/01.1.md:23`). A society that careful about disguising its pottery is the design principle in miniature.
 
 **The inventory:**
 
@@ -351,7 +351,7 @@ Strong expression across the sensory suite — vision, hearing, smell — plus e
 
 Both parents are Explorers and suit custodians — **Joram**, a heavy sleeper, and **Riel** ("Ri"), who has proximity sense of her own. Keo has been outside the perimeter on supervised trips, and has the training that comes with it.
 
-**He has a dead younger sister**, killed by the world outside rather than by a failed upgrade (`content/superseded/04.1.md:93`). She is unnamed and needs a name. She is why his parents are as protective as they are, which makes her the strongest single piece of evidence available for the parent-nuance arc.
+**He has a dead younger sister**, killed by the world outside rather than by a failed upgrade (`content/superseded/04.1.md:97`). She is unnamed and needs a name. She is why his parents are as protective as they are, which makes her the strongest single piece of evidence available for the parent-nuance arc.
 
 He is not rebelling against his parents' philosophy — they sit ambivalently between Traditionalist and Brancher — but against being protected. He **refuses to take a third suit**, out of pride and a wish to prove he needs no crutch, and it nearly kills him.
 
