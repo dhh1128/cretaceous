@@ -16,7 +16,7 @@ Marked `[?]` items are proposals from a session, not rulings. Everything unmarke
 
 Two hundred people <!-- @WF-founders.count: 200 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because a spit of coral has none and the rain drains through porous rock within the hour.
 
-Three things happen across those three years <!-- @WF-genesis.occupancy: three-years -->, and they interlock.
+Three things happen across those three years <!-- @WF-genesis.occupancy: 3y -->, and they interlock.
 
 ## 2. They find the cure and cannot prove it
 
@@ -33,13 +33,13 @@ Three things happen across those three years <!-- @WF-genesis.occupancy: three-y
 
 ## 3. They cannot work out when they are
 
-**The transit's error was never in place. It was in time.** They arrived at the right point on the right planet and cannot say what year it is, which means they cannot say when the impactor arrives. For three years they try:
+**The transit's error was never in place. It was in time.** They arrived at the right point on the right planet and cannot say what year it is, which means they cannot say when the impactor arrives. For three years <!-- @WF-genesis.occupancy: 3y --> they try:
 
 - **Day length.** The Cretaceous day is measurably shorter than twenty-four hours and lengthens at a known rate, so an accurate clock and a long patient measurement gives a band. It gives a wide one.
 - **Lunar ranging.** The moon is closer and recedes at a known rate, so bouncing a laser off it should date them. It also gives a band.
 - **Stellar drift.** Proper motion and precession against cataloged positions. Same answer, same fuzziness.
 
-They have no satellites and no large telescope, and every method needs a longer baseline than three years supplies. **Their working estimate is roughly five hundred years, plus or minus two hundred and sixty.** It is the number the colony inherits and the reason leadership teaches that the impact is centuries away.
+They have no satellites and no large telescope, and every method needs a longer baseline than three years <!-- @WF-genesis.occupancy: 3y --> supplies. **Their working estimate is roughly five hundred years, plus or minus two hundred and sixty.** It is the number the colony inherits and the reason leadership teaches that the impact is centuries away.
 
 ## 4. The water fails, and the colony splits for the first time
 
@@ -51,7 +51,7 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 **Those who stay see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left, suited <!-- @WF-firstwalk.suited: true -->; ninety-four arrived.
 
-**All of that happens inside the third year.** The failure, the argument, the preparation, and then a walk of a week to a month <!-- @WF-firstwalk.duration: weeks --> — `plan/milieu-brief.md` §3 owns the timing and it is not three years of marching. The three years are the occupancy at Genesis, and the party is at the Enclave by the end of them.
+**All of that happens inside the third year.** The failure, the argument, the preparation, and then a walk of a week to a month <!-- @WF-firstwalk.duration: weeks --> — `plan/milieu-brief.md` §3 owns the timing and it is not three years <!-- @WF-genesis.occupancy: 3y --> of marching. The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy at Genesis, and the party is at the Enclave by the end of them.
 
 ## 5. What Cecilia does at the Enclave
 
@@ -63,13 +63,13 @@ The protocol is hers alone and it is not reckless. A blood test detects progress
 
 **It works. The cure holds, and she has her proof.**
 
-**And she can never say so**, because she obtained it by digging up a sealed pathogen against a leadership decision and creating the exact hot zone she had been forbidden to create. A result you are not permitted to have obtained is a result you cannot announce. **This is why the single most important fact in the colony's history is lost inside three years of its being established.**
+**And she can never say so**, because she obtained it by digging up a sealed pathogen against a leadership decision and creating the exact hot zone she had been forbidden to create. A result you are not permitted to have obtained is a result you cannot announce. **This is why the single most important fact in the colony's history is lost inside three years <!-- @WF-genesis.occupancy: 3y --> of its being established.**
 
 `[?]` Whether she recorded it privately, and where that record is, is a sequel's business. Book 1 needs only the silence, which is fully motivated.
 
 ## 6. The breakthrough, and the second jump
 
-**At Genesis, at roughly the same time, the remaining scientists finally get a fix.** The mechanism is sensor data captured during the transit itself, re-analyzed — the one dataset they had that did not depend on a three-year baseline.
+**At Genesis, at roughly the same time, the remaining scientists finally get a fix.** The mechanism is sensor data captured during the transit itself, re-analyzed — the one dataset they had that did not depend on a three-year <!-- @WF-genesis.occupancy: 3y --> baseline.
 
 **The answer is: now, plus or minus two hundred and twenty years.**
 
@@ -99,7 +99,7 @@ They never prove the cure. They never build the equipment. A thousand years <!--
 
 **A jump is an event at a place, and the place is damaged by it.** Two jumps have happened at that one spot. Anyone near it perceives fragments, unstuck from sequence — not a message, not a haunting, a **scar**.
 
-**Intensity falls off far more steeply with distance in space than with distance in time — but it falls off with both.** It has to: if there were no temporal falloff the anomaly would still be detectable in the twenty-first century, and it is not. Space is the dominant term by a long way, which is why eighty kilometers <!-- @WF-route.overland: 80km --> dims it to a background unease while two centuries barely does, but the second term is not zero and the story should never imply it is. That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years before the jump that causes it; the Enclave feels it faintly at eighty kilometers <!-- @WF-route.overland: 80km -->, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
+**Intensity falls off far more steeply with distance in space than with distance in time — but it falls off with both.** It has to: if there were no temporal falloff the anomaly would still be detectable in the twenty-first century, and it is not. Space is the dominant term by a long way, which is why eighty kilometers <!-- @WF-route.overland: 80km --> dims it to a background unease while two centuries barely does, but the second term is not zero and the story should never imply it is. That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years <!-- @WF-genesis.occupancy: 3y --> before the jump that causes it; the Enclave feels it faintly at eighty kilometers <!-- @WF-route.overland: 80km -->, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
 
 **This is the paradox the mission could not guard against, and the irony is the sharpest thing in the book.** Every precaution they took was material — the archaea, the wrappings, the returning, a spear built to rot, the whole doctrine of leaving nothing that could survive to be found. **A scar in spacetime is made of no matter at all. It leaves no stratum, so the impact cannot erase it.** They defended against the wrong category, perfectly.
 
@@ -117,7 +117,7 @@ They never prove the cure. They never build the equipment. A thousand years <!--
 
 **And the Watch is a duty whose purpose has been forgotten.** It was instituted to continue the dating work with the long baseline the founders never had, and nobody alive can say why they do it — the same shape as the upgrades, in a smaller key. Omya recites the sky perfectly and cannot tell you what it is for.
 
-**What the Watch actually records, because "memorizing the stars" would date nothing.** It logs **events**, not positions: conjunctions, occultations, the moon against fixed stars, anything whose period is known and whose recurrence can be timed. A single night of that is worthless. **Two hundred and six years <!-- @WF-transit.elapsed: 206y --> of it is an instrument** — you compare when a configuration actually recurred against when it should have, and the drift between them pins the epoch. That is why the founders instituted it and why three years of their own observation could not do the same job.
+**What the Watch actually records, because "memorizing the stars" would date nothing.** It logs **events**, not positions: conjunctions, occultations, the moon against fixed stars, anything whose period is known and whose recurrence can be timed. A single night of that is worthless. **Two hundred and six years <!-- @WF-transit.elapsed: 206y --> of it is an instrument** — you compare when a configuration actually recurred against when it should have, and the drift between them pins the epoch. That is why the founders instituted it and why three years <!-- @WF-genesis.occupancy: 3y --> of their own observation could not do the same job.
 
 **And it is why the recitation survived and the purpose did not.** What a child can be drilled on is the sky itself — names, positions, the order of things. The reason for the drill is a sentence in a record, and a sentence is exactly the kind of thing two centuries of lossy transmission eats. `[?]` Omya can still say what she saw. Nobody can still say why anyone wrote it down.
 

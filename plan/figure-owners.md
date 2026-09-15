@@ -53,7 +53,6 @@ approval: unapproved
 | two suits · three meters · one meter | `idiom` | the stolen pair against the twelve in store; sightlines; a juvenile croc against an adult |
 | three generations | `idiom` | the name-reuse horizon and the drift span are different spans |
 | five weeks | `idiom` | Marisol's silence, and a separate interval in the ladder |
-| three years | `distinct` | **the founders' three years *at Genesis* against the three years the First Walk *took*.** `plan/minor-characters.md:65` and `plan/milieu-brief.md:64` are not the same span and the corpus has never said so |
 | fifteen meters | `distinct` | the border-tangle's height, which the wig's ceiling deliberately matches; nests at twelve to fifteen; the kiva's collapse hole at ten to fifteen |
 | ten meters | `distinct` | the flybeak's wingspan, and the radius Noli will not enter around the barrier |
 | thirty meters | `distinct` | conifer emergent height; canopy depth above the nests; the proximity sense's reach into the ground; and the retired nest height |

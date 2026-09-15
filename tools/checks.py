@@ -2175,6 +2175,10 @@ def check_word_figures() -> list[Violation]:
     for path, n, line in iter_lines():
         if path.startswith(FIGURE_SKIP) or path in (FIGURES, "tools/checks.py"):
             continue
+        # A heading restates what the section below it says, so the claim belongs on
+        # the assertion and not on the label -- the same rule the annotations follow.
+        if line.lstrip().startswith("#"):
+            continue
         for m in WORD_FIGURE.finditer(line):
             key = (re.sub(r"\s+", " ", m.group(1).lower()), m.group(2).lower().rstrip("s"))
             if key in exempt:
