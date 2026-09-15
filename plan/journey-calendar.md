@@ -28,7 +28,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | **10** | **the fern savanna** — sunfever, her suit fails, his hubris peaks. The last peaceful night | 6 | 60 |
 | **11** | **Noli at dawn. Then the fall** | 4 | 64 |
 | 12 | rain, and **the mash** | 6 | 70 |
-| 13 | it comes due; he carries her; the coastal plain | 10 | 80 |
+| 13 | it comes due; he carries her <!-- @WF-teva.carried.from: D13 -->; the coastal plain | 10 | 80 |
 | **14** | mudflats, the raft, open water, the mosasaur | offshore | — |
 | **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
 | **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |

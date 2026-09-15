@@ -20,13 +20,13 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 | | loses | when | what replaces it |
 |---|---|---|---|
-| **Keo** | mental projection's *meaning*. The gift is intact and it could not save the one thing it was for. Then he is injured, feverish and carried — the protector becomes the burden | **Day 11**, both | judgment, and eventually a machine |
+| **Keo** | mental projection's *meaning*. The gift is intact and it could not save the one thing it was for. Then he is injured, feverish and slowing them, with nothing on him and his load on Teva's back — the protector becomes the burden <!-- @WF-keo.carried: false --> | **Day 11**, both | judgment, and eventually a machine |
 | **Teva** | her suit to the heat; then **her own judgment — she short-leaches the mash and it poisons her** | **Day 10**, then the decision on **Day 12** and the collapse on **Day 13** | the willingness to be wrong |
 | **Benal** | his suit's defenses, concealed; then his written work to the sea | **Day 11**, then **Day 14** | what is already in his head, which turns out to be everything |
 
 **Her magnetic sense is not a loss and never becomes one.** Offshore it is worth more than it was on land, because there is nothing else to steer by. What limits her is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 12 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. `[?]` Whether she needs a third loss at all is open.
 
-**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, whose whole training is what is safe to eat — says it needs another day and does not press it, because he is injured and being carried and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
+**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, whose whole training is what is safe to eat — says it needs another day and does not press it, because he is injured and the burden and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
 
 **And a fourth loss that is Teva's alone, running underneath the book.** She was being trained for the Watch — Omya taught her the stars because Keepers hold a memorized sky and check it nightly (`milieu-brief.md` §5). Her sensory upgrades failed, so she has a Keeper's memory and not a Keeper's senses: **she was supposed to inherit the sky and got part of the way, and the woman who could finish teaching her is disappearing while she walks away from her.** It gives her grief a specific object instead of a general one, and a role in book 2 beyond navigator — she holds the only fragment of the Watch anyone has left, and it is incomplete.
 
@@ -46,7 +46,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | **3–6** | to lead | he is the reason they are alive | the others noticing he is guessing | the bites, the strain, the headaches |
 | **10** | to be seen doing it | his body is the answer | nothing. **This is the top of the arc** | nothing — and that is the problem |
 | **11** | **Noli back** | **nothing** | that it was his fault, correctly | he cannot hide anything any more |
-| **12–13** | to stop being carried | he is a liability | that he has done to Teva and Benal what he did to Yara | how much pain he is in; **that he said the mash needed another day and let her overrule him** |
+| **12–13** | to stop being the burden | he is a liability | that he has done to Teva and Benal what he did to Yara | how much pain he is in; **that he said the mash needed another day and let her overrule him** |
 | **14–17** | to be useful again | Benal is the one who matters now | irrelevance | nothing. He has stopped |
 | **18–19** | to get them home | **the machine can do what he cannot** | — | — |
 | **19, evening** | his parents to look at him | they were afraid *for* him | that they were right | nothing |

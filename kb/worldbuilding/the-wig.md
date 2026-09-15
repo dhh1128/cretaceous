@@ -80,7 +80,7 @@ Not a general intelligence and not an oracle. **It is the wig's maintenance and 
 
 **Keo activates it, and the reason is not convenience.**
 
-Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at D17.2, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, carried, waiting. So he wanders off, and finds something to talk to.
+Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at D17.2, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, a burden, waiting. So he wanders off, and finds something to talk to.
 
 And thematically it is his: **Keo is the one who talks to minds.** Proximity sense and projection are his whole gift; he spent the novel bonded to an animal that way and lost her at the midpoint, and he has been alone in his own head ever since. The boy who talks to minds meets a mind that is not alive, and it answers.
 

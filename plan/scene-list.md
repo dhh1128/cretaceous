@@ -539,7 +539,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` **R19**.
 - **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
 - **The sulfur is why the error is invisible.** The way you know it is done is that the bitterness is gone, and you cannot taste bitter through that water.
-- **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, being carried, and has stopped trusting himself. The reader hears him.
+- **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, the burden, and has stopped trusting himself. The reader hears him.
 - **She tests it on herself.** A full portion, and nobody else eats until she has. **And that is what kills her, because a partially leached dose runs late — later the more leaching it got — and no test she can run comes back inside the night.** She feels fine at dawn and they all eat. **But the rest of it went into the runoff overnight, which is what Keo said to do, so what the two of them eat has had the night in it and what she ate did not.** Her caution is the dose: she went first so nobody else would have to, and going first is what poisoned her.
 - **Her venom resistance is excellent and does not cover a plant glycoside** — she is the one who should have been safe. `plan/milieu-brief.md` §9.
 **Hazard:** her being reckless. She is the most careful person in the scene, she is right about the chemistry, and she takes the risk onto her own body rather than theirs. **The rage that makes her decisive is what makes her wrong**, and if she reads as impatient the arc collapses into a lesson about temper.
@@ -567,8 +567,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **It comes due, and only for her.** About eighteen hours after her portion at the spring: vomiting, cramping, and water she cannot spare.
 **Must carry:**
 - **All three are sick and only she is down, and the reason is which batch.** Keo and Benal ate this morning from mash that spent the night in the runoff — roughly three times the leaching — and Teva ate the four-hour batch at the spring yesterday and a share of the good one this morning on top of it. The two of them walk the whole day queasy, which makes everything harder and which nobody mentions. **Nobody works out that the overnight leach is what saved them, and nobody ever says that it was Keo's idea.**
-- **The carry escalates by stages and the stages are the story.** Her hand. Then her arm over his shoulder. Then on his back. Each step is a thing she stops being able to do and a thing he has to spend more to cover.
-- **Keo is the one carrying**, and he spent Days 11 and 12 being carried. The reversal is the whole reason the pair of days exists.
+- **The carry escalates by stages and the stages are the story.** Her hand. Then her arm over his shoulder. Then on his back. <!-- @WF-teva.carried.from: D13 --> Each step is a thing she stops being able to do and a thing he has to spend more to cover.
+- **Keo is the one carrying**, and he spent Days 11 and 12 as the burden — slowed, with nothing on him, his load on her back. **Nobody ever carried him** <!-- @WF-keo.carried: false -->, and the reversal is the whole reason the pair of days exists.
 - **He is thin, cold and quiet with starvation cold rather than weather** — the wound closing fast and costing him everything.
 - **Benal watches.** He has nothing to give but arithmetic: how far, how long, how much water. It is the only thing he has ever had and today it is worth something.
 **Hazard:** her being brave about it. She is vomiting and cannot stop, and dignity is not available; the scene should be about what it costs the two of them to watch.
@@ -773,7 +773,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Keo finds something to talk to.** Two derelict wigs and a flight-training system that answers when spoken to.
 **Must carry:**
-- **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, carried, waiting. That is why it is him and not Benal, who is in the lab. `kb/worldbuilding/the-wig.md` §5.
+- **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, a burden, waiting. That is why it is him and not Benal, who is in the lab. `kb/worldbuilding/the-wig.md` §5.
 - **The boy who talks to minds meets a mind that is not alive, and it answers.** He lost Noli at the midpoint and has been alone in his own head since.
 - **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
 - **Two hulls, neither flyable**: the dry one with dead skin and no rotors, the wet one level in shallow water with its array and rotors above the surface.
