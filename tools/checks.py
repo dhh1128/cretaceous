@@ -1987,3 +1987,56 @@ def check_shared_figures_owned() -> list[Violation]:
 
 
 CHECKS["shared_figures_owned"] = check_shared_figures_owned
+
+
+# --------------------------------------------------------------------------
+# inline claims: the prose declares what it asserts, and two values collide
+# --------------------------------------------------------------------------
+
+CLAIM = re.compile(r"<!--\s*@([a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
+
+
+def check_claims_agree() -> list[Violation]:
+    """No claim key is asserted with two different values anywhere in the corpus.
+
+    **This is the detector for the class the other instruments cannot reach:
+    two positive assertions that are each well-formed and jointly false.** The
+    figures register finds a number repeated across files; the retired-claims
+    table in `AGENTS.md` §7 finds a phrase that may no longer appear. Neither
+    can see *hadrosaurs turning the cycad mills* against *there is no mill*,
+    because one side carries no number and neither side is a banned phrase.
+
+    **The trick is that nothing has to be recognised.** Earlier attempts at this
+    tried to *find* propositions in prose, which is why they were stuck on
+    pattern-matching numbers. An annotation means the prose *declares* its own
+    claim, so the check collects keys and reports any key holding two values.
+    Extraction was the whole difficulty and this removes it.
+
+    **Why inline rather than a register file.** A register restates what a
+    sentence says, and this corpus has deleted six files that restated other
+    files, because a second copy drifts and then a drafter believes whichever
+    one they read last. An annotation lives on the line it describes, so a
+    rewrite that contradicts it appears in the same diff as the rewrite.
+
+    **The one real hazard: an annotation that lies is worse than none**, because
+    it reads as authoritative and the check will happily agree with it. So they
+    stay tiny, they stay adjacent, and they never carry anything the sentence
+    beside them does not already say. Coverage is voluntary and grows only where
+    somebody has had an argument worth recording -- which is the right place for
+    it, and means unannotated prose is exactly as safe as it was before."""
+    seen: dict[str, list[tuple[str, int, str]]] = defaultdict(list)
+    for path, n, line in iter_lines():
+        if path.startswith("tools/"):
+            continue
+        for m in CLAIM.finditer(line):
+            seen[m.group(1).lower()].append((path, n, m.group(2)))
+    out = []
+    for key, sites in sorted(seen.items()):
+        values = {v for _, _, v in sites}
+        if len(values) > 1:
+            where = "; ".join(f"{p}:{n} says {v!r}" for p, n, v in sites)
+            out.append(Violation(*sites[0][:2], f"@{key} is asserted {len(values)} ways — {where}"))
+    return out
+
+
+CHECKS["claims_agree"] = check_claims_agree

@@ -250,3 +250,8 @@ def test_every_identifier_resolves_to_the_file_that_owns_it():
 def test_every_figure_stated_twice_has_an_owner():
     """A proposition stated once cannot contradict itself; repetition is the drift surface."""
     holds("shared_figures_owned")
+
+
+def test_no_claim_key_is_asserted_two_ways():
+    """Two assertions that are each well-formed and jointly false; nothing else sees these."""
+    holds("claims_agree")
