@@ -32,7 +32,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none @D2.6 |
 | R9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none @D1.1 @D2.4 |
 | R9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none @D2.4 @D17.2 |
-| R9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | book 2 | none @D2.4 |
+| R9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | B2 | none @D2.4 |
 | R10 | Teva's mother died of what kills Alira | D1.1 | the confession | D15.4 | faint @D1.1 @D15.4 |
 | R11 | **Four water gourds, filled for three people** | D2.3 | Yara | later in D2.3 | **none — never remarked on** @D2.3 |
 | R12 | "We'll be fine" | D2.1 | after the midpoint nobody can say it, and someone tries | D11.5 | faint @D2.1 @D11.5 |
@@ -40,17 +40,28 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | D19.4 | faint @D17.2 |
 | R14 | The temporal flash symbol | D11.6 | the signal the heretics received | D17.2 | **overt** @D11.6 @D17.2 |
 | R15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | **Marek's regard, witnessed** — he looks at his son with something that is not pity, and Keo sees it at D19.7 and Teva sees it at D19.8 | D19.7 / D19.8 | none @D2.2 @D2.6 @D19.7 |
+| R15b | **Marek's dismissal is contempt-shaped and is actually pity** | D2.2 / D2.6 | **he supports his son's return to Genesis; the first repair of that relationship** | B2 | none @D2.2 @D2.6 |
 | R16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
 | R17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none @D2.11 |
 | R18 | **Stone-cycad takes days of leaching, and the pit is where everyone learns it** | D2.2 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | R19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
 | R20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
 | R21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
-| R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, book 2 | none @D2.5 @D19.5 |
+| R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, B2 | none @D2.5 @D19.5 |
+| R23 | **Cecilia names Chelo once, in a clause, and never explains her** | EP2 | **Marisol's daughter is alive, and she is who the cure comes home to** | B3 | none |
+| R24 | **Fragment 8's anomaly — a one-million-year artifact in the deep window, four calibration runs, filed with no action** | EP8 | **Benal connects it to Keo's flash and the Genesis disorientation: the anomaly was the second jump, detected before the first had happened** | B2 | none |
 
 **R15 changed direction, and the reason generalizes to any row whose payoff is a character's understanding.** It used to read *Benal understands his father*, and **strict third cannot deliver that** — Benal's last POV scene is D19.6, before the confrontation, so his understanding has nowhere to be interior. The payoff is Marek's regard being **witnessed**, by Keo at D19.7 and by Teva at D19.8. That is not a downgrade: rule 1 in `voice-sheets.md` is that nobody explains their own cleverness and the credit is withheld, which is viking's *Nobody looked at Rafa*. The reader gets it twice, from two people with no stake in it, and Benal is facing the wrong way both times. **Check any row whose payoff is somebody realizing something against the POV of the scene it pays in** — `knowledge-ledger.md` caught the same defect at FQ and said the rest had not been checked.
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.
+
+### Plants that pay outside book 1
+
+**The payoff address takes `B2` or `B3` when the payoff is in a later book**, and that is a token rather than prose so the set can be enumerated — *"which plants am I holding when I start book 2"* is the first question that gets asked, and until these were tokened nothing could answer it. The ledger had been carrying such rows since R9c and R22 with no floor under them, and two more lived outside it entirely: the five obligations in `plan/sequels.md` and the staged anomaly in `content/epigraphs.md`. **One class of fact in three files is the shape that has cost this project six deleted summary files.** So the ledger owns them all, and `sequels.md` points here rather than restating.
+
+**A cross-book payoff cannot be verified the way an in-book one can**, because the text does not exist. What is held instead is the pointer and the statement: `plan/sequels.md` carries **`[pays R9c — <what must still be true>]`** at the section that receives it, and `cross-book-plants-land` in §4 fails when either end dangles. That is the `[requires]` contract above, run across the longest distance it has to cover. The spelling is `[pays]` rather than `[requires]` because a `[requires]` must name a scene and no scene in a later book exists to name.
+
+**Not everything `sequels.md` protects is a plant.** A *constraint* — the capsule stays shut, nothing crosses time, the Genesis equipment is a part and not the whole — is a door book 1 must not close, and it is held by a `@WF-` claim that collides on contradiction rather than by a ledger row. Plants set something up; constraints forbid something. Do not put a constraint in this table.
 
 ### The reverse index — `[requires]`, written on the dependent move
 
@@ -132,6 +143,16 @@ has:      payoff
 evidence: §2's own validator — "no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions"
 check:    plant_payoff_bijection
 status:   ratified
+```
+
+```rule
+id:       cross-book-plants-land
+shape:    bijection
+every:    ledger row of §2 paying at `B2` or `B3`
+has:      `[pays …]` claim in `plan/sequels.md`
+evidence: §2 — a plant is rarely destroyed by someone editing the plant, and the payoff then fails silently in a scene nobody was looking at, which is why §2 makes the pointer symmetric and says the mechanism generalizes past foreshadowing. Cross-book plants had accumulated in three files at once and `plan/sequels.md` was read by no check in the suite
+check:    cross_book_plants_land
+status:   proposed
 ```
 
 1. **Signal level defaults to none.** If a plant needs a paragraph break to be noticed, it is the wrong plant.

@@ -619,6 +619,62 @@ def check_plant_payoff_bijection() -> list[Violation]:
     return out
 
 
+SEQUELS = "plan/sequels.md"
+CROSS_BOOK = re.compile(r"\bB([23])\b")
+PAYS = re.compile(r"\[pays\s+(R[0-9a-z]+)\s*(?:—|--)\s*([^\]]*)\]")
+
+
+def check_cross_book_plants_land() -> list[Violation]:
+    """Every ledger row that pays in a later book is claimed by `plan/sequels.md`,
+    and every claim there names such a row.
+
+    **A cross-book payoff cannot be verified the way an in-book one can**, because
+    the text does not exist yet. What can be held is the pointer and the statement,
+    which is exactly the distinction §2 of the ledger already draws: a plant is
+    rarely destroyed by someone editing the plant, it is destroyed by someone
+    working on something else, and the payoff then fails silently in a scene nobody
+    was looking at. §2's answer is a symmetric pointer carrying a payload, and its
+    own text says the mechanism generalizes past foreshadowing. The book boundary
+    is the longest distance that argument has to cover and was the one place
+    nothing ran it.
+
+    The spelling is `[pays R23 — payload]` rather than `[requires …]` because a
+    `requires` must resolve to a scene and no scene in book 3 exists to name.
+
+    What this was built for: cross-book plants had accumulated in three files at
+    once -- two rows in the ledger addressed in prose as "book 2", five obligations
+    in `sequels.md`, and a three-book staged anomaly in `content/epigraphs.md` --
+    while `sequels.md` was read by no check in the suite at all."""
+    out = []
+    ids: set[str] = set()
+    cross: dict[str, int] = {}
+    for n, cells in table_rows(section(FORESHADOW, r"The ledger")):
+        if len(cells) < 5:
+            continue
+        rid = plain(cells[0])
+        ids.add(rid)
+        if CROSS_BOOK.search(plain(cells[4])):
+            cross[rid] = n
+
+    claimed: set[str] = set()
+    for n, line in enumerate(lines_of(SEQUELS), start=1):
+        for m in PAYS.finditer(line):
+            rid, payload = m.group(1), m.group(2).strip()
+            claimed.add(rid)
+            if rid not in ids:
+                out.append(Violation(SEQUELS, n, f"[pays {rid}] names no row in the ledger"))
+            elif rid not in cross:
+                out.append(Violation(SEQUELS, n, f"[pays {rid}] names a row that pays inside book 1"))
+            if not payload:
+                out.append(Violation(SEQUELS, n, f"[pays {rid}] has an empty payload"))
+
+    for rid, n in sorted(cross.items()):
+        if rid not in claimed:
+            out.append(Violation(FORESHADOW, n, f"row {rid} pays outside book 1 and nothing "
+                                                f"in `{SEQUELS}` claims it"))
+    return out
+
+
 def check_biome_covers_every_day() -> list[Violation]:
     """Every day the calendar has falls inside at least one biome band."""
     covered = set()
@@ -639,6 +695,7 @@ CHECKS = {
     "allocation_day_agreement": check_allocation_day_agreement,
     "biome_covers_every_day": check_biome_covers_every_day,
     "plant_payoff_bijection": check_plant_payoff_bijection,
+    "cross_book_plants_land": check_cross_book_plants_land,
     "calendar_owns_distances": check_calendar_owns_distances,
     "file_refs": check_file_refs,
     "section_refs": check_section_refs,

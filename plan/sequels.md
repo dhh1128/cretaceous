@@ -19,7 +19,7 @@ Marked `[?]` items are session inference, not rulings.
 - **The time capsule had no usable content.** It proved the second jump happened and told them nothing they could act on.
 - **The equipment used to jump is missing from Genesis.** He works this out from pictures and from temporal flashes: something was there and is not. **Where did it go?**
 
-**So he goes back to Genesis, by wig.** His father — a committed Brancher — now supports him, which is the first repair of that relationship and a reversal of *do something real*.
+**So he goes back to Genesis, by wig.** His father — a committed Brancher — now supports him, which is the first repair of that relationship and a reversal of *do something real*. `[pays R22 — the river gratings must be raised to open the channel, established at D2.5 as the reason for the drill]` **Every flight opens the croc barrier**, so a wig used routinely is a standing hole in the perimeter, and that cost is book 2's to spend.
 
 **The schism at the Enclave gets worse.** The trio's revelation has split the society and control of Genesis and the wig is what it splits over.
 
@@ -63,11 +63,20 @@ Marked `[?]` items are session inference, not rulings.
 
 ## What book 1 must therefore protect
 
+**Two kinds of thing, held two different ways.** A **constraint** is a door book 1 must not close, and it is held by a `@WF-` claim that collides the moment some other file contradicts it. A **plant** is something book 1 sets up for a later book to pay, and it is held by a row in `plan/foreshadow-and-motif.md` §2 with a `B2` or `B3` payoff address. **The plants are not restated here** — the ledger owns them and a second copy would drift, which is what happened to the two that used to live in this list.
+
+The constraints:
+
 - **The capsule is not opened in book 1.** <!-- @WF-capsule.opened.book1: false --> It is dug up and carried, and what it says is book 2's opening.
 - **Nothing crosses time, in either direction, ever.** <!-- @WF-timecrossing.possible: false --> Book 3's rescue is people going in person and coming back in person along their own worldlines. <!-- @WF-return.rule: own-worldline --> No signals, no messages, no exceptions.
-- **The Watch has to exist and be visibly pointless.** Omya reciting the sky perfectly while losing the protein fold is book 2's dataset, so book 1 has to establish both the duty and the fact that nobody remembers what it is for.
-- **The damaged temporal equipment at Genesis must not read as the whole of it.** Book 2 turns on something being absent.
-- **Marek's rejection of Benal has to be repairable.** Book 2 has him supporting his son.
+- **The damaged temporal equipment at Genesis is a part and not the whole.** <!-- @WF-genesis.equipment.partial: true --> Book 2 turns on something being absent, so book 1 must not let what is standing there read as all of it.
+
+The plants this book must land, claimed from the ledger:
+
+- `[pays R9c — the Watch established as a duty nobody remembers the purpose of]` Omya reciting the sky perfectly while losing the protein fold is the dataset book 2 opens the radio link for.
+- `[pays R15b — Marek's dismissal shown as pity rather than contempt, and therefore reversible]` Book 2 has him supporting his son.
+- `[pays R24 — fragment 8's anomaly planted, resonant, and explained by nobody]` Book 2 is where Benal connects it to the flash and the disorientation.
+- `[pays R23 — Chelo named once and never explained]` Book 3 is where Marisol's daughter turns out to be who the cure comes home to.
 
 ## What became of the Lost Colonists
 
@@ -89,13 +98,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **The return rule is settled and the mechanism is entanglement.** Backward travel is unrestricted; forward travel requires that you be entangled with the destination, which happens by having physically lived through it. Cecilia's entangled intervals are the twenty-first century, 66 Mya from year 0 to 22, and the deep past from −975 to −953. The anchor is the departure event rather than the arrival instant, so she boards the leg home from year 22. Full statement in `kb/worldbuilding/benals-equation.md`. **It also explains the book 3 emigration without a special case:** the Enclave going back a million years is backward travel and needs nothing, and they can never come forward again, which is fine because they are not planning to.
 
-**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried upstream, while what remains at Genesis is the damaged **arrival** apparatus. Two devices, not one.
-
-**Keo in book 2**, above.
-
-**The order and placement of book 2's two closing reveals**, above.
-
-**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried a thousand years upstream, while what remains at Genesis is the damaged **arrival** apparatus. Two devices, not one.
+**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried a thousand years upstream, while what remains at Genesis is the damaged **arrival** apparatus. **Two devices, not one.** <!-- @WF-genesis.equipment.partial: true -->
 
 **Keo in book 2**, above.
 
