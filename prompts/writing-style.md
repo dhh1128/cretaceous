@@ -32,7 +32,7 @@ Good example: The colors were dying. Teva watched the light leak from limestone 
 ## Point of View (POV) and Internal Monologue
 This is the primary engine for character depth. We must move beyond plot and show the person experiencing the plot.
 
-Rule: The novel uses a Strict Third-Person Limited POV that rotates between key characters (Keo, Teva, Benal) by scene, as defined in `plan/scene-list.md`.
+Rule: The novel uses a Strict Third-Person Limited POV that rotates between key characters (Keo, Teva, Benal) by scene, as defined in `plan/scene-list.md`. <!-- @WF-pov: third-limited -->
 
 No Head-Hopping: This is the most crucial, inviolable rule. When in a character's POV, the narrative is fully embedded in their head. We never reveal the thoughts or feelings of another character. We only know what the POV character can see (another's facial expression, a flinch) or assume (which can be wrong, creating dramatic irony).
 
