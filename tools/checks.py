@@ -1993,10 +1993,14 @@ CHECKS["shared_figures_owned"] = check_shared_figures_owned
 # inline claims: the prose declares what it asserts, and two values collide
 # --------------------------------------------------------------------------
 
-# `C-` matches `S-croc` and `T-projection`: a hyphenated word-form id. It does
-# not collide with methodology-theory's `C11` for the same reason `S-croc` does
-# not collide with the Social ladder's `S8` -- the hyphen is the discriminator.
-CLAIM = re.compile(r"<!--\s*@(C-[a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
+# `WF-` for world fact. Two letters, and `W` is untouched by every other id
+# space in the corpus -- so the ambiguity cannot arise even if something later
+# wants W. **The rule is about the letter, not the shape:** an earlier version
+# used `C-` and argued the hyphen distinguished it from methodology-theory's
+# `C11`, which is wrong. Seeing `C` you do not know which space you are in
+# until the second character, and that is the whole objection. When a letter is
+# contested, both sides take two letters.
+CLAIM = re.compile(r"<!--\s*@(WF-[a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
 
 
 def check_claims_agree() -> list[Violation]:

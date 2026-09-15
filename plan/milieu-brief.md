@@ -1,5 +1,5 @@
 ---
-approval: approved 4a9dba0d
+approval: approved a98b87fa
 ---
 
 # Cretaceous — Milieu Brief
@@ -127,7 +127,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **The perimeter** on land is the *border-tangle*: felled trees woven into a rough palisade fifteen meters high, plus planted growth, boulders, and whatever the terrain gives. Rivers are barred with driven stakes, stone weirs and netting in redundant layers. Watchers patrol constantly. Pheromone barriers weep from ceramic nodules along the tangle — a synthesized compound of *T. rex* musk and necrotic tissue that reads to a predator as *wounded alpha, keep clear*, and terrifies smaller animals outright. Nobody pretends the perimeter is sound. It is inspected and repaired forever, and it is breached.
 
-**Domestic animals.** Five to ten hadrosaurs, two to four tonnes each, kept inside and fed on cultivated food, used for heavy labor — hauling stone, uprooting, damming, dragging the boulders over the cycad mash in the basin. <!-- @C-mill.exists: false --> Directing them requires mental projection. Semi-wild herds graze nearby, and Explorers with strong projection go out to recruit animals for a job and release them after. Possibly some ground-dwelling birds for eggs. **Nothing else is domesticated** — no pack animals, no working predators. Cretaceous mammals top out rabbit-sized.
+**Domestic animals.** Five to ten hadrosaurs, two to four tonnes each, kept inside and fed on cultivated food, used for heavy labor — hauling stone, uprooting, damming, dragging the boulders over the cycad mash in the basin. <!-- @WF-mill.exists: false --> Directing them requires mental projection. Semi-wild herds graze nearby, and Explorers with strong projection go out to recruit animals for a job and release them after. Possibly some ground-dwelling birds for eggs. **Nothing else is domesticated** — no pack animals, no working predators. Cretaceous mammals top out rabbit-sized.
 
 **Food.** The staple is starch from the cultivated *stone-cycad*, prized for a rock-dense starchy core. *(The **wild** plant is a different proposition: a small fibrous stem pith and a poor return for the labor of cutting it, which is what two centuries of selective cultivation was for. Anyone eating wild cycad is eating badly on purpose.)* Processing is a multi-day operation to strip the toxins, and it is communal and social: the core is mashed to a fibrous pulp in a natural limestone basin — trodden underfoot for small batches, or worked under boulders dragged by harnessed hadrosaurs for bulk (§6); the raw pulp is a gray-brown sludge that smells sharply acrid and **will poison you**; it is basketed and leached in **running water** — flow is what carries the dissolved toxin away, so still water is not leaching, and neither is a bagged mash carried in a pack, which sits in its own leachate and stops — for one to three days, then dried to a clean, pale, neutral starch that smells like cassava flour. Mixed with water and baked, it caramelizes into *pan* — dense flatbread, dark crackling crust, chewy off-white interior. **When a character eats acrid gray mash, that is unprocessed pulp, and it means scarcity, desperation, or a breakdown in the food system.**
 
@@ -266,7 +266,7 @@ Dry, dry-ish, and alive. Three states of *still in use*.
 
 ### The cycad basin — no millstone, and it is both
 
-**There is no mill.** <!-- @C-mill.exists: false --> "Massive stone mills" is struck; a shaped millstone is the chert knife at a hundred times the size.
+**There is no mill.** <!-- @WF-mill.exists: false --> "Massive stone mills" is struck; a shaped millstone is the chert knife at a hundred times the size.
 
 What there is instead is a **natural karst basin in the limestone**, and two ways of using it depending on the batch.
 
@@ -346,7 +346,7 @@ She feels cold as a *symptom* too — of starvation, blood loss, exhaustion — 
 
 Her grandmother is **Omya**, the last Master Keeper. Because of that position she was expected to receive better upgrades than she got, and the failures read to her as a family failing.
 
-**Her mother died two years ago** (`content/superseded/01.1.md:77-83`) — a bite, then infection, then a Seeding that did not take. She carried the magnetic sense Teva inherited, and she navigated white-out fog by the pull in her bones. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** That is the engine of Teva's rage and it is already on the page. **Her father is Daven, and he died before her mother** — `plan/minor-characters.md` owns the cast and is the authority. <!-- @C-teva.father.status: dead --> That order is what gives her a descending sequence of losses — father, then mother, and now Omya disappearing while she watches — and it is why her grief comes out as rage rather than sorrow. @D1.1
+**Her mother died two years ago** (`content/superseded/01.1.md:77-83`) — a bite, then infection, then a Seeding that did not take. She carried the magnetic sense Teva inherited, and she navigated white-out fog by the pull in her bones. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** That is the engine of Teva's rage and it is already on the page. **Her father is Daven, and he died before her mother** — `plan/minor-characters.md` owns the cast and is the authority. <!-- @WF-teva.father.status: dead --> That order is what gives her a descending sequence of losses — father, then mother, and now Omya disappearing while she watches — and it is why her grief comes out as rage rather than sorrow. @D1.1
 
 Navigator, strategist, and the one who decides. Her mask is rage. Her thematic line: *monsters in the water* against *monsters in the blood*.
 
@@ -388,7 +388,7 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 4. **Population genetics.** Nine hundred-odd people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
 5. **Education.** How knowledge transmits, on biodegradable records, and who decides what is essential — which is the mechanism by which the mission got corrupted, so it is worth knowing.
 6. **Keo's sister** — name, age, cause of death.
-7. ~~**Teva's father**.~~ **Answered** — Daven, dead before Lumea; see `plan/minor-characters.md`. <!-- @C-teva.father.status: dead -->
+7. ~~**Teva's father**.~~ **Answered** — Daven, dead before Lumea; see `plan/minor-characters.md`. <!-- @WF-teva.father.status: dead -->
 8. **Biodegradable memory substrates.** Mycelial, bacterial, protein? How they are read, and how fast they rot.
 9. **Genesis interior** — layout, what still has power, how they get in, and how the disorientation hits each of the three differently.
 10. **The order of revelation** at Genesis, for maximum effect.
