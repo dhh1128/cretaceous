@@ -1911,3 +1911,79 @@ def check_identifiers_resolve() -> list[Violation]:
 
 
 CHECKS["identifiers_resolve"] = check_identifiers_resolve
+
+
+# --------------------------------------------------------------------------
+# shared figures: a number stated twice needs an owner
+# --------------------------------------------------------------------------
+
+FIGURES = "plan/figure-owners.md"
+FIGURE = re.compile(
+    r"\b(\d[\d,]*(?:\.\d+)?)\s*"
+    r"(years?|months?|weeks?|days?|hours?|kilometers?|km|meters?|centimeters?|cm|"
+    r"kilograms?|kg|tonnes?|degrees?|°C|percent|%|people|colonists?|scientists?|"
+    r"suits?|generations?|million|Mya|W\b|mm)\b", re.I)
+# Craft measurement and method history are not world facts; drafted and rejected
+# prose is the record of what was written and not a place anyone cites from.
+FIGURE_SKIP = ("tools/", "process/", "prompts/", "content/rejected/", "content/superseded/")
+
+
+def _norm(value: str, unit: str) -> tuple[str, str]:
+    u = unit.lower().rstrip("s")
+    u = {"°c": "degree", "kilometer": "km", "centimeter": "cm", "kilogram": "kg",
+         "meter": "m", "percent": "%"}.get(u, u)
+    return value.replace(",", ""), u
+
+
+@cache
+def owned_figures() -> set[tuple[str, str]]:
+    """Every (value, unit) the register declares, read from its own table."""
+    out = set()
+    for _, cells in table_rows(section(FIGURES, r"Shared figures")):
+        if not cells:
+            continue
+        m = FIGURE.search(plain(cells[0]))
+        if m:
+            out.add(_norm(*m.groups()))
+    return out
+
+
+def check_shared_figures_owned() -> list[Violation]:
+    """A figure stated in two or more files has a row in the owners register.
+
+    **A proposition stated once cannot contradict itself.** The surface that can
+    drift is not the fact count, it is the repetition count -- and repetition is
+    mechanically discoverable, which is what makes this cheap. `206 years` sat in
+    twelve files and twenty-four places with no owner, and `milieu-brief.md` §2
+    says outright that it is negotiable by fifty years in either direction.
+
+    **The register is not maintained by remembering.** This fails on the *second*
+    mention, so an untabled repeat cannot be created: the act of creating it is
+    what stops the suite. That is the same shape as `no_legacy_addresses`, which
+    is a permanent verifier rather than a one-off sweep.
+
+    **What it cannot do, stated so nobody trusts it too far.** It sees numbers
+    with units. It does not see a proposition carried entirely in words -- *there
+    is no mill* against *hadrosaurs turn the cycad mills* is invisible here and
+    needs a reader. Recall improves on its own as facts move into tables, because
+    the prose surface is the thing being measured."""
+    owned = owned_figures()
+    if not owned:
+        return [Violation(FIGURES, 1, "the register declares no figures; it owns that job")]
+    where: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for path, _, line in iter_lines():
+        if path.startswith(FIGURE_SKIP) or path == FIGURES:
+            continue
+        for m in FIGURE.finditer(line):
+            where[_norm(*m.groups())].add(path)
+    out = []
+    for key, files in sorted(where.items()):
+        if len(files) >= 2 and key not in owned:
+            shown = ", ".join(sorted(files)[:4]) + (" …" if len(files) > 4 else "")
+            out.append(Violation(FIGURES, 1,
+                                 f"{key[0]} {key[1]} is stated in {len(files)} files "
+                                 f"and the register does not own it: {shown}"))
+    return out
+
+
+CHECKS["shared_figures_owned"] = check_shared_figures_owned
