@@ -1,5 +1,5 @@
 ---
-approval: approved c7b91853
+approval: approved d51ebf45
 ---
 
 # Cretaceous — Milieu Brief
@@ -330,6 +330,8 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 A flood during a stretch of bad weather killed **two of the three Master Keepers** at once. The survivor is Omya, Teva's grandmother, and she has dementia — lucid some days, lost on others, able to recite most of the synthesis protocol perfectly and then drop a critical step.
 
 As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 70–80% of the process, and their best compound *almost* works. Cultures are dimming and slowing. The most fragile are dead. No Seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it.
+
+**And it has already deferred once, which is the fact the Day 2 debate is standing on.** When the flood took the two Masters, the Council sat and decided to **wait for the journeymen** — give them time, let them work it, and decide when there was something to decide about. That was a defensible ruling at the time and it is the reason nothing has been done since. **The journeymen have had their time.** So the Day 2 session is the second one, everybody in the chamber knows it, and the *decide later* that ends it is a repetition rather than a first offense. @D2.6
 
 **The Vitarium** is the deep recessed chamber off the kiva, reached through a natural cleft. Constant temperature, high humidity, darkness. Human cell lines in lopsided clay vessels — each deliberately shaped to look like a random clump, a precaution against leaving anything that looks made. Each line produces one vector. Healthy cultures glow; the color is the diagnostic. **Rust-red is T-cell activation, the immunity baseline. Blue is lysine and digestion.** Cultures need daily feeding with synthetic nutrient compound or they apoptose within 24–48 hours. The protein-gel sequencing keys dissolve to dust outside the chamber's humidity.
 

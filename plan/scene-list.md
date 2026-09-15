@@ -112,7 +112,9 @@ Croc drill in driving warm rain. *Monsters in the water* against *monsters in th
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 **Now lands harder** because we met Joram and Riel that morning: their silence is a choice by people we know.
-**Plants:** Hesh's arithmetic, unrefuted (he is book 2's antagonist) · Sila energized where everyone else is weary · Joram's face holding only fear (`content/superseded/03.1.md:70`).
+**And it is the second session, not the first.** When the flood took the two Masters the Council decided to wait for the journeymen (`milieu-brief.md` §8). They have had their time, a child is dead, and the room knows it — so the deferral this session ends on is a repetition.
+**Omya is in the chamber**, sent for with the Keepers, not following any of it. **Teva is beside her**, there as the person who walked her down the cleft, and **she says three words in the whole scene** — *you said that* — to the Council's second deferral, flat, from a girl holding her grandmother's arm. It is her Days 1–6 register (`voice-sheets.md`: assertions to the bone) and it costs nothing from the marshaling register the confrontation needs. **Benal arrives late** and gets noise rather than the argument, which is why he cannot hold D2.2 against this scene until Day 19.
+**Plants:** Hesh's arithmetic, unrefuted (he is book 2's antagonist) · Sila energized where everyone else is weary · Joram's face holding only fear (`content/superseded/03.1.md:74`).
 **Ends on:** the Council deciding to decide later, and Keo finding his father's face in the crowd.
 
 ### D2.7 — [SHORT, ~700] [Day 2, evening] [BENAL] [Outside the chamber] — **NEW**
