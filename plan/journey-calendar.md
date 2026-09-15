@@ -26,7 +26,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | **8** | **the crossing, in the middle of the afternoon** | 2 | 43 |
 | 9 | across; thinning woodland toward the savanna edge | 11 | 54 |
 | **10** | **the fern savanna** — sunfever, her suit fails, his hubris peaks. The last peaceful night | 6 | 60 |
-| **11** | **Noli at dawn. Then the fall** | 4 | 64 |
+| **11** | **Noli at dawn. Then the fall** <!-- @WF-noli.death.day: 11 --> | 4 | 64 |
 | 12 | rain, and **the mash** | 6 | 70 |
 | 13 | it comes due; he carries her <!-- @WF-teva.carried.from: D13 -->; the coastal plain | 10 | 80 |
 | **14** | mudflats, the raft, open water, the mosasaur | offshore | — |

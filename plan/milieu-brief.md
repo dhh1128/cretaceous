@@ -370,7 +370,7 @@ Female, four or five years old — middle-aged against a lifespan of eight to tw
 
 **Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious.
 
-She dies at the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
+She dies at dawn on Day 11 <!-- @WF-noli.death.day: 11 -->, the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
 
 ## 10. Themes
 
