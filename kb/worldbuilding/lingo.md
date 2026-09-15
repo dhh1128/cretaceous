@@ -1,5 +1,5 @@
 ---
-approval: approved 32fa6188
+approval: approved 7f6247bd
 ---
 
 # Drifted vocabulary — Cretaceous Colony English

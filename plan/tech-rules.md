@@ -1,5 +1,5 @@
 ---
-approval: approved 9c623c9c
+approval: approved 2c26ab43
 ---
 
 # Tech rules — taught before exploited
