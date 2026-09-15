@@ -184,6 +184,20 @@ Cut from an earlier version: `[withheld]`, meaning the narration declines to tel
 
 **So the backward question is asked of every IN field: where did this come from?** Canon, an earlier scene's OUT, or the gap. Three answers are permitted and a fourth — silence — is the defect. Read forward, the corpus is consistent; read backward, it has to be *derived*, and derivation is what exposes the thing that simply showed up.
 
+### 4c. Build order is demand-driven, which starts out looking like reverse and then stops
+
+**The asymmetry that decides this is in the annotation, not in the scenes.** `[requires X — payload]` states *what it needs*; `[plants → X]` states only *where it goes*. That is not an accident of notation — it is why §5.4 moved pointers onto the dependent move in the first place. A payload written at the plant end is a guess about what the payoff will want; a payload written at the payoff end is a statement of what it wants. **So mapping backward is the direction in which the dependency annotation carries information**, and mapping forward is the direction in which it carries an address.
+
+**But pure reverse has a real cost and it is worth naming.** In strict late-to-early order, every pointer's target is unmapped at the moment the pointer is written. `scene_map_backward_closure` can then only check that the scene exists — never that the move exists, never that the source delivers the payload. **The check is at its weakest exactly when the corpus is at its emptiest.** Mapping in a shuffled order would fix that, because a fraction of pointers would land on scenes already mapped and start resolving properly.
+
+**The doctrine already contains the answer and it is neither.** §5.4's corollary: *walk the maps, collect the unresolved pointers, and build order falls out of the annotation rather than being chosen.* **Map the most-demanded unmapped scene next** — `tools/demands.py` prints that list in that order.
+
+**What that order does in practice is the interesting part.** With nothing mapped, nothing is demanded, so the first picks fall back on inherited state and the rule looks exactly like reverse order. Then it flips, and fast: four maps in, the most-demanded unmapped scene in this novel is **D2.6**, which is the Day 2 Council debate — because three separate Day 19 moves have committed to needing something from it. **So the order corrects itself from late-to-early into something interleaved, and it buys the shuffle's benefit without the shuffle's cost**, which is writing a scene before anything has demanded anything of it.
+
+**Two guards.** Demand count is a *priority*, not a filter: a scene nothing points at still gets mapped, just last. And the cold start is real — the first two or three picks are arbitrary and should be made on inherited state, which is the only signal available before any pointers exist.
+
+**The reverse direction needs nothing extra.** Plant-to-payoff is already covered by the foreshadow ledger's bijection check and by `payment_order`, so a shuffled order would mostly be re-deriving those by hand.
+
 **The order this implies is late-to-early, and it is not the order anyone would guess.** A scene map tests every scene upstream of it, so its yield is proportional to the state it inherits. Mapping Day 12 first found holes in Days 3, 8, 10 and 11; mapping Day 2 first would have tested almost nothing, because Day 2 inherits nothing. **And each map's `[requires]` pointers accumulate into a specification for the scenes before it** — so by the time the earliest scenes are mapped, they arrive carrying a list of everything the rest of the book needs them to deliver, each demand with its payload stated. That inverts the job: instead of writing an early scene and hoping it plants enough, it is written against a brief.
 
 ## 5. Mechanical invariants
