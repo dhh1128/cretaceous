@@ -18,7 +18,7 @@ A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 6–8 m
 
 `[?]` **How they should read on the page: bio-functional, sleek, grounded.** Not cyberpunk, not a mech, not robotic. They are living equipment that a person steps into, and the prose should not reach for the vocabulary of powered armor.
 
-**Helmet, yes. Faceplate, never.** The hood is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
+**Helmet, yes. Faceplate, never.** <!-- @WF-suit.faceplate: none --> The hood is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
 
 The helmet carries a **flip-down eye shield**: a single transparent curve from brow to cheekbone, for impact, debris and UV. It is not a seal and never was. **Nose and mouth are open to the air at all times, in every configuration.** There is no atmospheric control of any kind — no filtration, no recycling, no regulation.
 
@@ -39,7 +39,7 @@ Sealing is a step-in with a self-closing tab that hisses shut. Sizes are fixed a
 
 Hybrid generation, roughly **10–15 W** continuous, with capacitors that can burst to about 100 W: photovoltaic film beneath the chromatophore layer, thermoelectric off the body-to-ambient differential, piezoelectric fibers off movement, and a small biofuel contribution from the living layer's metabolism.
 
-The suit's **primary job in this climate is cooling, not warming.** Phase-change reservoirs absorb excess body heat and release it gradually through the extremities; the outer surface sits within 1–2 °C of ambient, which is what makes the wearer thermally invisible. In heavy load — heat, exertion, sun — the system saturates, and a saturated suit is a hot box. That is the failure Teva is hiding.
+The suit's **primary job in this climate is cooling, not warming.** <!-- @WF-suit.thermal.primary: cooling --> Phase-change reservoirs absorb excess body heat and release it gradually through the extremities; the outer surface sits within 1–2 °C of ambient, which is what makes the wearer thermally invisible. In heavy load — heat, exertion, sun — the system saturates, and a saturated suit is a hot box. That is the failure Teva is hiding.
 
 ### Sensors and data
 
@@ -81,7 +81,7 @@ The suits are alive and must be fed. Water, which can be dirty, and which rain o
 
 This section is the most important one in the file, and every item is deliberate.
 
-- **It does not make you stronger — it removes penalties.** *(Provisional; under discussion. See repair register D1.)* There are no actuators, and the power budget forbids them: 10–15 W is a bicycle lamp, while walking costs a human on the order of 100 W of mechanical output and a meaningful assist would need several hundred. So Benal's peak strength is unchanged. What the suit does instead is stop things from taking strength away from him. It carries its own weight and distributes pack load across the weave instead of onto his shoulders and spine. It supports his joints under load, the way athletic taping does — passive, no power. It keeps him from overheating. It filters the insect wall so he can think. And it converts injuries that would end his walk into bruises. **He is not stronger; he is harder to stop.** That is what makes an 80 km mudwalk believable for a fragile boy, and it leaves his frailty intact, which his arc needs.
+- **It does not make you stronger — it removes penalties.** <!-- @WF-suit.strength: removes-penalties --> *(Provisional; under discussion. See repair register D1.)* There are no actuators, and the power budget forbids them: 10–15 W is a bicycle lamp, while walking costs a human on the order of 100 W of mechanical output and a meaningful assist would need several hundred. So Benal's peak strength is unchanged. What the suit does instead is stop things from taking strength away from him. It carries its own weight and distributes pack load across the weave instead of onto his shoulders and spine. It supports his joints under load, the way athletic taping does — passive, no power. It keeps him from overheating. It filters the insect wall so he can think. And it converts injuries that would end his walk into bruises. **He is not stronger; he is harder to stop.** <!-- @WF-suit.strength: removes-penalties --> That is what makes an 80 km mudwalk believable for a fragile boy, and it leaves his frailty intact, which his arc needs.
 - **It does not filter your breath, hide your scent, or purify air.** Scent management is the pheromone barrier, applied by hand.
 - **It does not stop a determined large predator.** The fabric may survive a bite; the wearer will not. Crushing force passes straight through. Camouflage is the defense; the armor is for incidental harm.
 - **It does not hide movement.** Camouflage works when you are still. Motion breaks it, and crocs and mosasaurs read vibration regardless of what you look like.
