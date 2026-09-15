@@ -119,7 +119,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **It has to open.** A permanently sealed river silts, clogs with flood debris, and blocks their own access. So the grating is raisable, and raising it is an operation.
 
-**And it does not work.** A grating sized to stop a six-meter adult croc passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene D2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
+**And it does not work.** A grating sized to stop a six-meter adult croc <!-- @WF-croc.length: 6m --> passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene D2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
 **It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement <!-- @WF-yara.cause: croc -->, and nobody in that family has ever needed it explained.
 

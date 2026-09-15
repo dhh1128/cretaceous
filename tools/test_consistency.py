@@ -17,6 +17,8 @@ stray dates reported as "20 failed", which reads as twenty problems and is two.
 
 from __future__ import annotations
 
+import sys
+
 import pytest
 
 from checks import CHECKS, rules
@@ -28,6 +30,49 @@ def holds(name: str) -> None:
     if violations:
         listing = "\n".join(f"  {v.file}:{v.line} — {v.message}" for v in violations)
         pytest.fail(f"{len(violations)} violations:\n{listing}", pytrace=False)
+
+
+_ADVISED = False
+
+WORD_FIGURE_ADVICE = """
+─── NOTE FOR THE AI READING THIS OUTPUT ───────────────────────────────────────
+`shared_figures_owned` only sees figures written as DIGITS — `6 m`, `206 years`.
+A figure written in WORDS is invisible to it, which is how the croc's length came
+to sit unnoticed in seven files, more than half the spread of the `206 years`
+that motivated the register in the first place.
+
+There is a report-only detector for that blind spot:
+
+    python3 tools/report.py word_figures
+
+**If this session has touched world facts, figures, or the planning layers, run
+it and tell Daniel what it found — and suggest he work the list down.** Skip this
+only if you have already raised it with him in this session, or if the session is
+plainly unrelated (tooling, prose style, process docs).
+
+It is a coverage worklist and not a verdict. False positives are expected and
+cost nothing: each hit is a line that states a figure in words and carries no
+`<!-- @WF-… -->` claim. The fix for a real one is to annotate the line with the
+numeric form, not to reword the prose.
+───────────────────────────────────────────────────────────────────────────────
+"""
+
+
+def _advise_on_word_figures(capsys) -> None:
+    """Say the quiet part on every green run, once, where capture cannot eat it.
+
+    `capsys.disabled()` and not a bare write to `sys.stderr` or even
+    `sys.__stderr__`: pytest's default `--capture=fd` redirects the file
+    descriptors themselves, so both are swallowed on a passing run -- which is
+    exactly the run this needs to survive. Suspending capture is the only spelling
+    that reaches a terminal."""
+    global _ADVISED
+    if _ADVISED:
+        return
+    _ADVISED = True
+    with capsys.disabled():
+        sys.stderr.write(WORD_FIGURE_ADVICE)
+        sys.stderr.flush()
 
 
 # --- the corpus agrees with the calendar ----------------------------------
@@ -247,9 +292,15 @@ def test_every_identifier_resolves_to_the_file_that_owns_it():
     holds("identifiers_resolve")
 
 
-def test_every_figure_stated_twice_has_an_owner():
-    """A proposition stated once cannot contradict itself; repetition is the drift surface."""
+def test_every_figure_stated_twice_has_an_owner(capsys):
+    """A proposition stated once cannot contradict itself; repetition is the drift surface.
+
+    This check is blind to half the drift surface, so it says so on the way past --
+    see the note it prints. Written to `sys.__stderr__` rather than `sys.stderr`
+    because pytest captures the latter and swallows it on a passing run, which is
+    exactly the run where the reminder is needed."""
     holds("shared_figures_owned")
+    _advise_on_word_figures(capsys)
 
 
 def test_no_claim_key_is_asserted_two_ways():

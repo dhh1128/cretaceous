@@ -2060,6 +2060,58 @@ CHECKS["shared_figures_owned"] = check_shared_figures_owned
 CLAIM = re.compile(r"<!--\s*@(WF-[a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
 
 
+WORD_NUM = (r"one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|"
+            r"fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|"
+            r"fifty|sixty|seventy|eighty|ninety|hundred|thousand|million")
+WORD_FIGURE = re.compile(
+    rf"\b({WORD_NUM})[\s-]+"
+    r"(years?|months?|weeks?|days?|hours?|kilometers?|km|meters?|centimeters?|cm|"
+    r"kilograms?|kg|tonnes?|degrees?|percent|people|colonists?|scientists?|"
+    r"suits?|generations?|watts?|millimeters?|mm)\b", re.I)
+
+
+def check_word_figures() -> list[Violation]:
+    """Figures written in words, repeated across files, with no claim annotation.
+
+    **Report-only, and deliberately not a test.** `shared_figures_owned` requires a
+    leading digit, so it sees `6 m` and is blind to *six meters* -- which is how the
+    croc's length came to sit in seven files unnoticed, more than half the spread of
+    the `206 years` that motivated the register. This is the gap, and it cannot be
+    closed by growing that regex: word-numbers need enumeration, hyphenation and
+    ranges, and *three people* in an ordinary sentence is structurally
+    indistinguishable from *three people* as a world figure. A false positive in an
+    enforcing check is a broken build; here it is a line somebody glances at and
+    skips, because the output is a coverage worklist rather than a verdict.
+
+    **So the fix is Daniel's, and it is the one `claims_agree` already argued for:
+    stop teaching a regex to read English and have the line declare itself.** A
+    figure written in words carries the numeric form in an inline claim, and the
+    claim then buys the stronger guarantee -- ownership says a row exists, agreement
+    says every site matches.
+
+    Only repeats are reported, because a figure stated once cannot contradict
+    itself, and only where some site is unannotated, because an annotated set is
+    already covered by `claims_agree`."""
+    where: dict[tuple[str, str], list[tuple[str, int, bool]]] = defaultdict(list)
+    for path, n, line in iter_lines():
+        if path.startswith(FIGURE_SKIP) or path in (FIGURES, "tools/checks.py"):
+            continue
+        for m in WORD_FIGURE.finditer(line):
+            key = (m.group(1).lower(), m.group(2).lower().rstrip("s"))
+            where[key].append((path, n, bool(CLAIM.search(line))))
+
+    out = []
+    for (num, unit), sites in sorted(where.items()):
+        files = {p for p, _, _ in sites}
+        bare = [(p, n) for p, n, annotated in sites if not annotated]
+        if len(files) < 2 or not bare:
+            continue
+        shown = ", ".join(f"{p}:{n}" for p, n in bare[:4]) + (" …" if len(bare) > 4 else "")
+        out.append(Violation(*bare[0], f"'{num} {unit}' is stated in {len(files)} files and "
+                                       f"{len(bare)} site(s) carry no claim: {shown}"))
+    return out
+
+
 def check_claims_agree() -> list[Violation]:
     """No claim key is asserted with two different values anywhere in the corpus.
 
@@ -2122,3 +2174,4 @@ def check_claims_agree() -> list[Violation]:
 
 
 CHECKS["claims_agree"] = check_claims_agree
+CHECKS["word_figures"] = check_word_figures

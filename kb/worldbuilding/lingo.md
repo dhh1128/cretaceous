@@ -40,7 +40,7 @@ Five animals, each load-bearing: the primary threat, the recurring pack threat, 
 
 | term | meaning | drift |
 |---|---|---|
-| **croc** | any large crocodilian, principally the six-meter river ambusher nobody can place to genus | clipping. **The most-used word in the book** — "water is death" is about this animal |
+| **croc** | any large crocodilian, principally the six-meter river ambusher nobody can place to genus <!-- @WF-croc.length: 6m --> | clipping. **The most-used word in the book** — "water is death" is about this animal |
 | **razortail** | small pack-hunting theropod, *Acheroraptor* | descriptive compound replacing the binomial |
 | **saropo** | the titanosaur *Alamosaurus*. **The largest thing in the world and no use to anyone** — too big to work, too big to eat, too big to fear | phonetic wear from *sauropod*. The clearest single demonstration that time has passed |
 | **flybeak** | **any** pterosaur — from the thing that scratches on the roof-thatch to the ten-meter *Quetzalcoatlus* that takes children | descriptive compound. **The ambiguity is deliberate and it is the point:** you hear the word and you do not yet know which kind. A boy not even looking up at a small one is characterization of how routine they are, and it makes the midpoint worse. |
