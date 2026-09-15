@@ -1,5 +1,5 @@
 ---
-approval: approved 80b28e38
+approval: approved 32fa6188
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -59,7 +59,7 @@ Five animals, each load-bearing: the primary threat, the recurring pack threat, 
 | term | meaning | drift |
 |---|---|---|
 | **old-tech** | any surviving artifact of the original colonists — metal, polymer, electronics. Taboo outside the Enclave | compound. **The most load-bearing word in the novel**; the whole schism is an argument about it |
-| **lightcell** | power storage cell | compound. Gives the taboo something small and concrete — Sila's "one lost lightcell" at `content/superseded/03.1.md:17` is the taboo in a single object |
+| **lightcell** | power storage cell | compound. Gives the taboo something small and concrete — Sila's "one lost lightcell" at `content/superseded/03.1.md:21` is the taboo in a single object |
 | **wig** | the ground-effect craft at Genesis | **acronym worn down into a noun** — WIG, wing-in-ground-effect — exactly the way *saropo* wore down from *sauropod*. **A word with no referent**: they have it because their ancestors did, and nobody alive has seen one. See `the-wig.md` |
 
 ---
