@@ -14,18 +14,18 @@ Marked `[?]` items are proposals from a session, not rulings. Everything unmarke
 
 ## 1. The three years at Genesis
 
-Two hundred people arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because a spit of coral has none and the rain drains through porous rock within the hour.
+Two hundred people <!-- @WF-founders.count: 200 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because a spit of coral has none and the rain drains through porous rock within the hour.
 
 Three things happen across those three years, and they interlock.
 
 ## 2. They find the cure and cannot prove it
 
-**The upgrade system works.** Viral vectors carrying genetic modification, cultured on site — the thing that will become, six generations later, an unremarkable civic ritual performed on every child. The leadership believes they have it.
+**The upgrade system works.** Viral vectors carrying genetic modification, cultured on site — the thing that will become, six generations <!-- @WF-drift.generations: 6 --> later, an unremarkable civic ritual performed on every child. The leadership believes they have it.
 
 **And they cannot test it**, because a test needs one of two things they do not have:
 
 - **Equipment they cannot build**, to demonstrate efficacy without a live pathogen. This is the road they choose, and they never reach the end of it.
-- **A human trial**, which requires an active infection — and the only pathogen on the planet is the sample they carried back, encased in concrete, wrapped in steel, and buried. Unsealing it creates a hot zone sixty-six million years before the disease exists.
+- **A human trial**, which requires an active infection — and the only pathogen on the planet is the sample they carried back, encased in concrete, wrapped in steel, and buried. Unsealing it creates a hot zone sixty-six million years <!-- @WF-transit.depth: 66Mya --> before the disease exists.
 
 **Cecilia Arroyo votes to run the trial on the scientists, herself included.** The other leaders refuse, and their argument is not cowardice: a leak kills everyone who could finish the work, and a pandemic loose in the Cretaceous is the precise paradox the entire mission was designed around. The vote goes against her. The decision is *keep looking for another way*.
 
@@ -43,9 +43,9 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 ## 4. The water fails, and the colony splits for the first time
 
-**The desalination begins to fail in the third year.** Photovoltaic skin is passive and outlives everything; a desalination plant for two hundred people is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
+**The desalination begins to fail in the third year.** Photovoltaic skin is passive and outlives everything; a desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
 
-**The argument that follows is the first appearance of the schism**, and it does not sound like the modern one. Some hold that leaving is an unacceptable risk: the prime directive is to leave no evidence, the plan was to sit at ground zero for months and be erased, and eighty kilometers of living in the world is not what anyone agreed to. Those who argue for going **accept every restriction that comes with it as the price of permission** — see `plan/milieu-brief.md` §6, because that bargain is the origin of every taboo the colony now keeps.
+**The argument that follows is the first appearance of the schism**, and it does not sound like the modern one. Some hold that leaving is an unacceptable risk: the prime directive is to leave no evidence, the plan was to sit at ground zero for months and be erased, and eighty kilometers <!-- @WF-route.overland: 80km --> of living in the world is not what anyone agreed to. Those who argue for going **accept every restriction that comes with it as the price of permission** — see `plan/milieu-brief.md` §6, because that bargain is the origin of every taboo the colony now keeps.
 
 **Cecilia accepts the decision and volunteers to lead the party inland to solve the water problem.** She has a second reason and does not state it: at the Enclave she will be out from under the leadership's supervision.
 
@@ -79,13 +79,13 @@ They go **before Cecilia can reach them with what she has proved.**
 
 ## 7. The deep past
 
-They never prove the cure. They never build the equipment. A thousand years bought them nothing they could use, which is the tragedy of it: time was the constraint they thought they had.
+They never prove the cure. They never build the equipment. A thousand years <!-- @WF-secondjump.distance: 1000y --> bought them nothing they could use, which is the tragedy of it: time was the constraint they thought they had.
 
 **But they solve the physics**, and it is the physics this novel turns on:
 
 - **You cannot send matter or information through time. You can only go, in person, backward.**
 - **You can only travel forward along a worldline you personally traveled outbound.** Only the original crew could ever go home. Everyone born here is stranded by birth.
-- **Their own second jump is what causes the temporal anomalies**, and it caused them at the moment of the first arrival, a thousand years before the jump was made.
+- **Their own second jump is what causes the temporal anomalies**, and it caused them at the moment of the first arrival, a thousand years <!-- @WF-secondjump.distance: 1000y --> before the jump was made.
 
 **So they leave a time capsule**, buried beside the cleft where the anchor shaft of a Genesis solar array will one day be drilled. They know the site's layout because they lived in it. They place it where somebody who has had the flash will think to look, and not where a survey would turn it up by accident. It is addressed to whoever comes back.
 
@@ -97,7 +97,7 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 **A jump is an event at a place, and the place is damaged by it.** Two jumps have happened at that one spot. Anyone near it perceives fragments, unstuck from sequence — not a message, not a haunting, a **scar**.
 
-**Intensity falls off far more steeply with distance in space than with distance in time — but it falls off with both.** It has to: if there were no temporal falloff the anomaly would still be detectable in the twenty-first century, and it is not. Space is the dominant term by a long way, which is why eighty kilometers dims it to a background unease while two centuries barely does, but the second term is not zero and the story should never imply it is. That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years before the jump that causes it; the Enclave feels it faintly at eighty kilometers, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
+**Intensity falls off far more steeply with distance in space than with distance in time — but it falls off with both.** It has to: if there were no temporal falloff the anomaly would still be detectable in the twenty-first century, and it is not. Space is the dominant term by a long way, which is why eighty kilometers <!-- @WF-route.overland: 80km --> dims it to a background unease while two centuries barely does, but the second term is not zero and the story should never imply it is. That single rule delivers everything the corpus already needs: the founders feel it the day they arrive, three years before the jump that causes it; the Enclave feels it faintly at eighty kilometers <!-- @WF-route.overland: 80km -->, all through two centuries; and it strengthens as the trio walk toward the coast, which makes it a channel that climbs on its own.
 
 **This is the paradox the mission could not guard against, and the irony is the sharpest thing in the book.** Every precaution they took was material — the archaea, the wrappings, the returning, a spear built to rot, the whole doctrine of leaving nothing that could survive to be found. **A scar in spacetime is made of no matter at all. It leaves no stratum, so the impact cannot erase it.** They defended against the wrong category, perfectly.
 
@@ -106,16 +106,16 @@ They never prove the cure. They never build the equipment. A thousand years boug
 | | what they hold | what is true |
 |---|---|---|
 | the date of impact | roughly five hundred years, ± two hundred and sixty, inherited from the founders' early estimate | the year-three fix: **now + 0 to 220 years, measured from year 3** |
-| where that leaves them at year 206 | barely entering the risk band, with plenty of time | **nought to seventeen years** |
+| where that leaves them at year 206 | barely entering the risk band, with plenty of time | **nought to seventeen years <!-- @WF-impact.window.max: 17y -->** |
 | the upgrades | survival tools | the cure, proven in year three by a woman who could not say so |
-| the stayers | dead | a thousand years upstream, and they left a letter |
+| the stayers | dead | a thousand years <!-- @WF-secondjump.distance: 1000y --> upstream, and they left a letter |
 | the taboos | founder instruction | founder *duty*, colony apparatus — see `plan/milieu-brief.md` §6 |
 
-**Benal does not derive a new figure at Genesis. He finds theirs and does the subtraction.** `[?]` The arithmetic wants one pass for consistency: 220 from year 3 puts the outer edge at year 223, so seventeen years remain, and `plan/milieu-brief.md` §2 says "about two decades out, plus or minus one." Those are close and not identical. Pick one and make both files say it.
+**Benal does not derive a new figure at Genesis. He finds theirs and does the subtraction.** `[?]` The arithmetic wants one pass for consistency: 220 from year 3 puts the outer edge at year 223, so seventeen years <!-- @WF-impact.window.max: 17y --> remain, and `plan/milieu-brief.md` §2 says "about two decades out, plus or minus one." Those are close and not identical. Pick one and make both files say it.
 
 **And the Watch is a duty whose purpose has been forgotten.** It was instituted to continue the dating work with the long baseline the founders never had, and nobody alive can say why they do it — the same shape as the upgrades, in a smaller key. Omya recites the sky perfectly and cannot tell you what it is for.
 
-**What the Watch actually records, because "memorizing the stars" would date nothing.** It logs **events**, not positions: conjunctions, occultations, the moon against fixed stars, anything whose period is known and whose recurrence can be timed. A single night of that is worthless. **Two hundred and six years of it is an instrument** — you compare when a configuration actually recurred against when it should have, and the drift between them pins the epoch. That is why the founders instituted it and why three years of their own observation could not do the same job.
+**What the Watch actually records, because "memorizing the stars" would date nothing.** It logs **events**, not positions: conjunctions, occultations, the moon against fixed stars, anything whose period is known and whose recurrence can be timed. A single night of that is worthless. **Two hundred and six years <!-- @WF-transit.elapsed: 206y --> of it is an instrument** — you compare when a configuration actually recurred against when it should have, and the drift between them pins the epoch. That is why the founders instituted it and why three years of their own observation could not do the same job.
 
 **And it is why the recitation survived and the purpose did not.** What a child can be drilled on is the sky itself — names, positions, the order of things. The reason for the drill is a sentence in a record, and a sentence is exactly the kind of thing two centuries of lossy transmission eats. `[?]` Omya can still say what she saw. Nobody can still say why anyone wrote it down.
 
@@ -131,7 +131,7 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 Plus the physics that Benal earns: only the original crew could ever have gone home.
 
-**Everything else in this document is background.** The hot zone, Cecilia's self-experiment, the vote she lost, the ±220 breakthrough, the reason the stayers panicked, what they did with a thousand years — none of it is on the page in book 1. It exists so that what *is* on the page can be consistent with it.
+**Everything else in this document is background.** The hot zone, Cecilia's self-experiment, the vote she lost, the ±220 breakthrough, the reason the stayers panicked, what they did with a thousand years <!-- @WF-secondjump.distance: 1000y --> — none of it is on the page in book 1. It exists so that what *is* on the page can be consistent with it.
 
 **Two specific prohibitions:**
 
@@ -143,5 +143,5 @@ Plus the physics that Benal earns: only the original crew could ever have gone h
 - The ordering of Benal's deduction against the capsule, above.
 - The arithmetic reconciliation in §9.
 - Whether Cecilia recorded her result, and where it is.
-- Whether the stayers can return. Fact G says you can travel forward along a worldline you personally traveled, and jumping 66 to 66.001 Ma gives them exactly that leg — so on the stated rules they can come back, and chose a thousand years of work instead. `[?]` That recasts the heretics as the ones who kept faith hardest, and it is an enormous sequel hook. It is also not something book 1 needs to answer.
+- Whether the stayers can return. Fact G says you can travel forward along a worldline you personally traveled, and jumping 66 to 66.001 Ma gives them exactly that leg — so on the stated rules they can come back, and chose a thousand years <!-- @WF-secondjump.distance: 1000y --> of work instead. `[?]` That recasts the heretics as the ones who kept faith hardest, and it is an enormous sequel hook. It is also not something book 1 needs to answer.
 - Whether the founders jumped *because* the anomaly suggested it, which would make the loop a bootstrap. Elegant, and it is the kind of thing that delights some readers and annoys others. Undecided, and book 1 does not force the question.

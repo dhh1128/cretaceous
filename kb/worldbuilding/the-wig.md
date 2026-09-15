@@ -33,7 +33,7 @@ Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** —
 
 ## 3. The founder history, and why the wigs did not save them
 
-The problem this has to solve: two hundred people walked eighty kilometers, lost a hundred and six, and left aircraft behind. The answer is not that the aircraft were useless. **The aircraft worked, and were used, and could not solve the problem that killed them.**
+The problem this has to solve: two hundred people <!-- @WF-founders.count: 200 --> walked eighty kilometers <!-- @WF-route.overland: 80km -->, lost a hundred and six, and left aircraft behind. The answer is not that the aircraft were useless. **The aircraft worked, and were used, and could not solve the problem that killed them.**
 
 **Four wigs came through.** Two survive at Genesis today.
 
@@ -45,11 +45,11 @@ The problem this has to solve: two hundred people walked eighty kilometers, lost
 
 *This is worth having in the records, because it makes the Day 19 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
 
-**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a solar charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
+**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people <!-- @WF-founders.count: 200 -->, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a solar charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
 
 **So: the wigs solved the finding problem and could not solve the moving problem.** Survey is not transport.
 
-**Phase 5 — And then the wigs stopped being a resource and became a sin.** They were at Genesis; the colony was now eighty kilometers inland; retrieving them meant repeating the journey that had killed half of them. The remaining airframes had already been stripped for the move. And within a generation the hard-tech taboo hardened, so going back for them shifted from *difficult* to *unthinkable*, and **nobody noticed the transition.** Same drift as everything else in this book.
+**Phase 5 — And then the wigs stopped being a resource and became a sin.** They were at Genesis; the colony was now eighty kilometers <!-- @WF-route.overland: 80km --> inland; retrieving them meant repeating the journey that had killed half of them. The remaining airframes had already been stripped for the move. And within a generation the hard-tech taboo hardened, so going back for them shifted from *difficult* to *unthinkable*, and **nobody noticed the transition.** Same drift as everything else in this book.
 
 ### The inversion
 
@@ -94,13 +94,13 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 ## 7. The flight, and what makes it frightening
 
-**It is solar, so it flies by day** — but the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent parked in the sun at Genesis. They lift at noon with everything it will hold and put eighty kilometers behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
+**It is solar, so it flies by day** — but the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent parked in the sun at Genesis. They lift at noon with everything it will hold and put eighty kilometers <!-- @WF-route.overland: 80km --> behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
 
 **They leave undercharged**, because charging takes hours they do not have and they cannot make themselves wait. Every decision afterward is spent out of margin they chose not to have.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
 
-**The flood is the runway.** The cyclone put eighty kilometers of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
+**The flood is the runway.** The cyclone put eighty kilometers <!-- @WF-route.overland: 80km --> of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
 
 **Obstacles, in order of how they must be handled:**
 
@@ -119,7 +119,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 They arrive low on charge, in hard afternoon light, and they have been hoarding the lift rotors the whole way for precisely this. **That is what the rotors are for, and it is a Chekhov's gun established at launch and spent at the wall.**
 
-**Guard against anticlimax.** The walk out took eleven days, and the sea two more, and the return takes hours. That is only acceptable if the return is a *different* ordeal rather than a reward — faster, louder, wholly out of their control, and frightening precisely because they cannot stop.
+**Guard against anticlimax.** The walk out took eleven days <!-- @WF-mudwalk.days: 11 -->, and the sea two more, and the return takes hours. That is only acceptable if the return is a *different* ordeal rather than a reward — faster, louder, wholly out of their control, and frightening precisely because they cannot stop.
 
 ## 7b. The landing, and where the wig lives afterward
 

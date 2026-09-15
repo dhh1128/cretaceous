@@ -14,6 +14,8 @@ approval: unapproved
 
 ---
 
+## The owners
+
 | figure | what it is | owner |
 |---|---|---|
 | 206 years | how long since the transit, at the novel's opening | `plan/milieu-brief.md` §1 |
@@ -30,6 +32,43 @@ approval: unapproved
 | 65 kg | Benal's mass | `plan/milieu-brief.md` §9 |
 | 3 days | **`distinct`** — the founders' three years at Genesis, biome day-ranges, and leaching time all use the token. Not one proposition | `distinct` |
 | 2 days | **`distinct`** — suit feeding interval, forage day-ranges, days of food. Not one proposition | `distinct` |
+
+---
+
+## Word-form figures, and the ones that are not figures at all
+
+**`shared_figures_owned` requires a leading digit, so it sees `6 m` and is blind to *six meters*.** That is how the croc's length came to sit in seven files unnoticed — more than half the spread of the `206 years` above, and nothing looked. `word_figures` closes it, and the fix is not a bigger regex: a figure written in words **carries the numeric form in an inline `@WF-` claim on the same line**, so the prose declares itself instead of a pattern trying to read English. The claim buys more than a row does — a row says an owner exists, a claim says every restatement agrees.
+
+**But a word-number is not always a figure, and this table is where that is said out loud.** *Two days* occurs twenty-nine times across ten files and is twenty-nine different statements: two days of food, two days past the poisoning, two days without sleep, a speech she has had for two days. Annotating those under one key would assert they are one fact, which is the annotation-that-lies failure in its purest form. So a phrase listed here is exempt from `word_figures`, and the `why` column is the whole justification.
+
+**Three verdicts, and they are the same three the owners table uses.** `idiom` — the words recur but the proposition does not, so there is nothing to bind. `distinct` — genuinely two or more propositions sharing a number, named in the `why`. `spelling` — one proposition written loosely, with the row pointing at the exact figure that owns it.
+
+| phrase | verdict | why |
+|---|---|---|
+| two days | `idiom` | rations, elapsed time, sleep debt, suit feeding, a prepared speech. Twenty-nine statements, no shared proposition |
+| three people | `idiom` | the trio as a count, and portions divided three ways |
+| two people · one day · two years · six days · nine days · three weeks · four years · sixteen years | `idiom` | ordinary durations and ages in prose; no proposition recurs |
+| three days · four days · four hours · six hours · three hours · two hours · one hour · twelve hours | `idiom` | leaching stages, lay-ups, watches and marches. The corpus measures in these constantly |
+| two kilometers · three kilometers · four kilometers · eight kilometers · twelve kilometers | `idiom` | per-day distances, owned day by day by `plan/journey-calendar.md` §1 and not a single figure |
+| two suits · three meters · one meter | `idiom` | the stolen pair against the twelve in store; sightlines; a juvenile croc against an adult |
+| three generations | `idiom` | the name-reuse horizon and the drift span are different spans |
+| five weeks | `idiom` | Marisol's silence, and a separate interval in the ladder |
+| three years | `distinct` | **the founders' three years *at Genesis* against the three years the First Walk *took*.** `plan/minor-characters.md:65` and `plan/milieu-brief.md:64` are not the same span and the corpus has never said so |
+| fifteen meters | `distinct` | the border-tangle's height, which the wig's ceiling deliberately matches; nests at twelve to fifteen; the kiva's collapse hole at ten to fifteen |
+| ten meters | `distinct` | the flybeak's wingspan, and the radius Noli will not enter around the barrier |
+| thirty meters | `distinct` | conifer emergent height; canopy depth above the nests; the proximity sense's reach into the ground; and the retired nest height |
+| a million years · one-million years | `distinct` | the depth of book 3's emigration relative to 66 Mya, the galactic-year figure, and fragment 8's artifact |
+| two hundred years | `spelling` | a deliberate round of `206 years` — the prose rounds and the register owns the exact figure. See the owners table above |
+
+```rule
+id:       word-figures-carry-digits
+shape:    membership
+every:    figure written in words, repeated across two or more files
+has:      an inline `@WF-` claim on the same line whose value carries the number
+evidence: `shared_figures_owned` requires a leading digit, so the croc's length sat in seven files with no owner and nothing looked — more than half the spread of the `206 years` this register was built for. The exemptions below are the measurement: run as a worklist first, the detector found 52 groups, of which 17 were one proposition, 14 were idiom or genuinely distinct, and the rest resolved once the numeral was parsed whole
+check:    word_figures
+status:   ratified
+```
 
 ---
 

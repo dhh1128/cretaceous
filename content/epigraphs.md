@@ -37,7 +37,7 @@ This must be unambiguous, because a reader will ask.
 
 **Cecilia never receives anything after departure, and never sends anything forward.** Not because the targeting is fuzzy — because **transmission is not a thing that exists.** You cannot send matter or information through time. <!-- @WF-timecrossing.possible: false --> You can only *go*, in person, backward.
 
-And the return is worse than that: **you can only travel forward along a worldline you personally traveled outbound.** <!-- @WF-return.rule: own-worldline --> That is FG, the novel's largest surprise, and it is the reason two hundred people had to physically make the trip. If anything could be *sent*, nobody needed to leave.
+And the return is worse than that: **you can only travel forward along a worldline you personally traveled outbound.** <!-- @WF-return.rule: own-worldline --> That is FG, the novel's largest surprise, and it is the reason two hundred people <!-- @WF-founders.count: 200 --> had to physically make the trip. If anything could be *sent*, nobody needed to leave.
 
 **This is what makes fragment 12's line the load-bearing sentence in the suite** — *"We are carrying it, and we are bringing it back ourselves"* — and it is exactly the sentence the colony lost.
 
@@ -263,7 +263,7 @@ The channel has to keep working for two more novels, so it needs a rule that gen
 |---|---|---|---|
 | **Book 1** | the 21st century | `T−` | a world that is dying. Bulletins, memos, targeting, and one woman's sent folder. Plus **one** colony record, at the very end, to prove there is more. |
 | **Book 2** | the colony's own 206 years | `A+` | the world they are standing in. Founders' logs, the First Walk, the schism argued out at length, the moment doctrine hardened, the first Keeper to lose a protocol. **This is where the drift becomes visible as it happens**, and where Cecilia's descendants start misquoting her. |
-| **Book 3** | the deep past | ? | a world that may still exist. Whatever the Lost Colonists left, if anything, and it should not be in any format the reader recognizes. **The Lost Colonists are a thousand years back, not a million;** 67 Mya is where the Enclave emigrates at the end of book 3. |
+| **Book 3** | the deep past | ? | a world that may still exist. Whatever the Lost Colonists left, if anything, and it should not be in any format the reader recognizes. **The Lost Colonists are a thousand years <!-- @WF-secondjump.distance: 1000y --> back, not a million;** 67 Mya is where the Enclave emigrates at the end of book 3. |
 
 **The escalation is built in:** book 1's fragments come from a world that is already dead, book 2's from the world under their feet, and book 3's from a world that might still be alive. The emotional temperature rises without anyone raising it.
 

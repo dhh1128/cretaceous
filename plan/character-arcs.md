@@ -4,11 +4,11 @@ approval: approved df209048
 
 # Character arcs and intimacy
 
-What each of the three wants, believes, fears and hides across the nineteen days; where each arc turns; and the temperature of the three dyads.
+What each of the three wants, believes, fears and hides across the nineteen days <!-- @WF-story.span: 19d -->; where each arc turns; and the temperature of the three dyads.
 
 Kept in one file because they are one system: the intimacy is not a subplot running beside the arcs, it is the arcs colliding.
 
-**Everything here is indexed by day**, because the day is the one address in this book that does not move. Scene numbers are being reassigned; `journey-calendar.md` is the authority and its nineteen days are stable.
+**Everything here is indexed by day**, because the day is the one address in this book that does not move. Scene numbers are being reassigned; `journey-calendar.md` is the authority and its nineteen days <!-- @WF-story.span: 19d --> are stable.
 
 ---
 

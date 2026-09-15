@@ -37,23 +37,20 @@ _ADVISED = False
 WORD_FIGURE_ADVICE = """
 ─── NOTE FOR THE AI READING THIS OUTPUT ───────────────────────────────────────
 `shared_figures_owned` only sees figures written as DIGITS — `6 m`, `206 years`.
-A figure written in WORDS is invisible to it, which is how the croc's length came
-to sit unnoticed in seven files, more than half the spread of the `206 years`
-that motivated the register in the first place.
+A figure written in WORDS is caught by `word_figures` instead, which requires the
+line to carry an inline `<!-- @WF-key: value -->` claim whose value repeats the
+number. Both are enforced; between them they cover the figure surface.
 
-There is a report-only detector for that blind spot:
+**So when you state a figure in words in this corpus, annotate the line.** The
+key names the PROPOSITION and never the number — `@WF-route.overland: 80km`, not
+`@WF-eighty`— because `claims_agree` fails on one key holding two values, and
+keying by digits would collide unrelated facts that share a number.
 
-    python3 tools/report.py word_figures
-
-**If this session has touched world facts, figures, or the planning layers, run
-it and tell Daniel what it found — and suggest he work the list down.** Skip this
-only if you have already raised it with him in this session, or if the session is
-plainly unrelated (tooling, prose style, process docs).
-
-It is a coverage worklist and not a verdict. False positives are expected and
-cost nothing: each hit is a line that states a figure in words and carries no
-`<!-- @WF-… -->` claim. The fix for a real one is to annotate the line with the
-numeric form, not to reword the prose.
+**If a word-figure is genuinely not a shared figure, it does not get annotated —
+it gets a row in `plan/figure-owners.md`'s word-form table with a reason.** *Two
+days* is twenty-nine unrelated statements; *fifteen meters* is three different
+heights. Annotating those would assert they are one fact, which is worse than
+leaving them alone. Suggest that table to Daniel before you suggest a claim.
 ───────────────────────────────────────────────────────────────────────────────
 """
 

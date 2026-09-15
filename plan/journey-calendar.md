@@ -12,7 +12,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 ## 1. The calendar
 
-**Nineteen days. 80 km overland, then 5–8 km offshore.**
+**Nineteen days <!-- @WF-story.span: 19d -->. 80 km overland, then 5–8 km offshore.**
 
 | day | where | km | cum |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | **14** | mudflats, the raft, open water, the mosasaur | offshore | — |
 | **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
 | **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |
-| **17** | **the revelation** — the logs of the arrival, and what it does to six generations | — | — |
+| **17** | **the revelation** — the logs of the arrival, and what it does to six generations <!-- @WF-drift.generations: 6 --> | — | — |
 | 18 | **the impasse.** No boat, and the route home is under water. Keo finds something to talk to | — | — |
 | **19** | one wig salvaged by noon, then **the run home** — and the confrontation that evening | 80 | — |
 
@@ -74,7 +74,7 @@ The dependency order:
 |---|---|---|---|
 | **Leaving, Day 3 pre-dawn** | ground fog | clear | The fog is the only reason they get past the watcher |
 | **Constrictor, Day 5** | still air, dense understory | wind, hard rain | An ambush predator the color of dead leaves needs litter that isn't moving, and Benal's hearing has to be defeated by *silence*, not noise |
-| **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to hold two tonnes of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
+| **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to hold two tonnes <!-- @WF-decoy.mass: 2t --> of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
 | **Sunfever, Day 10** | cloudless, no wind | any cloud | Her suit has to lose |
 | **Noli taken, Day 11 dawn** | clear low sun | overcast | The flybeak comes out of the sun. No sun, no ambush |
 | **The raft, Day 14** | building sea, then cyclone | calm | — |
@@ -82,7 +82,7 @@ The dependency order:
 
 **Light rain is the baseline here and changes nothing.** This climate rains often and moderately; showers are ordinary, the ground is usually damp, and a channel on a flat plain does not notice. **Only heavy sustained rain moves water**, and there is none of it before Day 11 — so Days 4 and 5 can be as wet as they like without touching the crossing. **The river has to still have a discrete channel and be crossable**, and that is the constraint the rain schedule exists to protect.
 
-**The crossing is never in rain, high water, or a swollen channel.** A current sweeps the decoy downstream and takes the crocs with it, so the gathering happens anywhere but the crossing point. A spread river has no banks and no crossing point at all. And opaque water hides the thing they are crossing toward, which is why they go in the brightest, stillest hour they can find. *(Not because rain masks the decoy — a panicking two-tonne animal is a far larger signal than rain on a surface, and no shower quietens it. That reasoning was wrong and should not come back.)* Any scene that describes the river as fast, risen or opaque has broken the set-piece it belongs to.
+**The crossing is never in rain, high water, or a swollen channel.** A current sweeps the decoy downstream and takes the crocs with it, so the gathering happens anywhere but the crossing point. A spread river has no banks and no crossing point at all. And opaque water hides the thing they are crossing toward, which is why they go in the brightest, stillest hour they can find. *(Not because rain masks the decoy — a panicking two-tonne <!-- @WF-decoy.mass: 2t --> animal is a far larger signal than rain on a surface, and no shower quietens it. That reasoning was wrong and should not come back.)* Any scene that describes the river as fast, risen or opaque has broken the set-piece it belongs to.
 
 **The journey's first day outside is Day 3, and it starts before dawn.** Late night belongs to Day 2; the pre-dawn after it is Day 3. Anything tagged Day 2 pre-dawn or Day 2 morning that happens outside the border-tangle is a day behind.
 
@@ -104,11 +104,11 @@ The dependency order:
 
 **The extra help is not theirs and must not read as theirs.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
 
-### No season pivot, and nothing seasonal inside nineteen days
+### No season pivot, and nothing seasonal inside nineteen days <!-- @WF-story.span: 19d -->
 
 *"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* <!-- @WF-season.pivot: none --> Where an older draft said *season*, read *a run of days with similar weather*.
 
-**A wet and dry rainfall cycle does exist in the background, and this book never sees it.** <!-- @WF-rainfall.cycle: wet-dry --> `kb/research/geo-flora-fauna.md:48` gives rainfall as moderate and relatively evenly distributed through the year, *"suggesting a pattern of wet and dry seasons rather than a constant monsoon"* — a precipitation cycle and not a temperature one, and far too slow to register across nineteen days. **So the two files agree and the earlier reading of them did not:** the cycle is real, it is never observable on the page, no character names it, and it is not available as a plot instrument. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
+**A wet and dry rainfall cycle does exist in the background, and this book never sees it.** <!-- @WF-rainfall.cycle: wet-dry --> `kb/research/geo-flora-fauna.md:48` gives rainfall as moderate and relatively evenly distributed through the year, *"suggesting a pattern of wet and dry seasons rather than a constant monsoon"* — a precipitation cycle and not a temperature one, and far too slow to register across nineteen days <!-- @WF-story.span: 19d -->. **So the two files agree and the earlier reading of them did not:** the cycle is real, it is never observable on the page, no character names it, and it is not available as a plot instrument. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
 
 ### Rivers here do not swell. They spread.
 
@@ -122,7 +122,7 @@ What it does instead is go **wide**. <!-- @WF-river.flood.mode: spreads --> A th
 
 **They never cross a river twice, and the reason is not the crocs.** It is that after Day 14 there is no river to cross.
 
-The cyclone hits on Day 14 while they are offshore, and a cyclone on a low-relief coastal plain means storm surge plus days of standing water. **The whole route home floods in a single night, while that same storm is nearly killing them.** They come out of Genesis into a world where the eighty kilometers they walked is shallow water.
+The cyclone hits on Day 14 while they are offshore, and a cyclone on a low-relief coastal plain means storm surge plus days of standing water. **The whole route home floods in a single night, while that same storm is nearly killing them.** They come out of Genesis into a world where the eighty kilometers <!-- @WF-route.overland: 80km --> they walked is shallow water.
 
 Three things this buys:
 
@@ -203,7 +203,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 
 **How it lands:**
 
-- **Scene D2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now. @D2.4
+- **Scene D2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years <!-- @WF-omya.watch.years: 60 --> of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now. @D2.4
 - **Night 3, first night out.** Teva tries the recitation alone and gets partway, then finds a gap she cannot fill, and understands that the gap is permanent.
 - **Nights 6 and 10.** Benal works out what a memorized positional sky actually *is* — a 206-year observational dataset held in one dying woman's head — and is the only person alive who would recognize it as a resource.
 - **Genesis.** The colony had two ways to find the impactor: instruments here, the Watch at home. It lost both and only noticed one.
@@ -213,7 +213,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 
 ### What is actually overhead
 
-- **No modern constellation exists.** Sixty-six million years of proper motion has dismantled every one. The sky is unrecognizable to us and perfectly familiar to them.
+- **No modern constellation exists.** Sixty-six million years <!-- @WF-transit.depth: 66Mya --> of proper motion has dismantled every one. The sky is unrecognizable to us and perfectly familiar to them.
 - **The constellations are the founders'** — named 206 years ago and passed down intact. **The star lore survived uncorrupted because it is checked against the sky every single night, while the mission instructions drifted because nothing ever tested them.** That is the novel's thesis, sitting in the sky. Give it to Benal, once.
 - **The moon is the one thing that is exactly the same.** Roughly 2,500 km closer, under a percent, imperceptible. Everything in this world is strange except the moon.
 - Day length was closer to 23.5 hours. *(Open: whether the colony keeps a 24-hour clock that no longer matches the sun, or recalibrated long ago. They use military time, so somebody decided this once.)*

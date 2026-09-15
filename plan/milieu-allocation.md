@@ -109,7 +109,7 @@ Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wall
 - **Bioluminescent beetles** at night, pulsing on an unfamiliar rhythm — Days 2 and 6. *(Luminous elateroid beetles are known from Cretaceous amber; this is inference to the Maastrichtian rather than direct evidence, and it is a small, cheap inference.)*
 - **A saropo herd from a ridge** — Day 6. Awe with nothing at stake.
 - ***Ornithomimus* running** — Day 10. Pure pleasure, no threat.
-- **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at, and what it means that it will still be there in sixty-six million years.
+- **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at, and what it means that it will still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->.
 
 ### Edible things, and what they cost
 
@@ -147,11 +147,11 @@ Each of these is owned once. The number is the day.
 
 **Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · brine and cold (14) · the mosasaur's breath (14) · wet metal, ozone and dormant circuits at Genesis (16).
 
-**Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days. Nobody has to point this out.
+**Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days <!-- @WF-mudwalk.days: 11 -->. Nobody has to point this out.
 
 **Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
-**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
+**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
 **Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the eye of the storm, high and bright and wrong (15) · the first honest sunlight in six days (16).
 
@@ -184,7 +184,7 @@ id:       biome-covers-every-day
 shape:    membership
 every:    day in `plan/journey-calendar.md` §1
 has:      the day ranges of the biome bands in §2 of this file
-evidence: §2 exists to give every outdoor scene a biome. Days 7, 8, 9, 17 and 18 had no band at all after the book grew to nineteen days, and nothing noticed
+evidence: §2 exists to give every outdoor scene a biome. Days 7, 8, 9, 17 and 18 had no band at all after the book grew to nineteen days <!-- @WF-story.span: 19d -->, and nothing noticed
 check:    biome_covers_every_day
 status:   ratified
 ```

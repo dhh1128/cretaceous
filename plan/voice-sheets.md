@@ -4,7 +4,7 @@ approval: approved 58c27698
 
 # Voice sheets
 
-How each character talks, and — for the three — how that changes across the nineteen days.
+How each character talks, and — for the three — how that changes across the nineteen days <!-- @WF-story.span: 19d -->.
 
 **These idiolects are designed, not observed.** The convention here is strict. A quote marked **[drafted]** appears in `content/superseded/` and is evidence of nothing except that somebody once wrote it; it is quoted where it happens to be good. A quote marked **[designed]** is a line the plan intends to write and has not written. Nothing else is quoted. If a line has no mark, it is not a quotation.
 
@@ -38,7 +38,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
 
-**Tics.** Calls him **Ben** when they are close and **Benal** when they are not, and the switch is a thermometer — read it off the dyad table in `character-arcs.md` §3, which runs 2 to 9. Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers. It's a swamp. It's…"* **[drafted]**
+**Tics.** Calls him **Ben** when they are close and **Benal** when they are not, and the switch is a thermometer — read it off the dyad table in `character-arcs.md` §3, which runs 2 to 9. Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
 
 **Never says.** That he is frightened. Anything about Yara. Anything about Teva.
 

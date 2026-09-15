@@ -21,7 +21,7 @@ Content Example (for Act 3): Corrupted Log Entry: "...schism is complete. They'r
 
 Structural Device: Temporal Flashes (Visions)
 
-Purpose: To deliver the subjective, emotional backstory of the drift and foreshadow the "Lost Colonists" — a thousand years back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
+Purpose: To deliver the subjective, emotional backstory of the drift and foreshadow the "Lost Colonists" — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, not a million; 67 Mya is book 3's destination and a different jump. See `plan/sequels.md`.
 
 Mechanism: A symptom of proximity to the damaged temporal equipment at Genesis. They start weak late on the mudwalk and become overwhelming at the site during the Dark Night.
 
@@ -154,7 +154,7 @@ Revelation (Part 1): They find the logs of the perfect arrival.
 
 Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from the Dark Night. He realizes: "They couldn't go back. It's not about forward/backward. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
 
-Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years back, though the book never states the figure — including the symbol Keo saw in his first flash. **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
+Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, though the book never states the figure — including the symbol Keo saw in his first flash. **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
 
 Rationale (POV Irony): We are in Benal's head, the only one who truly understands the terrifying scale of this discovery. Keo and Teva see the "lie," but we (and Benal) see the "impossible new mission."
 
@@ -198,4 +198,4 @@ The stunned, furious, terrified faces of the Council. Keo's parents, standing un
 
 **`plan/sequels.md` is the authority for books 2 and 3**, and this section is deliberately not a summary of it — a second copy would drift, and the version that stood here already had.
 
-Two things it got wrong are worth recording, because both would have propagated into book 1. It had the Lost Colonists "trying to communicate back," which breaks the rule that **nothing crosses time in either direction** — the rule FG rests on, and the reason two hundred people had to make the trip in person. And it made Benal's endgame *sending the signal and jumping himself*, which is not the shape: he proves there is no paradox to fear, and the trilogy ends with a rescue and a migration rather than with one boy jumping.
+Two things it got wrong are worth recording, because both would have propagated into book 1. It had the Lost Colonists "trying to communicate back," which breaks the rule that **nothing crosses time in either direction** — the rule FG rests on, and the reason two hundred people <!-- @WF-founders.count: 200 --> had to make the trip in person. And it made Benal's endgame *sending the signal and jumping himself*, which is not the shape: he proves there is no paradox to fear, and the trilogy ends with a rescue and a migration rather than with one boy jumping.

@@ -30,7 +30,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **She is also the last of the Watch, and nobody has noticed.** Keepers hold a memorized sky, drilled and verified nightly for 206 years, precise enough that anything new in it would be obvious — see `plan/milieu-brief.md` §5. A watch that finds nothing is indistinguishable from a watch that is not happening, so while the whole colony measures the death of the synthesis protocol, this half of her is going unmeasured and unmourned. **The impactor could already be findable and there is nobody left who would know.**
 
-**And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:49`) because Teva was being trained for this.
+**And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years <!-- @WF-omya.watch.years: 60 -->. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:49`) because Teva was being trained for this.
 
 **Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
@@ -46,7 +46,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## The Keepers
 
-**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
+**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent <!-- @WF-rano.protocol.share: 80pct --> of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
 
 ## The Council
 
@@ -64,7 +64,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: the First Walk left Genesis with two hundred and reached the Enclave with ninety-four, across three years, with rifles and plasma cutters. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
 
-**He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has twenty years and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `plan/knowledge-ledger.md`, rows N–S.
+**He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has twenty years <!-- @WF-impact.deadline: 20y --> and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `plan/knowledge-ledger.md`, rows N–S.
 
 ## The bereaved
 

@@ -92,7 +92,7 @@ Each carries a count and a spacing. **A motif that appears in every chapter is w
 
 ### Counting — around 8 to 10 appearances, evenly spread. The numbers in this section are targets for spacing, not caps.
 
-The strongest available and it is already everywhere without having been noticed. Riel gives a number where anyone else would give an impression. Hesh does the First Walk arithmetic. Twelve suits, ten that work, eleven if Sarel's is repairable. Eighty kilometers. Eighty percent of a protocol, which is worth nothing. Position one-oh-seven.
+The strongest available and it is already everywhere without having been noticed. Riel gives a number where anyone else would give an impression. Hesh does the First Walk arithmetic. Twelve suits <!-- @WF-suits.remaining: 12 -->, ten that work, eleven if Sarel's is repairable. Eighty kilometers <!-- @WF-route.overland: 80km -->. Eighty percent <!-- @WF-rano.protocol.share: 80pct --> of a protocol, which is worth nothing. Position one-oh-seven.
 
 **Counting is how this society holds itself together — and the one number nobody can produce is the impact date.** That is the motif's payoff and it needs no comment: the culture that counts everything cannot count the only thing that matters.
 
@@ -112,7 +112,7 @@ The mantra is stated early and then **never defended**, because the book proves 
 2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Not her magnetic sense, which is worth more offshore than on land — a heading matters most where there are no landmarks. Not her thermal failure either; the lethal half of that is heat, and there is no cold water in this world.)*
 3. **The weapons.** Archaea in the shafts wake on sustained wetting. Water eats the things you defend yourself with.
 4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the raft, the fieldpack, and Benal's mathematics.
-5. **Yara.** Eleven meters of open water she had crossed a hundred times.
+5. **Yara.** Eleven meters <!-- @WF-yara.water.depth: 11m --> of open water she had crossed a hundred times.
 
 Nobody in the novel enumerates this. The mantra is a children's rule that turns out to be an understatement, and the reader should get there alone.
 

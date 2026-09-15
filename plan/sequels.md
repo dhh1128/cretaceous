@@ -23,7 +23,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **The schism at the Enclave gets worse.** The trio's revelation has split the society and control of Genesis and the wig is what it splits over.
 
-**He sets up radio between the Enclave and Genesis**, and this is the enabling move for everything else. *(No conflict with `content/epigraphs.md`'s "nothing crosses, ever": that rule is about **time**. Radio across eighty kilometers of space is ordinary physics and always was.)*
+**He sets up radio between the Enclave and Genesis**, and this is the enabling move for everything else. *(No conflict with `content/epigraphs.md`'s "nothing crosses, ever": that rule is about **time**. Radio across eighty kilometers <!-- @WF-route.overland: 80km --> of space is ordinary physics and always was.)*
 
 **And it lets him make sense of what the Watch is for.** With the link open, **Omya can pass along a perfect dataset, with Teva's help** — two hundred years of nightly sky observation, held in the memory of a woman who cannot retain a protein fold and can still recite the stars. The knowledge nobody valued turns out to be the instrument.
 
@@ -36,7 +36,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **These two are `[?]` in their placement.** Both could land at the end of book 2, or one could hold to the end of book 3, and the relative order is open.
 
-*(The arithmetic holds: book 1 leaves a window of nought to seventeen years, and four is inside it. The precision does not contradict anything — it collapses a range that was always this bad and nobody knew.)*
+*(The arithmetic holds: book 1 leaves a window of nought to seventeen years <!-- @WF-impact.window.max: 17y -->, and four is inside it. The precision does not contradict anything — it collapses a range that was always this bad and nobody knew.)*
 
 ### Two plants book 2 must set
 
@@ -82,9 +82,9 @@ The plants this book must land, claimed from the ledger:
 
 **Benal never finds them, and that is settled.** The mystery arc pays off through Cecilia instead, and the two figures are not in conflict: **the second jump is a thousand years <!-- @WF-secondjump.distance: 1000y -->, and 67 Mya is where the Enclave emigrates at the end of book 3 <!-- @WF-emigration.distance: 67Mya -->.** Two different jumps, a million years apart.
 
-**They failed.** They never built the equipment they went back for, and they lived out their lives in simple subsistence. What they did manage was to **bury the capsule and the jump equipment for the other scientists to find at 66 Mya** — a message and a machine, addressed forward across a thousand years to people they had walked away from.
+**They failed.** They never built the equipment they went back for, and they lived out their lives in simple subsistence. What they did manage was to **bury the capsule and the jump equipment for the other scientists to find at 66 Mya** — a message and a machine, addressed forward across a thousand years <!-- @WF-secondjump.distance: 1000y --> to people they had walked away from.
 
-**Cecilia reaches them, and the jump is inexact.** She goes back intending a thousand years and travels about nine hundred and seventy-five, so she does not arrive among peers — **she arrives among old men.** She is in her fifties; they have been there four decades. She learns their whole story and is able to give them the one thing that would have made it bearable: **she found the cure.**
+**Cecilia reaches them, and the jump is inexact.** She goes back intending a thousand years <!-- @WF-secondjump.distance: 1000y --> and travels about nine hundred and seventy-five, so she does not arrive among peers — **she arrives among old men.** She is in her fifties; they have been there four decades. She learns their whole story and is able to give them the one thing that would have made it bearable: **she found the cure.**
 
 **And then she is stuck.** They have had setbacks and can no longer generate power, so there is no way to send her back. She lives out years there, a little younger than the people she came to find.
 
@@ -94,11 +94,11 @@ The plants this book must land, claimed from the ledger:
 
 ## Open questions
 
-**Why did Cecilia not simply go home?** She is an original colonist, so the worldline is hers, and she had the proof. Instead she took the backup rig and went **backward**, to the people who had left. `[?]` The shape of an answer is visible: the only thing she could not do alone was *prove it to anyone who mattered*, and the men who had refused her the trial were a thousand years upstream. But it has not been decided, and the answer probably determines what kind of person she was — which reaches back into how her letters read in book 1.
+**Why did Cecilia not simply go home?** She is an original colonist, so the worldline is hers, and she had the proof. Instead she took the backup rig and went **backward**, to the people who had left. `[?]` The shape of an answer is visible: the only thing she could not do alone was *prove it to anyone who mattered*, and the men who had refused her the trial were a thousand years <!-- @WF-secondjump.distance: 1000y --> upstream. But it has not been decided, and the answer probably determines what kind of person she was — which reaches back into how her letters read in book 1.
 
 **The return rule is settled and the mechanism is entanglement.** Backward travel is unrestricted; forward travel requires that you be entangled with the destination, which happens by having physically lived through it. Cecilia's entangled intervals are the twenty-first century, 66 Mya from year 0 to 22, and the deep past from −975 to −953. The anchor is the departure event rather than the arrival instant, so she boards the leg home from year 22. Full statement in `kb/worldbuilding/benals-equation.md`. **It also explains the book 3 emigration without a special case:** the Enclave going back a million years is backward travel and needs nothing, and they can never come forward again, which is fine because they are not planning to.
 
-**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried a thousand years upstream, while what remains at Genesis is the damaged **arrival** apparatus. **Two devices, not one.** <!-- @WF-genesis.equipment.partial: true -->
+**What is at Genesis, then?** `plan/milieu-brief.md` §3 lists "the damaged temporal equipment" as still there in book 1. `[?]` The reconciliation: the second jumpers took the **return rig** with them, which is how they jumped and why it is buried a thousand years <!-- @WF-secondjump.distance: 1000y --> upstream, while what remains at Genesis is the damaged **arrival** apparatus. **Two devices, not one.** <!-- @WF-genesis.equipment.partial: true -->
 
 **Keo in book 2**, above.
 

@@ -6,7 +6,7 @@ approval: unapproved
 
 Sets scene count, scene sizing, chapters, and the four stakes curves — which are one problem, because the ladders are what tell you where scenes are needed.
 
-**Indexed by day.** Scene numbers are being reassigned and the fifteen-unit outline structure is retiring as an address system; the nineteen days in `journey-calendar.md` are stable and are what everything here hangs on.
+**Indexed by day.** Scene numbers are being reassigned and the fifteen-unit outline structure is retiring as an address system; the nineteen days <!-- @WF-story.span: 19d --> in `journey-calendar.md` are stable and are what everything here hangs on.
 
 ---
 
@@ -52,7 +52,7 @@ The label earns its place twice over here. This is a **rotating three-POV novel*
 
 **Five rather than three, and the difference is a measurement.** Across Daniel's two novels the rotation is not mechanical: `viking` never stays in one head for three consecutive chapters in fifty-five, while `cordimancy` runs strict alternation for eleven chapters, brings a third POV in at twelve, and then holds one head for five. Three would be `viking`'s practice imposed on a book that is structurally closer to neither. Five is the wider of the two and it still binds — the list currently runs 38 single scenes, nine pairs, one triple and one run of five, and that five is Act 1's theft sequence, which sits exactly at the line and is the kind of deliberate long hold the ceiling exists to permit rather than punish.
 
-**The ceiling is not a target and the mean is not the measurement.** A book that alternated perfectly would satisfy any ceiling and read like a metronome; what the number is for is catching the run nobody chose. The one it caught on its first pass was six — Benal from the drag-frame through the mosasaur to the coral bank — assembled from two decisions that were each right on their own and never looked at together. And it is a **nineteen-day journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
+**The ceiling is not a target and the mean is not the measurement.** A book that alternated perfectly would satisfy any ceiling and read like a metronome; what the number is for is catching the run nobody chose. The one it caught on its first pass was six — Benal from the drag-frame through the mosasaur to the coral bank — assembled from two decisions that were each right on their own and never looked at together. And it is a **nineteen-day <!-- @WF-story.span: 19d --> journey with days that will be skipped**, so a label reading *Day 13* does the work a paragraph of *two days on* would otherwise have to.
 
 **And the `§` carries the transition, which means the first clause after it does the time-skip inside itself.** No "meanwhile." No standalone "later that day." That rule is the one that makes the mark worth having, and `prompts/style-canon.md` §3 has the passages.
 
@@ -164,7 +164,7 @@ Emotional, Physical, Social, Species — written `EM`, `P`, `S`, `SP`, because `
 
 **Two ladders are flat through the middle of the book.**
 
-**Social** goes dormant once they leave and does not move again until the confrontation, because the trio walks away from everyone who could raise it. Act 2 then runs on physical stakes almost alone, which is how an eleven-day walk reads as walking with monsters attached.
+**Social** goes dormant once they leave and does not move again until the confrontation, because the trio walks away from everyone who could raise it. Act 2 then runs on physical stakes almost alone, which is how an eleven-day <!-- @WF-mudwalk.days: 11 --> walk reads as walking with monsters attached.
 
 **Species barely moves anywhere** — 3, 3, 4, 4, 4, then nine consecutive rows at 5, then 6, 6, 6, 7, then 10 at the revelation. Nine rows without a move, and adding the river days made that stretch longer rather than shorter. It is the ladder Daniel most wants the reader to feel, and it is abstract, and abstractions do not climb on their own.
 

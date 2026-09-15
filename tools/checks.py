@@ -1994,9 +1994,14 @@ def _norm(value: str, unit: str) -> tuple[str, str]:
 
 @cache
 def owned_figures() -> set[tuple[str, str]]:
-    """Every (value, unit) the register declares, read from its own table."""
+    """Every (value, unit) the register declares, read from its own table.
+
+    Anchored on `The owners` rather than on the file's title, because `table_rows`
+    keeps only the rows after the last separator it sees -- so a second table
+    anywhere later in the section silently shadows this one and the register reads
+    as empty. It did, the moment the word-form table was added."""
     out = set()
-    for _, cells in table_rows(section(FIGURES, r"Shared figures")):
+    for _, cells in table_rows(section(FIGURES, r"The owners")):
         if not cells:
             continue
         m = FIGURE.search(plain(cells[0]))
@@ -2031,7 +2036,12 @@ def check_shared_figures_owned() -> list[Violation]:
     for path, _, line in iter_lines():
         if path.startswith(FIGURE_SKIP) or path == FIGURES:
             continue
-        for m in FIGURE.finditer(line):
+        # **A claim annotation is not a mention.** It shadows the figure in the
+        # prose beside it and carries the numeric form on purpose, so counting it
+        # would make every word-figure annotated for `word_figures` register here
+        # as a digit-figure needing its own owner row -- each system manufacturing
+        # work for the other. The prose surface is the thing being measured.
+        for m in FIGURE.finditer(CLAIM.sub(" ", line)):
             where[_norm(*m.groups())].add(path)
     out = []
     for key, files in sorted(where.items()):
@@ -2060,14 +2070,82 @@ CHECKS["shared_figures_owned"] = check_shared_figures_owned
 CLAIM = re.compile(r"<!--\s*@(WF-[a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
 
 
-WORD_NUM = (r"one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|"
-            r"fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|"
-            r"fifty|sixty|seventy|eighty|ninety|hundred|thousand|million")
-WORD_FIGURE = re.compile(
-    rf"\b({WORD_NUM})[\s-]+"
-    r"(years?|months?|weeks?|days?|hours?|kilometers?|km|meters?|centimeters?|cm|"
-    r"kilograms?|kg|tonnes?|degrees?|percent|people|colonists?|scientists?|"
-    r"suits?|generations?|watts?|millimeters?|mm)\b", re.I)
+# **The numeral has to be captured whole or the grouping is a fiction.** A pattern
+# that takes only the word before the unit collapses *sixty-six million years*,
+# *seven million years* and *a million years* into one bucket -- three unrelated
+# propositions reported as one repeated figure, which is worse than not looking.
+SMALL = ("nineteen|eighteen|seventeen|sixteen|fifteen|fourteen|thirteen|twelve|eleven|ten|"
+         "nine|eight|seven|six|five|four|three|two|one")
+TENS = "twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety"
+SCALE = "hundred|thousand|million"
+NUMWORD = rf"(?:(?:{TENS})(?:[-\s](?:{SMALL}))?|(?:{SMALL}))"
+WORD_NUM = rf"(?:(?:{NUMWORD}[\s-])?(?:{SCALE})(?:[\s-]and[\s-]{NUMWORD})?|{NUMWORD})"
+UNIT = (r"years?|months?|weeks?|days?|hours?|kilometers?|km|meters?|centimeters?|cm|"
+        r"kilograms?|kg|tonnes?|degrees?|percent|people|colonists?|scientists?|"
+        r"suits?|generations?|watts?|millimeters?|mm")
+WORD_FIGURE = re.compile(rf"\b({WORD_NUM})[\s-]+({UNIT})\b", re.I)
+
+_ONES = {w: i for i, w in enumerate(
+    "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen "
+    "fifteen sixteen seventeen eighteen nineteen".split())}
+_TENS = {w: (i + 2) * 10 for i, w in enumerate(
+    "twenty thirty forty fifty sixty seventy eighty ninety".split())}
+_SCALE = {"hundred": 100, "thousand": 1000, "million": 1_000_000}
+
+
+def word_to_int(phrase: str) -> int | None:
+    """`sixty-six million` -> 66000000. None if it does not parse cleanly.
+
+    Used to shadow-check an annotation against the words beside it: a claim whose
+    value does not contain the number the sentence states is worse than no claim,
+    because it reads as authoritative and agrees with itself."""
+    total = run = 0
+    seen = False
+    for w in re.split(r"[\s-]+", phrase.lower()):
+        if w == "and":
+            continue
+        if w in _ONES:
+            run += _ONES[w]
+        elif w in _TENS:
+            run += _TENS[w]
+        elif w in _SCALE:
+            run = (run or 1) * _SCALE[w]
+            total += run
+            run = 0
+        else:
+            return None
+        seen = True
+    return total + run if seen else None
+
+
+@cache
+def exempt_word_figures() -> set[tuple[str, str]]:
+    """(number-words, unit) pairs the register declares are not shared figures.
+
+    Read from `figure-owners.md`'s own table rather than restated here, and a row
+    carries its reason in prose because the reason is the entire justification --
+    *two days* is twenty-nine unrelated statements and *fifteen meters* is three
+    different heights, and neither fact is recoverable from a bare exemption."""
+    out = set()
+    for _, cells in table_rows(section(FIGURES, r"Word-form figures")):
+        if len(cells) < 2:
+            continue
+        for phrase in re.split(r"·", plain(cells[0])):
+            m = WORD_FIGURE.search(phrase.strip())
+            if m:
+                out.add((re.sub(r"\s+", " ", m.group(1).lower()), m.group(2).lower().rstrip("s")))
+    return out
+
+
+def _shadows(value: str, n: int) -> bool:
+    """Does a claim's value carry the number the sentence beside it states?
+
+    Exact digits, except that a whole number of millions may be written as its
+    significand -- the corpus spells the transit depth `66 Mya`, not 66000000."""
+    digits = re.sub(r"[,_\s]", "", value)
+    if str(n) in digits:
+        return True
+    return n >= 1_000_000 and n % 1_000_000 == 0 and str(n // 1_000_000) in digits
 
 
 def check_word_figures() -> list[Violation]:
@@ -2092,23 +2170,29 @@ def check_word_figures() -> list[Violation]:
     Only repeats are reported, because a figure stated once cannot contradict
     itself, and only where some site is unannotated, because an annotated set is
     already covered by `claims_agree`."""
+    exempt = exempt_word_figures()
     where: dict[tuple[str, str], list[tuple[str, int, bool]]] = defaultdict(list)
     for path, n, line in iter_lines():
         if path.startswith(FIGURE_SKIP) or path in (FIGURES, "tools/checks.py"):
             continue
         for m in WORD_FIGURE.finditer(line):
-            key = (m.group(1).lower(), m.group(2).lower().rstrip("s"))
-            where[key].append((path, n, bool(CLAIM.search(line))))
+            key = (re.sub(r"\s+", " ", m.group(1).lower()), m.group(2).lower().rstrip("s"))
+            if key in exempt:
+                continue
+            value = word_to_int(m.group(1))
+            shadowed = value is not None and any(
+                _shadows(c.group(2), value) for c in CLAIM.finditer(line))
+            where[key].append((path, n, shadowed))
 
     out = []
     for (num, unit), sites in sorted(where.items()):
         files = {p for p, _, _ in sites}
-        bare = [(p, n) for p, n, annotated in sites if not annotated]
+        bare = [(p, n) for p, n, ok in sites if not ok]
         if len(files) < 2 or not bare:
             continue
         shown = ", ".join(f"{p}:{n}" for p, n in bare[:4]) + (" …" if len(bare) > 4 else "")
         out.append(Violation(*bare[0], f"'{num} {unit}' is stated in {len(files)} files and "
-                                       f"{len(bare)} site(s) carry no claim: {shown}"))
+                                       f"{len(bare)} site(s) carry no claim shadowing it: {shown}"))
     return out
 
 

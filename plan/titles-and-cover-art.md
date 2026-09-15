@@ -18,7 +18,7 @@ That also keeps *Cretaceous* — which is accurate, pronounceable, and does the 
 
 **Drift** is book 1's discovery. Nobody lied; the understanding decayed. It carries the mudwalk and the sea underneath it, and it is the shortest statement of the corruption the trio uncover at Genesis (`plan/outline.md` step 12, `plan/milieu-brief.md` §2).
 
-**Watch** is book 2's instrument. Omya recites a sky she has checked for sixty years while losing the protein fold, and the duty nobody counted as a loss becomes the dataset that dates the impact (`plan/milieu-brief.md` §5, `plan/sequels.md`). Titling the book after the thing nobody valued is the book's argument.
+**Watch** is book 2's instrument. Omya recites a sky she has checked for sixty years <!-- @WF-omya.watch.years: 60 --> while losing the protein fold, and the duty nobody counted as a loss becomes the dataset that dates the impact (`plan/milieu-brief.md` §5, `plan/sequels.md`). Titling the book after the thing nobody valued is the book's argument.
 
 **Return** is book 3, three ways at once: the burial rite (`plan/milieu-brief.md` §4), the return anchor in the physics (`kb/worldbuilding/benals-equation.md`), and Cecilia coming home — the only return in the trilogy that works, while the Enclave's own answer is to go the other way and never come forward again (`plan/sequels.md`).
 
@@ -55,7 +55,7 @@ Recorded so they are not proposed again. Each failed for a stated reason, not on
 
 ## The suit is the primary asset
 
-From `kb/worldbuilding/safety-suits.md`: the outer layer is a living chromatophore biofilm that matches surrounding light within a second or two, across UV as well as visible, and healthy film is **faintly bioluminescent**; dead patches stay visible until they regrow. The helmet has **no faceplate, ever** — nose and mouth are open to the air in every configuration — and carries a flip-down eye shield, a single transparent curve brow to cheekbone, with the display projected on its **inner** surface. Shield up, the readout is a bioluminescent strip woven into the forearm. Twelve suits remain and each is degraded in its own way; Benal's has a red-lined shoulder capacitor.
+From `kb/worldbuilding/safety-suits.md`: the outer layer is a living chromatophore biofilm that matches surrounding light within a second or two, across UV as well as visible, and healthy film is **faintly bioluminescent**; dead patches stay visible until they regrow. The helmet has **no faceplate, ever** — nose and mouth are open to the air in every configuration — and carries a flip-down eye shield, a single transparent curve brow to cheekbone, with the display projected on its **inner** surface. Shield up, the readout is a bioluminescent strip woven into the forearm. Twelve suits <!-- @WF-suits.remaining: 12 --> remain and each is degraded in its own way; Benal's has a red-lined shoulder capacitor.
 
 `[?]` So a suited figure is not a silhouette against leaves. It is a person-shaped absence with the foliage running across it, betrayed by the outline being wrong and by one small honest light.
 

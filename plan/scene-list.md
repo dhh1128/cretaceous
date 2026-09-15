@@ -50,7 +50,7 @@ The child laid out and covered. The formal mourning, whatever its form is. The b
 
 ### `[?]` EP2 — Cecilia's first message, about her sister's tomatoes
 
-*Placed here rather than anywhere else in Act 1 because this is the novel's first ordinary morning, and the fragment is a woman complaining about four tomato plants. The colony's unsettled normalcy against the future's, sixty-six million years apart, and neither of them knowing what the other is. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
+*Placed here rather than anywhere else in Act 1 because this is the novel's first ordinary morning, and the fragment is a woman complaining about four tomato plants. The colony's unsettled normalcy against the future's, sixty-six million years <!-- @WF-transit.depth: 66Mya --> apart, and neither of them knowing what the other is. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.1 — [MEDIUM] [Day 2, dawn] [KEO] [Perimeter] — *revise `content/superseded/02.1.md`*
 **Ladders:** EM3 P2 S2 SP2 — **a rest, deliberately**
@@ -89,7 +89,7 @@ Benal's mathematics. Marek's *"do something real."*
 - The Keeper work dramatized. Teva knows fragments of it; that's why she's dangerous later.
 - Lumea named by her mother.
 - Something about the founders that will later contradict Sila.
-- **The Watch.** Omya recites the sky *perfectly* — sixty years of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
+- **The Watch.** Omya recites the sky *perfectly* — sixty years <!-- @WF-omya.watch.years: 60 --> of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
 **Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind. @D15.4
 **Ends on:** `[?]` Omya asking whether the sky was watched last night, and Teva having no answer. The question returns in the last scene of the book, and by then she does.
 
@@ -124,7 +124,7 @@ Marek after the debate. He fought in public and lost. Lunet gets a line.
 
 ### `[?]` EP4 — Cecilia's second message: *you have had three weeks to be furious, and I think that is enough*
 
-*Placed immediately before Teva says she is going. Two women declining to go on negotiating, in the same words and two hundred and six years apart, and the reader holds both. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
+*Placed immediately before Teva says she is going. Two women declining to go on negotiating, in the same words and two hundred and six years <!-- @WF-transit.elapsed: 206y --> apart, and the reader holds both. `[?]` The placement is mine; the fragment and its Act 1 slot are canon.*
 
 ### D2.8 — [MEDIUM] [Day 2, night] [KEO] [Cleft outside the kiva]
 **Ladders:** EM6 P2 S5 SP4
@@ -144,7 +144,7 @@ Benal insists. *"You're the delivery system. I'm the key."* Keo's response is aw
 
 ### EP5 — the deliverable statement: **the vector platform is not life support, it is the product**
 
-*Placed immediately before the theft. They are about to steal suits and walk eighty kilometers to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to D17.2.*
+*Placed immediately before the theft. They are about to steal suits and walk eighty kilometers <!-- @WF-route.overland: 80km --> to find the cure, and the reader now knows they are already carrying it. The irony engine runs from here to D17.2.*
 
 ### D2.10 — [MEDIUM] [Day 2, late night] [KEO] [His dwelling] — *canon, `content/superseded/04.1.md`*
 **Ladders:** EM7 P3 S7 SP4
@@ -283,7 +283,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **The nap is not depicted.** It happens between this scene and the last one.
 - `[?]` **The cheapest true thing each of them is carrying**, and the characterization is the order — who volunteers, who has to be asked, who says something adjacent to the truth and lets it stand.
 - **The joke that becomes theirs is born here** — `character-arcs.md` §3 gives Day 6 the dyad row that promises it.
-- **Amber** in a conifer wound with something in it. They know exactly what they are looking at and what it means that it will still be there in sixty-six million years.
+- **Amber** in a conifer wound with something in it. They know exactly what they are looking at and what it means that it will still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->.
 - **Every ladder troughs today and this is the bottom of it.** `character-arcs.md` says the dyads move together on Day 6 and only on Day 6.
 **Hazard:** the confessions. `plan/scene-list.md`'s Dark Night on Day 15 is built on three of them — Keo's guilt, Benal's shame at being pitied, Teva's grandmother — and if this scene opens any of those, Day 15 has nothing to open. Second: the therapy circle, where each takes a turn and says a true thing. Somebody should refuse.
 **Ends on:** an hour later than they should be, and nobody minding.
@@ -296,7 +296,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **The midges are at their worst on Day 6 evening** until the breeze returns, so the day's one hour of misery sits here and the wind is the relief. Both allocated.
 - **The ground moves before anything is visible** — the sense that has always meant danger — and the fear resolves into nothing.
 - **The saropo herd, from a ridge, wading.** That is where tomorrow's riding idea comes from.
-- **Keo pushes at one with his mind and it is like pushing a wall.** His projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so the idea and its refutation are planted in the same minute — and he learns the scale limit that tells him on Day 8 that two tonnes is inside his reach.
+- **Keo pushes at one with his mind and it is like pushing a wall.** His projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so the idea and its refutation are planted in the same minute — and he learns the scale limit that tells him on Day 8 that two tonnes <!-- @WF-decoy.mass: 2t --> is inside his reach.
 - **An armored thing, indifferent, unbothered by them** — *Ankylosaurus* or *Nodosaurus*, allocated here and nowhere else. The colony has no word for it, so the prose will not name it; the genus is here because the planning layer is where allocations are tracked.
 - **Bioluminescence** at full dark.
 - `[?]` **He almost says it to Teva, and doesn't.** `character-arcs.md:117` — declarations are the wrong instrument here, and the closest anyone comes is the good day, and he doesn't.
@@ -334,7 +334,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **Nobody sleeps.** The sky is enormous and useless and they are not looking at it.
 **Must carry:**
-- **Keo has to hold two tonnes of panicking animal tomorrow** and this is the night before. The scene belongs to the person with the job.
+- **Keo has to hold two tonnes <!-- @WF-decoy.mass: 2t --> of panicking animal tomorrow** and this is the night before. The scene belongs to the person with the job.
 - `[?]` **Teva does not look up.** Omya taught her the stars (`minor-characters.md`), and Keo watches her not look and misreads what it means. Strict third: the reader gets his misreading, not her reason.
 - Day 6 was four days of good weather ago and is already the thing they draw against.
 **Hazard:** the night-before-the-battle conversation. Two teenagers talking meaningfully about courage. The scene is about not sleeping, and most of it should have nobody speaking.
@@ -347,9 +347,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **The morning goes on preparing and on failing to be ready**, and the lay-up passes in the worst heat with nobody sleeping. `journey-calendar.md` §1.
 **Must carry:**
-- **Noli crosses first, an hour early, and on her own.** The narrows tighten between boulders that are too far apart for a human and still too far apart for her, so she takes them in long leaps — **the forearm feathers stretching and steadying each one on the way down, which is a controlled descent and not lift** — and swims the two gaps she cannot leap, fast and low and badly. **She does it without the trick**, because the decoy is an afternoon operation and this is the morning, so what they watch is the unprotected version of the thing they are about to do protected: it works, and it proves nothing, because she is fourteen kilograms and fast and they are not. **Then she calls from the far bank and does not stop.** `[?]`
+- **Noli crosses first, an hour early, and on her own.** The narrows tighten between boulders that are too far apart for a human and still too far apart for her, so she takes them in long leaps — **the forearm feathers stretching and steadying each one on the way down, which is a controlled descent and not lift** — and swims the two gaps she cannot leap, fast and low and badly. **She does it without the trick**, because the decoy is an afternoon operation and this is the morning, so what they watch is the unprotected version of the thing they are about to do protected: it works, and it proves nothing, because she is fourteen kilograms <!-- @WF-noli.mass: 14kg --> and fast and they are not. **Then she calls from the far bank and does not stop.** `[?]`
 - **And that call is what ends the morning.** The day goes on preparing and on failing to be ready, and what finally gets them into the water is not courage — it is an animal on the wrong side, shouting at them. Three days before she dies. `[?]`
-- **Driving the herd.** The decoy is a two-tonne hadrosaur and it is part of a herd — hadrosaurs are the labor animals and saropo are too big for anything. Keo's mental projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so this is at the limit of what he can do and he knows it.
+- **Driving the herd.** The decoy is a two-tonne <!-- @WF-decoy.mass: 2t --> hadrosaur and it is part of a herd — hadrosaurs are the labor animals and saropo are too big for anything. Keo's mental projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so this is at the limit of what he can do and he knows it.
 - **The cost of projection is pressure behind the eyes and then real pain**, and he is spending it hours before he needs it most.
 - `[?]` The waiting is the worst part and it is the only place in the book where all three of them have nothing to do.
 **Hazard:** the heist-prep montage, and the plan sounding clever. The reader should be able to see how thin it is. Nobody in it is confident.
@@ -537,7 +537,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **She decides, and she is wrong, and it is the hinge of her arc.** Rain, continuous, warm and saturating, gray and unchanging. The calendar's own phrase for the day is *misery without incident*.
 **Must carry:**
 - **There is no protein and no time.** Noli died yesterday and the grounders stopped with her — nobody else catches them, and the food has changed. `foreshadow-and-motif.md` **R19**.
-- **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
+- **The mechanics, and she is right about the method.** Leaching stone-cycad takes one to three days in running water; pounded fine and worked in **forty-degree <!-- @WF-spring.temp: 40C --> sulfur water** it might come down to twelve or twenty-four. That is the fastest leach available anywhere on the route and she has found it. **She is wrong only about the margin** — they have the four-hour lay-up. `plan/journey-calendar.md` §2 and `plan/tech-rules.md`.
 - **The sulfur is why the error is invisible.** The way you know it is done is that the bitterness is gone, and you cannot taste bitter through that water.
 - **Keo says it needs another day.** He is the Explorer and his whole training is what is safe to eat, and **he says it once, quietly, and lets it go** — because he is injured, the burden, and has stopped trusting himself. The reader hears him.
 - **She tests it on herself.** A full portion, and nobody else eats until she has. **And that is what kills her, because a partially leached dose runs late — later the more leaching it got — and no test she can run comes back inside the night.** She feels fine at dawn and they all eat. **But the rest of it went into the runoff overnight, which is what Keo said to do, so what the two of them eat has had the night in it and what she ate did not.** Her caution is the dose: she went first so nobody else would have to, and going first is what poisoned her.
@@ -564,7 +564,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D13.1 — [LONG, ~1900] [Day 13, morning] [BENAL] [Coastal plain] — **NEW**
 **Ladders:** EM8 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
-**It comes due, and only for her.** About eighteen hours after her portion at the spring: vomiting, cramping, and water she cannot spare.
+**It comes due, and only for her.** About eighteen hours <!-- @WF-mash.onset: 18h --> after her portion at the spring: vomiting, cramping, and water she cannot spare.
 **Must carry:**
 - **All three are sick and only she is down, and the reason is which batch.** Keo and Benal ate this morning from mash that spent the night in the runoff — roughly three times the leaching — and Teva ate the four-hour batch at the spring yesterday and a share of the good one this morning on top of it. The two of them walk the whole day queasy, which makes everything harder and which nobody mentions. **Nobody works out that the overnight leach is what saved them, and nobody ever says that it was Keo's idea.**
 - **The carry escalates by stages and the stages are the story.** Her hand. Then her arm over his shoulder. Then on his back. <!-- @WF-teva.carried.from: D13 --> Each step is a thing she stops being able to do and a thing he has to spend more to cover.
@@ -651,7 +651,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
 **Ladders:** EM10 P7 S7 SP6
 **Purpose:** PRESSURE · **Ending:** THREAT
-**They reach Genesis and cannot get in.** Eighty kilometers, nineteen days, everything it cost, and the door does not open.
+**They reach Genesis and cannot get in.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the door does not open.
 **Must carry:**
 - `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
 - She is still hollowed out by the poisoning, and it is her own decision that did it.
@@ -662,12 +662,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.3 — [SHORT, ~700] [Day 15, afternoon] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**The back wall arrives and the tail closes over them for eighteen hours.** They get into the only part of Genesis that is open, which is the part that is under water.
+**The back wall arrives and the tail closes over them for eighteen hours <!-- @WF-cyclone.tail: 18h -->.** They get into the only part of Genesis that is open, which is the part that is under water.
 **Must carry:**
-- **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin and eighteen hours of wind off the cyclone's back half. `body-and-resources.md`: write the symptom, never the climate.
+- **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin and eighteen hours <!-- @WF-cyclone.tail: 18h --> of wind off the cyclone's back half. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
 - `[?]` The disorientation is stronger here than anywhere, and he is the one who has been having flashes since Day 11.
-**Hazard:** describing the storm. The cyclone is not the subject; three people in a wet dark room for eighteen hours is the subject.
+**Hazard:** describing the storm. The cyclone is not the subject; three people in a wet dark room for eighteen hours <!-- @WF-cyclone.tail: 18h --> is the subject.
 **Ends on:** full dark, with hours of it left.
 
 ### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Archive, flooded section]
@@ -692,7 +692,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **The sense that has been an assault on him for thirteen days is the reason they get inside.** Third and last time the book pays that: the honey on Day 6, the turtle corridor on Day 14, the hatch here.
 - **The world after the storm** — blown out, washed, scoured, brilliant, and the first honest sunlight since Day 10.
-- A functional sealed hatch, which means power, which means something has been running here for two hundred and six years.
+- A functional sealed hatch, which means power, which means something has been running here for two hundred and six years <!-- @WF-transit.elapsed: 206y -->.
 **Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
 
@@ -701,7 +701,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** CONSOLIDATE · **Ending:** QUESTION
 **Warm, dry, lit, and they eat for the first time since the raft.** The exhale, and the only one they get.
 **Must carry:**
-- `[?]` **Dry is the luxury, not the food.** Nineteen days of being wet, and the thing that undoes them is a room that is not. **It lands hardest on Keo, who has never had a suit** — everything the other two's shells were for has been happening directly to his skin since Day 3.
+- `[?]` **Dry is the luxury, not the food.** Nineteen days <!-- @WF-story.span: 19d --> of being wet, and the thing that undoes them is a room that is not. **It lands hardest on Keo, who has never had a suit** — everything the other two's shells were for has been happening directly to his skin since Day 3.
 - **This scene is why Keo wanders off on Day 18, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. Two days of watching the others be necessary, from inside his head, is what makes finding something to talk to land.
 - **Old-tech everywhere and none of it dissolving**, which is wrong and which nobody has the energy to find wrong yet. `plan/tech-rules.md` flags this as a payoff owed; the answer is that the failsafe is a colony invention and Genesis predates it.
 - Genesis groaning on its own weight — allocated to Day 16.
@@ -724,7 +724,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D17.1 — [MEDIUM] [Day 17, morning] [TEVA] [The archive] — **NEW**
 **Ladders:** EM8 P4 S8 SP8
 **Purpose:** DISCOVER · **Ending:** REVEAL
-**The logs of the arrival.** Two hundred people, named, with faces, on the day they got here.
+**The logs of the arrival.** Two hundred people <!-- @WF-founders.count: 200 -->, named, with faces, on the day they got here.
 **Must carry:**
 - **This is where the Traditionalists get their documentary basis** — there really was a mission, real instructions, a real paradox concern. `plan/knowledge-ledger.md`. They are evidenced, not merely pitied.
 - **Teva saw these faces two nights ago** in the flash and did not know they were real.
@@ -747,7 +747,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D17.3 — [MEDIUM] [Day 17, afternoon] [TEVA] [The dry section] — **NEW**
 **Ladders:** EM10 P4 S9 SP9
 **Purpose:** BOND · **Ending:** RESOLVE
-**What it does to six generations**, in the head of the one who came here angry.
+**What it does to six generations <!-- @WF-drift.generations: 6 -->**, in the head of the one who came here angry.
 **Must carry:**
 - **Her reaction is *they lied to us*, and it is the emotional truth and it is wrong** — the corruption was drift, not deceit. The nuance arc is the distance between this scene and the confrontation. `plan/outline.md` and `plan/character-arcs.md`.
 - **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
@@ -763,7 +763,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The impasse. There is no boat, and the way home is under water.**
 **Must carry:**
 - **This pays foreshadow **R16** at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
-- The raft is gone, the mudflats are under the surge, and eighty kilometers of walking is a route that no longer exists.
+- The raft is gone, the mudflats are under the surge, and eighty kilometers <!-- @WF-route.overland: 80km --> of walking is a route that no longer exists.
 - **They have the cure and cannot deliver it**, which is worse than not having it.
 **Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
 **Ends on:** nobody having an idea, and Keo walking off.
@@ -822,7 +822,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
 **The launch, undercharged.**
 **Must carry:**
-- **The range is a full charge and not a meter more, and eighty kilometers is exactly the distance home.** They leave without a full one, because charging takes hours they cannot make themselves wait. **Every decision after this is spent out of margin they chose not to have.** `kb/worldbuilding/the-wig.md` §7.
+- **The range is a full charge and not a meter more, and eighty kilometers <!-- @WF-route.overland: 80km --> is exactly the distance home.** They leave without a full one, because charging takes hours they cannot make themselves wait. **Every decision after this is spent out of margin they chose not to have.** `kb/worldbuilding/the-wig.md` §7.
 - **Three jobs, three people, nobody a passenger.** Keo flies because the training system trains him. Teva navigates and gets back, in a form that matters more, what she lost offshore. Benal is behind with the salvage doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
 - **Clear and hot, high hard light all the way home.** No weather to hide behind, and that is the price of the heresy.
 **Hazard:** the triumphant takeoff. They are frightened, the machine is two centuries old, and the first minute should feel like a mistake.
@@ -835,7 +835,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** CLASH · **Ending:** THREAT
 **The chase, and it is a resource crisis rather than a stunt.**
 **Must carry:**
-- **The storm that closed the walking route opened the flying one.** Eighty kilometers of shallow standing water on a low-relief plain is precisely the surface this machine wants, and it is a sheet rather than a lake — woodland stands out of it, conifers stand far above it, herds move through it.
+- **The storm that closed the walking route opened the flying one.** Eighty kilometers <!-- @WF-route.overland: 80km --> of shallow standing water on a low-relief plain is precisely the surface this machine wants, and it is a sheet rather than a lake — woodland stands out of it, conifers stand far above it, herds move through it.
 - **Ground effect is cheap, altitude is expensive, the lift rotors are ruinous**, so the rotors are hoarded from the moment they launch. `kb/worldbuilding/the-wig.md` §7.
 - **The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it.** Charge, altitude and airspeed are one number being spent three ways, and every evasion makes the next one harder. **This is the flybeak's second and last appearance** and its only allocated day besides 11.
 - **Keo's redemption is arithmetic under pressure, not courage.** He is not braver than he was at the midpoint. He is thinking, with a machine, about a problem mental projection cannot touch.
@@ -858,7 +858,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D19.6 — [SHORT, ~800] [Day 19, late afternoon] [BENAL] [The Vitarium] — **NEW**
 **Ladders:** EM7 P5 S9 SP8
 **Purpose:** DISCOVER · **Ending:** THREAT
-**The handover, and it takes four minutes.** Nineteen days, eighty kilometers, Noli, and nearly Teva, and the thing they went for changes hands in the time it takes to hand over a metal tablet.
+**The handover, and it takes four minutes.** Nineteen days <!-- @WF-story.span: 19d -->, eighty kilometers <!-- @WF-route.overland: 80km -->, Noli, and nearly Teva, and the thing they went for changes hands in the time it takes to hand over a metal tablet.
 **Must carry:**
 - **It works.** The protocols are complete and a Keeper can read them, and the immediate crisis — a child dying because the synthesis is dying inside Omya's head — is over. `[?]` The reader should feel the disproportion between the cost and the transaction.
 - `[?]` **Omya is present and cannot follow it.** The knowledge comes home and the person it was taken from is past receiving it, which is the cruelty the whole arc has been walking toward.
@@ -872,7 +872,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The confrontation. A success with one splinter left in it.**
 **Must carry:**
 - **The timeline revelation lands hard**, with proof — the records, the wig, the protocols. That is what stops this being an anticlimax.
-- **Fact B fails, and the failure is epistemic rather than medical.** No injury, no interruption, no fainting; the interrupted revelation is a recognizable cheat. Three mechanisms stack, per `plan/knowledge-ledger.md`. **It cannot be demonstrated** — the cure claim is inferential and rests on Benal's reading, and a room that accepts what is shown and declines what is merely argued is behaving correctly, which is what makes it devastating. **Nobody has bandwidth**, because in a room that has just learned it dies in twenty years, what the upgrades are *for* is not the urgent question. **And Sila agrees with him** — he says it a second time and she takes it up enthusiastically as confirmation of everything she has always said. **He is not disbelieved. He is absorbed.**
+- **Fact B fails, and the failure is epistemic rather than medical.** No injury, no interruption, no fainting; the interrupted revelation is a recognizable cheat. Three mechanisms stack, per `plan/knowledge-ledger.md`. **It cannot be demonstrated** — the cure claim is inferential and rests on Benal's reading, and a room that accepts what is shown and declines what is merely argued is behaving correctly, which is what makes it devastating. **Nobody has bandwidth**, because in a room that has just learned it dies in twenty years <!-- @WF-impact.deadline: 20y -->, what the upgrades are *for* is not the urgent question. **And Sila agrees with him** — he says it a second time and she takes it up enthusiastically as confirmation of everything she has always said. **He is not disbelieved. He is absorbed.**
 - **He must try twice.** The second attempt is the one Sila swallows.
 - **The thematic exactness:** the colony fails to believe the cure for the same reason it forgot the cure. The link was always an inference, and inferences do not survive transmission. The drift mechanism and the disbelief mechanism are one mechanism.
 - **Teva accuses, and Keo watches her do it.** His parents are under guard; the theft cost them everything the social ladder has been tracking since Day 2.

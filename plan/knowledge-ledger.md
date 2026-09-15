@@ -30,7 +30,7 @@ A fourth exists and is worth using sparingly: **shared confusion**, where both r
 |---|---|---|---|
 | SU1 | **Midpoint, D11.1** | Noli taken <!-- @WF-noli.alive.until: D11.1 --> | Every previous scene of Keo's competence. The reader must have been given the flybeak earlier — a shadow, a silence, a wrongness — so they dread *something* and are surprised only by **when, and who**. Dread first, shock second. | @D11.1
 | SU2 | **D16.1–D16.3** | The dry, powered section is real; the protocols exist | The journey was not futile. A relief-shaped surprise landing directly on "all is lost," which is the cheapest and most reliable emotional swing available. | @D16.3
-| SU3 | **D17.2, climax** | **Only the original colonists could ever have gone back. Everyone born here is stranded by birth.** | Six generations of waiting. Every Traditionalist argument, every sacrifice to the Mission, the entire premise of the society. The largest surprise in the book and the reason to hold it. | @D17.2
+| SU3 | **D17.2, climax** | **Only the original colonists could ever have gone back. Everyone born here is stranded by birth.** | Six generations <!-- @WF-drift.generations: 6 --> of waiting. Every Traditionalist argument, every sacrifice to the Mission, the entire premise of the society. The largest surprise in the book and the reason to hold it. | @D17.2
 | SU4 | **End of book** | The Lost Colonists exist, and may still be out there | Opens book 2. **The reader must end knowing less than they want to.** |
 
 Everything else is dread.
@@ -50,7 +50,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | FE | Impact is ~2 decades out, not centuries | **EP9**, the global alert | D17.2 | D19.7 | ironic | @D17.2 @D19.7
 | FF | The colony does not know what year it is | **EP7** (targeting confidence), completed by Benal | D17.2 | D19.7 | shared confusion → shared | @D17.2 @D19.7
 | FG | Only original colonists could return | **hidden** | D17.2 | D19.7 | **hidden — SU3** | @D17.2 @D19.7
-| FH | The schism; a second jump, a thousand years back | D15.4 (Teva's flash) | D15.4 partial, D17.2 whole | — | shared confusion → shared | @D15.4 @D17.2
+| FH | The schism; a second jump, a thousand years <!-- @WF-secondjump.distance: 1000y --> back | D15.4 (Teva's flash) | D15.4 partial, D17.2 whole | — | shared confusion → shared | @D15.4 @D17.2
 | FI | The signal symbol | D11.6 (Keo's flash) | D11.6, meaningless | — | shared confusion | @D11.6
 | FJ | What became of the Lost Colonists | **never** | never | — | **hidden — SU4, stays dark** |
 | FK | The flashes are real, not fever | Act 2, by pattern | D17.2 | — | ironic | @D17.2
@@ -121,7 +121,7 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 
 **M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc took her while their parents watched. Teva and Benal don't learn it until the confessional at D15.4. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes D15.4 a release rather than an information delivery.
 
-**P — the false solution.** Let the reader solve it wrong. Give them enough to conclude the founders lied to keep everyone calm — and make them **right about the lie and wrong about who told it and why**, because the corruption was six generations of drift, not deceit. <!-- @WF-corruption.kind: drift --> The reader's cynicism about the ancestors then gets corrected in exactly the way the trio's cynicism about their parents gets corrected. **The reader undergoes the novel's thesis through the mechanics of reading it**, without any character having to articulate the lesson.
+**P — the false solution.** Let the reader solve it wrong. Give them enough to conclude the founders lied to keep everyone calm — and make them **right about the lie and wrong about who told it and why**, because the corruption was six generations <!-- @WF-drift.generations: 6 --> of drift, not deceit. <!-- @WF-corruption.kind: drift --> The reader's cynicism about the ancestors then gets corrected in exactly the way the trio's cynicism about their parents gets corrected. **The reader undergoes the novel's thesis through the mechanics of reading it**, without any character having to articulate the lesson.
 
 ---
 
@@ -170,7 +170,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 
 **Why paper survived the archaea failsafe:** *Genesis predates the failsafe.* The archaea apparatus was built at the Enclave, after the transfer, so nothing at Genesis was ever wrapped.
 
-**And be precise about what that proves, because the obvious reading is wrong and it is the more interesting fact.** It does not show the taboo was invented. **The duty is a genuine founder instruction** — leave no evidence, on pain of paradox — and the Traditionalists are right about it. What the founders did not supply was a doctrine for living eighty kilometers inland for two hundred years, because the plan was to sit at ground zero for months and be erased. The apparatus is the colony's honest extension of a real instruction into a situation nobody wrote rules for, and its severity is the price the leavers accepted in the third year at Genesis for permission to go. See `milieu-brief.md` §6.
+**And be precise about what that proves, because the obvious reading is wrong and it is the more interesting fact.** It does not show the taboo was invented. **The duty is a genuine founder instruction** — leave no evidence, on pain of paradox — and the Traditionalists are right about it. What the founders did not supply was a doctrine for living eighty kilometers <!-- @WF-route.overland: 80km --> inland for two hundred years, because the plan was to sit at ground zero for months and be erased. The apparatus is the colony's honest extension of a real instruction into a situation nobody wrote rules for, and its severity is the price the leavers accepted in the third year at Genesis for permission to go. See `milieu-brief.md` §6.
 
 **So the drift is not in the obligation. It is in the belief that the apparatus came down from the founders** — and that is a better reveal than a fabricated taboo, because it takes nothing away from the people who kept it.
 
@@ -197,13 +197,13 @@ Mechanical, and cheap to check:
 
 ## How FB fails to reach the Enclave at D19.7 @D19.7
 
-The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *twenty years, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
+The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *twenty years <!-- @WF-impact.deadline: 20y -->, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
 
 But the trio must not **choose** to withhold it, or they become unlikeable in their moment of vindication. So the failure is **epistemic, not medical.** No injury, no interruption, no fainting — the interrupted revelation is a recognizable cheat and it would waste Benal's public vindication, which is the payoff of his entire arc. Three mechanisms stack instead:
 
 1. **It cannot be demonstrated.** The timeline revelation arrives with proof — records, the wig, the protocols. The cure claim is *inferential*, resting on Benal's reading of the equation and the logs. He can assert it; he cannot show it. The room accepts what he demonstrates and declines what he merely argues, which is epistemically correct behavior and therefore devastating. **And it is thematically exact: the colony fails to believe the cure for the same reason it forgot the cure.** The link between the upgrades and the mission was always an inference, and inferences don't survive transmission. The drift mechanism and the disbelief mechanism are one mechanism.
 
-2. **Nobody has bandwidth.** In a room that has just learned it will die in twenty years, what the upgrades are *for* is not the urgent question. Not rejection — triage.
+2. **Nobody has bandwidth.** In a room that has just learned it will die in twenty years <!-- @WF-impact.deadline: 20y -->, what the upgrades are *for* is not the urgent question. Not rejection — triage.
 
 3. **Sila agrees with him.** He says it a second time, and she takes it up, enthusiastically, as confirmation of everything she has always said: the upgrades are sacred, the Mission is vindicated, the ancestors were right. She has understood nothing. **Benal is not disbelieved; he is absorbed.** Truth failing by assimilation is worse than being called a liar, and it makes Sila's non-change concrete rather than asserted.
 
