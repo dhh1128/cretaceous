@@ -62,7 +62,7 @@ The cost, accepted: this is a visible formal device and not a YA-thriller conven
 
 Page-turning is not a function of short scenes. It comes from three things.
 
-**Scene endings are governed by §8, not by a rule stated here.** This section used to say *every scene ends on a hook — a question, a turn, or a threat; no scene closes on summary or on a settled feeling*, and called it the largest lever available at no cost. It is not free and it is not what the two novels do: a quarter of their chapters close with no forward pull at all, and which ones do is predicted by what the chapter was for. §8 has the conditional form and the distribution that replaces the absolute.
+**Scene endings are governed by §8, not by a rule stated here.** <!-- @WF-hook.rule: distribution --> This section used to say *every scene ends on a hook — a question, a turn, or a threat; no scene closes on summary or on a settled feeling*, and called it the largest lever available at no cost. It is not free and it is not what the two novels do: a quarter of their chapters close with no forward pull at all, and which ones do is predicted by what the chapter was for. §8 has the conditional form and the distribution that replaces the absolute.
 
 **Length runs inversely to tension.** Short scenes at crisis points, because the white space between them is where dread does its work; longer scenes for consolidation and world, where the reader wants to stay. Never two consecutive scenes of the same shape.
 
@@ -198,7 +198,7 @@ The rescene is done. What remains of it is the numbering: scenes become **`D<day
 
 **Every scene carries one purpose, and the purpose implies a distribution of endings rather than an ending.** The entry names it on one line beside the ladders — `**Purpose:** TRAVERSE · **Ending:** THREAT`. The purpose is what the scene is for; the ending is what the scene map chose. A check then verifies the shape across the book, and never argues with any one scene.
 
-**This exists because the rule it replaces was a preference that had inflated into a law.** §4 used to require a hook at the end of every scene. Measured against Daniel's two novels, a quarter of chapters close with no forward pull and another eighth hold an emotion open — 37.8% do not hook — and the ones that do not are not scattered. They concentrate in two jobs. A relationship chapter settles 57% of the time. A chapter whose job is a commitment hooks 83% of the time. **The flat rule is a fact about a thriller's mixture of chapter jobs, mistaken for a fact about how he ends chapters**, and obeying it would write the relationship scenes wrong in a specific and predictable direction.
+**This exists because the rule it replaces was a preference that had inflated into a law.** <!-- @WF-hook.rule: distribution --> §4 used to require a hook at the end of every scene. Measured against Daniel's two novels, a quarter of chapters close with no forward pull and another eighth hold an emotion open — 37.8% do not hook — and the ones that do not are not scattered. They concentrate in two jobs. A relationship chapter settles 57% of the time. A chapter whose job is a commitment hooks 83% of the time. **The flat rule is a fact about a thriller's mixture of chapter jobs, mistaken for a fact about how he ends chapters**, and obeying it would write the relationship scenes wrong in a specific and predictable direction.
 
 ### 8a. The eight purposes
 

@@ -69,7 +69,7 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 
    - **Act** — three.
    - **Chapter** — above.
-   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **`D<day>.<n>`**, so `D7.2` is the second scene of Day 7.
+   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **`D<day>.<n>`** <!-- @WF-scene.id.scheme: Dday.n -->, so `D7.2` is the second scene of Day 7.
    - **Move** — one action by one party inside a scene. What the scene maps enumerate.
 
    **The fifteen-unit structure is Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. It is an analysis note — a check that the story would also work as a film, which is a fair test — and it is not the organizing principle or the address system.

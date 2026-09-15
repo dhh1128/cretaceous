@@ -94,7 +94,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 
 **Rows Q, R and S live here.** Its misjudgment table was the only place in the corpus assigning per-adult reader evidence to a scene, which is this ledger's job, so it was doing it twice and in one case wrongly.
 
-**The defect worth stating as a standing rule.** A layer once assigned Omya's evidence to D1.1 as *"she submits to being tested in front of witnesses."* **Scene D1.1 cannot deliver that.** The novel is strict third limited (`writing-style.md:30-32`), so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with D2.4 as the completion scene**, not delivered at D1.1.
+**The defect worth stating as a standing rule.** A layer once assigned Omya's evidence to D1.1 as *"she submits to being tested in front of witnesses."* **Scene D1.1 cannot deliver that.** The novel is strict third limited (`writing-style.md:30-32`) <!-- @WF-pov: third-limited -->, so the reader receives exactly what the POV character receives, and irony works by the POV character misreading shared information rather than by the reader getting extra information. At scene one the reader carries one CDC bulletin and has no basis on which to outread Teva. Hence row Q is **accumulated with D2.4 as the completion scene**, not delivered at D1.1.
 
 **Worth checking the other rows for the same defect** — a reader payment assigned to a scene whose POV cannot carry it. Row O survives, because Hesh states the First Walk number aloud in D2.6 and the reader can connect it in the moment. The rest have not been checked.
 
@@ -131,7 +131,7 @@ The archival fragments are **the irony instrument**, not a backstory delivery me
 
 Twelve, plus a coda.
 
-**The table below is the original seven-fragment design and it is superseded.** `content/epigraphs.md` holds thirteen written fragments and is the authority for what exists, what each one says, and where it sits; the numbering there is the one to use. What the table still carries that the fragment file does not is the **job** column — what each fragment is *for* in the irony engine — so it is kept until those jobs have been reassigned across the thirteen. **That reassignment belongs to the rescene**, because placement is stated against scene numbers that are about to move. Until then, read this table for the design intent and never for the count or the addresses.
+**The table below is the original seven-fragment design and it is superseded.** `content/epigraphs.md` holds thirteen written fragments and is the authority for what exists, what each one says, and where it sits <!-- @WF-epigraph.authority: content/epigraphs.md -->; the numbering there is the one to use. What the table still carries that the fragment file does not is the **job** column — what each fragment is *for* in the irony engine — so it is kept until those jobs have been reassigned across the thirteen. **That reassignment belongs to the rescene**, because placement is stated against scene numbers that are about to move. Until then, read this table for the design intent and never for the count or the addresses.
 
 | # | placement | form | job |
 |---|---|---|---|
