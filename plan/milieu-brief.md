@@ -1,5 +1,5 @@
 ---
-approval: approved 8e1d6bf9
+approval: approved c7b91853
 ---
 
 # Cretaceous — Milieu Brief
@@ -213,16 +213,35 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 | **Accepted and unguardable** | durable, artificial, **and nothing can dissolve it** | see below — this is the tier that keeps people awake |
 | **The backstop** | the impact itself | trusted by nobody who takes the mission seriously |
 
-**What sits in the unguardable tier, and it is a longer list than anyone is comfortable with:**
+**What sits in the unguardable tier — and it is ranked, because they are not equal risks. The ranking says where the danger is worst. It does not say anything is safe, and read the reasoning under it before using it.**
 
-- **Trackways.** Dinosaur and human footprints fossilize readily; it is how we know about creatures nobody ever found a bone of. A worn, repeated, *circular* trackway around a fixed point is a pattern no animal behavior produces.
-- **Fire.** Charcoal and ash survive tens of millions of years, and hearths redden the soil beneath them. Two centuries of cooking fires in one cave is a signature that cannot be argued away.
-- **The kiva.** A cave with 206 years of occupation deposits in the floor.
+**Lowest: fixed traces on the surface.**
+
+- **Trackways.** Human and dinosaur footprints fossilize readily, and a worn, repeated, *circular* path around a fixed point is a pattern no animal behavior produces.
+- **Fire.** Charcoal and ash survive tens of millions of years, and hearths redden the soil beneath them.
+
+**Low, and higher than the surface, because depth buys a little: fixed traces under the ground.**
+
+- **The kiva.** A cave with 206 years of occupation deposits in the floor. *Occasional* deposits — it is a ceremonial and assembly space rather than a dwelling, and it is not in daily use.
 - **Middens.** Everything they have ever eaten, in one place, sorted by species.
-- **The groves.** Two centuries of selective cultivation has produced a stand of stone-cycads with unnaturally large starchy cores. That is a genetic artifact walking around in the ecosystem, and it does not need to be found — it needs only to be *sampled*.
-- **The ecology itself.** They have been altering what lives here since they arrived.
 
-**Nobody has a solution to any of these, and that is the point.** It makes the Traditionalist position far stronger than "superstition" — Sila is not paranoid, she is looking at a list of unsolvable problems and choosing rigidity because rigidity is the only available response. And it makes the Brancher position stronger too: if the risk cannot be eliminated, the doctrine is theater, so why not use the metal? **Both factions are correct, which is exactly what the nuance arc requires.**
+**Highest, and it is the only one in a different category: the biological trace, because it moves on its own.**
+
+- **The groves.** Two centuries of selective cultivation has produced a stand of stone-cycads with unnaturally large starchy cores. **That is a genetic artifact loose in an ecosystem, and it does not stay where it was planted** — it does not need to be *found*, it needs only to be *sampled*, and seeds and the animals that eat the fruit take it wherever they go.
+- **The ecology itself.** They have been altering what lives here since they arrived, and none of it is fixed in place either.
+
+**Why the ranking runs that way, and it is the impact.** They are at ground zero, and the impact is not an explosion — it is the crust deforming, and everything fixed on the surface inside the radius becomes one layer in the strata and nothing more. Depth buys a little. **A footprint does not walk out of the blast radius. A genome does.** So the worst exposure is not what they build; it is what they carry out and what leaves on its own.
+
+**And here is why a low probability is not a small risk, which is the part the ranking must never be read without.** Four things, and any one of them would be enough.
+
+- **They cannot verify the promise.** The erasure was guaranteed to people who were going to sit at ground zero for months; the colony has been eighty kilometers inland for two centuries. They cannot date the impact (§2 — about two decades out, plus or minus one, and nobody can narrow it) and they cannot size the impactor, because several candidates appear in the Genesis records and nobody knows which. **Every probability above is conditional on two numbers nobody has.** A risk that is negligible if your assumptions hold and unbounded if they do not is not a risk you get to round down.
+- **The downside has no floor.** They are not protecting a reputation or a site. They are protecting the existence of everyone they left, and of the species. **Against a loss like that, a small probability is still unacceptable** — which is ordinary containment reasoning and not paranoia. Nobody argues that a lab leak is unlikely and therefore the airlocks can go.
+- **It compounds.** Nine hundred people, two centuries, every object, every fire, every meal, every blade. A tiny per-event chance multiplied by an enormous number of events is not tiny, and they are the only people who know how large that multiplier is.
+- **And the terms were the price of leaving.** §3 and `kb/worldbuilding/the-second-jump.md` §4: the ones who argued for going accepted every restriction as the price of permission, and a rule adopted to get your way is held harder than one handed to you. **Part of the apparatus's severity is a bargain rather than a calculation**, and it hardened again in the generation that inherited it without the argument.
+
+**So nobody has a solution, and that is still the point.** Sila is not paranoid; she is looking at a promise she cannot verify, a downside with no floor, and a list nobody can shorten, and choosing rigidity because rigidity is the only available response. And the Brancher position is strengthened by the same facts: the risk cannot be eliminated no matter what they give up, so the doctrine is theater — why not use the metal? **Both factions are correct, which is exactly what the nuance arc requires.**
+
+**The trap this ranking exists to prevent, stated as a prohibition.** Do not write a character concluding that any of it is safe enough to stop bothering with. The chert knife stays forbidden, the archaea stay on the wrappings, the weekly balm still happens, and nobody stops caring about a lost blade — **the ranking is about where the fear is sharpest, not about where it stops.**
 
 ### What the object rules actually are
 
@@ -276,7 +295,7 @@ What there is instead is a **natural karst basin in the limestone**, and two way
 
 **Boulder agitation, for bulk.** Unmodified rounded boulders in the basin, hadrosaurs harnessed to saplings that run to a center anchor, walking a circle. The saplings drag the boulders over the mash. Everything in the assembly is wood, fiber and hide, and every part of it rots. The boulders develop wear facets over two centuries — and a rounded, polished boulder in a limestone basin is exactly what a stream produces anyway, so the wear is unremarkable.
 
-**And the risk they cannot get rid of is the circle.** Two hundred years of hadrosaurs walking the same ring leaves a trackway, and trackways fossilize — a worn circular path around a fixed center is a pattern nothing in nature makes. Treading has the same problem in miniature, since human footprints fossilize too, and are considerably more damning. Nobody has solved this. **It is one of the arguments that never ends, and Sila is on the correct side of it.**
+**And the risk they cannot get rid of is the circle.** Two hundred years of hadrosaurs walking the same ring leaves a trackway, and trackways fossilize — a worn circular path around a fixed center is a pattern nothing in nature makes. Treading has the same problem in miniature, since human footprints fossilize too. Nobody has solved it, and **nobody can solve it**, which is what keeps it an argument. It sits at the bottom of the ranking above — a fixed surface trace at ground zero — and it is still argued about every year, because **nothing on that list is dismissible and the bottom of it is not the same as none of it.** Sila is on the correct side, and the strongest form of her case is not that a trackway will be found; it is that nobody can tell her how far the erasure reaches, and that they have been making this one for two hundred years.
 
 **One mechanism to decline:** archaea powdered around the basin, dormant while dry, waking when disturbed and wet. The trouble is that the basin's whole function is wet — cycad leaching requires days of submersion in running water — so a moisture-triggered failsafe there would fire continuously and eat the food. The dry-is-dormant rule works for portable gear that spends most of its life dry; it cannot protect a facility built to be soaked. **The basin has no failsafe, and that is precisely why it is an anxiety rather than a solved problem.**
 
