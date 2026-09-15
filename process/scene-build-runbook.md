@@ -103,9 +103,25 @@ Only *invented* lines need his attention. Include the *grounded* ones so he can 
 
 **Give him the list and wait.** Do not draft. The pass is judged on what it failed to ask about: if the draft later contains an invention that was not on the ledger, the ledger pass was incomplete, and that is the defect to record in phase 9.
 
-## Phase 5 — Write answers back to canon
+## Phase 5 — Write answers back to canon, and annotate them on the way in
 
-Every answer goes into the appropriate canon file immediately, with a date and an attribution. **This is what makes the ledger shrink.** An answer left only in a chat transcript will be invented again, differently, in the next scene.
+Every answer goes into the appropriate canon file immediately. **This is what makes the ledger shrink.** An answer left only in a chat transcript will be invented again, differently, in the next scene.
+
+**Not with a date and an attribution**, which an earlier version of this line asked for and `AGENTS.md` §2 forbids: knowledge files carry what is true, and git carries how it got there. Where a ruling exists specifically to stop a known error being re-made, state it as a standing prohibition instead.
+
+**One file is not enough, and this is the step that keeps being underestimated.** A fact minted in conversation lands wherever the session happened to be working, and every *other* file that touches it goes on saying the old thing — which is how a single figure came to mean the years at Genesis in one approved file and the duration of the walk in another, with nothing in the suite able to see it. **So a write-back is not done when the fact is written down. It is done when every file that states the fact states the same thing.** Grep for the fact before you write, not after.
+
+**Then annotate it, in the same edit.** `claims_agree` is the only instrument that can catch two well-formed assertions that are jointly false, and it is inert until somebody declares the claim — so the annotation goes on at mint time, on every site, not in a later sweep:
+
+```
+**a week to a month, and not three years.** <!-- @WF-firstwalk.duration: weeks -->
+```
+
+`WF-` for world fact, then `<subject>.<attribute>: <value>`, lowercase and dotted. **The check fires when one key carries two values anywhere in the corpus**, so the value is worth nothing on a single site and worth a great deal on the third one. **Annotate what a later session would plausibly re-invent**: figures, colors, durations, who is alive, which room has which property. Not prose judgments and not scene decisions, which belong in the map.
+
+**An annotation that lies is worse than none**, because it reads as authoritative and the check will agree with it. Only annotate what you have just verified against the file you are editing.
+
+*(There is a separate standing sweep for facts that predate the convention, and its handoff lives under `.ignored/`, which is gitignored and cannot be cited from a tracked file. Phase 5 is for the facts this scene created. **The backlog does not shrink if new ones keep arriving unannotated.**)*
 
 ## Phase 6 — Draft
 
