@@ -152,7 +152,7 @@ every:    ledger row of §2 paying at `B2` or `B3`
 has:      `[pays …]` claim in `plan/sequels.md`
 evidence: §2 — a plant is rarely destroyed by someone editing the plant, and the payoff then fails silently in a scene nobody was looking at, which is why §2 makes the pointer symmetric and says the mechanism generalizes past foreshadowing. Cross-book plants had accumulated in three files at once and `plan/sequels.md` was read by no check in the suite
 check:    cross_book_plants_land
-status:   proposed
+status:   ratified
 ```
 
 1. **Signal level defaults to none.** If a plant needs a paragraph break to be noticed, it is the wrong plant.
