@@ -67,6 +67,17 @@ Run once, on D12.1 and D12.2, against a self-contained packet: the framing, the 
 
 **Two cautions, both from the same run.** One seat's headline finding was confidently wrong — that a sulfidic spring in limestone would run pH 2–3 and dissolve the leaching bag, which inverts the direction of bacterial sulfate reduction — and it led that seat's verdict. **Adoption without verification would have broken a working scene to fix a non-problem.** And the packet was incomplete in a way worth fixing before the next run: it carried the two scenes under review and not the entry for the neighbor whose arithmetic they depend on, so no seat could see the third contradiction in that chain. **A packet must include the state-closure neighbors.**
 
+**C12. A scene mapped backward from its ending tests whether the forward map was wishful. — WITHDRAWN on the first run.**
+Proposed as the cheap diagnostic: take the `Ends on:` line, ask what must be true one move earlier for it to land, walk back to the entry state, and diff against the forward map — on the theory that **where the two disagree is where the forward map was wishing.**
+
+**Run once on D12.1, against the canon and the scene entry and deliberately not the forward map. It does not measure that.** What came back was a different scene, and mostly a worse one: hell ants on a day they are not allocated to, a palm in limestone scree, mash spread to dry in the rain-shadow during thirty-six hours of continuous rain, and all three of them eating in a scene whose entry says nobody else eats until she has. It did not test the forward map. **It competed with the forward map and lost**, which is a measurement of the mapper rather than of the map.
+
+**The failure is structural and not a sample size.** A reader who has not seen the forward map cannot diff against it, and a reader who has seen it cannot unsee it. There is no configuration of this test in which the comparison is both informed and independent, which is the same wall the blind-pair discipline in §8 was built to get around and this design walks straight into.
+
+**What survived, and it is small.** The backward reading treated *her eating it, in front of them, and nobody saying anything* as a mid-scene event rather than the last thing on the page — a reading the scene entry forbids elsewhere but the ending line does not itself exclude. **An ending line that a careful reader can place in the middle of a scene is ambiguous**, and that is worth knowing about any `Ends on:` line, cheaply, without this apparatus.
+
+**Do not rebuild this.** If the question is whether a forward map is wishful, the instrument that worked is C11 — hand the map to readers who did not write it and ask them to break it.
+
 **C9. Forward grain and derived grain are different quantities. — Supported.**
 Maps derived from finished prose cluster at one move per 27–38 words. A forward map of an unwritten scene came in at one per 100, and not through laziness: a derived map records every move that *happened*, a forward map records every move an author can *decide* before writing. Most of a derived map's content is discovered in the writing. Any rule that sets a move target for briefs from measurements of finished prose is asking briefs to invent structure they have no basis for choosing.
 
