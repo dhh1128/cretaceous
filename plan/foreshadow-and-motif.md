@@ -1,5 +1,5 @@
 ---
-approval: approved 520ad28c
+approval: approved f93ea963
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -39,7 +39,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R13 | Liaso's story: a T. rex watched him for an hour | D2.9 | the single distant sighting | Day 13 | none @D2.9 |
 | R13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | D19.4 | faint @D17.2 |
 | R14 | The temporal flash symbol | D11.6 | the signal the heretics received | D17.2 | **overt** @D11.6 @D17.2 |
-| R15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | Benal understands his father | D19.7 | none @D2.2 @D2.6 @D19.7 |
+| R15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | **Marek's regard, witnessed** — he looks at his son with something that is not pity, and Keo sees it at D19.7 and Teva sees it at D19.8 | D19.7 / D19.8 | none @D2.2 @D2.6 @D19.7 |
 | R16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
 | R17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none @D2.11 |
 | R18 | **Stone-cycad takes days of leaching, and the pit is where everyone learns it** | D2.2 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
@@ -47,6 +47,8 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
 | R21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
 | R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, book 2 | none @D2.5 @D19.5 |
+
+**R15 changed direction, and the reason generalizes to any row whose payoff is a character's understanding.** It used to read *Benal understands his father*, and **strict third cannot deliver that** — Benal's last POV scene is D19.6, before the confrontation, so his understanding has nowhere to be interior. The payoff is Marek's regard being **witnessed**, by Keo at D19.7 and by Teva at D19.8. That is not a downgrade: rule 1 in `voice-sheets.md` is that nobody explains their own cleverness and the credit is withheld, which is viking's *Nobody looked at Rafa*. The reader gets it twice, from two people with no stake in it, and Benal is facing the wrong way both times. **Check any row whose payoff is somebody realizing something against the POV of the scene it pays in** — `knowledge-ledger.md` caught the same defect at FQ and said the rest had not been checked.
 
 **Validator:** no plant without a payoff, no payoff without a plant, and the ledger is checked in both directions.
 
