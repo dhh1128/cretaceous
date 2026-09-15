@@ -45,7 +45,7 @@ approval: approved 880be723
 * The region was located in the tropical-subtropical belt, experiencing hot and humid conditions year-round.11  
 * Mean annual temperature for paratropical regions in North America is estimated at 20-24 °C.15  
 * Temperature-based seasons (winter/summer) were absent; seasonality was defined by precipitation.13  
-* Rainfall was moderate and relatively evenly distributed throughout the year, suggesting a pattern of wet and dry seasons rather than a constant monsoon.13  
+* Rainfall was moderate and relatively evenly distributed throughout the year, suggesting a pattern of wet and dry seasons rather than a constant monsoon.13 <!-- @WF-rainfall.cycle: wet-dry -->  
 * The region's location makes it highly plausible that it experienced powerful, hurricane-like tropical cyclones.7
 
 ## **SECTION 3: FLORA**

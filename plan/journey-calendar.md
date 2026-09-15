@@ -104,9 +104,11 @@ The dependency order:
 
 **The extra help is not theirs and must not read as theirs.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
 
-### There are no seasons and no pivot — only weather that changes
+### No season pivot, and nothing seasonal inside nineteen days
 
-*"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* <!-- @WF-seasons.exist: false --> Where an older draft said *season*, read *a run of days with similar weather*. `kb/research/geo-flora-fauna.md:44` has rainfall moderate and relatively evenly distributed through the year; nothing seasonal is observable inside nineteen days, and nothing needs to be. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
+*"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* <!-- @WF-season.pivot: none --> Where an older draft said *season*, read *a run of days with similar weather*.
+
+**A wet and dry rainfall cycle does exist in the background, and this book never sees it.** <!-- @WF-rainfall.cycle: wet-dry --> `kb/research/geo-flora-fauna.md:48` gives rainfall as moderate and relatively evenly distributed through the year, *"suggesting a pattern of wet and dry seasons rather than a constant monsoon"* — a precipitation cycle and not a temperature one, and far too slow to register across nineteen days. **So the two files agree and the earlier reading of them did not:** the cycle is real, it is never observable on the page, no character names it, and it is not available as a plot instrument. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
 
 ### Rivers here do not swell. They spread.
 
