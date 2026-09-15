@@ -1993,7 +1993,10 @@ CHECKS["shared_figures_owned"] = check_shared_figures_owned
 # inline claims: the prose declares what it asserts, and two values collide
 # --------------------------------------------------------------------------
 
-CLAIM = re.compile(r"<!--\s*@([a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
+# `C-` matches `S-croc` and `T-projection`: a hyphenated word-form id. It does
+# not collide with methodology-theory's `C11` for the same reason `S-croc` does
+# not collide with the Social ladder's `S8` -- the hyphen is the discriminator.
+CLAIM = re.compile(r"<!--\s*@(C-[a-z][a-z0-9_.]*)\s*:\s*([^>]*?)\s*-->", re.I)
 
 
 def check_claims_agree() -> list[Violation]:
@@ -2036,6 +2039,24 @@ def check_claims_agree() -> list[Violation]:
         if len(values) > 1:
             where = "; ".join(f"{p}:{n} says {v!r}" for p, n, v in sites)
             out.append(Violation(*sites[0][:2], f"@{key} is asserted {len(values)} ways — {where}"))
+
+    # A mistyped key does not collide; it becomes a new key with one value and
+    # passes, which is the failure the id prefixes exist to prevent. There is no
+    # registry of keys on purpose -- a registry means two edits per claim, at
+    # exactly the moment the thing has to be frictionless -- so instead any two
+    # keys within one character of each other are reported as probably one key.
+    keys = sorted(seen)
+    for i, a in enumerate(keys):
+        for b in keys[i + 1:]:
+            if abs(len(a) - len(b)) > 1 or a == b:
+                continue
+            diff = sum(1 for x, y in zip(a, b) if x != y) if len(a) == len(b) else 1
+            if len(a) != len(b):
+                short, long = (a, b) if len(a) < len(b) else (b, a)
+                diff = 0 if any(long[:i] + long[i + 1:] == short for i in range(len(long))) else 2
+            if diff <= 1:
+                out.append(Violation(*seen[b][0][:2],
+                                     f"@{b} is one character from @{a}; one of them is a typo"))
     return out
 
 

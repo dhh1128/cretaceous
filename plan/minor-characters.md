@@ -1,5 +1,5 @@
 ---
-approval: approved 9885d8b0
+approval: approved dd5c87d7
 ---
 
 # Character register
@@ -34,7 +34,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
-**Daven** — father. Dead, earlier than Lumea. *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
+**Daven** — father. Dead, earlier than Lumea. <!-- @C-teva.father.status: dead --> *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
 
 ## Benal's family
 
