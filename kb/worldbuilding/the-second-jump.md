@@ -49,7 +49,9 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 **Cecilia accepts the decision and volunteers to lead the party inland to solve the water problem.** She has a second reason and does not state it: at the Enclave she will be out from under the leadership's supervision.
 
-**Those who stay see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left; ninety-four arrived.
+**Those who stay see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left, suited; ninety-four arrived.
+
+**All of that happens inside the third year.** The failure, the argument, the preparation, and then a walk of a week to a month — `plan/milieu-brief.md` §3 owns the timing and it is not three years of marching. The three years are the occupancy at Genesis, and the party is at the Enclave by the end of them.
 
 ## 5. What Cecilia does at the Enclave
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 58c27698
+approval: approved c1c67ce2
 ---
 
 # Voice sheets
@@ -131,7 +131,7 @@ Eight adults used to carry a verbal signature apiece — a contraction habit, a 
 
 **Sila** speaks for the colony rather than for herself. Her line is *"Better to die with a clean soul,"* … *"than to live as contaminants."* **[drafted]**, split by the tag. She is not paranoid and not stupid; she has correct premises and draws a monstrous conclusion, and she will not concede that a child dying this week weighs anything against it.
 
-**Hesh** argues with arithmetic, because arithmetic is what he has and it is enough — two hundred out of Genesis, ninety-four arrived, three years, with rifles. He will not pretend to a certainty he does not have, which is why he is never refuted.
+**Hesh** argues with arithmetic, because arithmetic is what he has and it is enough — two hundred out of Genesis, ninety-four arrived, every one of them suited, with rifles. He will not pretend to a certainty he does not have, which is why he is never refuted.
 
 **Elana** wants to be told it can still be done, and goes on asking for it after everyone in the room knows it cannot. She will not accuse anyone.
 

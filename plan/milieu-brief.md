@@ -1,5 +1,5 @@
 ---
-approval: approved a98b87fa
+approval: approved 8e1d6bf9
 ---
 
 # Cretaceous — Milieu Brief
@@ -61,7 +61,9 @@ Both are partly right, and the novel does not hand either a victory. That is the
 
 The Enclave sits **80 km inland** from the coast, on ground slightly higher and drier than the surrounding wetland. Beyond the coast, **5–8 km offshore**, lies Genesis, which is essentially at sea level and ground zero for impact. Characters describe the distance as "eighty kilometers" because the land distance is the part they think about.
 
-They left Genesis because it had **no fresh water once the desalination failed, no way to grow food, brutal coastal weather, and a persistent temporal disorientation nobody could explain.** The founders were at Genesis **three years** before the transfer. They left with **200** and arrived with **94**.
+They left Genesis because it had **no fresh water once the desalination failed, no way to grow food, brutal coastal weather, and a persistent temporal disorientation nobody could explain.** The founders were at Genesis **three years**, and the whole of the leaving sits inside the third of them: the desalination fails, the argument runs, the planning and preparation take what they take, and then the walk itself — **a week to a month, and not three years.** **By the end of year three they are at the Enclave.** They left with **200** and arrived with **94**, and **every one of the two hundred was suited.**
+
+**The First Walk is a short journey at the end of a long argument, and nothing in the corpus may turn it into a three-year march.** The three years are the occupancy; the walk is weeks. That makes the loss worse rather than easier to explain — better than half of them in under a month, with rifles, plasma cutters and a suit apiece — and it is why Hesh's arithmetic is unanswerable rather than merely grim. He does not have to state any of the timing for it to work, and in scene D2.6 he does not. @D2.6
 
 `[retired]` **Shelter was never the problem, and the corpus said it had no stable shelter for a while, which Act 3 contradicts on every page.** Genesis is a built research station: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
 
