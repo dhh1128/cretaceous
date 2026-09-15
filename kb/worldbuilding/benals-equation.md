@@ -56,7 +56,7 @@ And the second jump — a thousand years back, to the same spot — was launched
 
 **Backward is unrestricted.** You can go, in person, to any time you like. Nothing has to be true of you first.
 
-**Forward is not.** Occupying a time entangles you with it, and **you can only travel forward to an interval you are entangled with — one you have physically lived through.** That is the whole of FG. Two hundred people had to make the trip in person because a cure cannot be entangled with anything; only a traveler can.
+**Forward is not.** Occupying a time entangles you with it, and **you can only travel forward to an interval you are entangled with — one you have physically lived through.** <!-- @WF-return.rule: own-worldline --> That is the whole of FG. Two hundred people had to make the trip in person because a cure cannot be entangled with anything; only a traveler can.
 
 **And it means the colony's children are not stranded by rule but by biography.** Everyone born here has occupied exactly one interval in the whole of time. There is nowhere forward for them to go, because there is nowhere forward they have been.
 

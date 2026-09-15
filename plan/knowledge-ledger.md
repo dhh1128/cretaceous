@@ -58,7 +58,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | FM | **Keo's sister Yara, and how she died** | **Act 1** | Teva & Benal at D15.4 | known | **ironic — see below** | @D15.4
 | FN | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
 | FO | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
-| FP | The founders' corruption was drift, not deceit | **EP13**, the coda | D19.7 | D19.7 | **the false solution — see below** | @D19.7
+| FP | The founders' corruption was drift, not deceit <!-- @WF-corruption.kind: drift --> | **EP13**, the coda | D19.7 | D19.7 | **the false solution — see below** | @D19.7
 
 ## The reader-payment column
 
@@ -121,7 +121,7 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 
 **M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc took her while their parents watched. Teva and Benal don't learn it until the confessional at D15.4. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes D15.4 a release rather than an information delivery.
 
-**P — the false solution.** Let the reader solve it wrong. Give them enough to conclude the founders lied to keep everyone calm — and make them **right about the lie and wrong about who told it and why**, because the corruption was six generations of drift, not deceit. The reader's cynicism about the ancestors then gets corrected in exactly the way the trio's cynicism about their parents gets corrected. **The reader undergoes the novel's thesis through the mechanics of reading it**, without any character having to articulate the lesson.
+**P — the false solution.** Let the reader solve it wrong. Give them enough to conclude the founders lied to keep everyone calm — and make them **right about the lie and wrong about who told it and why**, because the corruption was six generations of drift, not deceit. <!-- @WF-corruption.kind: drift --> The reader's cynicism about the ancestors then gets corrected in exactly the way the trio's cynicism about their parents gets corrected. **The reader undergoes the novel's thesis through the mechanics of reading it**, without any character having to articulate the lesson.
 
 ---
 

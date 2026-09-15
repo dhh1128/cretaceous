@@ -27,7 +27,7 @@ approval: approved 880be723
 
 ### **1.4 Hydrology**
 
-* The iconic cenotes and extensive karst (underground river) system of the modern Yucatan did NOT exist pre-impact.9  
+* The iconic cenotes and extensive karst (underground river) system of the modern Yucatan did NOT exist pre-impact.9 <!-- @WF-cenotes.exist: false -->  
 * The cenotes are a post-impact feature, formed by the collapse of limestone along the buried crater's ring of faults.7  
 * Pre-impact hydrology was dominated by surface water features: slow-moving rivers, freshwater swamps, marshes, and coastal lagoons.7
 
@@ -105,7 +105,7 @@ approval: approved 880be723
 
 ### **4.4 Other Reptiles**
 
-* **A large crocodylian, genus indeterminate.** Around six meters, an apex ambush predator taking prey at the water's edge. `[retired]` **It is deliberately unnamed, and *Deinosuchus* is specifically excluded** — that genus is Campanian, securely dated in the Aguja and Kaiparowits at roughly 82 to 73 Ma, and absent from the well-sampled terminal Maastrichtian faunas, so it had been extinct some seven million years by the time this story opens. No terminal-Cretaceous terrestrial or freshwater vertebrate assemblage is documented from the Yucatan platform at all, so nothing here can be placed to genus honestly. The colonists are scientists with no reference collection, looking at an animal that matches nothing they were taught; **"croc" is the only name anyone has for it, in the world and on the page.**  
+* **A large crocodylian, genus indeterminate.** Around six meters, an apex ambush predator taking prey at the water's edge. `[retired]` **It is deliberately unnamed, and *Deinosuchus* is specifically excluded** — that genus is Campanian, securely dated in the Aguja and Kaiparowits at roughly 82 to 73 Ma, and absent from the well-sampled terminal Maastrichtian faunas, so it had been extinct some seven million years by the time this story opens. <!-- @WF-deinosuchus.present: false --> No terminal-Cretaceous terrestrial or freshwater vertebrate assemblage is documented from the Yucatan platform at all, so nothing here can be placed to genus honestly. The colonists are scientists with no reference collection, looking at an animal that matches nothing they were taught; **"croc" is the only name anyone has for it, in the world and on the page.**  
 * *Borealosuchus sternbergii*: Boreal Crocodile. A more modestly sized crocodyliform, around 3-4 meters long, that co-existed with its giant relative in freshwater systems.31  
 * *Coniophis precedens*: A primitive, transitional snake with a serpentine body but a more lizard-like, non-kinetic skull; it was a small, burrowing carnivore.32
 * *Madtsoiidae*: A family of large constricting snakes, well established in the Late Cretaceous of Gondwana and North America and surviving long after it. **This is the constrictor of Day 5** — `plan/milieu-allocation.md` allocates it there and the planning layers were using it before this file carried it. Genus deliberately unspecified: madtsoiid material is fragmentary and the story needs a large ambush constrictor rather than a named species.  
@@ -122,7 +122,7 @@ approval: approved 880be723
 * **Elasmosaurid plesiosaurs**: Long-necked marine reptiles, present to the end of the Maastrichtian though far less abundant than mosasaurs by this point.
 * **Lamniform sharks**: *Squalicorax*, a scavenging and predatory shark known from Cretaceous marine sediments; *Cretalamna* and *Serratolamna*, mackerel-shark relatives. Sharks are the background predator of these waters rather than the spectacle.
 
-**One correction to the brief's roster.** `milieu-brief.md` lists *Tylosaurus*. Its secure range is Coniacian to Campanian, and latest-Maastrichtian mosasaur faunas are dominated by *Mosasaurus*, *Prognathodon*, *Plioplatecarpus* and *Halisaurus*. **Treat *Tylosaurus* as absent at 66 Ma** unless somebody checks it against a source — this note is reasoning from range, not a citation.
+**One correction to the brief's roster.** `milieu-brief.md` lists *Tylosaurus*. Its secure range is Coniacian to Campanian, and latest-Maastrichtian mosasaur faunas are dominated by *Mosasaurus*, *Prognathodon*, *Plioplatecarpus* and *Halisaurus*. **Treat *Tylosaurus* as absent at 66 Ma** <!-- @WF-tylosaurus.present: false --> unless somebody checks it against a source — this note is reasoning from range, not a citation.
 
 ### **4.5 Mammals**
 

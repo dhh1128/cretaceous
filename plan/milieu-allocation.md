@@ -42,7 +42,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **The river and its banks** | 7–8 | the one channel that cannot be avoided. Two days: a bank they cannot make themselves leave, and the crossing. |
 | **Fern savanna** | 10 | head-high ferns and cycads to the horizon, no trees, nothing to hide behind or under. |
 | **Limestone broken country** | 11–12 | scree, gulches, ravines, thin soil, exposed rock. Where Keo falls. |
-| **Coastal plain and wetland** | 13–14 | *Nypa*-type palms, *Weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. Then mudflats that read as ground and are not. |
+| **Coastal plain and wetland** | 13–14 | *Nypa*-type palms, *Weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. <!-- @WF-mangroves.exist: false --> Then mudflats that read as ground and are not. |
 | **Open water** | 14–15 | the raft, the storm, the bank. |
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |

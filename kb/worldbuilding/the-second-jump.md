@@ -93,7 +93,7 @@ They never prove the cure. They never build the equipment. A thousand years boug
 
 ## 8. The anomaly
 
-**Nothing crosses. Nothing is sent and nothing is received**, and this must stay true, because the moment information can cross time, nobody needed to make the trip and the novel's premise collapses. See `content/epigraphs.md`, *Nothing crosses. Ever. In either direction.*
+**Nothing crosses. Nothing is sent and nothing is received** <!-- @WF-timecrossing.possible: false -->, and this must stay true, because the moment information can cross time, nobody needed to make the trip and the novel's premise collapses. See `content/epigraphs.md`, *Nothing crosses. Ever. In either direction.*
 
 **A jump is an event at a place, and the place is damaged by it.** Two jumps have happened at that one spot. Anyone near it perceives fragments, unstuck from sequence — not a message, not a haunting, a **scar**.
 

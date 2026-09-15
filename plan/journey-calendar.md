@@ -44,7 +44,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 ### Why the crossing is late, and why it is once
 
-**They avoid water absolutely.** Most of the route is not crossed dramatically — it is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. **Exactly one channel cannot be avoided.**
+**They avoid water absolutely.** Most of the route is not crossed dramatically — it is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. **Exactly one channel cannot be avoided.** <!-- @WF-crossing.count: 1 -->
 
 **It is the most frightening thing in the novel**, and it must be, because it is the only time they willingly get into deep water in a culture whose first law is *water is death*. It is scarier than the raft — on a raft you are out of the water — and scarier than the flight home. So it does not belong in the first days, before the reader has spent any time outside with them, and it does not belong in the collapse, when the fear would be indistinguishable from everything else going wrong.
 
@@ -90,7 +90,7 @@ The dependency order:
 
 ### How the crossing is actually made
 
-**The croc's sense is the water's surface, not the ground** — pressure receptors in the jaw skin, reading disturbance it can localize. See `plan/tech-rules.md`. Everything below follows from that, and the plan the three of them make is a plan to make one point in the river the loudest thing in it and their own crossing the quietest.
+**The croc's sense is the water's surface, not the ground** <!-- @WF-croc.sense: water-surface --> — pressure receptors in the jaw skin, reading disturbance it can localize. See `plan/tech-rules.md`. Everything below follows from that, and the plan the three of them make is a plan to make one point in the river the loudest thing in it and their own crossing the quietest.
 
 **They choose the narrows.** A place where the channel tightens between boulders — the water runs quicker there and the gap to swim is shorter, and both are worth more than the discomfort of a faster current. Boulders in a channel are already canon; the Enclave's own river bend is barred with them.
 
@@ -106,13 +106,13 @@ The dependency order:
 
 ### There are no seasons and no pivot — only weather that changes
 
-*"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* Where an older draft said *season*, read *a run of days with similar weather*. `kb/research/geo-flora-fauna.md:44` has rainfall moderate and relatively evenly distributed through the year; nothing seasonal is observable inside nineteen days, and nothing needs to be. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
+*"There is no season pivot. That's a fact about this area of the planet 66mya, not up for debate. But there can be changes in weather — rainy days, sunny days."* <!-- @WF-seasons.exist: false --> Where an older draft said *season*, read *a run of days with similar weather*. `kb/research/geo-flora-fauna.md:44` has rainfall moderate and relatively evenly distributed through the year; nothing seasonal is observable inside nineteen days, and nothing needs to be. Showers most days and a sustained wet stretch at the end of the journey is ordinary anywhere tropical, and needs no seasonal argument at all.
 
 ### Rivers here do not swell. They spread.
 
 The terrain is a **low-relief coastal plain with no highlands** (`geo-flora-fauna.md:20`) drained by **slow-moving rivers, swamps and marshes** (`:26`). There is no gradient, so **a flat-plain river cannot flash-flood and cannot become a torrent** — it has nowhere to fall from and nothing to fall down.
 
-What it does instead is go **wide**. A three-hundred-meter channel becomes three kilometers of shallow standing water, and the crossing point stops existing because the river stops having banks. That is not a harder crossing. **It is not a crossing at all** — slow warm shallows over a flat plain is the finest crocodilian habitat that could be designed, and nobody walks into it. This is why the route home closes rather than becoming difficult.
+What it does instead is go **wide**. <!-- @WF-river.flood.mode: spreads --> A three-hundred-meter channel becomes three kilometers of shallow standing water, and the crossing point stops existing because the river stops having banks. That is not a harder crossing. **It is not a crossing at all** — slow warm shallows over a flat plain is the finest crocodilian habitat that could be designed, and nobody walks into it. This is why the route home closes rather than becoming difficult.
 
 *(It also reinforces the decoy constraint. A driven animal only works as a decoy in slow water; a current sweeps the thrashing downstream and the gathering never happens. The geology and the trick agree.)*
 
@@ -159,7 +159,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 
 **Weather is differentially dangerous, and that is the instrument.** Heat is Teva's enemy and Keo's flattery — and heat is the only weather that can *kill* her, though not the only weather she feels. Rain is Benal's enemy, because it is *noise*, and Keo's, because he is unsuited and then injured. Fog favors them. Sun favors the flybeak. **Every assignment should hurt at least one of the three and help at least one.** A day that hurts everyone equally is a day the weather is doing nothing.
 
-**Cold is real, and it is never lethal.** Maastrichtian tropical shelf water runs 28–32 °C, mean annual air is 20–24 °C, and rain lands near the wet-bulb — call it 22 °C, a warm shower. Nobody is killed by weather that is merely wet, and **cold-water shock is not available at any depth they can reach**: the response needs water below about 15 °C and there is none.
+**Cold is real, and it is never lethal.** <!-- @WF-cold.lethal: false --> Maastrichtian tropical shelf water runs 28–32 °C, mean annual air is 20–24 °C, and rain lands near the wet-bulb — call it 22 °C, a warm shower. Nobody is killed by weather that is merely wet, and **cold-water shock is not available at any depth they can reach**: the response needs water below about 15 °C and there is none.
 
 **Where cold does show up it is a place rather than a sky, and Teva feels it first.** A limestone cave. Wet skin in cyclone wind. Both abnormal for this world, both miserable, both survivable by ordinary means — getting dry, finding a covering, waiting for the sun. Write the discomfort and its cost in concentration and morale; never as a threat to a life, and never solved by the suit, because the suit is a cooler.
 

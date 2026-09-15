@@ -63,15 +63,15 @@ Marked `[?]` items are session inference, not rulings.
 
 ## What book 1 must therefore protect
 
-- **The capsule is not opened in book 1.** It is dug up and carried, and what it says is book 2's opening.
-- **Nothing crosses time, in either direction, ever.** Book 3's rescue is people going in person and coming back in person along their own worldlines. No signals, no messages, no exceptions.
+- **The capsule is not opened in book 1.** <!-- @WF-capsule.opened.book1: false --> It is dug up and carried, and what it says is book 2's opening.
+- **Nothing crosses time, in either direction, ever.** <!-- @WF-timecrossing.possible: false --> Book 3's rescue is people going in person and coming back in person along their own worldlines. <!-- @WF-return.rule: own-worldline --> No signals, no messages, no exceptions.
 - **The Watch has to exist and be visibly pointless.** Omya reciting the sky perfectly while losing the protein fold is book 2's dataset, so book 1 has to establish both the duty and the fact that nobody remembers what it is for.
 - **The damaged temporal equipment at Genesis must not read as the whole of it.** Book 2 turns on something being absent.
 - **Marek's rejection of Benal has to be repairable.** Book 2 has him supporting his son.
 
 ## What became of the Lost Colonists
 
-**Benal never finds them, and that is settled.** The mystery arc pays off through Cecilia instead, and the two figures are not in conflict: **the second jump is a thousand years, and 67 Mya is where the Enclave emigrates at the end of book 3.** Two different jumps, a million years apart.
+**Benal never finds them, and that is settled.** The mystery arc pays off through Cecilia instead, and the two figures are not in conflict: **the second jump is a thousand years <!-- @WF-secondjump.distance: 1000y -->, and 67 Mya is where the Enclave emigrates at the end of book 3 <!-- @WF-emigration.distance: 67Mya -->.** Two different jumps, a million years apart.
 
 **They failed.** They never built the equipment they went back for, and they lived out their lives in simple subsistence. What they did manage was to **bury the capsule and the jump equipment for the other scientists to find at 66 Mya** — a message and a machine, addressed forward across a thousand years to people they had walked away from.
 
