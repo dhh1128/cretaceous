@@ -98,7 +98,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 | `no stable shelter` | Genesis is a **built research station** and much of it still stands. The mission's purpose was laboratory work, so they arrived with structures good enough to culture in. They left over water, food and the disorientation. `plan/milieu-brief.md` §3 |
 | `colony invention, not a founder` | The **duty** is a founder instruction; the **apparatus** is the colony's extension of it into a situation nobody wrote rules for. `plan/milieu-brief.md` §6 |
 | `four micrometer` | The croc reads **disturbance on the water's surface**, not vibration through the ground. Leitch and Catania measured a probe indenting *modern* crocodilian skin — a local touch threshold, not ground displacement, not an extinct animal. `plan/tech-rules.md` |
-| `Deinosuchus` | **Campanian, and extinct some seven million years before this story opens.** The animal stays, at six meters, and is deliberately not placed to genus. `kb/research/geo-flora-fauna.md` §4.4 |
+| `Deinosuchus` | **Campanian, and extinct some seven million years before this story opens.** The animal stays, at six meters <!-- @WF-croc.length: 6m -->, and is deliberately not placed to genus. <!-- @WF-deinosuchus.present: false --> `kb/research/geo-flora-fauna.md` §4.4 |
 | `67mya jump` | The second jump is **a thousand years**. 67 Mya is where the Enclave emigrates at the end of book 3 — a different jump. `plan/sequels.md` |
 | `telepath` | **This is not a culture of telepaths.** The proximity sense is not to be extended. |
 

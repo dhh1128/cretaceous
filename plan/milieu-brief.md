@@ -93,7 +93,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 ## 4. The Enclave
 
-**Nine hundred to a thousand people.** Infant mortality is high and some upgrades reduce fertility. **The vagueness is deliberate:** it is not plausible that anyone would know the exact figure at a given moment, and no scene gives one.
+**Nine hundred to a thousand people.** <!-- @WF-population: 900-1000 --> Infant mortality is high and some upgrades reduce fertility. **The vagueness is deliberate:** it is not plausible that anyone would know the exact figure at a given moment, and no scene gives one.
 
 **Origin stock:** the White Sands area of New Mexico — Latino and Mexican, Navajo and Pueblo, plus military and scientific personnel from around the world. This produced both the gene pool and the language. See `lingo.md`.
 
@@ -121,7 +121,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **And it does not work.** A grating sized to stop a six-meter adult croc passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene D2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
-**It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement, and nobody in that family has ever needed it explained.
+**It is also how Yara died** — inside the perimeter, in eleven meters of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement <!-- @WF-yara.cause: croc -->, and nobody in that family has ever needed it explained.
 
 **The barrier is rotting the entire time.** Untreated wood in warm water has a short life, so the pylons and grating are under continuous replacement — two centuries of unbroken labor to hold one line that has never fully held. That is the Enclave in miniature.
 
@@ -364,9 +364,9 @@ He joins because his theoretical work is the only key to Genesis, and because vi
 
 ### Noli — companion
 
-A **sicklefoot** — a small dromaeosaurid. **No binomial, ever**, in prose or reference: Maastrichtian land vertebrates from the Yucatan platform are essentially unsampled, so an unnamed local species is the most defensible option available and it matches the colony's habit of folk naming.
+A **sicklefoot** — a small dromaeosaurid. **No binomial, ever**, in prose or reference <!-- @WF-noli.binomial: never -->: Maastrichtian land vertebrates from the Yucatan platform are essentially unsampled, so an unnamed local species is the most defensible option available and it matches the colony's habit of folk naming.
 
-Female, four or five years old — middle-aged against a lifespan of eight to twelve. About 14 kg, 2 m nose to tail, 60 cm at the hip; coyote-sized, slightly smaller than a full male. Heavily feathered and bird-like, with prominent wing feathers on the forearms, downy body covering, large intelligent eyes, and the sickle claws she is named for, carried clear of the ground. Her plumage is dark and **iridescent**, which is why she reads mud-brown in daylight and purple-black at night; both descriptions are canon and the light decides.
+Female, four or five years old — middle-aged against a lifespan of eight to twelve. About 14 kg, 2 m nose to tail, 60 cm at the hip; coyote-sized, slightly smaller than a full male. Heavily feathered and bird-like, with prominent wing feathers on the forearms, downy body covering, large intelligent eyes, and the sickle claws she is named for, carried clear of the ground. Her plumage is dark and **iridescent** <!-- @WF-noli.plumage: iridescent -->, which is why she reads mud-brown in daylight and purple-black at night; both descriptions are canon and the light decides.
 
 **Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious.
 

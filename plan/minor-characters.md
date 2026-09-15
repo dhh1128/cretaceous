@@ -16,11 +16,11 @@ Entries marked `[?]` were invented to close a gap and are cheap to change. They 
 
 **Yara** — Keo's younger sister. Dead.
 
-*The prose says only "the world that had killed his sister" (`content/superseded/04.1.md`). She has no name anywhere and she is load-bearing, so: she was six or seven, and she was taken by a croc, near water, while under her parents' care.*
+*The prose says only "the world that had killed his sister" (`content/superseded/04.1.md`). She has no name anywhere and she is load-bearing, so: she was six or seven, and she was taken by a croc, near water, while under her parents' care.* <!-- @WF-yara.cause: croc -->
 
 *Why that version.* It makes "water is death" a family sentence rather than a civic slogan. It converts Joram and Riel's protectiveness from caution into guilt — they have already lost one on their watch — which is the strongest single piece of evidence in the misjudgment ledger, because Keo reads it as distrust. It gives Keo's refusal of the third suit a private meaning: he is proving he can survive what she could not. And it makes the theft worse in exactly the right way — he robs two people who lost a child to the outside, and then walks into the outside.
 
-**And now the returning makes it much worse than that.** *(See `milieu-brief.md` §4.)* A croc took her, so **there was no rite.** No laying out, no mourning, no balm, nothing under the mat within the hour. Yara is the one member of this family who was not returned to the earth, and in a culture with no graves and no bones, that is not a lesser loss — it is the only kind of loss that leaves anything behind. Nobody in the family has ever said this out loud and nobody should say it in the novel.
+**And now the returning makes it much worse than that.** *(See `milieu-brief.md` §4.)* A croc took her <!-- @WF-yara.cause: croc -->, so **there was no rite.** <!-- @WF-yara.rite: none --> No laying out, no mourning, no balm, nothing under the mat within the hour. Yara is the one member of this family who was not returned to the earth, and in a culture with no graves and no bones, that is not a lesser loss — it is the only kind of loss that leaves anything behind. Nobody in the family has ever said this out loud and nobody should say it in the novel.
 
 It also explains Joram and Riel's custodianship. They keep the objects whose whole function is to leave no trace, weekly, with a balm, because the one time it mattered most it did not happen. **And it means Keo going unsuited is not generic recklessness** — it is risking the exact failure that took his sister, in the one dimension this society cannot forgive. He knows that when he leaves the third suit on the rack. So does his father.
 

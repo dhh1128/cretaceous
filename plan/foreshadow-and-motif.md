@@ -22,7 +22,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 
 | # | plant | where | payoff | where | signal |
 |---|---|---|---|---|---|
-| R1 | Noli's total dependence on Keo's projection | D2.1 | she cannot be saved by it | D11.1 | none @D2.1 @D11.1 |
+| R1 | Noli's total dependence on Keo's projection | D2.1 | she cannot be saved by it | D11.1 <!-- @WF-noli.alive.until: D11.1 --> | none @D2.1 @D11.1 |
 | R2 | **The third suit, left on the rack** | D2.11 | Keo's injury; and the reader knows the real reason | D11.4 / D15.4 | **overt** @D2.11 @D11.4 @D15.4 |
 | R3 | Benal's mathematics dismissed as dead symbols | D2.2 | the only knowledge that matters | D17.2 | faint @D2.2 @D17.2 |
 | R4 | Keo leaves the machete on the taboo shelf | D2.11 | he pilots the wig | D19.1 | faint @D2.11 @D19.1 |

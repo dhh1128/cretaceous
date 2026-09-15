@@ -58,7 +58,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | species | day | note |
 |---|---|---|
 | *Acheroraptor* — **razortail** | 3 | the pack escape. Established at D3.1 by sound only; seen on Day 3. | @D3.1
-| the large river crocodylian — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. Six meters, and deliberately not placed to genus; `kb/research/geo-flora-fauna.md` §4.4 says why. |
+| the large river crocodylian — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. Six meters <!-- @WF-croc.length: 6m -->, and deliberately not placed to genus; `kb/research/geo-flora-fauna.md` §4.4 says why. |
 | *Anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
 | *Madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
 | *Alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |

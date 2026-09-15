@@ -28,7 +28,7 @@ A fourth exists and is worth using sparingly: **shared confusion**, where both r
 
 | # | where | what | what it recontextualizes |
 |---|---|---|---|
-| SU1 | **Midpoint, D11.1** | Noli taken | Every previous scene of Keo's competence. The reader must have been given the flybeak earlier — a shadow, a silence, a wrongness — so they dread *something* and are surprised only by **when, and who**. Dread first, shock second. | @D11.1
+| SU1 | **Midpoint, D11.1** | Noli taken <!-- @WF-noli.alive.until: D11.1 --> | Every previous scene of Keo's competence. The reader must have been given the flybeak earlier — a shadow, a silence, a wrongness — so they dread *something* and are surprised only by **when, and who**. Dread first, shock second. | @D11.1
 | SU2 | **D16.1–D16.3** | The dry, powered section is real; the protocols exist | The journey was not futile. A relief-shaped surprise landing directly on "all is lost," which is the cheapest and most reliable emotional swing available. | @D16.3
 | SU3 | **D17.2, climax** | **Only the original colonists could ever have gone back. Everyone born here is stranded by birth.** | Six generations of waiting. Every Traditionalist argument, every sacrifice to the Mission, the entire premise of the society. The largest surprise in the book and the reason to hold it. | @D17.2
 | SU4 | **End of book** | The Lost Colonists exist, and may still be out there | Opens book 2. **The reader must end knowing less than they want to.** |
