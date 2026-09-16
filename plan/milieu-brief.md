@@ -1,5 +1,5 @@
 ---
-approval: approved 6252c495
+approval: approved d0fcd644
 ---
 
 # Cretaceous — Milieu Brief
@@ -105,6 +105,10 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **The kiva has two openings, and the second one is why the cave was chosen.** It is a large natural dissolution cave — *not* a cenote; those are post-impact collapse along the crater ring and do not exist yet. <!-- @WF-cenotes.exist: false --> A sloping cleft along a bedding plane lets a person walk down rather than be lowered, and **the ceratops hide hangs there**, keeping animals out. Ten to fifteen meters up there is a collapse hole, too high to climb and not meant as a way in. Together they make a chimney: cool air in low, smoke out high <!-- @WF-kiva.climate: chimney-ventilated --> — and `§6` lists two centuries of cooking fires as an unguardable trace risk, so that cave burns things routinely and would be uninhabitable without it. The hole also drops **one shaft of daylight** onto a talus cone of fallen rock, so there are plants growing in a cave, a wet patch nobody stores anything on, and a light that crosses the floor through the day and goes out in the evening. **The Vitarium is unaffected**, being a deep cleft off the side, and is therefore dark for a reason rather than by assertion.
 
+**The stone runs slick with condensation.** Limestone that never warms, high humidity, and a cave that fills with wet people; it is the one surface in the Enclave that is always wet and nobody thinks about it.
+
+**Seen from inside, the walk-in reads as an arch at the end of a dim throat** — a short passage that traps the air and the smell of too many bodies, so a crowded session is announced by the smell of it before you are in the room. **That is Opening 1 described from the other end and it is not a third door.**
+
 Nests are reached by **notched rope ladders**, and inside they are divided by **fern screens**. `[?]`
 
 **Nests are multi-room platforms slung between conifers on ropes and pulleys**, linked by **canopy-walks**. **The rig self-compensates**: when one tree bends, the ropes give and the platform slides on the pulley to rebalance. So the nests do **not** lean constantly or dramatically. What a person actually experiences is breezes, **creaking rope**, and small adjustments underfoot. Do not write the sway as a recurring texture; it is not what living there feels like.
@@ -182,6 +186,8 @@ This is a scientific mission, not a tribe, and **status follows mission-critical
 Teva recruiting Benal is a thesis statement: the younger generation understands that the way into Genesis is intellect, not muscle.
 
 ## 6. Technology
+
+**The Founders forbade markings, and that is a founder instruction rather than colony apparatus.** No mark, no graffiti, no history — nothing written on a surface that could outlast them. <!-- @WF-markings.banned: founders --> It follows directly from *leave no evidence*, unlike the archaea and the balm and the returning, which are all the colony's own extensions of the duty. **So the kiva's walls are bare, and everyone alive grew up in a world where a wall is a thing with nothing on it.** Nobody finds that strange and no character remarks on it; `plan/foreshadow-and-motif.md` §3 budgets the motif and forbids the narration naming what it means.
 
 **Hard tech — "old-tech."** Metal, polymer, electronics. Dangerous because it leaves geological trace across 66 million years. Kept only inside the Enclave, inventoried individually, used almost never. Taking it beyond the impact radius is the deepest taboo: a lost blade could survive to be found.
 
