@@ -1,5 +1,5 @@
 ---
-approval: approved 99adcb23
+approval: approved fe06117b
 ---
 
 # Humor plan
@@ -116,7 +116,7 @@ The current draft has no room for any of this because every scene is at full emo
 |---|---|
 | **D2.1** Keo trains Noli | **two of Noli's four opinions.** Seed *"we'll be fine"* as the tic the others will later throw back at him | @D2.1
 | **D2.2** Benal at home | the first audible note of his gallows register — it exists before the perimeter, not once the mudwalk turns bad | @D2.2
-| **D2.3** Keo with his parents | **this family has jokes that predate the novel, and that is the whole assignment.** Riel's quantifying is the delivery mechanism — she gives a number where anyone else would give an impression — but **the joke is the family's, not the narration's.** They tease her about it, the tease exaggerates her, and the gap between the tease and the mild reality is the warmth. She is not a human abacus and the prose never plays her as one. An old running bit about Joram's silence that all three can run without explaining. **The register dies the instant Alira's name is said** and does not return in the scene — which is how the reader learns what the morning cost | @D2.3
+| **D2.3** Keo with his parents | **this family has jokes that predate the novel, and that is the whole assignment.** Riel's quantifying is the delivery mechanism — she gives a number where anyone else would give an impression — but **the joke is the family's, not the narration's.** They tease her about it, the tease exaggerates her, and the gap between the tease and the mild reality is the warmth. She is not a human abacus and the prose never plays her as one. An old running bit about Joram's silence that all three can run without explaining. **The register turns when Alira's name is said, and does not die.** The parents keep reaching for the same bits, because that is how this family carries grief, and Keo hears every one of them as being handled like a child and will not play — so the jokes become the misreading itself, and one of them stops being funny in his own mouth | @D2.3
 | **D2.4** Teva with Omya | **Omya is funny when lucid** — exacting, dry, unsentimental. This is the only time in the novel the reader sees it, which is the point | @D2.4
 | **D2.5** Teva and the yazhi | a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh | @D2.5
 | **D2.9** Benal insists | at least one inside joke visible; the three have shorthand before they leave | @D2.9
