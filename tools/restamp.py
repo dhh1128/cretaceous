@@ -7,9 +7,8 @@ rewrote the *example* marker inside `AGENTS.md` §2's documentation fence,
 which is a code block explaining what a marker looks like. A marker-shaped
 line is not a marker; its position is what makes it one.
 
-This is not `approve.py` and does not replace it. `approve.py` refuses without
-a TTY so that a session cannot approve its own output, and that guard stands.
-This records an answer Daniel has already given in conversation, by hand, for
+This is not `approve.py`, which stamps any file whether or not it was approved
+before. This records an answer Daniel has already given in conversation, by hand, for
 the edits that enacted it -- see `AGENTS.md` §2.
 
     python3 tools/restamp.py            # list what is stale

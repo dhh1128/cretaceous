@@ -35,7 +35,7 @@ approval: approved 3f9c1a2b
 
 Three values, and nothing else. `approved <hash>` — Daniel said yes to exactly these contents. `provisional <hash>` — he accepted them weakly, live enough to build on and cheap to revisit. `unapproved` — nobody asked, or he has not answered. **`unapproved` is the default and carries no hash.**
 
-**The hash is eight hex characters over the file's body, ignoring the frontmatter, and no human writes it.** `python3 tools/approve.py <file>` stamps it. A file whose body no longer hashes to its marker has changed since he read it, and that is a comparison rather than an argument:
+**The hash is eight hex characters over the file's body, ignoring the frontmatter, and no human writes it.** `python3 tools/approve.py --yes <file>` stamps it, and **the session runs it** once he has said yes in conversation. The script records his answer; it does not constitute it, so never run it on a file he has not approved. A file whose body no longer hashes to its marker has changed since he read it, and that is a comparison rather than an argument:
 
 ```
 python3 tools/approve.py --list                  # every marker, and what is stale

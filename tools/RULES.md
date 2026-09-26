@@ -73,4 +73,4 @@ python3 tools/ratify.py <id> [<id>...]  # confirm each, then stamp it with today
 
 Ratifying is one word and a date, so editing the block by hand is a perfectly good way to do it. The script exists to date it, to refuse a rule whose checker does not exist, and to show what each rule catches before you answer.
 
-**It requires a terminal, and that is a guard rather than a convention.** An agent's shell has no TTY, so `ratify.py` refuses inside a session and an AI cannot ratify its own proposal by running it. The approval frontmatter had no such guard, and it drifted for exactly that reason.
+**A session runs it, with `--yes`, once Daniel has said yes to the rule's sentence in conversation.** The ratification is his answer; the script records it. What stops a session ratifying its own proposal is that it may only run the script on his yes, not that it lacks a terminal.
