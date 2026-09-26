@@ -75,7 +75,7 @@ def main(argv: list[str]) -> int:
     for target in wanted:
         state = "mapped" if target in mapped else "NOT YET MAPPED"
         print(f"{target}  ({state})")
-        for source, move, payload in sorted(demands[target]):
+        for source, move, payload in sorted(demands[target], key=lambda d: tuple(x or "" for x in d)):
             # The move number belongs to the TARGET, not the source: the pointer
             # reads `requires <target>.<move>`. Printing it beside the source is
             # the obvious misreading and it was made once already.

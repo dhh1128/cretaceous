@@ -887,7 +887,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** DISCOVER · **Ending:** HELD
 **Her epiphany, and the final image.**
 **Must carry:**
-- **`[?]` This scene is Teva's and the outline gives it to Keo, which is a POV defect at the climax.** `plan/outline.md` has her realizing *they're not liars, they're believers, they're just wrong* while the reader is in Keo's head — and strict third means he can see her stop and cannot see her realize. `AGENTS.md` §6 records the same defect being caught at D1.1. **The epiphany is the payoff of her whole arc and it has to be delivered from inside her.**
+- **The epiphany is hers and is delivered from inside her.** The thesis is spoken aloud here, once, unfinished — not in D19.7, where strict third lets Keo see her stop and not see her realize. **The epiphany is the payoff of her whole arc.**
 - **She sees the Council's faces and they are the faces from her flash on Day 15** — terror, grief, stubborn paralysis, not malice. Identical. That is what turns the accusation off in her mouth.
 - **The speech she prepared on Day 17 does not get given.** She decided what she was going to say to them two days ago and she does not say it, and the reader has been carrying that speech since.
 - **The parent payoff, seen by the person who has none left.** Joram and Riel look at their son with vindicated pride, and Marek looks at Benal with shocked respect — and Teva watches both, having left her grandmother to a room she can no longer follow a conversation in.

@@ -128,8 +128,8 @@ Star lore, checked nightly, intact after 206 years. The mission instructions, ch
 
 Per the cordimancy standard, where the title concept is said aloud exactly twice across 124,000 words. Here:
 
-1. **Teva at D19.7** — *they're not liars, they're believers.* @D19.7
-2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.7 recontextualizes it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small. @D2.3
+1. **Teva at D19.8**, aloud, in her own POV — *they're not liars, they're believers.* @D19.8
+2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.8 recontextualizes it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small. @D2.3
 
 Nothing else in the novel states it. Not the narration, not the epigraphs, not Benal.
 
