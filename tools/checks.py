@@ -1894,8 +1894,42 @@ def check_scene_map_backward_closure() -> list[Violation]:
     return out
 
 
+def check_requires_open_choice() -> list[Violation]:
+    """No backward pointer names a move that carries `[-]`.
+
+    `AGENTS.md` §2: `[-]` is a choice with no apparent consequences yet, made by
+    a session and never put to Daniel. A `requires` naming it is a consequence
+    arriving, so the choice has to leave `[-]` and go on a ledger. Only pointers
+    with a move number can be checked; a scene-level pointer names no line."""
+    moves: dict[str, dict[int, str]] = {}
+    for path, lines in scene_maps():
+        sid = path[len(MAPS_DIR):-3]
+        cur, found = None, {}
+        for line in lines:
+            m = re.match(r"^(\d+)\. ", line.strip())
+            if m:
+                cur = int(m.group(1))
+                found[cur] = line
+            elif line.startswith("#"):
+                cur = None
+            elif cur is not None and line.strip():
+                found[cur] += "\n" + line
+        moves[sid] = found
+    out = []
+    for path, lines in scene_maps():
+        for n, line in enumerate(lines, start=1):
+            for m in REQUIRES.finditer(line):
+                target, move, _, _ = m.groups()
+                text = moves.get(target, {}).get(int(move)) if move else None
+                if text and "`[-]`" in text:
+                    out.append(Violation(path, n, f"requires {target}.{move}, which is marked `[-]`; "
+                                         f"something now depends on it, so it belongs on a ledger"))
+    return out
+
+
 CHECKS.update({
     "scene_map_in_complete": check_scene_map_in_complete,
+    "requires_open_choice": check_requires_open_choice,
     "scene_map_backward_closure": check_scene_map_backward_closure,
 })
 

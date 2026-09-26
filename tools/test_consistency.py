@@ -284,6 +284,11 @@ def test_every_backward_pointer_names_a_scene_and_a_move_that_exist():
     holds("scene_map_backward_closure")
 
 
+def test_no_backward_pointer_leans_on_an_open_choice():
+    """A `[-]` choice that something depends on has acquired a consequence and needs a ledger."""
+    holds("requires_open_choice")
+
+
 def test_every_identifier_resolves_to_the_file_that_owns_it():
     """A check cannot tell a typo from a new id unless one file owns the id space."""
     holds("identifiers_resolve")
