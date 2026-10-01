@@ -87,6 +87,7 @@ Three things that decide whether it is worth the call:
 
 - **Ask for refutation against the stated standard, not for an opinion.** "What do you think of this" returns polite endorsement from every provider.
 - **The highest-value section is the undeclared inventions**, because that is the ledger's own measure: what the pass failed to ask about. Say so in the prompt and ask for it exhaustively.
+- **The packet must show approval state.** A builder that strips frontmatter makes every section look equally unapproved, and on the D2.2 run three seats reported a ruling inside an approved map as an invention nobody had asked about. Carry each file's `approval:` line into its section heading.
 - **Verify before adopting.** One seat's headline finding in the first run was confidently wrong and would have broken a working scene. Agreement across lineages is weak evidence and a single confident dissent is not evidence at all until you have chased it.
 
 **Its output is ledger items**, which is why it sits before phase 4 rather than after it. Two of the first run's findings reshaped the scenes and neither was reachable from the four invariants.

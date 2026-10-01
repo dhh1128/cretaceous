@@ -1,5 +1,5 @@
 ---
-approval: approved 1c203e7d
+approval: approved bdcc8d76
 ---
 
 # Benal's equation
@@ -10,7 +10,7 @@ approval: approved 1c203e7d
 
 $$T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot f_{drift}(?)$$
 
-It appears in the text as a written artifact — on Benal's slate, later etched at Genesis. **The narration never explains it.** The reader is meant to grasp its *shape*: a known part, and a part with a question mark on it.
+It appears in the text as a written artifact — on Benal's board, in gypsum chalk <!-- @WF-benal.writing.surface: board -->, later etched at Genesis. **The narration never explains it.** The reader is meant to grasp its *shape*: a known part, and a part with a question mark on it.
 
 ## The terms
 
@@ -73,7 +73,7 @@ The displacement is measured from the **arrival baseline** — the moment the ex
 1. **Never explain it.** No character delivers a lecture. Benal talks in fragments, to himself, and the reader assembles the shape from his frustration.
 2. **He is stuck for most of the book**, and being stuck is characterizing — it is why Marek can call the work useless and why Benal half believes him.
 3. **The fieldpack loss at D14.3 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically. @D14.3
-4. Use the notation sparingly and as an *image* — something seen on a slate, something etched in metal — not as text to be parsed.
+4. Use the notation sparingly and as an *image* — something seen on a board, something etched in metal — not as text to be parsed.
 
 ## Open issue for the science pass
 
