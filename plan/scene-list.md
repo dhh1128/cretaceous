@@ -88,7 +88,7 @@ Benal's mathematics. Marek's *"do something real."*
 - Omya sharp, exacting, funny. *"Precision, Teva. We are scientists, not shamans"* — quoted as memory in D1.1, delivered live here. @D1.1
 - The Keeper work dramatized. Teva knows fragments of it; that's why she's dangerous later.
 - Lumea named by her mother.
-- Something about the founders that will later contradict Sila.
+- **The wrapping archaea, among the culture lineages Omya recites: first grown at the Enclave, in year three.** Teva hears a date in a list. At D17.2 the founders' old-tech at Genesis has never been wrapped, and the apparatus Sila treats as founder law turns out to be the colony's own (`foreshadow-and-motif.md` R7b).
 - **The Watch.** Omya recites the sky *perfectly* — sixty years <!-- @WF-omya.watch.years: 60 --> of drilling, remote memory, intact — and then cannot hold a protein fold. The knowledge nobody values survives; the knowledge keeping them alive is going. Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty had become hers. See `journey-calendar.md` §3 and `milieu-brief.md` §5.
 **Structural cruelty:** the lucidity ends *inside the scene.* We meet her and lose her in the same fourteen hundred words, which is what Teva lives through every day and what the Dark Night confession at D15.4 — *"I left her while she's disappearing"* — currently has nothing behind. @D15.4
 **Ends on:** `[?]` Omya asking whether the sky was watched last night, and Teva having no answer. The question returns in the last scene of the book, and by then she does.

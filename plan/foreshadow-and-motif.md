@@ -1,5 +1,5 @@
 ---
-approval: approved a402d4df
+approval: approved fbaa8b1d
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -29,6 +29,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R5 | **Joram's face holding only fear** | D2.6 | the fear was for him, and it was about Yara | D19.7 | none @D2.6 @D19.7 |
 | R6 | Sila: "one lost lightcell" | D2.6 | they come home in a machine | D19.7 | none @D2.6 @D19.7 |
 | R7 | **The archaea failsafe dissolves unmaintained old-tech** | D2.11 | **at Genesis, nothing has dissolved — the apparatus was built at the Enclave and Genesis predates it.** The *duty* came from the founders; only the machinery is the colony's | D17.2 | none @D2.11 @D17.2 |
+| R7b | **The wrapping archaea are a Keeper culture, first grown at the Enclave in year three** <!-- @WF-archaea.origin: enclave --> — recited in passing among the Vitarium's culture lineages | D2.4 | **at Genesis nothing was ever wrapped and nothing has dissolved: the apparatus Sila treats as founder law is the colony's own** | D17.2 | none @D2.4 @D17.2 |
 | R8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none @D2.6 |
 | R9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none @D1.1 @D2.4 |
 | R9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none @D2.4 @D17.2 |
