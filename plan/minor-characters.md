@@ -1,5 +1,5 @@
 ---
-approval: approved ef65266d
+approval: approved 6f04a9c4
 ---
 
 # Character register
@@ -26,7 +26,9 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## Teva's family
 
-**Omya** — grandmother. The last Master Keeper, with dementia. Some days lucid, some days not; can recite most of the synthesis protocol and drop a critical step. Submits to being tested in public, which costs her everything and which she does anyway, because three Masters are required and she is the only one left.
+**Omya** — grandmother. The last Master Keeper, with dementia. Some days lucid, some days not; can recite most of the synthesis protocol and drop a critical step. Submits to being tested in public, which costs her everything and which she does anyway, because three Masters are required and she is the only one left. **She is not completely gone**: she still has her long-term memory and moments of lucidity, and she knows what is happening to her, sometimes.
+
+**Teva is her primary caretaker, and they live together.** Omya is not completely helpless, and she has friendly people who look in on her. When Teva leaves, what she feels guilty about is that Omya will be lonely, not that she will be helpless or forgotten.
 
 **She is also the last of the Watch, and nobody has noticed.** Keepers hold a memorized sky, drilled and verified nightly for 206 years, precise enough that anything new in it would be obvious — see `plan/milieu-brief.md` §5. A watch that finds nothing is indistinguishable from a watch that is not happening, so while the whole colony measures the death of the synthesis protocol, this half of her is going unmeasured and unmourned. **The impactor could already be findable and there is nobody left who would know.**
 

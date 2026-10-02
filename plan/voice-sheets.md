@@ -1,5 +1,5 @@
 ---
-approval: approved e9c97111
+approval: approved d9b9f0e8
 ---
 
 # Voice sheets
@@ -121,6 +121,8 @@ Eight adults used to carry a verbal signature apiece — a contraction habit, a 
 
 **Omya — two voices, and the gap between them is the tragedy.** Not really an idiolect: it is a symptom, and it is the engine of her whole thread. **Lucid:** aphoristic, short absolute declaratives in sequence — *"Precision, Teva,"* she used to say — and then, across the tag, *"We are scientists, not shamans. This work is not magic. It is knowledge. And knowledge must be perfect."* **[drafted]** **Lost:** the technical vocabulary is replaced by **food words**. She offers a vector and asks about bread. It is clinically right — remote rehearsed memory outlasts recent complex memory — and it is why she can recite the entire sky and cannot hold a protein fold.
 
+**She is not completely gone.** She still has her long-term memory and moments of lucidity, and **she knows what is happening to her, sometimes.**
+
 ### The rest — what they want, and what they will not say
 
 **Joram** says less than he means and expects to be understood, and never explains twice. What he will not say is what he is afraid of, and the novel owes the reader an answer about that eventually.
@@ -170,7 +172,6 @@ Standing refusals for this novel:
 - **What Yara was like.** She gets facts and never a portrait.
 - **Whether Teva knows how Keo feels.** Never confirmed from either side.
 - **What Joram was afraid of**, until the confrontation, and then only by implication.
-- **Whether Omya knows what is happening to her.** One moment where she might, and no confirmation.
 - **What the flashes are**, until Genesis — and *what the Lost Colonists became*, ever.
 - **Whether the founders were right.** The book takes no position.
 
