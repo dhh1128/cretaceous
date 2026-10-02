@@ -1,5 +1,5 @@
 ---
-approval: approved 23e36a71
+approval: approved faa6c900
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -195,7 +195,7 @@ And Benal knows what it would take. You would need instruments, and the instrume
 
 ### The Watch, and what Omya is also losing
 
-See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one Keeper to the next and checked against the real sky every clear night for 206 years. They are not looking *for* the impactor, which no unaided eye can see. They maintain a reference exact enough that **anything which was not there before becomes obvious.**
+See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one Keeper to the next and checked against the real sky every clear night for 206 years. They maintain a reference exact enough that **anything which was not there before becomes obvious**, over the fields the founders chose and the moon's calendar — `milieu-brief.md` §5 owns the two halves. **They no longer know that one half of it is looking for the impactor**, which no unaided eye can see except during a close pass.
 
 **Nobody has noticed the Watch is dying too**, because a watch that finds nothing is indistinguishable from a watch that is not happening. The whole colony is measuring the loss of the synthesis protocol; the other half of Omya is going unmeasured.
 
