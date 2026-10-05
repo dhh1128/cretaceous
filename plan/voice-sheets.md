@@ -1,5 +1,5 @@
 ---
-approval: approved bb63a52d
+approval: approved a903ee6b
 ---
 
 # Voice sheets
@@ -158,7 +158,7 @@ Three channels — Keo's projection into animals, the proximity sense, and the A
 
 **One-way channels use paragraph breaks as the places someone would have interrupted**, with the reaction deferred to prose afterward.
 
-**Non-human minds are made alien by substituted nouns inside plain syntax, not by broken grammar.** For Noli that means her projected register is simple and concrete — *good-pack-good-food* — and her opinions arrive as odd category judgments. **And beings without faces get their emotional register rendered as body state**: feather state, posture, the sickle claw, the set of her tail, established once and then used as punctuation.
+**Non-human minds are made alien by substituted nouns inside plain syntax, not by broken grammar.** For Noli that means **Keo's** register with her is simple and concrete — *good-pack-good-food* — and her opinions, read off her body and rendered in that register, arrive as odd category judgments. **And beings without faces get their emotional register rendered as body state**: feather state, posture, the sickle claw, the set of her tail, established once and then used as punctuation.
 
 ---
 

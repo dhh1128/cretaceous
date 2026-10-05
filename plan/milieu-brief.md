@@ -1,5 +1,5 @@
 ---
-approval: approved febec38f
+approval: approved ea4c7715
 ---
 
 # Cretaceous — Milieu Brief
@@ -224,7 +224,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 **Lowest: fixed traces on the surface.**
 
 - **Trackways.** Human and dinosaur footprints fossilize readily, and a worn, repeated, *circular* path around a fixed point is a pattern no animal behavior produces.
-- **Fire.** Charcoal and ash survive tens of millions of years, and hearths redden the soil beneath them.
+- **Fire.** Charcoal and ash survive tens of millions of years, and hearths redden the soil beneath them. **The natural world makes fire too**, so on the march a fire is not forbidden — **they kick and scatter the ashes** <!-- @WF-fire.march.ashes: scattered --> before they leave, so it does not look like a human campfire.
 
 **Low, and higher than the surface, because depth buys a little: fixed traces under the ground.**
 
@@ -317,7 +317,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **Variable:** enhanced vision (tetrachromatic, low-light, UV), enhanced hearing, enhanced smell, proprioception, magnetic sense, bone density, muscle efficiency, endurance, thermal regulation, accelerated healing, venom resistance, and mental projection — rare in full expression.
 
-**Mental projection** deserves its limits stated, because they are what make it usable in a story. Effectiveness rises with proximity, which means the useful range is the dangerous range. Nudging an animal toward what it already wants is easy; overriding it is not. It cannot dominate an attacking predator. <!-- @WF-projection.override: false --> It works well for gentling calm animals, holding a bonded animal, and deflecting a charge a few degrees to buy seconds. It is nearly useless for stopping an enraged animal mid-attack, turning one sharply, holding several at once, or reaching any distance. Injury, fear and exhaustion break concentration. **Against a hungry croc or a mosasaur it barely registers** — the predator drive overrides it. Holding a projection costs the projector: pressure behind the eyes, then real pain.
+**Mental projection** deserves its limits stated, because they are what make it usable in a story. Effectiveness rises with proximity, which means the useful range is the dangerous range. Nudging an animal toward what it already wants is easy; overriding it is not. It cannot dominate an attacking predator. <!-- @WF-projection.override: false --> It works well for gentling calm animals, holding a bonded animal, and deflecting a charge a few degrees to buy seconds. It is nearly useless for stopping an enraged animal mid-attack, turning one sharply, holding several at once, or reaching any distance. Injury, fear and exhaustion break concentration. **Against a hungry croc or a mosasaur it barely registers** — the predator drive overrides it. Holding a projection costs the projector: pressure behind the eyes, then real pain. **And a held bond carries something back**: rough emotions from the animal he is holding — fear, hunger, pain, satisfaction <!-- @WF-projection.return: rough-emotion --> — even when he cannot see her. Never words and never thoughts; her opinions he reads off her body, like anybody would.
 
 **Partitioning**, which is the mechanic and is better than the abstraction above. Holding one animal while doing anything else requires splitting the mind — one part becomes a dense, unthinking weight pinning the animal's instincts down, and only what is left over is free to work. Releasing it does not restore you; the pressure pops and leaves a pounding ache. **And projection pushes an image, not a word** — the scent, the shape, the *idea* of a grounder, driven through the wall of your own command.
 
@@ -325,7 +325,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **That is the whole of it.** Presence and kind, at short range. <!-- @WF-proximity.reads: presence-and-kind -->
 
-`[retired]` **This is not a culture of telepaths, and the limits matter more than the ability.** <!-- @WF-telepathy.exists: false --> Nobody senses mood. Nobody feels a death across the Enclave. There is no shared frequency, no village-wide web, and grief here is as private as it is anywhere. Do not extend the proximity sense past presence and kind at close range; it has been extended before, and the extension does not survive contact with how these people actually live.
+`[retired]` **This is not a culture of telepaths, and the limits matter more than the ability.** <!-- @WF-telepathy.exists: false --> Nobody senses another person's mood. *(The one thing that comes back from a mind is the rough emotion of an animal held by projection — see above — and it never comes from a person.)* Nobody feels a death across the Enclave. There is no shared frequency, no village-wide web, and grief here is as private as it is anywhere. Do not extend the proximity sense past presence and kind at close range; it has been extended before, and the extension does not survive contact with how these people actually live.
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 

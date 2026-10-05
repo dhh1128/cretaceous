@@ -1,5 +1,5 @@
 ---
-approval: approved fe06117b
+approval: approved bb9881c0
 ---
 
 # Humor plan
@@ -56,7 +56,7 @@ Viking makes a fifty-meter flying alien lovable in two sentences by having her b
 
 **For a midpoint animal death to hurt, the animal has to have had opinions first.** That is the whole principle, and it is worth more than any number of charming descriptions.
 
-Keo's private projected register with her — *good-pack-good-food* — is already charming and should be used far more, because it is the channel where her opinions arrive.
+Keo's private projected register with her — *good-pack-good-food* — is already charming and should be used far more. **It is his: what he pushes to her, and the words he thinks her in.** What comes back down the bond is rough emotion — fear, hunger, pain, satisfaction — and **her opinions arrive through her body**, which he reads, sometimes wrongly (`milieu-brief.md` §7).
 
 Four moves before the midpoint remains a reasonable floor. But **write the opinions first and the moves will exist.**
 

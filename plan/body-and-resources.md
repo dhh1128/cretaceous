@@ -1,5 +1,5 @@
 ---
-approval: approved 9b06ea69
+approval: approved 545d6f89
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -14,7 +14,7 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 `[?]` **Position at the act boundary:** 50–100 m beyond the border-tangle, pre-dawn of Day 3, ground fog to about three meters, razortails clicking nearby.
 
-**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord and a spare water skin in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
+**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord, a spare water skin and `[-]` the kindler gourd in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
 
 **Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. Septic gel on what is exposed.
 
@@ -78,6 +78,8 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 **And the fence used to be doing two jobs.** Until Day 8 the night stakes were dressed with the septic gel, which kept small things off them entirely and cost them Noli's company after dark; the gel went into the river at the crossing and the pot has been empty since, so from Day 9 the fence is bare wood and thorn. **What they got back in exchange is her**, sleeping inside the camp for the first time on the night of Day 8 and for two nights after that, and then she is taken at dawn on Day 11. **From Day 9 the camp is the only thing between them and whatever walks**, which is why the nights get worse in a way nobody can point at. *(It has no bearing on what took Noli. The barrier reads as a warning to things smaller than a tyrannosaur, and a ten-meter flybeak is not one.)*
 
 **It works on the things it is sized for, which is the point.** A fence built against a predator passes anything small, exactly as the Enclave's own river grating stops a six-meter croc <!-- @WF-croc.length: 6m --> and passes a one-meter juvenile that then grows up inside (`milieu-brief.md` §3). **The same failure, in miniature, every night.** Nobody in the novel remarks on the parallel.
+
+**Fire, when there is wood.** <!-- @WF-fire.march: when-wood --> Small, made by friction — a cord bow, a drill, a hearth board and tinder, all cut on the way and all rot-tier — on ground scraped bare. `[-]` **They carry a kindler** for wet country: a resin paste in a leaf-wrapped gourd, boiled from conifer resin and fat at home, which catches when tinder will not. **It starts a fire; it does not make wet wood burn**, so some nights allow no fire at all — three days of rain on Days 11 to 13 is one of them *(`plan/scene-maps/D12.2.md`)*. **On a bare savanna there is no wood, so they carry it in.** And **they kick and scatter the ashes before they leave** (`milieu-brief.md` §6).
 
 **The lay-up is where the B-story lives, and this solves a real problem.** Four hours a day of enforced stillness and proximity, nothing to do, nowhere to go. Every confession, argument, joke and silence in Act 2 has a natural home now, and no scene has to invent a reason for three exhausted people to talk to each other.
 
