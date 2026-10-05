@@ -1,5 +1,5 @@
 ---
-approval: approved e86d3c45
+approval: approved 6ff0483c
 ---
 
 # Cretaceous — Milieu Brief
@@ -149,7 +149,7 @@ Alongside it: palm groves for fruit, hearts and pith; fig relatives; fern garden
 
 Every colonist carries, as one of the universal baseline upgrades, an engineered gut flora that will reduce their own body after death. It is not optional and nobody thinks of it as an upgrade; it is simply what happens. Its purpose is the mission's deepest constraint: **no human remains may survive sixty-six million years <!-- @WF-transit.depth: 66Mya --> to be found as fossils.** The impact is the ultimate backstop, the suits are a third, and this is the one every single person carries.
 
-**The rite is short, and it happens the same day.** The dead are not buried deep. They are laid out and formally mourned — the form of it is theirs and should be specific — then covered with woven mats, or a blanket, or leaves, and the balm is applied. Within about an hour there is nothing under the covering. *Returned to the earth.*
+**The rite is short, and it happens the same day.** The dead are not buried deep. They are laid out on the nearest open earth to where they died, and the spot is not marked or gone back to. **Then the remembering** <!-- @WF-returning.form: remembering-then-names -->: the mother, or whoever is closest, washes the face and hands, and while she does, anyone with a true thing to say about the dead says it — a thing they did, a thing they said — and people weep openly. **Then the names**: each person says the dead person's name once, the closest last. Then they are covered with woven mats, or a blanket, or leaves, and the balm is applied by the closest hands. Within about an hour there is nothing under the covering. *Returned to the earth.*
 
 **The chemistry is deliberate and it rhymes with everything else they build.** The dissolution gives off an odor, and the odor was engineered *not* to be carrion — a predator drawn to a body defeats the whole purpose. So it is sharp and chemical, the kind of smell that makes eyes water, and it reads to every animal in the region as *nothing edible here*. Note the symmetry with the pheromone barrier, which is engineered to smell *exactly* like carrion in order to say *wounded alpha, keep away*. Two synthesized smells doing opposite jobs. In casual register they will have a plain word for it; in precision register they will name the compound.
 
@@ -415,7 +415,7 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 
 **This list is a subset. The full register is `plan/open-questions.md`, which holds 35.** Folding the rest back into this file is outstanding work. The twelve below are the ones that were never in dispute.
 
-1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*. What remains open inside it: the **form of the mourning** before the balm is applied (words, silence, who speaks, who touches), and where a culture with no graves carries its grief.
+1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*, including the form of the mourning. What remains open inside it: where a culture with no graves carries its grief.
 2. **Religion and spirituality**, if any. **These people haven't invented primitive mythologies in 200 years** <!-- @WF-mythology.invented: none --> — they are *not* primitives; they have forgotten certain things, but they still know sophisticated terminology and scientific methods. Still open: reverence for the future, ancestor regard for the founders, or maintained secular rationalism.
 3. **Art, music, story.** What 206 years produced. Currently a blank, and it is where charm and inside jokes would live.
 4. **Population genetics.** Nine hundred-odd people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
