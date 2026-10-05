@@ -2297,3 +2297,53 @@ def check_claims_agree() -> list[Violation]:
 
 CHECKS["claims_agree"] = check_claims_agree
 CHECKS["word_figures"] = check_word_figures
+
+
+# --------------------------------------------------------------------------
+# categorical lines that cite nothing — a preference wearing a law's grammar
+# --------------------------------------------------------------------------
+
+CATEGORICAL_SCOPE = ("plan/", "prompts/", "process/", "kb/worldbuilding/", "AGENTS.md")
+# An instruction, not a description: the categorical word opens a sentence,
+# a bullet or a bold run ("Never say", "**Do not**"), or is one of the phrases
+# that only ever appear as rules. "Rivers here do not swell" is a fact and is
+# not matched; "Do not write the sway" is an order and is.
+CATEGORICAL_RE = re.compile(
+    r"(^|[*>.:;—-]|\| ) *(\*\*)?(Never|Always|Do not|Don't)\b"
+    r"|\bmust not\b|\bnot ever\b|\bunder no circumstances\b"
+)
+# A reason counts as a citation: the complaint is a rule with nothing under it,
+# and "because" is something under it.
+CITATION_RE = re.compile(
+    r"`[^`]+\.(md|py)`|§|@WF-|\[retired\]|[Hh]is words|Daniel|\bbecause\b|\bwhich is why\b|\bso that\b|\bor else\b"
+)
+
+
+def check_categorical_uncited() -> list[Violation]:
+    """A line that says never, always, must not or not one cites something.
+
+    `AGENTS.md` §6: preferences inflate into laws, and the test is whether the
+    rule cites anything — a ruling, a measurement, a physical fact. Daniel's
+    words on why this matters: rules are in tension and most choices are
+    tradeoffs, so a categorical rule with no reason under it gets obeyed past
+    the point where it was right.
+
+    A paragraph is one line in this corpus (nothing is hard-wrapped), so the
+    citation is looked for on the same line. **This finds wording, not
+    judgment**: a flagged line may be a characterization (*Joram never explains
+    twice*) rather than a rule, and the remedy is a reason or a counterweight,
+    never a mechanical softening. The line that is legitimately absolute cites
+    what makes it so and passes."""
+    out = []
+    for path, n, line in iter_lines():
+        if not (path.startswith(CATEGORICAL_SCOPE) or path in CATEGORICAL_SCOPE):
+            continue
+        if line.lstrip().startswith(("```", "|---")):
+            continue
+        if CATEGORICAL_RE.search(line) and not CITATION_RE.search(line):
+            m = CATEGORICAL_RE.search(line)
+            out.append(Violation(path, n, f"categorical, cites nothing: …{line[max(0, m.start() - 40):m.end() + 60].strip()}…"))
+    return out
+
+
+CHECKS["categorical_uncited"] = check_categorical_uncited
