@@ -32,6 +32,7 @@ approval: unapproved
 | 65 kg | Benal's mass | `plan/milieu-brief.md` §9 |
 | 3 days | **`distinct`** — the founders' three years at Genesis, biome day-ranges, and leaching time all use the token. Not one proposition | `distinct` |
 | 2 days | **`distinct`** — suit feeding interval, forage day-ranges, days of food. Not one proposition | `distinct` |
+| 200 years | **`distinct`** — the near edge of EP7's arrival estimate, and Daniel's round figure for the colony's age in `plan/milieu-brief.md` §11. Not one proposition | `distinct` |
 
 ---
 
