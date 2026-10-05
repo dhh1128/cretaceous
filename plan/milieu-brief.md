@@ -1,5 +1,5 @@
 ---
-approval: approved 202c91e2
+approval: approved 0becf226
 ---
 
 # Cretaceous — Milieu Brief
@@ -329,13 +329,15 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **The Seeding** is the administration ceremony, brief in itself, followed by weeks or months of *the Taking* — waiting to see whether it expressed.
 
+**A Seeding is also a treatment, and it has to come early.** <!-- @WF-seeding.acute: early-only --> A T-cell Seeding given early in a stingburn turns most of them over a day or two; given late, it does not. Lumea's was given and did not take. So when a child is dying, a dose that night would already be too late, and everyone who knows the work knows it.
+
 **Naming.** A birth name, informal and provisional. A **True Name** at roughly three, once the critical early Seedings are survived — this is the passage out of *yazhi* into personhood, and it matters more than any individual Seeding. An adult name at fourteen or fifteen, when all Seedings are complete. Alira in scene D1.1 was two and a half: named, and therefore a person, and therefore a death the community must count. @D1.1
 
 ## 8. The crisis
 
 A flood during a stretch of bad weather killed **two of the three Master Keepers** at once. The survivor is Omya, Teva's grandmother, and she has dementia — lucid some days, lost on others, able to recite most of the synthesis protocol perfectly and then drop a critical step.
 
-As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 70–80% of the process, and their best compound *almost* works. Cultures are dimming and slowing. The most fragile are dead. No Seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it.
+As the novel opens, two to three weeks in: the journeyman Keepers hold perhaps 70–80% of the process, and their best compound *almost* works. Cultures are dimming and slowing. The most fragile are dead. No Seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it. **Since the flood the Keepers have been trying to make the rust-red in working attempts under Omya's direction, conducted by Rano and held where anyone may watch**, and none has succeeded.
 
 **And it has already deferred once, which is the fact the Day 2 debate is standing on.** When the flood took the two Masters, the Council sat and decided to **wait for the journeymen** — give them time, let them work it, and decide when there was something to decide about. That was a defensible ruling at the time and it is the reason nothing has been done since. **The journeymen have had their time.** So the Day 2 session is the second one, everybody in the chamber knows it, and the *decide later* that ends it is a repetition rather than a first offense. @D2.6
 
