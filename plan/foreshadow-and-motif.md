@@ -1,5 +1,5 @@
 ---
-approval: approved fbaa8b1d
+approval: approved da664c78
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -47,7 +47,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R18 | **Stone-cycad takes days of leaching, and the pit is where everyone learns it** | D2.2 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | R19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
 | R20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
-| R21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, in water she had crossed a hundred times** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
+| R21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, to a croc that grew up inside and was carried by floodwater into a grove** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
 | R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, B2 | none @D2.5 @D19.5 |
 | R23 | **Cecilia wills Chelo the gray coat — *"when I'm done, which will be never"*. Named once, never explained, and the reader cannot tell whose child she is or whether she is a child** | EP2 | **Marisol's daughter is alive, and she is who the cure comes home to** | B3 | none |
 | R24 | **Fragment 8's anomaly — a one-million-year artifact in the deep window, four calibration runs, filed with no action** | EP8 | **Benal connects it to Keo's flash and the Genesis disorientation: the anomaly was the second jump, detected before the first had happened** | B2 | none |
@@ -113,7 +113,7 @@ The mantra is stated early and then **never defended**, because the book proves 
 2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Not her magnetic sense, which is worth more offshore than on land — a heading matters most where there are no landmarks. Not her thermal failure either; the lethal half of that is heat, and there is no cold water in this world.)*
 3. **The weapons.** Archaea in the shafts wake on sustained wetting. Water eats the things you defend yourself with.
 4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the raft, the fieldpack, and Benal's mathematics.
-5. **Yara.** Eleven meters <!-- @WF-yara.water.depth: 11m --> of open water she had crossed a hundred times.
+5. **Yara.** Not the river: the ground the river spreads onto after rain, where nobody thought to look.
 
 Nobody in the novel enumerates this. The mantra is a children's rule that turns out to be an understatement, and the reader should get there alone.
 

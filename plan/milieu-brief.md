@@ -1,5 +1,5 @@
 ---
-approval: approved 88c373c6
+approval: approved e86d3c45
 ---
 
 # Cretaceous — Milieu Brief
@@ -117,7 +117,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 ### The river runs through it, and that is why the site was chosen
 
-**A bend of the river passes through the Enclave.** It is their water, and it is the reason this place is habitable — and it is also the single largest hole in their defenses, permanently.
+**A bend of the river passes through the Enclave.** It is their water, and it is the reason this place is habitable — and it is also the single largest hole in their defenses, permanently. **It is inside because it is cheaper to defend inside than as an edge**: a riverbank as a perimeter is kilometers of ground a croc can climb out onto anywhere, and enclosing the bend turns that into two short crossings, barred at the boulders, with the rest of the line on limestone high ground. **It runs along one side of the Enclave**, through the grazing buffer and the low edge of the cultivated ring <!-- @WF-river.course: one-side -->; the village core sits on the higher, drier ground away from it, and **nobody has any reason to cross it.** It gives drinking water, watering for the herd, running water for leaching the cycad, and irrigation for the ring.
 
 **The site was chosen for the boulders.** Large limestone blocks sit in the channel at the upstream and downstream boundaries, and they are what make barring the river possible at all without powered equipment. They narrow the span, they give hard anchor points, and everything else is built off them.
 
@@ -127,7 +127,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **And it does not work.** A grating sized to stop a six-meter adult croc <!-- @WF-croc.length: 6m --> passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene D2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
-**It is also how Yara died** — inside the perimeter, in eleven meters <!-- @WF-yara.water.depth: 11m --> of open water she had crossed a hundred times (`plan/minor-characters.md`). Something got through the grating. That is the answer to how a croc took a child inside a defended settlement <!-- @WF-yara.cause: croc -->, and nobody in that family has ever needed it explained.
+**It is also how Yara died** — not in the river but away from it. <!-- @WF-yara.place: flooded-grove --> **After heavy rain the river spreads** (`plan/journey-calendar.md`), and the low groves of the cultivated ring stand in water and mud well away from the channel. A croc that came through the grating small and grew up inside goes where the water goes, and one a meter and a half long — big enough to kill a six-year-old <!-- @WF-yara.age.at.death: 6 --> — was lying half in the mud of a flooded grove where nobody thought to look. The children were out with their parents gathering snails, as children do after rain; the parents were close and saw it happen. **Keo, ten and beside her, threw his projection at it, and it did not register**, because projection barely touches a hungry croc (§7). **The flood carries what grew up inside out of the channel into ground nobody watches** — the gratings' second blind spot, and the colony knows it now, which is why the yazhi are drilled in a pool. <!-- @WF-yara.cause: croc -->
 
 **The barrier is rotting the entire time.** Untreated wood in warm water has a short life, so the pylons and grating are under continuous replacement — two centuries of unbroken labor to hold one line that has never fully held. That is the Enclave in miniature.
 
