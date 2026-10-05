@@ -100,6 +100,14 @@ List everything the scene will have to invent that no canon file substantiates. 
 - a **provenance mark** — *grounded* (cite the file) or *invented* (nothing says)
 - an answer that fits in **a few words**
 
+**Before a proposal goes to him, run it as an event, not as a fit to the text.** Three passes, each one cheap:
+
+1. **The people.** For everyone who acts in it: what do they know, what are they afraid of, and would a sensible person in their place do this? **Foolishness has to be motivated**, and a culture's first rule (*water is death*) is not broken casually by anyone in it.
+2. **The world.** Does the physical setting allow it — depth, distance, light, what a body or an animal can actually do?
+3. **The phrase it rests on.** If the proposal exists to satisfy one line of canon, check that line's provenance (`git log --diff-filter=A -S`). **A line added in the 2026-09-10 planning layers may be the thing that is wrong**, and building a contortion to honor it is worse than asking whether it should stay.
+
+**Generate two or three mechanisms and keep the one that survives**, rather than proposing the first that fits. Yara's death went to him three times — children wading a river, then a footbridge, then a flooded grove — and the first two each failed the first pass in one sentence of his.
+
 **The bar, as a test you can run.** Name the scene outside this one, or the canon file, whose text would change depending on his answer. If you cannot name one, the item is `[-]`: decide it, keep it consistent, and do not ask. Filling a row an approved ledger requires is not weight by itself — *which* content fills it usually is not his question.
 
 **Before a line goes to him, test it two ways.** Against the physical world — astronomy, geology, physiology — because a proposal that fails a reality check costs him a round trip to discover it. And against the people in it: **say what the proposal buys and what it costs, and name the downstream choice it makes harder to believe.** *Nobody comes for Omya* bought weight at D15.4 and cost Teva's leaving on Day 3, because she would not abandon her grandmother to that; the proposal named the first and not the second. A proposal is a setting on a dial, not a side of a rule, so say where you set it and why. **A must-carry with no payoff is searched for, not struck**: walk the late book for something it could be the plant of, and propose that.
