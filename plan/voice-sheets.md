@@ -1,5 +1,5 @@
 ---
-approval: approved d9b9f0e8
+approval: approved bb63a52d
 ---
 
 # Voice sheets
@@ -40,7 +40,11 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **Tics.** Calls him **Ben** when they are close and **Benal** when they are not, and the switch is a thermometer — read it off the dyad table in `character-arcs.md` §3, which runs 2 to 9. Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
 
-**Never says.** That he is frightened. Anything about Yara. Anything about Teva.
+**Does not say** — each with its trigger and what holds after it:
+
+- **That he is frightened** — until Day 11, the fall; then **for good**, because he cannot hide anything any more. How much pain he is in on Days 12–13 is a different silence.
+- **Anything about Yara** — until D15.4, the confession; **mostly not thereafter**. He tells them once and does not make her a subject.
+- **Anything about Teva** — **not in book 1**.
 
 **Funny about** other people's misfortune, affectionately, and his own overconfidence. Dies at Day 11.
 
@@ -68,7 +72,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What does not change.** She still says less than she means. What she loses is the belief that saying more is dangerous.
 
-**Never says — and this is about the other two, not about the reader.** She does not tell Keo or Benal that she is tired, cold, hurt or afraid, ever. **In her own POV the reader feels all of it in full.** An earlier version made this absolute in both directions, which left nobody inside her head for a third of the book. The concealment is from the cast; the reader is ahead of them.
+**Does not say — and this is about the other two, not about the reader.** She does not tell Keo or Benal that she is tired, cold, hurt or afraid — until Day 15 night, where she stops hiding; then **for good**, though she still says less than she means. **In her own POV the reader feels all of it in full.** An earlier version made this absolute in both directions, which left nobody inside her head for a third of the book. The concealment is from the cast; the reader is ahead of them.
 
 **Her warmth is in what she does, never in what she says**, and it points at people weaker than her. She drills the yazhi. She cleans Keo's wound on Day 11. She sees what Benal is for. Nobody remarks on any of it, least of all her.
 
@@ -95,7 +99,10 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What does not change.** Everything about the shape. That is the point.
 
-**Never says.** That he needs help. That the pity hurts.
+**Does not say** — each with its trigger and what holds after it:
+
+- **That he needs help** — **not in book 1**.
+- **That the pity hurts** — until D15.4, his shame at being pitied; **mostly not thereafter**.
 
 **Answers** with data, and with rhetorical questions that are really arguments — *"Will you use your magnetic sense to navigate a command prompt?"* **[drafted]**
 
