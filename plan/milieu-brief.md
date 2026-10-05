@@ -1,5 +1,5 @@
 ---
-approval: approved 6ff0483c
+approval: approved 27572dab
 ---
 
 # Cretaceous — Milieu Brief
@@ -91,7 +91,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Prognathodon* and *Plioplatecarpus*, dyrosaurid marine crocodiles, lamniform sharks and elasmosaurid plesiosaurs are all present in these waters (`kb/research/geo-flora-fauna.md` §4.4b). They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
 
-**Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year, nearly all to protocol violations.
+**Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year <!-- @WF-losses.annual: 5-10 -->, nearly all to protocol violations.
 
 ## 4. The Enclave
 
