@@ -33,7 +33,7 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | `body-and-resources.md` | the loadout at departure, and the physical state this scene inherits |
 | `pacing-and-stakes.md` | the four ladders and this scene's rung on each |
 | `character-arcs.md` | what each character wants, believes, fears and hides at this point |
-| `voice-sheets.md` | per-character speech shape, and **what each never says** |
+| `voice-sheets.md` | per-character speech shape, and **what each does not say, and until when** |
 | `knowledge-ledger.md` | which facts are known to whom here; which rows this scene pays |
 | `foreshadow-and-motif.md` | plants and payoffs landing here |
 | `humor-plan.md` | comic allocation |

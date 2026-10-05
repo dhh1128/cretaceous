@@ -34,7 +34,7 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 | `pacing-and-stakes.md` | scene count, the three size bands, the four stake ladders. **The gate** — the scene list cannot be rebuilt until it is settled |
 | `knowledge-ledger.md` | who knows what when, in three columns; the irony allocation; the epigraph suite. Its payment assignments name scene numbers and must wait for the new list |
 | `character-arcs.md` | the three arcs, the losses, the dyads |
-| `voice-sheets.md` | per-character idiolect, and what each never says |
+| `voice-sheets.md` | per-character idiolect, and what each does not say, and until when |
 | `foreshadow-and-motif.md` | plants paired with payoffs, signal levels, motif budgets |
 | `tech-rules.md` | every capability audited for where its rule is taught and where it is exploited |
 | `minor-characters.md` | everyone but the three; four `[provisional]` names |
