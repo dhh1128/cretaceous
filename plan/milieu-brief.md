@@ -1,5 +1,5 @@
 ---
-approval: approved 0becf226
+approval: approved febec38f
 ---
 
 # Cretaceous — Milieu Brief
@@ -416,7 +416,7 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 **This list is a subset. The full register is `plan/open-questions.md`, which holds 35.** Folding the rest back into this file is outstanding work. The twelve below are the ones that were never in dispute.
 
 1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*. What remains open inside it: the **form of the mourning** before the balm is applied (words, silence, who speaks, who touches), and where a culture with no graves carries its grief.
-2. **Religion and spirituality**, if any. Reverence for the future? Ancestor regard for the founders? Or maintained secular rationalism, which would be the more interesting choice.
+2. **Religion and spirituality**, if any. **These people haven't invented primitive mythologies in 200 years** <!-- @WF-mythology.invented: none --> — they are *not* primitives; they have forgotten certain things, but they still know sophisticated terminology and scientific methods. Still open: reverence for the future, ancestor regard for the founders, or maintained secular rationalism.
 3. **Art, music, story.** What 206 years produced. Currently a blank, and it is where charm and inside jokes would live.
 4. **Population genetics.** Nine hundred-odd people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
 5. **Education.** How knowledge transmits, on biodegradable records, and who decides what is essential — which is the mechanism by which the mission got corrupted, so it is worth knowing.
