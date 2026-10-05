@@ -1,5 +1,5 @@
 ---
-approval: approved ea4c7715
+approval: approved 88c373c6
 ---
 
 # Cretaceous — Milieu Brief
@@ -355,7 +355,7 @@ Full arcs, their placement in the structure and rationale live in `outline.md`. 
 
 Muscular and stocky, 175 cm, 80 kg. Strong, high endurance.
 
-Strong expression across the sensory suite — vision, hearing, smell — plus excellent thermal regulation, profound accelerated healing, excellent venom resistance, and the **strongest proximity sense of the three**. His **mental projection is exceptional**, a rare full expression: he can hold a wild hadrosaur briefly at real cost, and he holds Noli indefinitely.
+Strong expression across the sensory suite — vision, hearing, smell — plus excellent thermal regulation, profound accelerated healing, excellent venom resistance, and the **strongest proximity sense of the three**. His **mental projection is exceptional**, a rare full expression: he can hold a wild hadrosaur briefly at real cost, and he holds Noli indefinitely — by the light bond, not the pin (§9, *Noli*).
 
 Both parents are Explorers and suit custodians — **Joram**, a heavy sleeper, and **Riel** ("Ri"), who has proximity sense of her own. Keo has been outside the perimeter on supervised trips, and has the training that comes with it.
 
@@ -401,7 +401,7 @@ A **sicklefoot** — a small dromaeosaurid. **No binomial, ever**, in prose or r
 
 Female, four or five years old — middle-aged against a lifespan of eight to twelve. About 14 kg, 2 m nose to tail, 60 cm at the hip; coyote-sized, slightly smaller than a full male. Heavily feathered and bird-like, with prominent wing feathers on the forearms, downy body covering, large intelligent eyes, and the sickle claws she is named for, carried clear of the ground. Her plumage is dark and **iridescent** <!-- @WF-noli.plumage: iridescent -->, which is why she reads mud-brown in daylight and purple-black at night; both descriptions are canon and the light decides.
 
-**Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious.
+**Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious. **She lives on the inner edge of the patrolled buffer, against the cultivated ring** <!-- @WF-noli.home: inner-buffer --> — as far from the Barrier as she can get and still be away from the village's people — and comes to Keo there. **There are two holds, and they are different things.** **The light bond** is years old, costs him nothing he notices, reaches roughly from his nest to her ground, and carries her rough emotion back. **The pin** is close, brief and expensive: it is what gets her near the Barrier, and what the dawn drill rehearses.
 
 She dies at dawn on Day 11 <!-- @WF-noli.death.day: 11 -->, the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
 
