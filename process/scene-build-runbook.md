@@ -136,7 +136,7 @@ Inputs: the map, plus **everything**. Style canon, voice sheets, world bible, mi
 
 ## Phase 7 — Mechanical checks, before Daniel sees anything
 
-Iterate until clean. Do not send him a draft that has not passed all of these.
+Iterate until clean. Do not send him a draft that has not passed all of these, because a defect a checklist can catch is the most expensive thing to spend his reading on.
 
 - `prompts/ai-tells-blacklist.md`, every section
 - `prompts/logic-checker.md`
