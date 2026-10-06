@@ -122,7 +122,7 @@ The debate. Marek, Hesh, Sila, Elana. The Council does nothing.
 **Purpose:** BOND · **Ending:** HELD
 Marek after the debate. He fought in public and lost. Lunet gets a line.
 **The whole job:** Benal sees his father defeated and misreads it as embarrassment, when the reader — holding D2.2 and D2.6 together — can see a man who was right and unheard. Fact O at full pressure.
-**Ends on:** `[?]` Marek saying nothing to his son on the way past, and Benal reading it as the wrong thing.
+**Ends on:** Marek stopping to tell his son, hoarse, to go home before he makes himself ill — his fear, said as pity — and Lunet telling Benal plainly that his father argued for him, and Benal not believing her. He stays by the hide. See `minor-characters.md`, *How the parents miss their children*.
 
 ### `[?]` EP4 — Cecilia's second message: *you have had three weeks to be furious, and I think that is enough*
 

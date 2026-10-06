@@ -1,5 +1,5 @@
 ---
-approval: approved 9f806e1e
+approval: approved f6b1519b
 ---
 
 # Character register
@@ -7,6 +7,10 @@ approval: approved 9f806e1e
 Everyone but the three protagonists and Noli, who are in `plan/milieu-brief.md` §9. Names are drawn from `kb/worldbuilding/names.md`; a name used here is spent.
 
 Entries marked `[?]` were invented to close a gap and are cheap to change. They are not approved.
+
+## How the parents miss their children
+
+**Each parent misses their child in a different way, and each of them sometimes gets through.** A scene that needs a parent to fail a child uses that parent's way and no other, so no two scenes repeat one failure. **Joram goes silent**: he says less than he means and expects to be understood (D2.6, through the whole debate). **Riel handles**: warmly, with a joke or a chore that ends the argument without answering it (D2.3), and she is also the one who gets through, in plain words, when she chooses to. **Marek talks too much, in pity**, in public register even at home; his fear for a fragile child comes out as *you'll be ill* (D2.2, D2.7). **Lunet says the true thing plainly and is discounted**, because it is what a mother says (D2.7). **Omya is lost to illness**, and the moments she gets through are the ones nobody can plan for (D1.1, D2.4).
 
 ## Keo's family
 
