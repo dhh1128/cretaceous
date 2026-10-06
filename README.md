@@ -59,23 +59,12 @@ Analyses that outlive a session but are not canon: the authorization audit, the 
 
 ## Open work, in order
 
-1. **Approve `pacing-and-stakes.md`.** Everything downstream waits on it.
-2. **Approve the rows of `knowledge-ledger.md`.**
-3. **Rewrite the scene list** to the approved count. Much of the open-question backlog gets worked off here rather than in the abstract.
-4. **Thirty-five open questions**, in `plan/open-questions.md` — twelve carried over, twelve restored after being removed without answers, five reopened, and the rest raised during the 2026-09-10 review.
-5. **Chapters.** They have never existed and were asked for at the start of the project. A chapter is the reader-facing unit — what you finish before putting the book down — and holds one or two scenes, rarely three. `plan/pacing-and-stakes.md` §3 has the form: a cordimancy-style label naming the POV and the day, with viking's `§` separating scenes inside a chapter.
+**The current plan, agreed 2026-10-06:** finish Act 1 in reading order. Map the five unmapped Act 1 scenes (D2.5, D2.7, D2.8, D2.9, D3.1), then draft every Act 1 scene in order, reviewing each Act 1 epigraph (EP1–EP5) as the reading reaches it. Two scenes are drafted and usable: `content/D1.1.md` and `content/D2.3.md`.
 
-   The four units, and there is no fifth:
+**Folded in when Act 1 touches them, and not before:** the chapter form (`plan/pacing-and-stakes.md` §3), decided once the first scenes are drafted; a triage of `plan/open-questions.md` for anything Act 1 needs.
 
-   - **Act** — three.
-   - **Chapter** — above.
-   - **Scene** — the writing unit: one POV, one place, one continuous stretch of time. Numbered **`D<day>.<n>`** <!-- @WF-scene.id.scheme: Dday.n -->, so `D7.2` is the second scene of Day 7.
-   - **Move** — one action by one party inside a scene. What the scene maps enumerate.
+**Parked until a scene needs them:** wholesale approval of `plan/scene-list.md`, `plan/knowledge-ledger.md` and `plan/pacing-and-stakes.md`. The mapping process approves their Act 1 parts piecemeal — each scene entry and each ledger row a scene pays passes through a map and a ledger Daniel rules on. `plan/sequels.md`, `kb/worldbuilding/the-second-jump.md` and `plan/titles-and-cover-art.md` bear on nothing in Act 1.
 
-   **The fifteen-unit structure is Blake Snyder's *Save the Cat!* template**, applied on 2025-11-02 without being asked for. Several of its labels actively misdescribe this book: there is no *Fun and Games* in eleven days <!-- @WF-mudwalk.days: 11 --> of mudwalk and no *Bad Guys Close In* in a novel whose antagonist is a world. It is an analysis note — a check that the story would also work as a film, which is a fair test — and it is not the organizing principle or the address system.
+**How a scene is built:** `process/scene-build-runbook.md`. **What to map next:** `python3 tools/demands.py`. **What a scene owes:** `python3 tools/obligations.py D2.5`.
 
-6. **Everything else is drafting.** The apparatus is built: 70 scenes at day-major ids, 34 checks green, obligations tagged, every scene carrying the job it does and the shape of ending that job implies (`plan/pacing-and-stakes.md` §8), and `python3 tools/obligations.py D12.1` answering what any one scene owes.
-
-   **How obligations are found, because it takes two precisions and not one.** A line in any layer that states something a scene must deliver carries `@D12.1` at the end. But **Act 1 is addressed by scene and Acts 2 and 3 are addressed by day** — the foreshadow ledger pays at "Day 12", the species allocation is a day column, `body-and-resources.md` is a day table — so 107 lines carry a tag and 262 name a day and no scene. **Those were deliberately not tagged onto scenes.** A statement made about a day is true of the day, and pushing it onto one of that day's scenes would assert a precision nobody chose. The layers keep the precision they have; `obligations.py` unions the levels at query time and says which is which.
-
-7. The layers still marked unapproved in their own frontmatter, in any order.
+**The four units, and there is no fifth:** **Act** (three); **Chapter** (the reader-facing unit, one or two scenes); **Scene** (one POV, one place, one continuous stretch of time, numbered **`D<day>.<n>`** <!-- @WF-scene.id.scheme: Dday.n -->); **Move** (one action by one party inside a scene, what the maps enumerate). The fifteen-unit structure in `plan/outline.md` is Blake Snyder's *Save the Cat!* template, applied on 2025-11-02 without being asked for; it is an analysis note, not the organizing principle.
