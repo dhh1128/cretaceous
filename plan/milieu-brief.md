@@ -1,5 +1,5 @@
 ---
-approval: approved fc9cdf5b
+approval: approved 26ec59be
 ---
 
 # Cretaceous — Milieu Brief
@@ -109,9 +109,9 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Seen from inside, the walk-in reads as an arch at the end of a dim throat** — a short passage that traps the air and the smell of too many bodies, so a crowded session is announced by the smell of it before you are in the room. **That is Opening 1 described from the other end and it is not a third door.**
 
-Nests are reached by **notched rope ladders**, and inside they are divided by **fern screens**. `[?]`
+Nests are reached by **notched rope ladders** — forty-odd rungs to a nest twelve to fifteen meters up — and inside they are divided by **fern screens**. `[?]` **Small children go up on a parent's back in a carrying sling** <!-- @WF-children.ladder: carried-until-yazhi -->, and climb on their own from about yazhi age, with an adult on the ladder below them.
 
-**Nests are multi-room platforms slung between conifers on ropes and pulleys**, linked by **canopy-walks**. **The rig self-compensates**: when one tree bends, the ropes give and the platform slides on the pulley to rebalance. So the nests do **not** lean constantly or dramatically. What a person actually experiences is breezes, **creaking rope**, and small adjustments underfoot. Do not write the sway as a recurring texture; it is not what living there feels like.
+**Nests are multi-room platforms slung between conifers on ropes**, linked by **canopy-walks**. **There are no pulleys** <!-- @WF-rig.pulleys: none -->: a turned wheel looks made, so the ropes run over **greased hardwood saddles** lashed into branch forks, shaped to look like part of the tree and replaced as they wear. **The rig self-compensates**: when one tree bends, the ropes give and the platform slides over its saddles to rebalance, slowly and with a creak. So the nests do **not** lean constantly or dramatically. What a person actually experiences is breezes, **creaking rope**, and small adjustments underfoot. Do not write the sway as a recurring texture; it is not what living there feels like.
 
 Around that, a cultivated ring of crops, managed groves and insect farms out to a kilometer or so. Beyond that a patrolled buffer with grazing for the domestic herd, to the perimeter.
 
