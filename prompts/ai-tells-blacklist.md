@@ -1,5 +1,5 @@
 ---
-approval: approved a9a4e3c4
+approval: approved cf065bcb
 ---
 
 # AI tells — the blacklist
@@ -189,6 +189,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > Regarding "kind, Teva knew": showing is better than telling. Sometimes this kind of thing reveals an inner perspective of the POV character, but here, it was useless.
 
 **Rule.** When the narration names a character's quality — *kind*, *patient*, *proud* — ask whether the label tells us something about the POV character's view of them that the scene needs. If it does not, cut it and let the character's actions carry the quality. A map line like *Rano is kind and worn through* is an instruction to show, not a phrase to transcribe.
+
+## 27. The cost-possessive
+
+> Removed in D2.1: *every breath she spent inside the line was his to pay for* → *every breath she spent inside the line cost him.*
+
+**Rule.** *His to pay for*, *hers to carry*, *his to bear*, *theirs to keep*: a plain cost dressed in a mannered possessive. Say what it cost, with a verb.
 
 ## What worked, kept as positive exemplars
 

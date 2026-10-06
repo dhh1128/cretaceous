@@ -1,5 +1,5 @@
 ---
-approval: approved da664c78
+approval: approved 04a574ea
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -99,7 +99,7 @@ The strongest available and it is already everywhere without having been noticed
 
 ### Erasure — 6, widely spaced. **The strongest motif in the book.**
 
-The Council chamber's bare walls, "a monument to erasure." The archaea that dissolve old-tech to sterile sludge. Clay vessels shaped to look like random clumps so nothing appears made. **The returning — a people who dissolve their own dead within the hour and keep no graves.** **A suit that eats its wearer if the wearer dies in it.** And all of it inside the blast radius of the thing that will erase every trace of them anyway.
+The Council chamber's bare walls, "a monument to erasure." The archaea that dissolve old-tech to sterile sludge. Clay vessels shaped to look like random clumps so nothing appears made. **The returning — a people who dissolve their own dead overnight and keep no graves.** **A suit that eats its wearer if the wearer dies in it.** And all of it inside the blast radius of the thing that will erase every trace of them anyway.
 
 They are a civilization organized entirely around leaving no evidence that it existed — and its whole purpose is to be remembered by the future it is trying to save. That is the book's grimmest joke and it should never be stated.
 

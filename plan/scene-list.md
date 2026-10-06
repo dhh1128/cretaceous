@@ -39,7 +39,7 @@ Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Alira's returning.** The rite, in full, and it is the first one in the book — so it teaches the reader the single strangest fact about this culture at the moment it hurts most. See `milieu-brief.md` §4.
 
-The child laid out and covered. The formal mourning, whatever its form is. The balm. And then, within an hour, **nothing under the mat** — and the sharp chemical smell that is engineered specifically *not* to be carrion, so that nothing comes.
+The child laid out and covered. The formal mourning, whatever its form is. The balm. Then the vigil, kept at a distance through the night, and by first light **nothing under the mat** — and the sharp chemical smell that is engineered specifically *not* to be carrion, so that nothing comes.
 
 **Job:** three at once. It gives the reader the Enclave as a place rather than a chamber. It puts the first rung on the social ladder — a community that failed in public and is now performing its most solemn ritual over the consequence. And it establishes the returning before the mudwalk, so that **Keo's unsuited body is legible as a risk** at D2.11 and every day thereafter.
 **Also:** Teva has watched this before, for her mother, and the reader should feel that without being told.
@@ -473,7 +473,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **A single blood-spattered feather**, which is the day's allocated image. Her plumage is iridescent, so whether it reads purple-black or mud-brown is the light's decision and both are canon (`plan/milieu-brief.md` §9).
 - **The deafening, ringing silence** after, which is most of what he can hear.
 - **He has stopped being able to hide anything.** `character-arcs.md`: he wants Noli back, he believes nothing, and he fears that it was his fault, correctly.
-- `[?]` **There is no rite and nothing to return.** In a culture that dissolves its own dead within the hour and keeps no graves, a body that has been taken is the one loss that leaves something behind — which is exactly Yara (`plan/minor-characters.md`). Whether that parallel reaches an animal is unestablished, and nobody in the scene may say it.
+- `[?]` **There is no rite and nothing to return.** In a culture that dissolves its own dead overnight and keeps no graves, a body that has been taken is the one loss that leaves something behind — which is exactly Yara (`plan/minor-characters.md`). Whether that parallel reaches an animal is unestablished, and nobody in the scene may say it.
 **Hazard:** grief narrated. He is numb and the POV is his, so the compassion has to arrive as things being done to him that he does not respond to. Second: anybody making it better, or anybody saying her name.
 **Ends on:** the pack on his back, and the three of them walking.
 
