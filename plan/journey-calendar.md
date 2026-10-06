@@ -1,5 +1,5 @@
 ---
-approval: approved faa6c900
+approval: approved 266671c2
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -137,7 +137,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | day | sky and air | temperature | light | dramatic function |
 |---|---|---|---|---|
 | **1** | overcast, dead still, no rain | hot, close | failing; the Vitarium lit only by its own cultures | Pressure with no release. Nothing outside acknowledges what happened inside |
-| **2** | clear dawn → heat building → **afternoon convective storm** → clearing at dusk → night mist → **ground fog before dawn** | hot, then the storm cools it | hard morning slats through the vine walls; storm-dark; a scoured evening; then three meters of visibility | One coherent system, and **the fog at the end of it is what lets them leave** |
+| **2** | clear dawn → heat building → **afternoon convective storm** → clearing at dusk → night mist → **ground fog before dawn** | hot, then the storm cools it | hard morning light broken through the vine walls; storm-dark; a scoured evening; then three meters of visibility | One coherent system, and **the fog at the end of it is what lets them leave** |
 | **3** | fog, then it burns off → hot, humid, dead still | hot and rising | glare after fog | **The insect day.** Still hot post-storm air is when the biters are worst, and Keo is the only one without a suit. Their first day out is spent being eaten |
 | **4** | showers on and off — ordinary, and nobody remarks on it | warm, saturating | **bright overhead, blind at chest height** | The elation is gone and the arithmetic arrives. The first day that is only walking. Snails, mushrooms, wet ash and rot |
 | **5** | heavy overcast, wrung out, no wind | warm, airless | lowest light in the book outside a cave | **Ambush weather.** The constrictor is the color of dead leaves and there is no shadow-free ground, and Benal's hearing is defeated by silence rather than noise |

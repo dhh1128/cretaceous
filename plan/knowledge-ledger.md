@@ -85,7 +85,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 | **FL** | Teva's mother died of what kills Alira | delivered | **D1.1** | the wet rattle, twice, two years apart | @D1.1
 | **FM** | Keo had a sister | delivered | **D2.3, move 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** | @D2.3
 | **FM2** | a croc took her while their parents watched | delivered | **D2.10** | *the world that had killed his sister*, against the Repository he is about to rob | @D2.10
-| **FN** | the protectiveness is guilt | accumulated | **D2.3** (the fourth gourd, filled and never remarked on), **D2.6** (they stand apart *because they know the number*), **completed D2.10** | the smell of their gear and the rationed food, with the fourth gourd behind it | @D2.3 @D2.6 @D2.10
+| **FN** | the protectiveness is guilt | accumulated | **D2.3** (the fourth gourd, filled and never remarked on), **D2.6** (they stand apart *because they know the number*), **completed D2.10** | their gear and their food, taken in the dark, with the fourth gourd behind it | @D2.3 @D2.6 @D2.10
 | **FO** | Marek is right | delivered | **D2.6** | the man who said *do something real* at home is shouting for Genesis. **The reader holds D2.2 and D2.6 together; Benal cannot** | @D2.6
 | **FP** | drift, not deceit | delivered *(as the correction)* | **EP13** | the coda, in the same channel that planted the false reading at EP11 |
 | **FQ** | Omya's public submission is duty, not vanity | accumulated | **D1.1** plants, **D2.4** completes | D1.1: she gives back a stretch of protocol word-perfect and Rano lets it past, because it is not the part he needs. D2.4: she recites the whole sky and cannot hold a fold | @D1.1 @D2.4
