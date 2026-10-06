@@ -159,6 +159,8 @@ Iterate until clean. Do not send him a draft that has not passed all of these, b
 - **the referent audit**: list every noun that names a place, a room, an opening or an object, with what it refers to. Any noun pointing at two referents, or any referent with two nouns, is fixed before he reads. A checker model does this reliably when it is asked to; it did not do it unasked.
 - **the invention audit**: every concrete fact in the draft is in canon or on the answered ledger. Anything else is an unauthorized invention and comes out.
 
+**Elaborations get the same checks as first drafts** (R-QE4S). A resize, an added paragraph or a fix after his reading is new prose, and new prose invents. Run the checker on the added lines against canon before he sees them; pipe the diff in and ask about only what changed. The first resize skipped this and put warm air in a cave.
+
 His attention is the scarcest thing in this project. Spending it on defects a checklist catches is the most expensive mistake available.
 
 ## Phase 8 — Daniel reads
