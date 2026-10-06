@@ -1,5 +1,5 @@
 ---
-approval: approved 337f60ac
+approval: approved 397b7d9f
 ---
 
 # Character arcs and intimacy
@@ -91,26 +91,30 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 
 | day | Keo→Teva | Teva→Benal | Keo↔Benal |
 |---|---|---|---|
-| **2** | 5 unspoken | 1 barely knows him | 2 tolerates |
-| **2, evening** | 7 volunteers for her | 4 recruits his mind | 3 dismisses him, then awe |
-| **3–5** | 6 | 5 respect | 4 debt |
+| **2** | 5 unspoken | 2 has known him all her life and never asked what his work does | 3 known since infancy; fond, and pities him as everyone does |
+| **2, evening** | 7 volunteers for her | 4 recruits his mind | 4 afraid for him, then awe |
+| **3–5** | 6 | 5 respect | 5 debt |
 | **6** | **7 the good day; almost says it** | **6** | **7 the joke that becomes theirs** |
 | **10** | 6 performing for her | 5 | 6 |
-| **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch** |
+| **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch — the protection reverses** |
 | **12–14** | 5 changed, quieter | 7 | 8 |
 | **15, night** | 6 he confesses to both | **7 and Keo sees it** | 9 |
-| **16–18** | 6 | 7 | 9 |
-| **19** | 7 unresolved | 7 unresolved | 9 settled |
+| **16–18** | 6 | 7 | 9 Genesis proves Benal right |
+| **19** | 7 unresolved | 8 trust, as his first real listener; the attraction unresolved | 9 trust and admiration, both ways |
 
 ### How the triangle actually works
 
 **Keo → Teva** is unrequited and unspoken, and he misreads her in every scene. She recruits him and he hears a choice.
 
-**Teva → Benal** is the one to get right, and the answer is not a rival suitor. She is drawn to his mind and **does not know what that feeling is.** Keo reads it correctly as attraction and incorrectly as settled. Benal is oblivious throughout, because he cannot conceive of being wanted.
+**Teva → Benal** is the one to get right, and the answer is not a rival suitor. She is drawn to his mind and **does not know what that feeling is.** Keo reads it correctly as attraction and incorrectly as settled, and watching her discover someone she has walked past for sixteen years is what unsettles him. **It ends in trust**: Benal's arc is about being heard, and she is the first person who ever asked, so she ends as the one he trusts to understand him. The attraction stays open; the friendship under it settles.
+
+**Benal → Teva** is admiration for the person who listened. He is oblivious to the rest throughout, because he cannot conceive of being wanted.
 
 So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. `[?]` **Nothing resolves in book 1.** The engine is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it. Do not answer the question the scene raises; `voice-sheets.md` carries the standing list of what each scene refuses to answer.
 
-**Keo ↔ Benal is the strongest dyad and the least planned.** Contempt, then debt, then the silent watch on Day 11, then something neither of them names. It ends at 9 while both romantic lines end unresolved, which is the honest shape for a book about three sixteen-year-olds.
+**Keo ↔ Benal is the strongest dyad.** They have known each other since infancy, in a cohort of perhaps thirty, and are not close. **Keo pities him kindly, as everyone does**, and is protective of him the way he is of everyone, because he thinks he is the best of them at what lies past the tangle; Benal is the one it applies to most. Then debt, then the silent watch on Day 11, where the protection reverses, then Genesis proving Benal right, and it **ends in trust and admiration running both ways**: Keo admires the mind and the nerve, and Benal admires the competence he lacks and no longer resents it, because it has stopped being pointed at him as pity. Its texture is built through the body — carrying, watching, being carried — where Teva's is built through asking. It ends at 9 while both romantic lines end unresolved, which is the honest shape for a book about three sixteen-year-olds.
+
+**Nobody in the cohort is a stranger to anyone.** A low number means *not close*, never *barely knows*. Everyone his age calls him **Ben**.
 
 ### Rules
 

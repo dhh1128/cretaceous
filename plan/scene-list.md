@@ -136,7 +136,7 @@ Teva: *"I'm going."* Not a request.
 **Ends on:** *I'm going* — and Keo already having agreed before he says so.
 
 ### D2.9 — [MEDIUM] [Day 2, night] [KEO] [Same]
-**Ladders:** EM6 P2 S6 SP4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from dismissing him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at D2.10 and D2.11.
+**Ladders:** EM6 P2 S6 SP4 — **the social rung is the one that moves.** The party becomes three, and `pacing-and-stakes.md` §6 makes the social ladder intra-trio standing: Benal argues his way in, Teva recruits his mind, and Keo goes from fear for him to awe inside one scene (`character-arcs.md` §3). It is also the first rung of the ramp the theft finishes at D2.10 and D2.11.
 **Purpose:** BOND · **Ending:** OMINOUS
 Benal insists. *"You're the delivery system. I'm the key."* Keo's response is awe, not pity.
 **Add:** the three of them have a shorthand by the time they leave. At least one inside joke visible here.

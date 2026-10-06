@@ -1,5 +1,5 @@
 ---
-approval: approved a903ee6b
+approval: approved 9cf897f4
 ---
 
 # Voice sheets
@@ -38,7 +38,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
 
-**Tics.** Calls him **Ben** when they are close and **Benal** when they are not, and the switch is a thermometer — read it off the dyad table in `character-arcs.md` §3, which runs 2 to 9. Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
+**Tics.** Calls him **Ben**, as everyone their age does; **Benal** only in anger. His parents and the elders say *Benal*. Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
 
 **Does not say** — each with its trigger and what holds after it:
 
@@ -186,7 +186,7 @@ Standing refusals for this novel:
 
 1. **Attribution is `said`, or a piece of business instead of a tag.** *viking* runs 111 *said* against a single *replied*. Exotic tags are rationed to the low tens across a whole novel.
 2. **Indirect answers at plot-critical moments are the norm**, not a flourish.
-3. **Register is a thermometer.** Benal's stammer, Keo's *Ben*/*Benal*, Teva's word count. The reader tracks these without knowing it.
+3. **Register is a thermometer.** Benal's stammer, Teva's word count. The reader tracks these without knowing it.
 4. **No coined words.** `kb/worldbuilding/lingo.md` is a closed list and its first rule is *do not coin new colony vocabulary*. If a scene seems to need a word that is not there, that is a note for Daniel, not a license. This applies to dialogue as much as to narration.
 5. **Nobody here is articulate about their own feelings.** An exception is something to be earned rather than reached for. The nearest anyone comes is Day 15, and even there it comes out sideways.
 6. **A line any of the three could have said is a line none of them should say.** That is the test this file exists to make possible.
