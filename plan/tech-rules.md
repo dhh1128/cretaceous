@@ -1,5 +1,5 @@
 ---
-approval: approved e4efc1c8
+approval: approved 63552264
 ---
 
 # Tech rules — taught before exploited
@@ -16,7 +16,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 
 | capability | limit | taught | exploited | fails | gap? |
 |---|---|---|---|---|---|
-| **Mental projection** | nudges natural inclination; cannot override a committed predator <!-- @WF-projection.override: false -->; costs pressure behind the eyes then real pain; **a held bond carries rough emotion back** — fear, hunger, pain, satisfaction — and never words | D2.1, Noli — cost-free, affectionate | D3.1 holding Noli against the Barrier · D3.2 the grounder decoy · **Day 8 the hadrosaur decoy** | **D11.1 — utterly useless against the flybeak** | ok | @D2.1 @D3.1 @D3.2 @D11.1
+| **Mental projection** | **pushes images and feelings — calm, danger, panic — never words** <!-- @WF-projection.pushes: images-and-feelings -->; nudges natural inclination; cannot override a committed predator <!-- @WF-projection.override: false -->; costs pressure behind the eyes then real pain; **a held bond carries rough emotion back** — fear, hunger, pain, satisfaction — and never words | D2.1, Noli — cost-free, affectionate | D3.1 holding Noli against the Barrier · D3.2 the grounder decoy · **Day 8 the hadrosaur decoy** | **D11.1 — utterly useless against the flybeak** | ok | @D2.1 @D3.1 @D3.2 @D11.1
 | **Proximity sense** | senses presence and kind of living things, not thought <!-- @WF-proximity.reads: presence-and-kind --> and **not terrain** — it has never read the ground <!-- @WF-proximity.terrain: false --> | D2.10, the sleeping parents | D3.1, D3.2, throughout | crowded minds; exhaustion | ok | @D2.10 @D3.1 @D3.2
 | **Chromatophore camouflage** | works when still; motion breaks it; useless against vibration | D3.1, the suits waking | Day 8 crossing · Day 5 | Day 12–15, biofilm dying in patches | ok | @D3.1
 | **Suit sound dampening** | filters, never amplifies | D3.1 — *"I can think"* | **Day 5, where the silence before the constrictor is what he hears** | Day 11, once the capacitor goes | ok | @D3.1
