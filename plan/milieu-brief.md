@@ -1,5 +1,5 @@
 ---
-approval: approved 1ec36f66
+approval: approved 47506773
 ---
 
 # Cretaceous — Milieu Brief
@@ -127,7 +127,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **And it does not work.** A grating sized to stop a six-meter adult croc <!-- @WF-croc.length: 6m --> passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols in a village pool (scene D2.5), why the buddy rule is absolute, and why any croc found inside is killed at once.
 
-**It is also how Yara died** — not in the river but away from it. <!-- @WF-yara.place: flooded-grove --> **After heavy rain the river spreads** (`plan/journey-calendar.md`), and the low groves of the cultivated ring stand in water and mud well away from the channel. A croc that came through the grating small and grew up inside goes where the water goes, and one a meter and a half long — big enough to kill a six-year-old <!-- @WF-yara.age.at.death: 6 --> — was lying half in the mud of a flooded grove where nobody thought to look. The children were out with their parents gathering snails, as children do after rain; the parents were close and saw it happen. **Keo, ten and beside her, threw his projection at it, and it did not register**, because projection barely touches a hungry croc (§7). **The flood carries what grew up inside out of the channel into ground nobody watches** — the gratings' second blind spot, and the colony knows it now, which is why the yazhi are drilled in a pool. <!-- @WF-yara.cause: croc -->
+**It is also how Yara died** — not in the river but away from it. <!-- @WF-yara.place: flooded-grove --> **After heavy rain the river spreads** (`plan/journey-calendar.md`), and the low groves of the cultivated ring stand in water and mud well away from the channel. A croc that came through the grating small and grew up inside goes where the water goes, and one a meter and a half long — big enough to kill a six-year-old <!-- @WF-yara.age.at.death: 6 --> — was lying half in the mud of a flooded grove where nobody thought to look. The children were out with their parents gathering snails, as children do after rain; the parents were close and saw it happen. **Keo, ten and beside her, threw his projection at it, and it did not register**, because projection barely touches a hungry croc (§7). **The flood carries what grew up inside out of the channel into ground nobody watches** — the gratings' second blind spot, and the colony knows it now: **the whole Enclave knows how she died**, and it is why children are drilled that after rain every puddle is the river. **What only her family knows is Keo's part** (`plan/minor-characters.md`). <!-- @WF-yara.cause: croc -->
 
 **The barrier is rotting the entire time.** Untreated wood in warm water has a short life, so the pylons and grating are under continuous replacement — two centuries of unbroken labor to hold one line that has never fully held. That is the Enclave in miniature.
 

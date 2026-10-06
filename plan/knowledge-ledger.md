@@ -55,7 +55,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | FJ | What became of the Lost Colonists | **never** | never | — | **hidden — SU4, stays dark** |
 | FK | The flashes are real, not fever | Act 2, by pattern | D17.2 | — | ironic | @D17.2
 | FL | Teva's mother died of what kills Alira | D1.1 | Keo & Benal at D15.4 | — | ironic *within the cast* | @D1.1 @D15.4
-| FM | **Keo's sister Yara, and how she died** | **Act 1** | Teva & Benal at D15.4 | known | **ironic — see below** | @D15.4
+| FM | **Keo's sister Yara, and his part in her death** — the colony knows a croc took her after rain; only his family knows he was beside her and his push did nothing | **Act 1** | Teva & Benal at D15.4 (his part; the death itself they already know) | the death, yes; his part, no | **ironic — see below** | @D15.4
 | FN | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
 | FO | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
 | FP | The founders' corruption was drift, not deceit <!-- @WF-corruption.kind: drift --> | **EP13**, the coda | D19.7 | D19.7 | **the false solution — see below** | @D19.7
