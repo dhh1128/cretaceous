@@ -70,6 +70,7 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 
 **He edits files directly, and that is the normal way for him to change prose.** He does not need to tell you, and the work must not depend on his remembering to.
 
+- **A SessionStart hook in `.claude/settings.json` prints any uncommitted changes to the corpus when a session opens**, so the check does not depend on anybody remembering it.
 - **Before you touch any file, run `git status` and `git diff` on it.** An uncommitted change you did not make is his. **Commit it first, on its own, with a message saying it is his** (`Daniel's edit to D2.3: …`), so his words are in the history under his name and never folded into an AI commit.
 - **His edit is approved by being his.** It needs no `[?]`, and it outranks the map, the draft and anything a check says about it. If it breaks a check, the check or the map is what changes.
 - **Never rewrite a whole prose file.** Change it by exact-match replacement, so an edit of his that you did not see makes your change fail loudly instead of overwriting him.
