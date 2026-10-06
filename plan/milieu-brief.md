@@ -1,5 +1,5 @@
 ---
-approval: approved 3bc91765
+approval: approved 536bb993
 ---
 
 # Cretaceous — Milieu Brief
@@ -403,7 +403,7 @@ A **sicklefoot** — a small dromaeosaurid. **No binomial, ever**, in prose or r
 
 Female, four or five years old — middle-aged against a lifespan of eight to twelve. About 14 kg, 2 m nose to tail, 60 cm at the hip; coyote-sized, slightly smaller than a full male. Heavily feathered and bird-like, with prominent wing feathers on the forearms, downy body covering, large intelligent eyes, and the sickle claws she is named for, carried clear of the ground. Her plumage is dark and **iridescent** <!-- @WF-noli.plumage: iridescent -->, which is why she reads mud-brown in daylight and purple-black at night; both descriptions are canon and the light decides.
 
-**Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious. **She lives on the inner edge of the patrolled buffer, against the cultivated ring** <!-- @WF-noli.home: inner-buffer --> — as far from the Barrier as she can get and still be away from the village's people — and comes to Keo there. **There are two holds, and they are different things.** **The light bond** is years old, costs him nothing he notices, reaches roughly from his nest to her ground, and carries her rough emotion back. **The pin** is close, brief and expensive: it is what gets her near the Barrier, and what the dawn drill rehearses.
+**Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious. **She lives on the inner edge of the patrolled buffer, against the cultivated ring** <!-- @WF-noli.home: inner-buffer --> — as far from the Barrier as she can get and still be away from the village's people — and comes to Keo there. **Keo is training her to pass the Barrier** <!-- @WF-noli.training: barrier-habituation -->: no animal goes out past the tangle with an Explorer party unless it can walk by the Barrier on its own, and he means to be an Explorer and take her. So every dawn he brings her a step closer, pins her for a minute, lets go before her fear peaks, and rewards her with crawlers. She has never yet passed it unpinned. **She also raids the crawler beds in the cultivated ring beside her ground** — the one rule he has made stick, kept perfectly except in the moment after he drops a pin. **There are two holds, and they are different things.** **The light bond** is years old, costs him nothing he notices, reaches roughly from his nest to her ground, and carries her rough emotion back. **The pin** is close, brief and expensive: it is what gets her near the Barrier, and what the dawn drill rehearses.
 
 She dies at dawn on Day 11 <!-- @WF-noli.death.day: 11 -->, the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
 
