@@ -1,5 +1,5 @@
 ---
-approval: approved 1b6016a5
+approval: approved a9a4e3c4
 ---
 
 # AI tells — the blacklist
@@ -183,6 +183,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > "Pan" is going to be read as the metal cooking implement, not food. And Omya's not making sense anyway. Even someone with severe dementia would not propose to stick blocks in food as an ingredient.
 
 **Rule.** A colony word that collides with an ordinary English word needs its first use where context makes the meaning unmistakable. And a symptom has to be how the condition actually behaves: dementia swaps in an old routine, not nonsense.
+
+## 26. A trait labeled instead of shown
+
+> Regarding "kind, Teva knew": showing is better than telling. Sometimes this kind of thing reveals an inner perspective of the POV character, but here, it was useless.
+
+**Rule.** When the narration names a character's quality — *kind*, *patient*, *proud* — ask whether the label tells us something about the POV character's view of them that the scene needs. If it does not, cut it and let the character's actions carry the quality. A map line like *Rano is kind and worn through* is an instruction to show, not a phrase to transcribe.
 
 ## What worked, kept as positive exemplars
 
