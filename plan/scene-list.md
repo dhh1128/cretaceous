@@ -39,7 +39,7 @@ Omya fails the protocol. **Elana bursts in with Alira.** Alira dies. Teva's rage
 **Purpose:** DISCOVER · **Ending:** RESOLVE
 **Alira's returning.** The rite, in full, and it is the first one in the book — so it teaches the reader the single strangest fact about this culture at the moment it hurts most. See `milieu-brief.md` §4.
 
-The child laid out and covered. The formal mourning, whatever its form is. The balm. Then the vigil, kept at a distance through the night, and by first light **nothing under the mat** — and the sharp chemical smell that is engineered specifically *not* to be carrion, so that nothing comes.
+The child laid out. The formal mourning. The balm, on her skin, and then the mats. Then the vigil, kept at a distance through the night, and by first light **nothing under the mat** — and the sharp chemical smell that is engineered specifically *not* to be carrion, so that nothing comes.
 
 **Job:** three at once. It gives the reader the Enclave as a place rather than a chamber. It puts the first rung on the social ladder — a community that failed in public and is now performing its most solemn ritual over the consequence. And it establishes the returning before the mudwalk, so that **Keo's unsuited body is legible as a risk** at D2.11 and every day thereafter.
 **Also:** Teva has watched this before, for her mother, and the reader should feel that without being told.
