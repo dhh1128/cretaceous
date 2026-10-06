@@ -1,5 +1,5 @@
 ---
-approval: approved f6b1519b
+approval: approved 03a9baa8
 ---
 
 # Character register
@@ -48,7 +48,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Lunet** — mother. Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
 
-**Liaso** — cousin. On Watcher duty the night of the theft; nearly catches Keo at the Repository. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
+**Liaso** — cousin. On watch at the rebuild in the tangle the night of the theft, and the three of them get past him on his own rhythm, which Benal knows. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
 
 ## The Keepers
 
