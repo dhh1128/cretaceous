@@ -61,6 +61,7 @@ Requirements that exist because they were violated:
 - **Moves state what a move *does*, not what it looks like.** "Riel describes a stretch of ground: distances, terrain, one hazard" produced non-sequitur drivel because the move had a shape and no function.
 - **Voice traits carry a scope.** "Riel counts" without bounds metastasized into a whole family obsessed with precision measurement.
 - **Every `[requires]` carries a payload** — what it needs to still be true, not just where it lives.
+- **One word per place, and the map sets it.** Every place or object the scene will name gets exactly one noun in IN, and no noun names two things. *Cleft* named both the Vitarium's opening and the niches the vessels sit in, in the same paragraph of D1.1's map, and the draft inherited the confusion; he had to fix it by hand. The word chosen should match what the rest of the corpus calls the same place.
 
 ## Phase 3 — Check the map, before anything else
 
@@ -150,6 +151,7 @@ Iterate until clean. Do not send him a draft that has not passed all of these, b
 - `prompts/logic-checker.md`
 - `prompts/repetition-hawk.md`
 - the four invariants, now against the prose
+- **the referent audit**: list every noun that names a place, a room, an opening or an object, with what it refers to. Any noun pointing at two referents, or any referent with two nouns, is fixed before he reads. A checker model does this reliably when it is asked to; it did not do it unasked.
 - **the invention audit**: every concrete fact in the draft is in canon or on the answered ledger. Anything else is an unauthorized invention and comes out.
 
 His attention is the scarcest thing in this project. Spending it on defects a checklist catches is the most expensive mistake available.
