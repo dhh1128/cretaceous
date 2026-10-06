@@ -1,5 +1,5 @@
 ---
-approval: approved f921dcdf
+approval: approved e1aa92ba
 ---
 
 # AI tells — the blacklist
@@ -130,11 +130,55 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 
 ---
 
+## 17. A sensory detail that breaks a later scene
+
+> Logically, if the suits carry the smell of the musk so strongly, we are creating a problem for Noli later, because she can't stand to be around that smell.
+
+**Rule.** A smell, a stain or a sound attached to an object travels with the object. Before giving gear a property, ask which later scene carries that gear and who has to stand next to it.
+
+## 18. Light the material cannot make
+
+> Slat-like bars of light (very straight) would be unlikely with vines, which are tangled.
+
+**Rule.** The shape of light is the shape of the gap it comes through. Woven vine breaks light; it does not bar it.
+
+## 19. A replayed routine with no trigger
+
+> Why would Keo ask about the arm again? … we need a hint about why he'd replay it. Maybe his dad itches the scar, and Keo smiles and says what he says.
+
+**Rule.** A family routine that everyone already knows needs something in the room to start it. Give the cue before the line.
+
+## 20. Grief as motions
+
+> This is where his parents seem wooden. They should show distress, not just go through motions. Does Riel wipe a tear, or does Joram? Is Joram's voice husky?
+
+**Rule.** People who care show it in the body when a child dies, even people whose register is restraint. Restraint is what they do with the distress, not its absence.
+
+## 21. An abstraction standing in for the gesture
+
+> I don't understand lines 49-53. What is a kindness — that his mother serves him some pan?
+
+**Rule.** If the narration names what a gesture means — *a kindness*, *an offer* — the gesture itself has to be legible first. Name the thing done, then let the reader see what it is for.
+
+## 22. A joke that fails its own arithmetic
+
+> It doesn't seem believable that Riel would say "Unless I counted wrong" if there are only 4 pieces.
+
+**Rule.** A counting joke is only funny where counting could plausibly go wrong. Check the quantity before the punchline.
+
+## 23. Words the character would not use
+
+> "fortnight" is odd vocabulary. I'd say "two weeks", and I think Riel would, too.
+
+**Rule.** US English is the floor, not the ceiling: a word can be American and still not be one these people would say. Prefer the plain word.
+
 ## What worked, kept as positive exemplars
 
 Not everything failed, and the successes are as instructive as the tells.
 
 > "The room changed" — this works. Good contrasting pace. A paragraph by itself. Let the nakedness of it function as an invitation for a reader to guess why.
+
+> **D2.3, second attempt, 2026-10-06:** "This is the first time I've read your output and thought, 'That's worthy of a first draft.' … It is logically coherent. It is stylistically strong. The pacing is nice. And the people are not nearly as wooden as the last draft. … And the final line lands."
 
 > "That was why…": this paragraph and the one after it work, and so do "Give me a suit" and "Joram's gaze lifted at last" just before. This part is more vivid and purposeful.
 
