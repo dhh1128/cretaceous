@@ -1,5 +1,5 @@
 ---
-approval: approved 1f2b80a6
+approval: approved 9f806e1e
 ---
 
 # Character register
@@ -16,7 +16,7 @@ Entries marked `[?]` were invented to close a gap and are cheap to change. They 
 
 **Yara** — Keo's younger sister. Dead.
 
-*The prose says only "the world that had killed his sister" (`content/superseded/04.1.md`).* **She was six <!-- @WF-yara.age.at.death: 6 -->, six years ago, when Keo was ten.** <!-- @WF-yara.cause: croc --> **After heavy rain, in a flooded grove away from the river**, a croc that had grown up inside the perimeter took her while she was gathering snails with the family; their parents were close and saw it, and **Keo was beside her and threw his projection at it, and it did not register.** `plan/milieu-brief.md` §4 owns the account. **Nobody has ever blamed him aloud. He believes a stronger push would have saved her**, which is *what he did to Yara* in `character-arcs.md`, and his parents blame themselves.
+*The prose says only "the world that had killed his sister" (`content/superseded/04.1.md`).* **She was six <!-- @WF-yara.age.at.death: 6 -->, six years ago <!-- @WF-yara.death.yearsago: 6 -->, when Keo was ten.** <!-- @WF-yara.cause: croc --> **After heavy rain, in a flooded grove away from the river**, a croc that had grown up inside the perimeter took her while she was gathering snails with the family; their parents were close and saw it, and **Keo was beside her and threw his projection at it, and it did not register.** `plan/milieu-brief.md` §4 owns the account. **Nobody has ever blamed him aloud. He believes a stronger push would have saved her**, which is *what he did to Yara* in `character-arcs.md`, and his parents blame themselves.
 
 *Why that version.* It makes "water is death" a family sentence rather than a civic slogan. It converts Joram and Riel's protectiveness from caution into guilt — they have already lost one on their watch — which is the strongest single piece of evidence in the misjudgment ledger, because Keo reads it as distrust. It gives Keo's refusal of the third suit a private meaning: he is proving he can survive what she could not. And it makes the theft worse in exactly the right way — he robs two people who lost a child to the outside, and then walks into the outside.
 
