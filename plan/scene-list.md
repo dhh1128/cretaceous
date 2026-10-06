@@ -96,7 +96,7 @@ Benal's mathematics. Marek's *"do something real."*
 ### D2.5 — [MEDIUM] [Day 2, afternoon] [TEVA] [Yazhi pool]
 **Ladders:** EM5 P3 S3 SP3
 **Purpose:** DISCOVER · **Ending:** HELD
-Croc drill in driving warm rain. *Monsters in the water* against *monsters in the blood.*
+Croc drill, and the rain breaks partway through it. *Monsters in the water* against *monsters in the blood.*
 **Add:** a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh.
 **Milieu:** the rainstorm, the leaking fern-thatch — already allocated here, spent elsewhere.
 **And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc surface sensing** (`tech-rules.md`): the drill is in a pool, so it is taught on water — Teva drops something in at one end and makes a child watch the ring travel, or hold a hand flat on the surface and feel another child's kick from across it. **What the animal reads is the water, not the bank.** Said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
