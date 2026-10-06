@@ -1,5 +1,5 @@
 ---
-approval: approved e1aa92ba
+approval: approved 1b6016a5
 ---
 
 # AI tells — the blacklist
@@ -172,11 +172,25 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 
 **Rule.** US English is the floor, not the ceiling: a word can be American and still not be one these people would say. Prefer the plain word.
 
+## 24. One word for two things
+
+> I edited a few lines early on, because you were using "cleft" inconsistently in 2 ways -- once to describe the opening to the Vitarium, and once to describe where the clay vessels are kept. It was confusing.
+
+**Rule.** Inside a scene, a noun names one thing. If two places need a word, they need two words.
+
+## 25. A drift word with nothing to teach it
+
+> "Pan" is going to be read as the metal cooking implement, not food. And Omya's not making sense anyway. Even someone with severe dementia would not propose to stick blocks in food as an ingredient.
+
+**Rule.** A colony word that collides with an ordinary English word needs its first use where context makes the meaning unmistakable. And a symptom has to be how the condition actually behaves: dementia swaps in an old routine, not nonsense.
+
 ## What worked, kept as positive exemplars
 
 Not everything failed, and the successes are as instructive as the tells.
 
 > "The room changed" — this works. Good contrasting pace. A paragraph by itself. Let the nakedness of it function as an invitation for a reader to guess why.
+
+> **D1.1, 2026-10-06:** "With those plus the fix on line 31, this scene is worthy of a first draft."
 
 > **D2.3, second attempt, 2026-10-06:** "This is the first time I've read your output and thought, 'That's worthy of a first draft.' … It is logically coherent. It is stylistically strong. The pacing is nice. And the people are not nearly as wooden as the last draft. … And the final line lands."
 
