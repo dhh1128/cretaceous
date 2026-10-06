@@ -10,7 +10,7 @@ approval: unapproved
 
 ## Two corrections from draft 1
 
-**1. The kill rate is 99.97% *of those infected*, not of humanity.** Draft 1 read as total extinction, which makes the mission incoherent — you cannot carry a cure forward to an empty planet. Near-certain death once infected, a lower attack rate, and **spread in waves across years**. That buys a two-year correspondence, a sister who is genuinely well for a while, and a terror that is about *catching* it.
+`[?]` **1. The kill rate is 99.97% *of those infected*, not of humanity** — *as an eventual rate, and open: EP1 now gives ~90% in the early days, with patients still sick.* Draft 1 read as total extinction, which makes the mission incoherent — you cannot carry a cure forward to an empty planet. Near-certain death once infected, a lower attack rate, and **spread in waves across years**. That buys a two-year correspondence, a sister who is genuinely well for a while, and a terror that is about *catching* it.
 
 **2. The order was backwards.** Draft 1 opened on *pandemic in all twelve bio-regions* and then ran ordinary letters about tomatoes. **The all-regions alert is now fragment 9** — the floor dropping out, late in Act 2 — and the novel opens on an early bulletin instead. The suite runs chronologically through a collapse: ordinary life → the decision → the work → the sister failing → total → departure → schism → the truth.
 
@@ -51,7 +51,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 >
 > A novel pathogen designated L-9 ("Lethe") is confirmed in three bio-regions.
 >
-> Transmission is not yet characterized. **Mortality among confirmed cases is 99.97%.**
+> Transmission is not yet characterized. **Of 412 confirmed cases, 371 have died. No patient has yet recovered.**
 >
 > There is no vaccine and no treatment. Do not travel between regions.
 
@@ -171,7 +171,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 >
 > The fourth wave is larger than the first three combined.
 >
-> Mortality among confirmed cases is unchanged at 99.97%.
+> `[?]` Mortality among confirmed cases is unchanged at 99.97%. *(EP1 now gives an early ~90% <!-- @WF-pathogen.early.cfr: 90pct --> with patients still sick. Whether the eventual rate rises to 99.97% is open; this line must not say "unchanged" either way.)*
 >
 > There is no vaccine. There is no treatment. There is no further guidance.
 

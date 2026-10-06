@@ -135,7 +135,7 @@ Twelve, plus a coda.
 
 | # | placement | form | job |
 |---|---|---|---|
-| 1 | before D1.1 *(written)* | CDC alert | The pandemic. 99.97%. Stakes, no irony yet. |
+| 1 | before D1.1 *(written)* | CDC alert | The pandemic: 371 dead of 412 confirmed, and nobody has recovered. Stakes, no irony yet. |
 | 2 | Act 1, before the debate | Joint Command memo *(sketched, in the rejected ch6 draft)* | The Chicxulub Solution authorized despite paradox risk. |
 | 3 | **end of Act 1** | Program brief | **The vector work IS the deliverable.** Irony begins here and runs to D17.2. |
 | 4 | early Act 2, recurring | **Dr. Cecilia Arroyo**, writing to her sister **Marisol** | **Gives the future a face.** See below. |
