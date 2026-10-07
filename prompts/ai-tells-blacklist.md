@@ -1,5 +1,5 @@
 ---
-approval: approved ed21756e
+approval: approved 9fc49429
 ---
 
 # AI tells — the blacklist
@@ -207,6 +207,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > D2.6 had twelve *nobody*s, most of them *nobody did X and nobody did Y*. "You're overusing 'nobody <did x> and nobody <did y>'. Vary the language."
 
 **Rule.** The doubled *nobody … and nobody …* is a cadence, and a cadence repeated becomes a tic. Use it once in a scene if it is earning its rhythm. Otherwise say what the room did instead — *the room let it stand*, *the dais did not answer her*, *not a head turned* — which is usually more exact anyway.
+
+## 30. The comma-and chain
+
+> D2.6: *She sat at the center of the dais with her hands open on her knees, and she looked out over all of them, and she spoke as if…* "I'm seeing a lot of this pattern. By the time I got to line 27, I felt like I'd seen the pattern multiple times."
+
+**Rule.** Independent clauses strung on *, and … , and …* are a cadence for a rush or a climax, and they stop working when they are the default joint. Before 2026-10-07 the drafts ran ten or twelve such sentences a scene. Use a full stop, subordinate one clause (*when*, *while*, *as*, a participle), or drop the subject and keep a compound verb. Keep the chain where it is doing something — a breathless run, an accumulating loss — and expect two or three of those in a scene, not ten. Count them before he reads: sentences of narration with two or more *, and*.
 
 ## What worked, kept as positive exemplars
 
