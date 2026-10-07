@@ -1,5 +1,5 @@
 ---
-approval: approved 273a5fcb
+approval: approved ed21756e
 ---
 
 # AI tells — the blacklist
@@ -201,6 +201,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > D2.5 opened by telling the reader Teva had not slept and had left Omya asleep with the fold gone — both already on the page in D1.2 and D2.4. "We are being consistent and connecting the scenes, but we need to eliminate the redundancy."
 
 **Rule.** A scene carries its neighbors' facts in the character's body and choices, not in a recap. Restate something from an earlier scene only when the reader would otherwise lose it, or when the restating does new work. A checker that asks for a scene to "carry" its neighbor's state is asking for continuity, and continuity is usually already there; decline the finding rather than add a summary.
+
+## 29. The paired negative
+
+> D2.6 had twelve *nobody*s, most of them *nobody did X and nobody did Y*. "You're overusing 'nobody <did x> and nobody <did y>'. Vary the language."
+
+**Rule.** The doubled *nobody … and nobody …* is a cadence, and a cadence repeated becomes a tic. Use it once in a scene if it is earning its rhythm. Otherwise say what the room did instead — *the room let it stand*, *the dais did not answer her*, *not a head turned* — which is usually more exact anyway.
 
 ## What worked, kept as positive exemplars
 
