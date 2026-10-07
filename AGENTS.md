@@ -137,7 +137,7 @@ every:    line in `plan/`, `prompts/`, `process/`, `kb/worldbuilding/` or `AGENT
 has:      a citation on the same line — a file and section, a `@WF-` claim, or `[retired]`
 evidence: this section's own test, that a rule keeps its force only if it cites a ruling, a measurement or a physical fact; and the defect it guards against, a categorical rule obeyed past the point where it was right because nothing under it said why
 check:    categorical_uncited
-status:   proposed
+status:   ratified 2026-10-07
 ```
 
 **Summary files generate contradictions and nothing else.** Six have been deleted. The clearest case opened by conceding that it loses every disagreement with the file it summarized. A file that restates another file will drift from it, and then a drafter picks whichever it read last. Point at the authority instead.
