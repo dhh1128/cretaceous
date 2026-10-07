@@ -1,5 +1,5 @@
 ---
-approval: approved cf065bcb
+approval: approved 273a5fcb
 ---
 
 # AI tells — the blacklist
@@ -195,6 +195,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > Removed in D2.1: *every breath she spent inside the line was his to pay for* → *every breath she spent inside the line cost him.*
 
 **Rule.** *His to pay for*, *hers to carry*, *his to bear*, *theirs to keep*: a plain cost dressed in a mannered possessive. Say what it cost, with a verb.
+
+## 28. Restating the scene before
+
+> D2.5 opened by telling the reader Teva had not slept and had left Omya asleep with the fold gone — both already on the page in D1.2 and D2.4. "We are being consistent and connecting the scenes, but we need to eliminate the redundancy."
+
+**Rule.** A scene carries its neighbors' facts in the character's body and choices, not in a recap. Restate something from an earlier scene only when the reader would otherwise lose it, or when the restating does new work. A checker that asks for a scene to "carry" its neighbor's state is asking for continuity, and continuity is usually already there; decline the finding rather than add a summary.
 
 ## What worked, kept as positive exemplars
 
