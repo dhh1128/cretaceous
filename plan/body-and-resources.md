@@ -1,5 +1,5 @@
 ---
-approval: approved 545d6f89
+approval: approved e96b1134
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -26,7 +26,7 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 **It does not go on their skin, and the Enclave already told them so.** At home the barrier weeps from ceramic nozzles set into the tangle (`milieu-brief.md` §6) — **it is a thing you put on a perimeter** <!-- @WF-barrier.location: perimeter -->, and smearing it on a person is the exception made for walking through one. So out here it goes on the stakes and the cut fronds of the night fence, and **their skin and their suits stay clean.**
 
-**Which is what makes Noli possible.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, and Keo has to hold her by projection to get her within ten meters of the tangle at all. On their bodies it would mean holding her every waking hour for the eight days she is alive after they leave. **On the fence it means she simply will not come near the camp after dark.** She forages instead, or beds down a long way off where the smell is not, and comes back at first light.
+**Which is what makes Noli possible.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, and Keo has to hold her by projection to get her within ten meters of the tangle at all. On their bodies it would mean holding her every waking hour for the eight days <!-- @WF-noli.days.outside: 8d --> she is alive after they leave. **On the fence it means she simply will not come near the camp after dark.** She forages instead, or beds down a long way off where the smell is not, and comes back at first light.
 
 **So the cost of a protected night is that the animal sleeps alone**, and Keo knows it every time somebody reaches for the pot. That is the argument he loses and then stops making.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 266671c2
+approval: approved d12d8394
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -216,6 +216,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 - **No modern constellation exists.** Sixty-six million years <!-- @WF-transit.depth: 66Mya --> of proper motion has dismantled every one. The sky is unrecognizable to us and perfectly familiar to them.
 - **The constellations are the founders'** — named 206 years ago and passed down intact. **The star lore survived uncorrupted because it is checked against the sky every single night, while the mission instructions drifted because nothing ever tested them.** That is the novel's thesis, sitting in the sky. Give it to Benal, once.
 - **The moon is the one thing that is exactly the same.** Roughly 2,500 km closer, under a percent, imperceptible. Everything in this world is strange except the moon.
+- **The moon's phase is fixed by one canon point and runs on from it.** `D10.3.md` has Night 10 **near new** <!-- @WF-moon.phase.night10: near-new -->, and a lunar month is about twenty-nine and a half days, so every other night follows from that. **Night 2 is about eight days <!-- @WF-moon.night2.offset: 8d --> earlier: a waning moon near last quarter** <!-- @WF-moon.phase.night2: waning-last-quarter -->, which rises around midnight and is high at dawn. So the evening at the kiva (D2.6–D2.9) is starlight after the storm and no moon; the theft (D2.10–D2.11) is late enough for a half moon low in the east; and the fog before dawn on Day 3 (D3.1) is pale because the moon is up behind it. Night 19 is about nine days after new, a waxing moon past first quarter. **The phase is not negotiable; whether the moon is up in a given scene follows from the hour, and the hour is the scene's to choose.**
 - Day length was closer to 23.5 hours. *(Open: whether the colony keeps a 24-hour clock that no longer matches the sun, or recalibrated long ago. They use military time, so somebody decided this once.)*
 
 ### Where the sky is available
