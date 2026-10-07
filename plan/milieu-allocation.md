@@ -1,5 +1,5 @@
 ---
-approval: approved 699254e5
+approval: approved 8b6c3357
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -151,7 +151,7 @@ Each of these is owned once. The number is the day.
 
 **Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised hood (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
-**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on skin (2) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
+**Touch and taste** — limestone underfoot (1, established, never again) · septic gel on a spike's tip, and on the fingers that put it there (3) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
 **Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the eye of the storm, high and bright and wrong (15) · the first honest sunlight in six days (16).
 

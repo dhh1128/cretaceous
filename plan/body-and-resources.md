@@ -1,5 +1,5 @@
 ---
-approval: approved 72088ccf
+approval: approved 47e03146
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -14,17 +14,17 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 `[?]` **Position at the act boundary:** 50–100 m beyond the border-tangle, pre-dawn of Day 3, ground fog to about three meters, razortails clicking nearby.
 
-**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord, a spare water skin and `[-]` the kindler gourd in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. Septic gel on exposed skin, and a leaden headache from holding Noli.
+**Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, and a tooth-knife in a sheath on his belt. The fieldpack with the group's supplies, a coil of fiber-cord, a spare water skin and `[-]` the kindler gourd in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. No gel on him, and a leaden headache from holding Noli.
 
-**Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. Septic gel on what is exposed.
+**Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. **Septic gel on the tip of her spike**, put there by her own hand once they are through the tangle, after Keo refused it for his: it keeps Noli off her, and at close range it blinds her suit's chemical sensors.
 
 **Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club and a sling. Salves and two chemical pods. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
 
-**Noli** — held by projection against her terror of the barrier smell.
+**Noli** — held by projection against her terror of the barrier smell until they are through the tangle, then released, and gone ahead into the fog. The razortails are out there for her: they hunt sicklefeet (`kb/worldbuilding/lingo.md`).
 
 **And one small pot of the septic gel between the three of them**, which is the pheromone barrier in casual register — `milieu-brief.md` §6, *T. rex* musk over the chemical markers of sepsis, reading to a predator as a wounded alpha and to everything smaller as *flee or die*.
 
-**It does not go on their skin, and the Enclave already told them so.** At home the barrier weeps from ceramic nozzles set into the tangle (`milieu-brief.md` §6) — **it is a thing you put on a perimeter** <!-- @WF-barrier.location: perimeter -->, and smearing it on a person is the exception made for walking through one. So out here it goes on the stakes and the cut fronds of the night fence, and **their skin and their suits stay clean.**
+**It does not go on their skin, and the Enclave already told them so.** At home the barrier weeps from ceramic nozzles set into the tangle (`milieu-brief.md` §6) — **it is a thing you put on a perimeter** <!-- @WF-barrier.location: perimeter -->, and nobody smears it on a person except at the one place nothing else will do, the river crossing on Day 8. So out here it goes on the stakes and the cut fronds of the night fence, and **their skin and their suits stay clean.**
 
 **Which is what makes Noli possible.** She is *everything smaller*: the gel reads to her as an angry apex predator at arm's length, and Keo has to hold her by projection to get her within ten meters of the tangle at all. On their bodies it would mean holding her every waking hour for the eight days <!-- @WF-noli.days.outside: 8d --> she is alive after they leave. **On the fence it means she simply will not come near the camp after dark.** She forages instead, or beds down a long way off where the smell is not, and comes back at first light.
 
