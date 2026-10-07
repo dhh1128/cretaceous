@@ -1,5 +1,5 @@
 ---
-approval: approved 397b7d9f
+approval: approved d82ff81c
 ---
 
 # Character arcs and intimacy
@@ -14,7 +14,7 @@ Kept in one file because they are one system: the intimacy is not a subplot runn
 
 ## 1. The de-escalation requirement
 
-**Models escalate. This book must not.** In *cordimancy*, the god grants Toril no new power; he then loses the magic he had and spends the last stretch of the book powerless, and that is what makes the ending mean anything.
+**Models escalate. This book must not, because Daniel's own novel runs the other way.** In *cordimancy*, the god grants Toril no new power; he then loses the magic he had and spends the last stretch of the book powerless, and that is what makes the ending mean anything.
 
 The shape being aimed at is that each of the three **loses a capability they were defined by**, and does not get it back. A target, not a quota — if one of them keeps something and the book is better for it, the book wins.
 

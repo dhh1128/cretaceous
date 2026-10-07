@@ -100,7 +100,7 @@ Croc drill, and the rain breaks partway through it. *Monsters in the water* agai
 **Add:** a yazhi says something funny and **Teva does not laugh**, and we watch her not laugh.
 **Milieu:** the rainstorm, the leaking fern-thatch — already allocated here, spent elsewhere.
 **And give the drill its reason.** They drill because things get through. The river runs through the Enclave and its gratings pass anything small enough, which then grows up inside — see `milieu-brief.md` §4. **This is also the scene that teaches croc surface sensing** (`tech-rules.md`): the drill is in a pool, so it is taught on water — Teva drops something in at one end and makes a child watch the ring travel, or hold a hand flat on the surface and feel another child's kick from across it. **What the animal reads is the water, not the bank.** Said once by a sixteen-year-old to a four-year-old, and the reader carries it to Day 8.
-**Do not mention Yara here.** The reader should be able to assemble it later without help.
+**Do not mention Yara here**, so that the reader can assemble it later without help.
 **Ends on:** `[?]` the drill finishing and the children going, and Teva alone at the pool with the rain on it.
 
 ---
@@ -205,7 +205,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **Noli.** Two of her four comic moments belong in Act 1 and the rest of her life is nine days long.
 - `[?]` **Nobody mentions their families.** All three are avoiding the same subject and none of them notices the others doing it.
 - **Keo's rations, and the arithmetic nobody has done yet.**
-**Hazard:** foreshadowing. The scene must not know what is coming; the elation is not ironic yet and treating it as ironic spends Day 4 early.
+**Hazard:** foreshadowing. The scene must not know what is coming, because the elation is not ironic yet and treating it as ironic spends Day 4 early.
 **Ends on:** somebody laughing, and it being the last easy laugh until Day 6.
 
 ---
@@ -528,7 +528,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.
 - **Benal sitting watch**, a frail silhouette that turns out to be a steady one, and a wave of pure gratitude. `character-arcs.md` puts Benal's real emotional turn here rather than at Genesis — being needed for something no upgrade provides — and this is where the strongest dyad in the book starts.
 - **Gratitude is what cuts the hubris, not the injury.** He is being kept alive by the one he used to dismiss, and neither of them says so.
-**Hazard:** the flash written as a vision sequence. It is a perception with nothing attached, delivered in the same register as the taste of the salve and the sound of the rain, and the prose must not signal that it matters. Second: him working anything out. He is febrile, he files it, and he sleeps.
+**Hazard:** the flash written as a vision sequence. It is a perception with nothing attached, delivered in the same register as the taste of the salve and the sound of the rain, and the prose must not signal that it matters (`foreshadow-and-motif.md`: the default is none). Second: him working anything out. He is febrile, he files it, and he sleeps.
 **Ends on:** him going under, and Benal still sitting up.
 
 ---
@@ -588,7 +588,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The bond is real and nobody has the energy for it.** `body-and-resources.md`: morale and energy are different axes and must not track.
 - **What only Keo can deliver, and it is why the scene is his.** From outside he is thin and quiet and slow. From inside, **the accelerated healing is eating him** — it closes a wound fast at the cost of strength, warmth and clarity, and he has no reserves for it to spend, so what the reader gets is starvation cold rather than weather and a mind that keeps losing the thread. `plan/body-and-resources.md` and `plan/tech-rules.md`. Benal can see he looks bad. Only Keo can feel the upgrade doing it.
 - **And he is the one hiding something.** `plan/character-arcs.md` §2 has him concealing, from Day 12 onward, that he said the mash needed another day and let her overrule him. He is dragging the consequence of a thing he was right about, and the reader is inside that for an entire afternoon.
-- `[?]` **He does not resent her for it, and the scene must not let him.** The temptation is a flash of blame he suppresses, which is cheap. What he has instead is the arithmetic of how much of himself is left, and no room for anything else.
+- `[?]` **He does not resent her for it, and the scene must not let him**, because the temptation, a flash of blame he suppresses, is cheap. What he has instead is the arithmetic of how much of himself is left, and no room for anything else.
 **Hazard:** the *T. rex* as a set-piece. It is a shape at distance on a day nobody has anything left, and the correct response from all three is to keep walking. **Second hazard: heroism.** He is not being noble. He is doing the only available thing, badly, while his own body spends itself on a cut.
 **Ends on:** the smell of salt, which is good news and means the sea.
 

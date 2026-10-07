@@ -1,5 +1,5 @@
 ---
-approval: approved e96b1134
+approval: approved 72088ccf
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -173,7 +173,7 @@ The weather turns after Day 3, so **they walk out with good gear and the rains s
 
 **Two consequences worth taking.** The crossing acquires a second cost — you carry the thing that dissolves in water *through water*, and then you have to get it dry before the archaea wake. **That is one more reason they go nowhere once they are across:** two kilometers and a long stop, spent on the weapons as much as on their nerve. And it compounds §1: they reach the coast short of calories **and** short of weapons, which is one more reason the walk home was never possible.
 
-**Do not over-narrate this.** It is a daily labor the characters perform without discussing, visible in what they do at each lay-up, and it should pay off once, badly, rather than being tracked in the prose.
+**Narrate this lightly.** It is a daily labor the characters perform without discussing, visible in what they do at each lay-up, and it should pay off once, badly, rather than being tracked in the prose.
 
 ### The unspent set-piece: a suit that starts its count
 
@@ -195,5 +195,5 @@ Where they sleep is a decision with a cost every night: elevation is safer and e
 2. **Hunger is cumulative and boring, which is why it must be shown in behavior rather than stated.** Arguments about nothing. Staring at food that isn't there. Somebody eating something they know is a bad idea.
 3. **Every injury has an owner and a cost.** No generic scrapes. If it does not change what someone can do, do not write it.
 4. **Pace is evidence.** The reader will not do the arithmetic but they will feel a four-kilometer day. Distances are in `journey-calendar.md` and are not negotiable at the keyboard.
-5. **Morale and energy are different axes and must not track.** Day 6 is high on both; Day 13 is functional and hollow; Day 3 is exhausted and elated; Day 10 is energized and doomed.
-6. **The day they cover the most ground is the happiest, and the two days they cover least are the most frightened.** Do not lose that.
+5. **Morale and energy are different axes and must not track**, for the reason the four ladders must not move together (`plan/pacing-and-stakes.md` §6). Day 6 is high on both; Day 13 is functional and hollow; Day 3 is exhausted and elated; Day 10 is energized and doomed.
+6. **The day they cover the most ground is the happiest, and the two days they cover least are the most frightened.** Keep that inversion through any change to the distances in `journey-calendar.md`.

@@ -76,8 +76,8 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 |---|---|
 | L14 | **`flybeak` scope.** 0.6 had it meaning a small pterosaur, explicitly not a threat to adults. `lingo.md:42` widened it to any pterosaur including the midpoint predator. Not approved. |
 | L15 | **The Watch.** Adopted by default rather than endorsed, and now load-bearing for scene D2.4, two foreshadow rows, Teva's fourth loss, and part of the species ladder. |
-| L16 | **Partitioning.** Never approved, term never heard. It is the answer somebody wrote to R8. |
-| L17 | **Projection pushes an image, not a word.** Never asked separately. |
+| L16 | **Partitioning.** Not approved, and he had not heard the term. It is the answer somebody wrote to R8. |
+| L17 | **Projection pushes an image, not a word.** Not asked separately. |
 | L18 | **Where the elastic burst gets spent.** `tech-rules.md:48` forbids a capability first appearing when it is needed, so it wants a teaching moment in Act 1 and a payoff — or it should not be in the brief. |
 
 ---

@@ -118,7 +118,7 @@ List everything the scene will have to invent that no canon file substantiates. 
 
 Only *invented* lines that clear his bar need his attention: something with obvious ramifications for the plot, a character arc, the connections between scenes, or the worldbuilding. An invention below that bar is not a ledger item. Usually it should not exist — a detail that does not raise the stakes, characterize, or add pathos is a distraction, so leave it unspecified. If it earns its place, choose it, mark it `[-]` where it is stated (`AGENTS.md` §2), and keep it consistent with every earlier `[-]` choice on the same subject. Include the *grounded* ones so he can catch a bad citation.
 
-**Give him the list and wait.** Do not draft. The pass is judged on what it failed to ask about: if the draft later contains an invention that clears the bar and was not on the ledger, the ledger pass was incomplete, and that is the defect to record in phase 9. **The opposite error is a defect too:** an item that goes to him when nothing turns on it spends the one resource this project is measured on, and the phase 9 record counts those as well.
+**Give him the list and wait.** Do not draft, because phase 4 is a hard stop (`AGENTS.md` §4). The pass is judged on what it failed to ask about: if the draft later contains an invention that clears the bar and was not on the ledger, the ledger pass was incomplete, and that is the defect to record in phase 9. **The opposite error is a defect too:** an item that goes to him when nothing turns on it spends the one resource this project is measured on, and the phase 9 record counts those as well.
 
 ## Phase 5 — Write answers back to canon, and annotate them on the way in
 
@@ -142,11 +142,11 @@ Every answer goes into the appropriate canon file immediately. **This is what ma
 
 ## Phase 6 — Draft
 
-One pass. One mind holding the scene at once. Do not factor the writing into layers — plan in layers, draft in one pass, revise in layers.
+One pass. One mind holding the scene at once. Do not factor the writing into layers, because that gives committee prose (`process/methodology-theory.md` §3) — plan in layers, draft in one pass, revise in layers.
 
 **Draft to the band, and spend any room well.** If the draft lands under its band, or with room inside it, ask what would make the scene stronger with 5% or 20% more: charm or humor in a character, depth, a milieu detail worth having, a revelation carried by dialogue. Then spend it there, rather than lengthening sentences or inventing moves to reach a number (R-JDNV). **If the draft still cannot reach its band without padding, stop and say so to Daniel** with the word count and the reason, and let him decide between more material and a smaller band.
 
-Inputs: the map, plus **everything**. Style canon, voice sheets, world bible, milieu brief, cast list, tech rules, blacklist, the answered invention ledger. Never strip inputs to isolate a variable in a run that is meant to produce usable prose; that was the D2.3 mistake.
+Inputs: the map, plus **everything**. Style canon, voice sheets, world bible, milieu brief, cast list, tech rules, blacklist, the answered invention ledger. Never strip inputs to isolate a variable in a run that is meant to produce usable prose; that was the D2.3 mistake (`process/methodology-theory.md` §3, and the top of this file).
 
 ## Phase 7 — Mechanical checks, before Daniel sees anything
 

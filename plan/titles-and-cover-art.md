@@ -38,7 +38,7 @@ Recorded so they are not proposed again. Each failed for a stated reason, not on
 | Quantum entanglement, temporal paradox | The physics of this trilogy is deliberately unflashy, and these titles promise the space opera the book is not. |
 | *ex-Enclave* / *ex-?* / *ex-??* | The Latin prefix does not scan as English, and the three losses are not parallel enough to fill the slots. |
 
-**One title is unavailable.** *Enclave* is Ann Aguirre's 2011 YA post-apocalyptic novel, close enough in genre to be a real collision. Do not spend it on a cover.
+**One title is unavailable.** *Enclave* is Ann Aguirre's 2011 YA post-apocalyptic novel, close enough in genre to be a real collision, which is why it stays off the cover.
 
 ---
 

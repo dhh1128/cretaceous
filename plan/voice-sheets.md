@@ -1,5 +1,5 @@
 ---
-approval: approved 9cf897f4
+approval: approved 08236a39
 ---
 
 # Voice sheets
@@ -177,7 +177,7 @@ Models answer every question a scene raises. So every scene brief carries a shor
 Standing refusals for this novel:
 
 - **What Yara was like.** She gets facts and never a portrait.
-- **Whether Teva knows how Keo feels.** Never confirmed from either side.
+- **Whether Teva knows how Keo feels.** Not confirmed from either side.
 - **What Joram was afraid of**, until the confrontation, and then only by implication.
 - **What the flashes are**, until Genesis — and *what the Lost Colonists became*, ever.
 - **Whether the founders were right.** The book takes no position.

@@ -1,5 +1,5 @@
 ---
-approval: approved 26ec59be
+approval: approved c854c308
 ---
 
 # Cretaceous — Milieu Brief
@@ -249,7 +249,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 
 **So nobody has a solution, and that is still the point.** Sila is not paranoid; she is looking at a promise she cannot verify, a downside with no floor, and a list nobody can shorten, and choosing rigidity because rigidity is the only available response. And the Brancher position is strengthened by the same facts: the risk cannot be eliminated no matter what they give up, so the doctrine is theater — why not use the metal? **Both factions are correct, which is exactly what the nuance arc requires.**
 
-**The trap this ranking exists to prevent, stated as a prohibition.** Do not write a character concluding that any of it is safe enough to stop bothering with. The chert knife stays forbidden, the archaea stay on the wrappings, the weekly balm still happens, and nobody stops caring about a lost blade — **the ranking is about where the fear is sharpest, not about where it stops.**
+**The trap this ranking exists to prevent, stated as a prohibition.** Do not write a character concluding that any of it is safe enough to stop bothering with, because the downside has no floor and it compounds (the two bullets above). The chert knife stays forbidden, the archaea stay on the wrappings, the weekly balm still happens, and nobody stops caring about a lost blade — **the ranking is about where the fear is sharpest, not about where it stops.**
 
 ### What the object rules actually are
 

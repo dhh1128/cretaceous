@@ -1,5 +1,5 @@
 ---
-approval: approved 9fc49429
+approval: approved f76263b2
 ---
 
 # AI tells — the blacklist
@@ -27,7 +27,7 @@ approval: approved 9fc49429
 > "small clay knock": stacked adjectives. clay adds nothing.
 > "thin clear" is stacked adjectives; never use 2 if 1 suffices, and only use 1 if it makes something vivid or clearer in the mind's eye.
 
-**Rule.** Never two where one suffices. Never one unless it makes the thing vivid or corrects a mistaken picture.
+**Rule**, in his words above. Never two where one suffices. Never one unless it makes the thing vivid or corrects a mistaken picture.
 
 **Test.** *"If the reader can imagine it without an adjective, and is likely to get it right enough without your help, cut it."*
 
@@ -99,7 +99,7 @@ approval: approved 9fc49429
 > Riel's measurements: this doesn't make sense to me. She has a magnetic sense. How does that translate to precise measurements or perfect sequential memory? Those are two different things. She sounds more like a mentat in Dune.
 > I don't know why you're so obsessed with measurements, but even in your obsession, you're inconsistent. You have exact units (11 degrees) and inexact ones (body-lengths, paces).
 
-**Rule.** A character's precision must follow from an established faculty, and the faculty must actually imply it. Do not generalize one character's stated trait to the family or the culture. Keep units consistent within a POV.
+**Rule.** A character's precision must follow from an established faculty, and the faculty must actually imply it. A trait stated for one character is that character's; extending it to the family or the culture is a new invention and goes through the ledger (§15). Keep units consistent within a POV.
 
 ## 13. Characters with nothing to want
 

@@ -76,7 +76,7 @@ Proposed as the cheap diagnostic: take the `Ends on:` line, ask what must be tru
 
 **What survived, and it is small.** The backward reading treated *her eating it, in front of them, and nobody saying anything* as a mid-scene event rather than the last thing on the page — a reading the scene entry forbids elsewhere but the ending line does not itself exclude. **An ending line that a careful reader can place in the middle of a scene is ambiguous**, and that is worth knowing about any `Ends on:` line, cheaply, without this apparatus.
 
-**Do not rebuild this.** If the question is whether a forward map is wishful, the instrument that worked is C11 — hand the map to readers who did not write it and ask them to break it.
+**Do not rebuild this, because the failure is structural (above).** If the question is whether a forward map is wishful, the instrument that worked is C11 — hand the map to readers who did not write it and ask them to break it.
 
 **C9. Forward grain and derived grain are different quantities. — Supported.**
 Maps derived from finished prose cluster at one move per 27–38 words. A forward map of an unwritten scene came in at one per 100, and not through laziness: a derived map records every move that *happened*, a forward map records every move an author can *decide* before writing. Most of a derived map's content is discovered in the writing. Any rule that sets a move target for briefs from measurements of finished prose is asking briefs to invent structure they have no basis for choosing.
@@ -263,8 +263,8 @@ Failure modes this project has actually hit. Each cost real work.
 
 Order matters; each step depends on the last.
 
-1. **Build the style reference from the author's own prose, verbatim**, before writing any specification. Do not derive it from previous generated output, however much of it exists.
-2. **Map three or four scenes from that prose by hand**, at different scene types, and let them dictate the schema fields. Do not carry this file's schema over unexamined — it was forced into shape by one author's work.
+1. **Build the style reference from the author's own prose, verbatim**, before writing any specification. Do not derive it from previous generated output, however much of it exists, because edited AI drafts measure far from the author's prose (`prompts/style-canon.md`, top).
+2. **Map three or four scenes from that prose by hand**, at different scene types, and let them dictate the schema fields. Do not carry this file's schema over unexamined, because it was forced into shape by one author's work.
 3. **Run T1 blind, with matched pairs and at least two model lineages.** Expect it to falsify something.
 4. **Write one forward map**, and run T6 on it. If most lines fail prospectivity, the schema is a review format and not a brief format.
 5. **Run T2 and T3** before writing briefs at volume.

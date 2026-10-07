@@ -1,5 +1,5 @@
 ---
-approval: approved 8c311aee
+approval: approved d2a03e0c
 ---
 
 # Style canon
@@ -10,7 +10,7 @@ Sources: `~/code/me/viking/viking.md` (91,955 words) and `~/code/me/cordimancy/c
 
 Quotes spot-checked against source, 2026-09-09. Line numbers point at the passage's first line.
 
-**Do not use `content/superseded/` for voice.** Those scenes are edited AI drafts and measure at mean 7.7 / median 6 against the numbers below.
+**Do not use `content/superseded/` for voice**, because those scenes are edited AI drafts and measure at mean 7.7 / median 6 against the numbers below.
 
 ---
 
@@ -62,7 +62,7 @@ One adverb places the reader some unknown distance into a ritual. The missing ar
 
 Situation, relationship, danger level and the speaker's age, in nine words. It works because it is an *instruction*, so the scene has somewhere to go.
 
-## 2. Endings — a turn, an image, a threat, a question. Never a summary.
+## 2. Endings — a turn, an image, a threat, a question, not a summary
 
 **[countdown into absence]** `viking.md:1874`
 > And then nothing.

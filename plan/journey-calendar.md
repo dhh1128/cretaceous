@@ -1,5 +1,5 @@
 ---
-approval: approved d12d8394
+approval: approved 6f964eb1
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -102,7 +102,7 @@ The dependency order:
 
 **Noli is across before any of it starts.** She goes an hour early on her own, over the boulders the narrows are named for — long leaps steadied by the forearm feathers, and a hard ugly swim at the two gaps she cannot clear — and then calls from the far bank until they follow. She crosses without the decoy, because the decoy is an afternoon operation, which means the trio watch an unprotected crossing succeed and learn nothing from it that helps them.
 
-**The extra help is not theirs and must not read as theirs.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
+**The extra help is not theirs and must not read as theirs, because the parts they earned are the narrows, the placement and the hour.** The hadrosaur is driven as part of a herd, and a herd milling along fifty yards of bank churns water and mud across a wide front rather than at one point — which is exactly what defeats a sense that works by localizing. Optionally a breath of wind puts broken ginkgo leaves onto the flat water; the leaves are already lying on that bank. **None of this is in the plan they make.** They do not know it is helping and they may never know. A reader who knows the science gets a set of conditions that genuinely improve the odds; the three of them get only the narrows, the placement and the hour, which are the parts they earned.
 
 ### No season pivot, and nothing seasonal inside nineteen days <!-- @WF-story.span: 19d -->
 
@@ -167,7 +167,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 
 So when a character feels cold — and they should, often — it comes from **inside** them. Starvation impairs thermoregulation and by Day 12 they are several kilos down. Blood loss does it. Exhaustion does it. Teva's broken regulation does it worst. **Write the symptom, never the climate.**
 
-**Never remark on weather that is doing nothing.** The reader fills in ordinary mud, ordinary damp, ordinary heat. The Cretaceous only earns description where it is strange.
+**Never remark on weather that is doing nothing**, because the reader fills in ordinary mud, ordinary damp, ordinary heat. The Cretaceous only earns description where it is strange.
 
 ### Invert the valence, or the score is monotone misery
 

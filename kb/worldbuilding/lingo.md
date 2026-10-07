@@ -1,5 +1,5 @@
 ---
-approval: approved 7f6247bd
+approval: approved 2c20a4ba
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -72,7 +72,7 @@ These are self-explaining English and cost the reader nothing on first sight, so
 
 ## Precision-register vocabulary
 
-Not drift — these are the words the colony *kept*, and using them correctly is what shows the reader that this is a scientific mission rather than a devolved tribe. Never simplify them: *apoptosis*, *viral vector*, *protein fold*, *amino acid*, *protocol*, *chromatophore*, *integumentary*, *proprioception*, *necrosis*, *lymphatic*, *synthesis*, *culture*, *sequencing*.
+Not drift — these are the words the colony *kept*, and using them correctly is what shows the reader that this is a scientific mission rather than a devolved tribe. Never simplify them, because the exact word is the evidence: *apoptosis*, *viral vector*, *protein fold*, *amino acid*, *protocol*, *chromatophore*, *integumentary*, *proprioception*, *necrosis*, *lymphatic*, *synthesis*, *culture*, *sequencing*.
 
 **And the register is not uniform across subjects.** Keeper work is chemistry and is spoken as chemistry. **Food safety is Explorer work and is spoken as procedure** — how long in the water, how you know it is done, what happens if it is not. Nobody says *glycoside* about a cycad, and a character who has the method without the mechanism can be entirely right about the first and wrong about what the second implies.
 
@@ -85,5 +85,5 @@ Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**,
 ## Rules for the drafting model
 
 1. **Do not coin new colony vocabulary.** If a scene seems to need a word that isn't here, that's a note for Daniel, not a license.
-2. **Never gloss.** "The yazhi cried, and Teva picked up the child" teaches the word and never stops the narrative. A sentence that explains a term is a defect.
+2. **Never gloss**, because a sentence that explains a term stops the narrative to do it. "The yazhi cried, and Teva picked up the child" teaches the word without stopping.
 3. **One name per referent.** A croc is never also a snapjaw.

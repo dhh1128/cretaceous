@@ -63,17 +63,17 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 - **Propose, don't ask.** An open question makes him do the work. A proposal lets him scan and object, which is an order of magnitude cheaper. Every proposal should be answerable in a few words.
 - **One or two questions at a time, in dependency order** — the one whose answer implies the most about the others first. A list of twenty questions makes him answer ones that later answers would have settled.
 - **Deciding *not* to specify something is not a question.** It needs his approval only when the omission has a consequence somebody could get wrong. Everything else you decide and record.
-- **Never be elliptical.** If you write "the paralysis is spatial," say what paralysis and what you mean by spatial. Compression that costs him a round-trip is not economy.
+- **Never be elliptical.** If you write "the paralysis is spatial," say what paralysis and what you mean by spatial, because compression that costs him a round-trip is not economy.
 - **Say what you need from him at the top**, before the reasoning that led there.
 
 ## 3b. When Daniel edits a file himself
 
-**He edits files directly, and that is the normal way for him to change prose.** He does not need to tell you, and the work must not depend on his remembering to.
+**He edits files directly, and that is the normal way for him to change prose.** He does not need to tell you, so the work is built not to depend on his remembering to.
 
 - **A SessionStart hook in `.claude/settings.json` prints any uncommitted changes to the corpus when a session opens**, so the check does not depend on anybody remembering it.
 - **Before you touch any file, run `git status` and `git diff` on it.** An uncommitted change you did not make is his. **Commit it first, on its own, with a message saying it is his** (`Daniel's edit to D2.3: …`), so his words are in the history under his name and never folded into an AI commit.
 - **His edit is approved by being his.** It needs no `[?]`, and it outranks the map, the draft and anything a check says about it. If it breaks a check, the check or the map is what changes.
-- **Never rewrite a whole prose file.** Change it by exact-match replacement, so an edit of his that you did not see makes your change fail loudly instead of overwriting him.
+- **Never rewrite a whole prose file.** Change it by exact-match replacement, so that an edit of his that you did not see makes your change fail loudly instead of overwriting him.
 - **When he edits a line, read why.** One changed line is a note about the voice, and the blacklist or the voice sheets may want it.
 
 ## 4. How to deliver prose
@@ -95,7 +95,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 - **US English, everywhere** — prose, notes, ledgers, commit messages, chat. This has been corrected more than once and it keeps coming back, because a literary register pulls toward British spellings. The list is `tools/british-english.txt`, 1,818 British→American pairs, and `uv run --with pytest pytest tools/ -k english` checks prose and filenames against it. A word that only looks British — *tonne* as a unit, *dialogue*, *monologue*, *archaeology* — goes in that file as an exception with its reason. The `-logue` family is not uniform: *dialogue* and *monologue* are US-standard, *catalog* and *analog* are not. Verbatim quotations are exempt: correcting one would falsify the source.
 - **Never hard-wrap markdown.** One line per paragraph, however long, because a wrapped paragraph turns a one-word edit into a reflowed diff and breaks pasting into anything that soft-wraps.
 - **Where things go.** Scene maps and invention ledgers in `plan/scene-maps/` (created when the first one is built; the directory is empty). Drafted prose in `content/`. Working analyses that outlive a session but are not canon in `.ignored/`, which is gitignored. Do not leave loose untracked files in the repo root, because each one is something Daniel has to notice and avoid committing.
-- **Do not invent organizing schemes.** Ask before adding a folder or a naming convention. *(A `process/` directory was created on 2026-09-10 without being asked for.)*
+- **Do not invent organizing schemes.** Ask before adding a folder or a naming convention, because the layout is his to choose. *(A `process/` directory was created on 2026-09-10 without being asked for.)*
 - **`kb/worldbuilding/lingo.md` is a closed list, and it is closed.** <!-- @WF-lingo.closed: true --> Coining colony vocabulary during drafting is a defect, not a flourish. If a scene seems to need a word that is not there, that is a note for Daniel.
 
 ## 7. Retired claims — things the corpus said and no longer may
@@ -128,7 +128,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 
 ## 6. Standing hazards, learned the expensive way
 
-**Preferences inflate into laws.** Something he said once in passing comes back as *never*, *not one, not ever*, *one per act*. The content is usually fine and the modality is invented — and a model obeys grammar, so a quota gets spent against like a budget. The test: does the rule cite something? His critique, a measurement against his own novels, a physical fact? If yes it keeps its force. If not it is a guideline, and should read like one.
+**Preferences inflate into laws.** Something Daniel said once in passing comes back as *never*, *not one, not ever*, *one per act*. The content is usually fine and the modality is invented — and a model obeys grammar, so a quota gets spent against like a budget. The test: does the rule cite something? His critique, a measurement against his own novels, a physical fact? If yes it keeps its force. If not it is a guideline, and should read like one.
 
 ```rule
 id:       categorical-cites-something

@@ -182,7 +182,7 @@ Emotional, Physical, Social, Species — written `EM`, `P`, `S`, `SP`, because `
 
 **A scene that moves three is probably two scenes.** This is the principled reason to split Day 17 and Day 19 rather than a feeling about length.
 
-**The ladders must not all move together.** If all four climb in every scene the book is monotonous and exhausting. Day 2 morning is a rest on three of four, and Day 6 is a rest on all four, and those two troughs are what make the theft and the midpoint land.
+**The ladders must not all move together**, because if all four climb in every scene the book is monotonous and exhausting. Day 2 morning is a rest on three of four, and Day 6 is a rest on all four, and those two troughs are what make the theft and the midpoint land.
 
 ---
 
