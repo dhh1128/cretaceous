@@ -1,5 +1,5 @@
 ---
-approval: approved df69e465
+approval: approved 699254e5
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -42,7 +42,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **The river and its banks** | 7–8 | the one channel that cannot be avoided. Two days: a bank they cannot make themselves leave, and the crossing. |
 | **Fern savanna** | 10 | head-high ferns and cycads to the horizon, no trees, nothing to hide behind or under. |
 | **Limestone broken country** | 11–12 | scree, gulches, ravines, thin soil, exposed rock. Where Keo falls. |
-| **Coastal plain and wetland** | 13–14 | *Nypa*-type palms, *Weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. <!-- @WF-mangroves.exist: false --> Then mudflats that read as ground and are not. |
+| **Coastal plain and wetland** | 13–14 | *nypa*-type palms, *weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. <!-- @WF-mangroves.exist: false --> Then mudflats that read as ground and are not. |
 | **Open water** | 14–15 | the raft, the storm, the bank. |
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |
@@ -57,27 +57,27 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | species | day | note |
 |---|---|---|
-| *Acheroraptor* — **razortail** | 3 | the pack escape. Established at D3.1 by sound only; seen on Day 3. | @D3.1
+| *acheroraptor* — **razortail** | 3 | the pack escape. Established at D3.1 by sound only; seen on Day 3. | @D3.1
 | the large river crocodylian — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. Six meters <!-- @WF-croc.length: 6m -->, and deliberately not placed to genus; `kb/research/geo-flora-fauna.md` §4.4 says why. |
-| *Anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
-| *Madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
-| *Alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |
-| *Borealosuchus*, juvenile | 6 | **a meter and a half, and young.** Establishes that "croc" is a range and not one animal — and anything larger is not harmless to a sixteen-year-old, so a bigger one would make the good day a lie. |
-| *Ankylosaurus* or *Nodosaurus* | 6 | armored, indifferent, unbothered by them. |
-| *Kritosaurus* / *Velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
-| *Ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
-| *Quetzalcoatlus* — **flybeak** | 11, 19 | takes Noli out of a low sun. Returns as the chase on Day 19 and nowhere between — its shadow may pass, but the animal is not shown twice in Act 2. |
-| *Haidomyrmecinae* — hell ants | 11 | already allocated to D11.3. | @D11.3
-| *Didelphodon* | 12 | badger-sized, bone-crushing bite, raids the camp. Nuisance and comedy on a miserable day. |
-| *Thescelosaurus* | 12 | burrowers; their holes are a hazard on bad ground. |
-| *Palaeosaniwa* | 13 | 3 m monitor lizard, an active hunter. **Unused, and the best mid-tier land threat in the inventory.** |
-| *Hesperornis* | 14 | toothed diving bird, coast. |
-| *Muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
+| *anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
+| *madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
+| *alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |
+| *borealosuchus*, juvenile | 6 | **a meter and a half, and young.** Establishes that "croc" is a range and not one animal — and anything larger is not harmless to a sixteen-year-old, so a bigger one would make the good day a lie. |
+| *ankylosaurus* or *nodosaurus* | 6 | armored, indifferent, unbothered by them. |
+| *kritosaurus* / *velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
+| *ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
+| *quetzalcoatlus* — **flybeak** | 11, 19 | takes Noli out of a low sun. Returns as the chase on Day 19 and nowhere between — its shadow may pass, but the animal is not shown twice in Act 2. |
+| *haidomyrmecinae* — hell ants | 11 | already allocated to D11.3. | @D11.3
+| *didelphodon* | 12 | badger-sized, bone-crushing bite, raids the camp. Nuisance and comedy on a miserable day. |
+| *thescelosaurus* | 12 | burrowers; their holes are a hazard on bad ground. |
+| *palaeosaniwa* | 13 | 3 m monitor lizard, an active hunter. **Unused, and the best mid-tier land threat in the inventory.** |
+| *hesperornis* | 14 | toothed diving bird, coast. |
+| *muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
 | sea turtles, nesting | 14 | already allocated to D14.1 as the croc distraction. | @D14.1
-| *Mosasaurus* | 14 | night, the raft. |
-| ***Tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9
+| *mosasaurus* | 14 | night, the raft. |
+| ***tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9
 
-**Not allocated, held in reserve:** *Albertosaurus*, *Coahuilaceratops*, *Bravoceratops*, *Magnapaulia*, *Avisaurus*, *Coniophis*, *Polyglyphanodon*. Do not spend these without moving something else off the list, because each striking thing gets one or two days and is off-limits elsewhere (top of `milieu-allocation.md`).
+**Not allocated, held in reserve:** *albertosaurus*, *coahuilaceratops*, *bravoceratops*, *magnapaulia*, *avisaurus*, *coniophis*, *polyglyphanodon*. Do not spend these without moving something else off the list, because each striking thing gets one or two days and is off-limits elsewhere (top of `milieu-allocation.md`).
 
 ## 3b. Small life, forage, and nuisance — the texture layer
 
@@ -108,7 +108,7 @@ Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wall
 - **Hand-sized iridescent day-flying moths**, in clouds — Day 4. *(Butterflies are the one item here I would not defend: Lepidoptera are firmly present and moth leaf-mining traces are cited in the research, but the oldest butterfly body fossils are Eocene. Moths are safer, stranger, and better.)*
 - **Bioluminescent beetles** at night, pulsing on an unfamiliar rhythm — Days 2 and 6. *(Luminous elateroid beetles are known from Cretaceous amber; this is inference to the Maastrichtian rather than direct evidence, and it is a small, cheap inference.)*
 - **A saropo herd from a ridge** — Day 6. Awe with nothing at stake.
-- ***Ornithomimus* running** — Day 10. Pure pleasure, no threat.
+- ***ornithomimus* running** — Day 10. Pure pleasure, no threat.
 - **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at, and what it means that it will still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->.
 
 ### Edible things, and what they cost
@@ -121,7 +121,7 @@ Food is labor. Nothing here is picked.
 | **Stonefruit** — Annonaceae, custard-apple relatives | Days 4, 6, 13 | Finding one the animals haven't. Already canon as "dinosaur-fruit." |
 | **Snails** | Days 4–5, after rain | Trivial to gather, tedious to prepare, and they are *good*, which is the joke |
 | **Frogs** | Days 3, 13, near slow water | Being near slow water |
-| **Grounders** — *Alphadon*, *Meniscoessus* | Days 6, 10 | Noli catches them. **After Day 11 nobody catches them.** That is how the reader feels her absence in the food. |
+| **Grounders** — *alphadon*, *meniscoessus* | Days 6, 10 | Noli catches them. **After Day 11 nobody catches them.** That is how the reader feels her absence in the food. |
 | **Ovos** | Day 14, the turtle beach | Crocs |
 | **Pinyons** | anywhere with conifers | Nothing. The default. Which is why they are sick of them. |
 | **Mushrooms** | Days 4–5, wet days | Knowing which. Benal knows; this is a small competence that costs him nothing and reads as expertise |
@@ -139,7 +139,7 @@ Food is labor. Nothing here is picked.
 
 ## 4. Flora allocation
 
-Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 11–12: thin scrub, **wild stone-cycad on the thin soil over limestone** — cycads favor well-drained rock and this is better habitat for them than deep woodland — gnetophyte berries on scree, resurrection ferns on rock. Days 13–14: *Nypa*-type palms, *Weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
+Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–6: laurel, early oak and walnut relatives, wild stone-cycad, tree ferns, horsetail in dense stands along the rivers, aquatic angiosperms — lotus relatives and cattails — in the slow water. Day 6: the oaks and walnuts get their moment, because the good day is where flora is allowed to be pleasant. Day 10: head-high fern and cycad, nothing else. Days 11–12: thin scrub, **wild stone-cycad on the thin soil over limestone** — cycads favor well-drained rock and this is better habitat for them than deep woodland — gnetophyte berries on scree, resurrection ferns on rock. Days 13–14: *nypa*-type palms, *weichselia*, salt scrub. **Nothing flowers spectacularly** — angiosperms dominate the canopy but the showy ornamentals of a modern tropical scene are not here.
 
 ## 5. Sensory allocation
 

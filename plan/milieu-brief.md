@@ -1,5 +1,5 @@
 ---
-approval: approved c854c308
+approval: approved 54351c44
 ---
 
 # Cretaceous — Milieu Brief
@@ -89,7 +89,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Genesis itself** is a **spit of emergent land ringed by coral**, in 10–20 m of water, surrounded by dangerous current and cutting formations, inside marine predator territory. It is land, not a tidal bank — two hundred founders arrived there, lived there three years <!-- @WF-genesis.occupancy: 3y -->, and left an archive, a temporal lab and two wigs on it. Being emergent also means it is visible from further out, which is half the answer to how three teenagers find it. **It was built to be worked in and much of it is still standing**; what has gone is the parts that had moving pieces, and what has flooded is the low ground. Two centuries of cyclones have made it dangerous rather than absent — some of it is open to the sky, some of it is under water, and some of it is dry and lit. It holds the complete synthesis protocols on metal tablets, databases that may still have power, the damaged temporal equipment, possibly more suits, possibly the bodies of the first arrivals, and the evidence that will break the colony's story about itself.
 
-**The marine threats are a roster, not one animal.** *Mosasaurus hoffmanni* is the one the story spends, but *Prognathodon* and *Plioplatecarpus*, dyrosaurid marine crocodiles, lamniform sharks and elasmosaurid plesiosaurs are all present in these waters (`kb/research/geo-flora-fauna.md` §4.4b). They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
+**The marine threats are a roster, not one animal.** *mosasaurus hoffmanni* is the one the story spends, but *Prognathodon* and *Plioplatecarpus*, dyrosaurid marine crocodiles, lamniform sharks and elasmosaurid plesiosaurs are all present in these waters (`kb/research/geo-flora-fauna.md` §4.4b). They exist whether or not any of them gets a scene; `milieu-allocation.md` rule 1 governs what appears on the page, which is a separate question from what lives there.
 
 **Water is the primary danger, everywhere.** See `geo-flora-fauna.md` for species. The cultural response is absolute: *water is death*, never turn your back on it, no child near it unsupervised, water-gathering is communal and guarded, and any croc inside the perimeter is killed at once. They still lose five to ten people a year <!-- @WF-losses.annual: 5-10 -->, nearly all to protocol violations.
 
@@ -405,7 +405,7 @@ Female, four or five years old — middle-aged against a lifespan of eight to tw
 
 **Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious. **She lives on the inner edge of the patrolled buffer, against the cultivated ring** <!-- @WF-noli.home: inner-buffer --> — as far from the Barrier as she can get and still be away from the village's people — and comes to Keo there. **Keo is training her to pass the Barrier** <!-- @WF-noli.training: barrier-habituation -->: no animal goes out past the tangle with an Explorer party unless it can walk by the Barrier on its own, and he means to be an Explorer and take her. So every dawn he brings her a step closer, pins her for a minute, lets go before her fear peaks, and rewards her with crawlers. She has never yet passed it unpinned. **She also raids the crawler beds in the cultivated ring beside her ground** — the one rule he has made stick, kept perfectly except in the moment after he drops a pin. **There are two holds, and they are different things.** **The light bond** is years old, costs him nothing he notices, reaches roughly from his nest to her ground, and carries her rough emotion back. **The pin** is close, brief and expensive: it is what gets her near the Barrier, and what the dawn drill rehearses.
 
-She dies at dawn on Day 11 <!-- @WF-noli.death.day: 11 -->, the midpoint, taken by a *Quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
+She dies at dawn on Day 11 <!-- @WF-noli.death.day: 11 -->, the midpoint, taken by a *quetzalcoatlus*. **She must be funny and warm for the six scenes before that**, or her death costs nothing. The humor budget and the grief budget are the same account.
 
 ## 10. Themes
 

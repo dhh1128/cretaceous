@@ -1,5 +1,5 @@
 ---
-approval: approved 733c9d4e
+approval: approved 8f7459b1
 ---
 
 # Cretaceous — Writing Style
@@ -162,4 +162,4 @@ Put a space before and after an em dash.
 
 Follow the British convention of only placing punctuation inside of quotes if the punctuation is part of what was quoted.
 
-Do not capitalize species names used as common nouns, like tyrannosaurus or quetzalcoatlus, because English lowercases a genus once it leaves the binomial.
+Do not capitalize species names like tyrannosaurus or quetzalcoatlus, because Daniel wants YA sci-fi prose to feel casual (English also lowercases a genus used as a common noun). Planning files follow the same rule, so that the context a drafter reads does not tempt it into the formal register.
