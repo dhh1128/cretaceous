@@ -159,7 +159,7 @@ Stealing food from his sleeping parents. Guilt, specifically — shame at destro
 **Purpose:** CLASH · **Ending:** OMINOUS
 The theft. The taboo shelf. The third suit left on the rack.
 **Now ironic:** the reader knows why he leaves it, and Teva and Benal will not learn until D15.4. @D15.4
-**Ends on:** the third suit on the rack, and the door floating shut on it.
+**Ends on:** the third suit on the rack, and the door coming down on it.
 
 ### D3.1 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
 **Ladders:** EM6 P6 S8 SP4

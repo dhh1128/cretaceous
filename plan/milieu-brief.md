@@ -1,5 +1,5 @@
 ---
-approval: approved 54351c44
+approval: approved 3168febb
 ---
 
 # Cretaceous — Milieu Brief
@@ -199,7 +199,7 @@ Teva recruiting Benal is a thesis statement: the younger generation understands 
 
 The **failsafe** is elegant and worth using. Every old-tech item is wrapped in bindings impregnated with dormant engineered archaea. If the custodians miss the weekly nutrient-balm ritual, or the chamber floods or collapses, the archaea wake and reduce metal to rust and polymer to sterile sludge within hours. *Their mistakes will die with them.* The wrappings smell faintly of soured figs.
 
-**The Repository itself:** dug between the buttressed roots of an ancient conifer and a cluster of limestone boulders. The door is an **unworked limestone slab on air-bladder counterweights with a hidden release grip** — it does not scrape, it floats back on escaping pressure with a hiss. Inside, lit yellow-green by ceiling lightmold, the air is **limestone-damp and heavy with the sterile, electric tang of old-tech: ozone, polymer, and dormant circuits.** Skeletal racks of lashed branches, almost all of them empty.
+**The Repository itself:** dug between the buttressed roots of an ancient conifer and a cluster of limestone boulders. The door is an **unworked limestone slab hung on a fiber cord**, which runs up over a greased hardwood saddle in the boulders to a net of stones that nearly balances it, so a steady pull on the cord lifts the slab and easing off lets it down. <!-- @WF-repository.door: counterweighted-slab --> Nothing about it is pneumatic or powered, and nothing scrapes; it rises with the creak of cord on wood. **The cord is soaked in the archaea**, like every binding on field gear, so if the Repository were ever abandoned and left to the wet, the cord would rot through and the slab would drop shut on what was inside. Inside, lit yellow-green by ceiling lightmold, the air is **limestone-damp and heavy with the sterile, electric tang of old-tech: ozone, polymer, and dormant circuits.** Skeletal racks of lashed branches, almost all of them empty.
 
 **Soft tech — bioengineering.** Dangerous for the opposite reason: organisms move and reproduce, so they cannot be confined to the impact zone. Permitted only for humans, who can be kept inside it, and for engineered organisms carrying mandatory dependencies or kill-switches.
 
