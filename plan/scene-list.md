@@ -184,7 +184,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Hazard:** the escape written as an action sequence they win. They ran, and one of them threw up, and nobody did anything skillful.
 **Ends on:** the sound stopping, and none of them able to say how far they came.
 
-### D3.3 — [MEDIUM] [Day 3, midday to afternoon] [TEVA] [Open-canopy woodland] — **NEW**
+### D3.3 — [MEDIUM] [Day 3, late morning] [TEVA] [Open-canopy woodland] — **NEW**
 **Ladders:** EM5 P8 S7 SP4
 **Purpose:** TRAVERSE · **Ending:** SETTLED
 **The hard morning's march, and it is the first time any of them has walked in the world.** Eight kilometers, which is a long way and is not far enough.
