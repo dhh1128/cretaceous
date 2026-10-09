@@ -308,3 +308,8 @@ def test_every_figure_stated_twice_has_an_owner(capsys):
 def test_no_claim_key_is_asserted_two_ways():
     """Two assertions that are each well-formed and jointly false; nothing else sees these."""
     holds("claims_agree")
+
+
+def test_every_map_cites_the_approved_files_that_owe_it():
+    """A map that never names an approved file tagging its scene did not consult it."""
+    holds("scene_map_cites_obligations")

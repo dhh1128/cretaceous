@@ -2347,3 +2347,34 @@ def check_categorical_uncited() -> list[Violation]:
 
 
 CHECKS["categorical_uncited"] = check_categorical_uncited
+
+
+# --------------------------------------------------------------------------
+# a map cites every approved file that owes its scene something
+# --------------------------------------------------------------------------
+
+def check_scene_map_cites_obligations() -> list[Violation]:
+    """Every approved file that tags a scene (`@D3.2`) is cited by that scene's map.
+
+    `tools/obligations.py` lists what the layers owe a scene, and the first D3.2
+    map was written against that list and still contradicted an approved clause
+    in it — `tech-rules.md` assigns D3.2 *the grounder decoy*, and the map had
+    Keo pin the lead razortail instead. The clause was in the list and nobody read
+    it. A citation does not prove the map honors the file, but a map that never
+    names the file certainly did not consult it, and that is the cheap half."""
+    approved = {path for path, lines in corpus().items()
+                if len(lines) > 1 and re.match(r"^approval: (?:approved|provisional) ", lines[1])}
+    out = []
+    for path, lines in scene_maps():
+        sid = Path(path).stem
+        tag = re.compile(rf"@{re.escape(sid)}(?![\d.])")
+        text = "\n".join(lines)
+        for other in sorted(approved):
+            if other == path or other in ("README.md", "AGENTS.md"):
+                continue
+            if any(tag.search(l) for l in corpus()[other]) and Path(other).name not in text:
+                out.append(Violation(path, 1, f"owes something to approved `{other}` (tagged @{sid}) and never cites it"))
+    return out
+
+
+CHECKS["scene_map_cites_obligations"] = check_scene_map_cites_obligations
