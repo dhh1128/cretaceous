@@ -190,7 +190,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **The hard morning's march, and it is the first time any of them has walked in the world.** Eight kilometers, which is a long way and is not far enough.
 **Must carry:**
 - **The correction that changes every outdoor scene.** This is not a rainforest — light comes down, the sky is visible in patches, and what blinds you is the understory at chest height. Bright above, blind at eye level. `milieu-allocation.md` §1, and this is the first day it is on the page.
-- **Teva navigates and it is the first time her magnetic sense is used for real.** A heading finds nothing without a departure point and a distance run, so she is counting.
+- **Teva navigates and it is the first time her magnetic sense is used for real.** The suit counted the distance of the D3.2 run and kept none of its turns; **her body felt every turn**, by proprioception and the pull in her bones, so she rebuilds the run's legs and they recover where they are, roughly, against the line to the First Walk's crossing at the narrows.
 - `[?]` **Frogs and fish** — both allocated to Day 3 and unspent, and slow water with horsetail stands is where they are.
 - Ground fog burning off, then glare. The insect day.
 **Hazard:** competence porn. She is doing the one thing she can do, badly, in terrain nobody trained her for, and the counting is a thing she has to keep re-starting.

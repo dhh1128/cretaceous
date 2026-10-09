@@ -1,5 +1,5 @@
 ---
-approval: approved 3ac4cfe9
+approval: approved 7576b70c
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -22,7 +22,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | 4 | open-canopy woodland | 10 | 18 |
 | 5 | **the constrictor** | 8 | 26 |
 | **6** | **the gift** — the only easy day in the novel | 12 | 38 |
-| **7** | **they come to the river, and stop** | 3 | 41 |
+| **7** | **they come to the river, and stop** — the three kilometers are the bank they walk to find the narrows, which Teva's leftover error from Day 3 put them off by | 3 | 41 |
 | **8** | **the crossing, in the middle of the afternoon** | 2 | 43 |
 | 9 | across; thinning woodland toward the savanna edge | 11 | 54 |
 | **10** | **the fern savanna** — sunfever, her suit fails, his hubris peaks. The last peaceful night | 6 | 60 |

@@ -1,5 +1,5 @@
 ---
-approval: approved 24e06e21
+approval: approved bfe63a82
 ---
 
 # Environmental suits
@@ -47,7 +47,7 @@ Chemical (predator pheromones), vibration (footfalls through the ground), electr
 
 Two data channels, and which one you're on is a choice with a cost.
 
-**Eye shield down:** a heads-up display projected onto the inner surface of the shield. The rich channel — sensor returns, suit status, bearings.
+**Eye shield down:** a heads-up display projected onto the inner surface of the shield. The rich channel — sensor returns, suit status, bearings. **Navigation is a compass heading and a count of the distance walked, read off the piezoelectric fibers; the suit keeps no track and no waypoints** <!-- @WF-suit.navigation: compass-and-distance -->, so a run with nobody watching the display leaves the distance and loses the turns.
 
 **Shield up, or helmet down:** haptic pulses through the weave, plus a bioluminescent display woven into the forearm fabric. Coarser, and reading it is a physical act — a character checking status has to stop and look at their arm, which a scene can use.
 
