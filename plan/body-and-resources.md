@@ -1,5 +1,5 @@
 ---
-approval: approved cc35ea77
+approval: approved ef4d8fad
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -111,7 +111,7 @@ Distances are in `journey-calendar.md` §1 and are not repeated here. **Nothing 
 
 | day | food | water | body | morale | pace |
 |---|---|---|---|---|---|
-| **3** | rations, most of them | the last of the dry-spell water | scrapes from the ridge; Benal vomits from adrenaline; **Keo's projection headache — pressure behind the eyes, then a leaden weight**; **first bites on Keo** | terrified-elated. They got out. They got past crocs. It is briefly the best day of their lives | disrupted but adrenal — fast in bursts, stopped often |
+| **3** | rations, most of them | the last of the dry-spell water | scrapes from the ridge; Benal vomits from adrenaline; **Keo's projection headache — pressure behind the eyes, then a leaden weight**; **first bites on Keo**; **Noli: two shallow claw punctures in the shoulder from a razortail's grip** <!-- @WF-noli.wound: shoulder-punctures --> — Benal's salve on them at the first camp; she favors it through Day 5 and is sound by Day 6 | terrified-elated. They got out. They got past crocs. It is briefly the best day of their lives | disrupted but adrenal — fast in bursts, stopped often |
 | **4** | rations gone by evening. First forage — snails, stonefruit, mushrooms Benal vouches for | everywhere, and undrinkable half the time | soft skin from constant wet; the first hot spot that will become a real foot problem; bites multiplying on Keo | the elation is gone and the arithmetic arrives. First open doubt | steady, joyless. The first day that is only walking |
 | **5** | thin. Snails again, and the joke about snails stops being funny | plentiful | **the constrictor.** Benal: chest wall bruised the width of a body, breathing shallow for four days. Teva: thrown, shoulder wrenched — she calls it nothing. Keo: hands torn on scale | shattered, then welded. Surviving it together does more than any conversation | slow after; they make three km in the afternoon and stop early |
 | **6** | **honey.** Grounders Noli catches. Fruit. The only day they eat enough | good, and a place to wash | bruises coloring; foot problem eases in the dry; Benal's chest still wrong | **the peak of Act 2.** Fed, dry, warm, laughing | **their best day, and it is because they are happy** |
