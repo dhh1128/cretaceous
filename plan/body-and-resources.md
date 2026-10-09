@@ -1,5 +1,5 @@
 ---
-approval: approved 47e03146
+approval: approved cc35ea77
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -21,6 +21,8 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 **Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club and a sling. Salves and two chemical pods. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
 
 **Noli** — held by projection against her terror of the barrier smell until they are through the tangle, then released, and gone ahead into the fog. The razortails are out there for her: they hunt sicklefeet (`kb/worldbuilding/lingo.md`).
+
+**Water: everyone carries their own skin on the belt**, the way they carry a knife, **and Keo's spare in the fieldpack is a fourth** <!-- @WF-water.skins: four -->. *Half a canteen* on Day 10 is the whole party's store, and the spare cut open on Day 12 is a loss, not the end of drinking.
 
 **And one small pot of the septic gel between the three of them**, which is the pheromone barrier in casual register — `milieu-brief.md` §6, *T. rex* musk over the chemical markers of sepsis, reading to a predator as a wounded alpha and to everything smaller as *flee or die*.
 

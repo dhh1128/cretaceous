@@ -1,5 +1,5 @@
 ---
-approval: approved 5614016a
+approval: approved fa5ce152
 ---
 
 # Cretaceous — Milieu Brief
@@ -404,6 +404,8 @@ He joins because his theoretical work is the only key to Genesis, and because vi
 A **sicklefoot** — a small dromaeosaurid. **No binomial, ever**, in prose or reference <!-- @WF-noli.binomial: never -->: Maastrichtian land vertebrates from the Yucatan platform are essentially unsampled, so an unnamed local species is the most defensible option available and it matches the colony's habit of folk naming.
 
 Female, four or five years old — middle-aged against a lifespan of eight to twelve. About 14 kg, 2 m nose to tail, 60 cm at the hip; coyote-sized, slightly smaller than a full male. Heavily feathered and bird-like, with prominent wing feathers on the forearms, downy body covering, large intelligent eyes, and the sickle claws she is named for, carried clear of the ground. Her plumage is dark and **iridescent** <!-- @WF-noli.plumage: iridescent -->, which is why she reads mud-brown in daylight and purple-black at night; both descriptions are canon and the light decides.
+
+**She is Keo's. Ben becomes her friend** <!-- @WF-noli.friend: ben -->: from the first camp she stalks the camouflage drifting on his suit sleeve as if it were prey, he makes it run for her, and the two best listeners in the party start turning their heads at the same faint sounds. At Day 11 he loses a friend, where Keo loses a bond.
 
 **Not engineered** — non-human bioengineering is prohibited. Her docility is Keo's projection applied over years. The bond demonstrates his gift, and it would break if he were badly injured or unconscious. **She lives on the inner edge of the patrolled buffer, against the cultivated ring** <!-- @WF-noli.home: inner-buffer --> — as far from the Barrier as she can get and still be away from the village's people — and comes to Keo there. **Keo is training her to pass the Barrier** <!-- @WF-noli.training: barrier-habituation -->: no animal goes out past the tangle with an Explorer party unless it can walk by the Barrier on its own, and he means to be an Explorer and take her. So every dawn he brings her a step closer, pins her for a minute, lets go before her fear peaks, and rewards her with crawlers. She has never yet passed it unpinned. **She also raids the crawler beds in the cultivated ring beside her ground** — the one rule he has made stick, kept perfectly except in the moment after he drops a pin. **There are two holds, and they are different things.** **The light bond** is years old, costs him nothing he notices, reaches roughly from his nest to her ground, and carries her rough emotion back. **The pin** is close, brief and expensive: it is what gets her near the Barrier, and what the dawn drill rehearses.
 

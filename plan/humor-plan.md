@@ -1,5 +1,5 @@
 ---
-approval: approved bb9881c0
+approval: approved a8e67d40
 ---
 
 # Humor plan
@@ -52,7 +52,7 @@ I had a quota here — four funny moves before the midpoint. That is not a metho
 
 Viking makes a fifty-meter flying alien lovable in two sentences by having her be *exasperated with her friends* — she brings back a marvel and they propose to eat it. *"The dunces! Hadn't they had enough fish and sunshine?"* The text never calls her endearing. It gives her a small social complaint and lets the reader do the rest.
 
-**So: Noli has views, and they are wrong, and she is confident about them.** A thing she has decided is dangerous and isn't. A thing she has decided is food and isn't. A person she has decided she prefers, on no evidence, and it should not be Keo. A rule she obeys perfectly except in one specific circumstance where she pretends not to hear.
+**So: Noli has views, and they are wrong, and she is confident about them.** A thing she has decided is dangerous and isn't. A thing she has decided is food and isn't. **She is Keo's, and nobody else's**; what she gives Ben is play — **she has decided the camouflage drifting on his suit sleeve is prey**, from the first camp on, and he makes it run for her. A rule she obeys perfectly except in one specific circumstance where she pretends not to hear.
 
 **For a midpoint animal death to hurt, the animal has to have had opinions first.** That is the whole principle, and it is worth more than any number of charming descriptions.
 
