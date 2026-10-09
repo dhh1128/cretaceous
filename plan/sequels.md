@@ -73,6 +73,7 @@ The constraints:
 
 The plants this book must land, claimed from the ledger:
 
+- `[pays R9d — Teva's sky has a permanent gap, so the only complete Watch is Omya's]` Book 2's dataset has to come from Omya, with Teva's help, not from Teva alone.
 - `[pays R9c — the Watch established as a duty nobody remembers the purpose of]` Omya reciting the sky perfectly while losing the protein fold is the dataset book 2 opens the radio link for.
 - `[pays R15b — Marek's dismissal shown as pity rather than contempt, and therefore reversible]` Book 2 has him supporting his son.
 - `[pays R24 — fragment 8's anomaly planted, resonant, and explained by nobody]` Book 2 is where Benal connects it to the flash and the disorientation.

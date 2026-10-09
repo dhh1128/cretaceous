@@ -171,7 +171,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 **Act 1 totals:** 14 scenes, ~15,800 words.
 
-## ACT 2: THE MUDWALK — RESCENED, 38 scenes
+## ACT 2: THE MUDWALK — RESCENED, 39 scenes
 
 ### D3.2 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland]
 **Ladders:** EM6 P7 S8 SP4
@@ -209,6 +209,16 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Ends on:** somebody laughing, and it being the last easy laugh until Day 6.
 
 ---
+
+### D3.5 — [SHORT, ~600] [Day 3, night] [TEVA] [First camp, her watch] — **NEW**
+**Ladders:** EM6 P8 S8 SP4
+**Purpose:** DISCOVER · **Ending:** SETTLED
+**Teva alone on her watch, keeping the camp's watch and Omya's Watch at once.** The others asleep, the fence gelled, Noli gone; the early night moonless *(`journey-calendar.md`: Night 3)*.
+**Must carry:**
+- **She tries the sky alone, gets partway, breaks at the same place twice, and understands the gap is permanent** *(`journey-calendar.md`, the Watch; `foreshadow-and-motif.md` R9d)*.
+- **She tells nobody.** It is Day 6's to say.
+**Hazard:** grief as speech. She does not cry and does not think about Omya in sentences; the sky is the whole of it.
+**Ends on:** her still looking up when her watch ends, and waking Benal for his.
 
 ### D4.1 — [MEDIUM] [Day 4, morning] [KEO] [Open-canopy woodland] — **NEW**
 **Ladders:** EM5 P7 S6 SP5
@@ -285,6 +295,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **The nap is not depicted.** It happens between this scene and the last one.
 - `[?]` **The cheapest true thing each of them is carrying**, and the characterization is the order — who volunteers, who has to be asked, who says something adjacent to the truth and lets it stand.
 - **The joke that becomes theirs is born here** — `character-arcs.md` §3 gives Day 6 the dyad row that promises it.
+- **Teva volunteers the gap in her sky** *(`foreshadow-and-motif.md` R9d)*: that the Watch Omya kept is broken in her, at the same place every time. **A fact about the sky, not a feeling** — it is her small early disclosure *(`voice-sheets.md`: Day 6)*, and it does not open the Day 15 confession about leaving Omya. Nobody yet knows what it means.
 - **Amber** in a conifer wound with something in it. They know exactly what they are looking at and what it means that it will still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->.
 - **Every ladder troughs today and this is the bottom of it.** `character-arcs.md` says the dyads move together on Day 6 and only on Day 6.
 **Hazard:** the confessions. `plan/scene-list.md`'s Dark Night on Day 15 is built on three of them — Keo's guilt, Benal's shame at being pitied, Teva's grandmother — and if this scene opens any of those, Day 15 has nothing to open. Second: the therapy circle, where each takes a turn and says a true thing. Somebody should refuse.
@@ -443,6 +454,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Noli, with opinions.** She drags a fresh-killed grounder into camp, proud of it. `humor-plan.md` is explicit that the mechanism is grievance rather than charm — a thing she has decided is food and is not, a rule she obeys except in the one circumstance where she pretends not to hear — and that for the midpoint to hurt she has to have had views first. Keo's projected register with her, *good-pack-good-food*, is the channel the opinions arrive on.
 - **The meal is a risk taken, not an idyll.** Roasted grounder, and nothing else — the journey-pan ran out on Day 4 (`body-and-resources.md` §3) — and grounders are allocated to Days 6 and 10 because they are Noli's catch. After Day 11 nobody catches them, and that is how the reader feels her absence in the food (`foreshadow-and-motif.md` **R19**).
 - **The fresh meat is the whole treat, and the rest of the meal is what is in the pack.** *(The old entry also served sweet mealy dinosaur-fruit here. `milieu-allocation.md` §3b allocates stonefruit to Days 4, 6 and 13, and §3 allows an item to be referenced after its day but not re-described — a full sensory description on a day the fruit was never given. It is dropped rather than moved.)*
+- **Benal works out what the gap means** *(`foreshadow-and-motif.md` R9d)*, out loud, because he does arithmetic aloud: the memorized sky is a 206-year positional dataset, the only complete copy is in Omya's head, and the fields Teva lost go unwatched. Keo hears it and does not follow all of it.
 - **The sky, searched, and the question landing hardest.** `journey-calendar.md` §3 gives Night 10 the star-gazing scene and calls it the right place for the asteroid question: they look up for the thing that will end the world and find ordinary stars. The same section puts Benal, on Nights 6 and 10, in the position of being the only person alive who would recognize what a memorized positional sky is — a 206-year dataset held in a dying woman's head.
 - **False peace, and the charm is a deposit rather than a decoration.** `humor-plan.md`: the humor budget and the grief budget are one account, and the midpoint draws directly on this scene.
 - **The kill does not bring the flybeak.** It comes at dawn out of a low sun onto a camp with nothing to hide under; the savanna forced the open ground and Keo's pace decided where on it they slept, so the midpoint turns on his confidence and not on Noli's pride.

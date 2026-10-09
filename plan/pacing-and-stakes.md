@@ -97,7 +97,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 
 | day | scenes | what it is |
 |---|---|---|
-| 3 | 4 | out through the tangle, the razortails, the first day outside. The biggest day in the book |
+| 3 | 5 | out through the tangle, the razortails, the first day outside, and Teva's watch that night. The biggest day in the book |
 | 4 | 2 | the rain arrives; the walking begins in earnest |
 | 5 | 2 | the constrictor |
 | **6** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on |

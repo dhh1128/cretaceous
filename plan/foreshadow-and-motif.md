@@ -1,5 +1,5 @@
 ---
-approval: approved 82f36a1d
+approval: approved a6aec66b
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -32,7 +32,8 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R7b | **The wrapping archaea are a Keeper culture, first grown at the Enclave in year three** <!-- @WF-archaea.origin: enclave --> — recited in passing among the Vitarium's culture lineages | D2.4 | **at Genesis nothing was ever wrapped and nothing has dissolved: the apparatus Sila treats as founder law is the colony's own** | D17.2 | none @D2.4 @D17.2 |
 | R8 | The First Walk: 200 out, 94 arrived | D2.6 | their own journey costs them Noli and nearly Keo | 7–9 | none @D2.6 |
 | R9 | Omya taught Teva to read the stars | D1.1 | **Teva was being trained for the Watch.** She has a Keeper's memory and not a Keeper's senses, so she was meant to inherit the sky and got part of the way | D2.4, Day 3 | none @D1.1 @D2.4 |
-| R9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | Nights 6 and 10, D17.2 | none @D2.4 @D17.2 |
+| R9b | **Omya recites the sky perfectly and cannot hold a protein fold** | D2.4 | the star lore survived because it is checked nightly; the mission drifted because nothing tested it. And Benal recognizes a 206-year positional dataset in a dying woman's head | D10.3, D17.2 | none @D2.4 @D10.3 @D17.2 |
+| R9d | **Teva's sky has a gap, and she learns it is permanent**, alone on her watch on Night 3 | D3.5 | **she volunteers it on the good day (D6.2)**, a fact about the sky and not a feeling; **Benal works out on Night 10 (D10.3) what it means** — the only complete copy of the Watch is in Omya's head, and the fields in Teva's gap go unwatched; book 2 needs Omya alive for the dataset | D6.2, D10.3, B2 | none @D3.5 @D6.2 @D10.3 |
 | R9c | Nobody counts the Watch as a loss | D2.4 | **the impactor could already be findable and nobody is left who would know** | B2 | none @D2.4 |
 | R10 | Teva's mother died of what kills Alira | D1.1 | the confession | D15.4 | faint @D1.1 @D15.4 |
 | R11 | **Four water gourds, filled for three people** | D2.3 | Yara | later in D2.3 | **none — never remarked on** @D2.3 |
