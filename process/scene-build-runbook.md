@@ -118,6 +118,8 @@ List everything the scene will have to invent that no canon file substantiates. 
 
 Only *invented* lines that clear his bar need his attention: something with obvious ramifications for the plot, a character arc, the connections between scenes, or the worldbuilding. An invention below that bar is not a ledger item. Usually it should not exist — a detail that does not raise the stakes, characterize, or add pathos is a distraction, so leave it unspecified. If it earns its place, choose it, mark it `[-]` where it is stated (`AGENTS.md` §2), and keep it consistent with every earlier `[-]` choice on the same subject. Include the *grounded* ones so he can catch a bad citation.
 
+**One question per reply, with its reasoning.** Each item goes to him on its own, carrying what the proposal is concretely, the alternatives and why they lose, how it runs as an event, and what it implies for later scenes; the rest are named as queued. Six terse items in one reply cost him more than six reasoned replies did, because he had to reconstruct the reasoning to answer (`methodology-theory.md` §10, Day 3).
+
 **Give him the list and wait.** Do not draft, because phase 4 is a hard stop (`AGENTS.md` §4). The pass is judged on what it failed to ask about: if the draft later contains an invention that clears the bar and was not on the ledger, the ledger pass was incomplete, and that is the defect to record in phase 9. **The opposite error is a defect too:** an item that goes to him when nothing turns on it spends the one resource this project is measured on, and the phase 9 record counts those as well.
 
 ## Phase 5 — Write answers back to canon, and annotate them on the way in
