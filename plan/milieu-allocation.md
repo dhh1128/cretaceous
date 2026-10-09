@@ -1,5 +1,5 @@
 ---
-approval: approved 8b6c3357
+approval: approved 40f0a72f
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -57,7 +57,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | species | day | note |
 |---|---|---|
-| *acheroraptor* — **razortail** | 3 | the pack escape. Established at D3.1 by sound only; seen on Day 3. | @D3.1
+| *acheroraptor* — **razortail** | 3 | the pack escape. Established at D3.1 by sound only; seen on Day 3. **About two meters, half of it tail** <!-- @WF-razortail.length: 2m -->**, and they run in packs of seven or eight** <!-- @WF-razortail.pack: 7-8 --> **that hunt like hyenas**: testing, harassing, darting at whatever is weakest, and patient. One is no danger to a grown person; the pack is lethal to anyone alone and unprotected. | @D3.1
 | the large river crocodylian — **croc** | 7–8 | the river. **The primary threat gets one full showcase and is never re-described** — after Day 8 it is a shape, a wake, an absence of birds. Six meters <!-- @WF-croc.length: 6m -->, and deliberately not placed to genus; `kb/research/geo-flora-fauna.md` §4.4 says why. |
 | *anzu* | 4 | cassowary-like, crested, absurd. Comic, and unused so far. |
 | *madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
