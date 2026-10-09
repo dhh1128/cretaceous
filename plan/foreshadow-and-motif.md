@@ -1,5 +1,5 @@
 ---
-approval: approved a6aec66b
+approval: approved 1c21bdea
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -47,7 +47,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R17 | Benal's shoulder capacitor red-lined at the theft | D2.11 | it dies, and he hides it | Day 11 | none @D2.11 |
 | R18 | **Stone-cycad takes days of leaching, and the pit is where everyone learns it** | D2.2 | **Teva overrules Keo, leaches the mash short, and it poisons her** | Day 12 decision, Day 13 collapse | none |
 | R19 | Grounders are Noli's catch | Days 3–10 | **after Day 11 nobody catches them, and the food changes** | Day 12 | none |
-| R20 | The suits are fed sugar | D3.1 | the honey is split between four mouths and two suits | Day 6 | none @D3.1 |
+| R20 | The suits are fed sugar | D3.3 | the honey is split between four mouths and two suits | Day 6 | none @D3.3 |
 | R21 | **The river gratings pass anything small, which grows up inside** | D2.5, as the reason for the drill | **how Yara died, inside the perimeter, to a croc that grew up inside and was carried by floodwater into a grove** | D2.10 / D15.4 | none @D2.5 @D2.10 @D15.4 |
 | R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, B2 | none @D2.5 @D19.5 |
 | R23 | **Cecilia wills Chelo the gray coat — *"when I'm done, which will be never"*. Named once, never explained, and the reader cannot tell whose child she is or whether she is a child** | EP2 | **Marisol's daughter is alive, and she is who the cure comes home to** | B3 | none |
