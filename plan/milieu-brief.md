@@ -1,5 +1,5 @@
 ---
-approval: approved fa5ce152
+approval: approved 27f2764f
 ---
 
 # Cretaceous — Milieu Brief
@@ -193,7 +193,7 @@ Teva recruiting Benal is a thesis statement: the younger generation understands 
 
 **The Founders forbade markings, and that is a founder instruction rather than colony apparatus.** No mark, no graffiti, no history — nothing written on a surface that could outlast them. <!-- @WF-markings.banned: founders --> It follows directly from *leave no evidence*, unlike the archaea and the balm and the returning, which are all the colony's own extensions of the duty. **So the kiva's walls are bare, and everyone alive grew up in a world where a wall is a thing with nothing on it.** Nobody finds that strange and no character remarks on it; `plan/foreshadow-and-motif.md` §3 budgets the motif and forbids the narration naming what it means.
 
-**Hard tech — "old-tech."** Metal, polymer, electronics. Dangerous because it leaves geological trace across 66 million years. Kept only inside the Enclave, inventoried individually, used almost never. Taking it beyond the impact radius is the deepest taboo: a lost blade could survive to be found.
+**Hard tech — "old-tech."** Metal, polymer, electronics. Dangerous because it leaves geological trace across 66 million years. Kept only inside the Enclave, inventoried individually, used almost never. Taking it beyond the impact radius is the deepest taboo: a lost blade could survive to be found. **The colony has lived that fear once.** A first-generation Explorer lost the Enclave's machete in a river, and two suited Explorers were killed by crocs digging it out of the mud. It lies wrapped on the Repository's taboo shelf, and every Explorer's child knows what it cost.
 
 **The duty is a founder instruction. The apparatus is not, and the distinction is load-bearing.** The prime directive — leave no evidence that could make a paradox — came through the transit with them and has never been in question. What came through with it was a *plan*: sit at ground zero, for weeks or months or at the outside a year or two, and be erased. **Nobody wrote a doctrine for living eighty kilometers <!-- @WF-route.overland: 80km --> inland for two hundred years, because nobody expected to.** So every mechanism below — the archaea, the wrappings, the weekly balm, the returning, a spear built to rot — is the colony extending an instruction it was given into a situation it was not given instructions for.
 
