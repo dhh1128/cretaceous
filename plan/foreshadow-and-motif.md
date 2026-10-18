@@ -1,5 +1,5 @@
 ---
-approval: approved 1c21bdea
+approval: approved 43d1c64c
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -52,6 +52,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R22 | The gratings must be raised to open the river | D2.5 | **flying the wig means opening the croc barrier, every time** | D19.5, B2 | none @D2.5 @D19.5 |
 | R23 | **Cecilia wills Chelo the gray coat — *"when I'm done, which will be never"*. Named once, never explained, and the reader cannot tell whose child she is or whether she is a child** | EP2 | **Marisol's daughter is alive, and she is who the cure comes home to** | B3 | none |
 | R24 | **Fragment 8's anomaly — a one-million-year artifact in the deep window, four calibration runs, filed with no action** | EP8 | **Benal connects it to Keo's flash and the Genesis disorientation: the anomaly was the second jump, detected before the first had happened** | B2 | none |
+| R25 | **Keo gathers the snails after rain himself, quickly and well, and says nothing about why he knows how** | D4.1 | **the confession: Teva and Benal learn that Yara died gathering snails beside him, and the Day 4 morning reads differently** | D15.4 | none @D4.1 @D15.4 |
 
 **R15 changed direction, and the reason generalizes to any row whose payoff is a character's understanding.** It used to read *Benal understands his father*, and **strict third cannot deliver that** — Benal's last POV scene is D19.6, before the confrontation, so his understanding has nowhere to be interior. The payoff is Marek's regard being **witnessed**, by Keo at D19.7 and by Teva at D19.8. That is not a downgrade: rule 1 in `voice-sheets.md` is that nobody explains their own cleverness and the credit is withheld, which is viking's *Nobody looked at Rafa*. The reader gets it twice, from two people with no stake in it, and Benal is facing the wrong way both times. **Check any row whose payoff is somebody realizing something against the POV of the scene it pays in** — `knowledge-ledger.md` caught the same defect at FQ and said the rest had not been checked.
 
