@@ -1,5 +1,5 @@
 ---
-approval: approved 7134a30c
+approval: approved 61f0f45d
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -177,13 +177,13 @@ The weather turns after Day 3, so **they walk out with good gear and the rains s
 
 **Narrate this lightly.** It is a daily labor the characters perform without discussing, visible in what they do at each lay-up, and it should pay off once, badly, rather than being tracked in the prose.
 
-### The unspent set-piece: a suit that starts its count
+### The set-piece: a suit that starts its count — spent at D5.2
 
 A suit reads its wearer's vitals and wakes its archaea on confirmed death — see `kb/worldbuilding/safety-suits.md`. The margin is short, because it has to be, and **there is an override that Keo knows and the other two do not.**
 
 So: a suited character knocked unconscious, and a suit beginning to decide. **Day 5, Benal under the constrictor** is where it sits most naturally — he is crushed, not breathing properly, and pinned, and the thing that was protecting him starts working out whether he is dead. Keo has to reach him and know what to do, which is the one moment in Act 2 where his parents' training is worth more than his strength.
 
-It is also the first time the reader understands, viscerally, what the suits are actually for. **Unspent. Take it or leave it, but do not let it go unnoticed.**
+It is also the first time the reader understands, viscerally, what the suits are actually for. **Spent at D5.2, after the release:** he faints as the blood comes back, wakes inside the count unable to move or speak, and Keo's torn hands are already at his forearm. Nobody explains it in the scene. The other two now know a suit can count down on a living wearer and only Keo can stop it, which D6.2 carries.
 
 ### Sleep
 
