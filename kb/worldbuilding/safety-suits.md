@@ -1,5 +1,5 @@
 ---
-approval: approved bfe63a82
+approval: approved a1583f8a
 ---
 
 # Environmental suits
@@ -76,6 +76,8 @@ That is the actual charge against going unsuited, and it is a cultural one rathe
 ### Maintenance — "the Feeding"
 
 The suits are alive and must be fed. Water, which can be dirty, and which rain or a river crossing often supplies. Sugars every couple of days, more often if the biofilm is repairing damage, usually from fruit. Occasionally the suit signals for something else. This is a campfire ritual and a source of ordinary domestic texture, and it is also a clock: a suit that goes unfed degrades.
+
+**The suit cannot digest anything.** <!-- @WF-suit.feeding.form: juice --> The living layer is human cells, which take up only sugar already dissolved, so what goes in is water or juice: fruit pulp squeezed in the fist, or mashed with a little water. **It goes in at one place, the feeding well** <!-- @WF-suit.feeding.site: belly-well --> — a palm-sized patch on the belly just under the ribs, where the film is thick and spongy and gives under the thumb like moss. The wearer bends over it to keep rain out, and it drinks each mouthful before the next goes in, darkening where it has drunk. From the well, fine channels in the film carry it outward, pulled by evaporation off the whole surface the way a plant draws water to its leaves; diffusion alone would take months to cross a meter of film. **Two consequences.** A sticky well draws ants and flies. And damage far from the well is fed last, so a repairing patch at an extremity competes for sugar at the end of the line.
 
 ### What the suit does NOT do
 
