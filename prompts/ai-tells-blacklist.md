@@ -1,5 +1,5 @@
 ---
-approval: approved f76263b2
+approval: approved 3cf1688f
 ---
 
 # AI tells — the blacklist
@@ -213,6 +213,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 > D2.6: *She sat at the center of the dais with her hands open on her knees, and she looked out over all of them, and she spoke as if…* "I'm seeing a lot of this pattern. By the time I got to line 27, I felt like I'd seen the pattern multiple times."
 
 **Rule.** Independent clauses strung on *, and … , and …* are a cadence for a rush or a climax, and they stop working when they are the default joint. Before 2026-10-07 the drafts ran ten or twelve such sentences a scene. Use a full stop, subordinate one clause (*when*, *while*, *as*, a participle), or drop the subject and keep a compound verb. Keep the chain where it is doing something — a breathless run, an accumulating loss — and expect two or three of those in a scene, not ten. Count them before he reads: sentences of narration with two or more *, and*.
+
+## 31. The manner simile
+
+> D7.1: *The woodland ran low and green, and they walked into it easily, without hurry, the way people walk on a good day toward nothing in particular.* "This particular phrasing pattern seems to repeat constantly in your prose: <X> does <Y>, <possibly adverbial phrase>, the way <something to which the manner of doing Y is similar>. … It's fine, once or twice, but it's heavy-handed and repetitive."
+
+**Rule.** *X does Y, the way Z* is a cadence, and the drafts made it the default. Measured 2026-10-20: Daniel's novels run **0.12 per thousand words** (viking 11 in 92,662; cordimancy 16 in 127,169); the Day 4–7 drafts ran **about twenty times his rate**, with up to eight in one scene. **At most one in a scene**, and only where the comparison says something the plain statement cannot. Its four forms fail differently: *the way he always did* asserts a habit nobody established; *the way you…* steps out of the character into a narrator's general wisdom; *the way a Master walked* can characterize, and is the one most worth keeping; the tacked-on tail after a complete sentence is rhythm only. The fix is usually the plain fact, or nothing. `tools/measure.py` counts them. *As if* and *as though* run in the same family, 1.64 per thousand words in the drafts against 0.19 and 0.31 in his; the counter reports them too.
 
 ## What worked, kept as positive exemplars
 
