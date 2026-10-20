@@ -1,5 +1,5 @@
 ---
-approval: unapproved
+approval: approved a70f0c3a
 ---
 
 # Backstory register
@@ -30,7 +30,7 @@ What the three and the people around them were before the story opens: habits, h
 - **K9** He is very good with the sling and likes target practice. On the walk it is his. *(`plan/body-and-resources.md` §0)*
 - **K10** He has an excellent voice, carries a tune well, knows many folk songs and loves to sing. The book should use it somewhere.
 - **K11** His academic interest is biology: predation, venom and taxonomy. He knows algebra and calls Benal's work "algebra", and is not much interested in it. *(D2.9)*
-- `[?]` **K12** He plays a game like go with a couple of the older men, who like to chat with him. The grid is scratched in the dirt and played with pebbles, and wiped after, because the founders forbade markings (`plan/milieu-brief.md` §6).
+- **K12** He plays a game like go with a couple of the older men, who like to chat with him. The grid is scratched in the dirt and played with pebbles, and wiped after, because the founders forbade markings (`plan/milieu-brief.md` §6).
 - **K13** He laughs easily, and before he can stop himself. *(D2.1, D2.3, D2.9, D6.2)*
 - **K14** Hunger is the best sauce: when he is hungry enough, frogs are the best thing he has eaten. *(D3.4, revise to make it his hungry verdict)*
 
@@ -70,8 +70,8 @@ What the three and the people around them were before the story opens: habits, h
 - **K43** A wild hadrosaur once yielded to him briefly and it cost him; he has never pushed one to its death. *(D6.3, D7.3; `plan/milieu-brief.md` §9)*
 - **K44** He has seen saropo from the top of the tangle, far off, on a few prized occasions. *(D6.3, revise: "all his life")*
 - **K45** Nobody from home has described the lake to him. *(D6.3)*
-- `[?]` **K46** From the nests, under thirty meters of canopy (`plan/milieu-brief.md` §4), he has only seen the sky in patches; outside, on open ground, he sees the whole of it for the first time. The sky is not darker out there; there is more of it. *(D3.4, revise: "thinner")*
-- `[?]` **K47** Since Yara, small crocs inside the perimeter are killed on sight, because hers grew up inside. Keo has seen plenty of them, dead or being killed. D6.1's is the first he can leave alone. *(D6.1, revise)*
+- **K46** The Enclave has open ground, and Keo has seen plenty of sky; he has never paid it much attention. Most of his memories of stars are glimpses through the canopy over the nests. Outside, at night with nothing to do but keep watch, he looks properly for the first time. *(D3.4, revise: "thicker than Keo had ever seen them from the nests")*
+- **K47** Since Yara, small crocs inside the perimeter are killed on sight, because hers grew up inside. Keo has seen plenty of them, dead or being killed. D6.1's is the first he can leave alone. *(D6.1, revise)*
 
 **Habits on the page**
 - **K48** He talks aloud to Noli, and has a quiet, level voice he keeps for her. *(D4.1, D6.2)*
@@ -82,7 +82,7 @@ What the three and the people around them were before the story opens: habits, h
 ## Teva
 
 **Home and the ordinary day**
-- **T1** She is an apprentice Keeper. In the Vitarium her work is meticulous care of the cultures. `[?]` Whether her failed sensory upgrades are what keep her from journeyman is open.
+- **T1** She is an apprentice Keeper. In the Vitarium her work is meticulous care of the cultures. Whether her failed sensory upgrades are what keep her from journeyman is open.
 - **T2** Her teaching assignment is safety: she drills the yazhi, and keeps the drill at the pool's outflow end. *(D2.5; X10)*
 - **T3** She has walked Omya down to the Vitarium more evenings than she can count. *(D1.1)*
 - **T4** She plaits Omya's hair, in a Master's loops, every day, and has heard her recite the protocol and the fields while she plaits. *(D1.1, D2.4, D3.5)*
@@ -96,7 +96,7 @@ What the three and the people around them were before the story opens: habits, h
 - **T10** She has heard "We are scientists, not shamans" so often it usually goes past her, and she has heard Omya stumble on the bad days. *(D2.4)*
 - **T11** She knows the faintest stars by name and number and has never seen one. She learned her sensory upgrades had failed by going through the Watch for months, hoping the faint stars would appear to her, until she concluded nothing had changed. *(D2.4, D3.5)*
 - **T12** She used to lose the recitation somewhere past the sixth field and let Omya go on alone, because the rest was useless and Omya would be there tomorrow. She has the seventh field's name and not its count, and breaks at the same place. *(D2.4, D3.5 revise: "the useless half"; D6.2)*
-- `[?]` **T13** She does not count things compulsively. Her habit is memory: she recalls exactly what she was taught. Noticing quantities is Riel's (`plan/voice-sheets.md`), and estimating odds is Benal's (B34). *(D5.1, revise: "counted hers without meaning to")*
+- **T13** She does not count things compulsively. Her habit is memory: she recalls exactly what she was taught. Noticing quantities is Riel's (`plan/voice-sheets.md`), and estimating odds is Benal's (B34). *(D5.1, revise: "counted hers without meaning to")*
 
 **Her mother**
 - **T14** Her favorite thing is her mother's carved wooden spoon. It is a subtle spoon that could pass for a naturally shaped piece of wood, like everything else they make. Her mother liked to cook and offered her tastes from it.
@@ -166,7 +166,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **People**
 - **B22** He mostly admires Keo, as a rare kid gifted in many ways who is generous-hearted rather than proud. He knows what dyslexia is and wonders whether Keo has it, because he remembers Keo confusing letters that mirror each other. He remembers Keo not picking him for a team game once, and thinks it was oblivious rather than mean.
-- **B23** He remembers Teva being lazy in math class and asking him for help without trying very hard, and suspects she did it to act dumb in front of her two friends, who were less sharp than she was. `[?]` That is his reading; whether it is true stays unstated. He remembers her sharing her lunch with him one day when they were little.
+- **B23** He remembers Teva being lazy in math class and asking him for help without trying very hard, and suspects she did it to act dumb in front of her two friends, who were less sharp than she was. That is his reading; whether it is true stays unstated. He remembers her sharing her lunch with him one day when they were little.
 - **B24** His friend is a girl who is really into botany and a bit odd by their peers' standards.
 - **B25** He loves and admires his mother and thinks she is deeper than others do. He wishes she would spend more time with him. She feels distant to him: kind, but not warm. He would know her voice in any crowd, and his father's step on the platform. *(D2.2)*
 - **B26** He had never seen his father defeated before D2.7. *(D2.7)*
@@ -191,11 +191,11 @@ What the three and the people around them were before the story opens: habits, h
 - **X1** When they were about five, a gang of small children was caught by fog in the upper groves. The others cried. Teva stood with her eyes closed and walked them home north of the fig rows, and Keo held the back of her tunic the whole way. Her magnetic sense, inherited from her mother rather than Seeded, had already expressed. *(D2.8, revise: "eight")*
 - **X2** "Possibly" is Benal's word, and the three knew it before the story opens. They have not spent much time together, so the reader meets the joke at D2.9, and it grows more pointed as they grow closer. *(D2.2, D2.9; D2.9 map, revise: "born here")*
 - **X3** In sixteen years Keo had never heard anyone ask Ben what his work does. *(D2.9)*
-- **X4** All three had math classes together: Benal the best, Teva asking him for help, Keo mirroring letters. `[?]` Lessons are on chalk boards and in dirt. *(K15, K24, B22, B23)*
+- **X4** All three had math classes together: Benal the best, Teva asking him for help, Keo mirroring letters. Lessons are on chalk boards and in dirt. *(K15, K24, B22, B23)*
 - **X5** All three know Topo. *(K18, T26)*
 - **X6** Children in the Enclave know what a gap in the tangle is for, and whose nests stand behind it. *(D3.1)*
 - **X7** Children know what slow water means. *(D3.3)*
-- **X8** Children are taught to freeze at a croc: stop dead, so nothing disturbs the water's surface. `[?]` The prose calls this *going cold*, and that wording is retired because it reads as temperature. *(D6.1, D6.2, revise)*
+- **X8** Children are taught to freeze at a croc: stop dead, so nothing disturbs the water's surface. The prose calls this *going cold*, and that wording is retired because it reads as temperature. *(D6.1, D6.2, revise)*
 - **X9** Children learn before they can walk that ground that moves means something big, and something big means run. *(D6.3)*
 - **X10** Older children teach a skill to younger children regularly. Teva drills safety, Keo animal care, Benal mathematics.
 
@@ -211,7 +211,7 @@ What the three and the people around them were before the story opens: habits, h
 - **F7** Joram breathes slow and deep with a catch at the top of each breath; Riel's breath is lighter and quicker, and she turns more. Half asleep, Joram says "S'nothing. G'back to sleep, Ri." *(D2.10)*
 - **F8** Each parent has a suit hanging near the middle of the pole; Riel's is patched, Joram's sleeve has a paler regrowth. *(D2.11)*
 - **F9** The yazhi drill that after heavy rain the groves are the river's started because of Yara. *(D2.10; `plan/milieu-brief.md` §4)*
-- `[?]` **F10** Nobody's proximity sense found Yara's croc because other animals already known to be near, large turtles or a snake, covered its presence: the sense reads presence and kind at short range, and Riel read the ones she expected.
+- **F10** Nobody's proximity sense found Yara's croc because other animals already known to be near, large turtles or a snake, covered its presence: the sense reads presence and kind at short range, and Riel read the ones she expected.
 - **F11** Keo blames himself for Yara's death. Riel and Joram attribute the mistake to Riel, for not sensing the croc, and only the two of them do.
 
 **Teva's family**
@@ -227,7 +227,7 @@ What the three and the people around them were before the story opens: habits, h
 **Benal's family**
 - **F20** Marek listens: he waits for Benal to finish, as if there were plenty of time, because he thinks listening is a courtesy and gives his son that courtesy. The pity comes in what he says after. His palm covers most of Benal's shoulder. *(D2.2)*
 - **F21** Marek is not a Brancher because he is an iconoclast or self-interested; he is plenty smart. He wrestled with the anchor himself and could never solve it, and that, not incomprehension, is why he is scornful of Benal's work. Benal does not know this. Marek believes the jump put them in a branch of the world that nothing they solve here can reach. *(D2.2; `plan/milieu-brief.md` §2)*
-- **F22** When Benal works out that people can only go forward to where they have been, he connects it to the observer in quantum mechanics — Schrödinger's cat: until a timeline is observed it is only potential, and cannot be visited — because of something Marek once said to him. He begins to appreciate his father when he sees that Marek intuited the insight he derives from Genesis. `[?]` That begins late in book 1, at Genesis, and pays off in book 2 (`plan/sequels.md`). The mechanism is `kb/worldbuilding/benals-equation.md`.
+- **F22** When Benal works out that people can only go forward to where they have been, he connects it to the observer in quantum mechanics — Schrödinger's cat: until a timeline is observed it is only potential, and cannot be visited — because of something Marek once said to him. He begins to appreciate his father when he sees that Marek intuited the insight he derives from Genesis. That begins late in book 1, at Genesis, and pays off in book 2 (`plan/sequels.md`). The mechanism is `kb/worldbuilding/benals-equation.md`.
 - **F23** Lunet calls the count at the cycad treading, and told Benal "He was arguing for you in there". *(D2.2, D2.7)*
 - **F24** Liaso is older than Benal, the son of Marek's older sister. He is friendly to Benal and very mainstream in every way, including his social life: a benevolent older brother, though not close.
 - **F25** Liaso's rex stood across a clearing from him; he shook until the next day, and tells it as a funny story. *(D2.9)*
