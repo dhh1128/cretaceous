@@ -1,5 +1,5 @@
 ---
-approval: approved 9d12530c
+approval: approved 6b62ffa9
 ---
 
 # Character arcs and intimacy
@@ -195,6 +195,15 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D12.2.** Keo, febrile, tries to send Benal to sleep in his older-brother register, and it no longer works, because that register died at Day 11. Benal refuses with a death joke: Keo's humor falls as Benal's rises (`humor-plan.md`). Keo does try to stop him taking watches he cannot afford, and fails.
 - **D13.1.** Benal's estimates (B30) are worth something at last. Watching Teva vomit, he remembers her sharing her lunch with him when they were small (B23), and that is where his tenderness comes from.
 - **D13.2.** The distant *T. rex* pays Liaso's story from D2.9. Benal says his cousin's name, the only thing any of them has the energy to say, and it brings home and that night back to all three.
+
+**Days 14–15: what was planted on Days 1–9 pays.**
+
+- **D14.1.** They follow Benal's corridor through the turtle beach without asking, completing the turn from Day 5. Teva asks him how he does it.
+- **D14.2.** Nobody manages anything; they hold on, and Keo holds Benal on the raft, in the body, where Keo and Benal have always worked.
+- **D14.3.** As the fieldpack and his mathematics go, Benal hears Marek's *do something real*, his one tie home at the moment of loss.
+- **D15.2.** At Teva's lowest, *we'll be fine*, the trio's line since Day 2, is said by Teva, flat, and it breaks as she says it.
+- **D15.3.** Eighteen hours <!-- @WF-cyclone.tail: 18h --> of wet dark are got through on home stories: Topo, Teva's two friends, Omya. It warms them toward the night.
+- **D15.4.** Teva tells Benal that, years ago, Keo made the boy who startled him stop (K26, T27): Benal learns he has been protected longer than either knew, and that is what takes Keo↔Benal to 9. Keo, edging toward the crush without saying it, asks Teva whether she remembers chasing him to kiss him when they were small, and she does not (K22, T30); he laughs it off, and the reader knows what it cost. It is the scene list's *someone says the wrong thing first*, and the romance stays unresolved (Rule 1).
 
 
 ## 4. Reader regard
