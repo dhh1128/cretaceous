@@ -1,5 +1,5 @@
 ---
-approval: approved d983ef8b
+approval: approved 4f9283bc
 ---
 
 # Character arcs and intimacy
@@ -175,6 +175,12 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 - **D9.1.** On the long walk they trade home lives: Benal's shells (B12) and the mathematician everyone thinks is scatterbrained (B6); Keo's hadrosaurs and Topo (K1, K18). At a rest stop Benal balances stones without thinking (B13), the first time the habit appears, and the day after the crossing he either knocks the stack down before they move on or leaves it standing. Benal keeps watching Keo's head, carrying on the care that began at D8.3.
 - **D9.2.** Teva shares out the last handful kept back from Day 6, the pinyons and honey (`body-and-resources.md` §3, Day 9), and offers the others a taste of the honey the way she offers Omya sips (T5), so what she brought from home is in what she does. Nothing is cooked. Keo takes the taste as meant for him: the misreading is how the scene moves the social ladder without an argument. Teva names the river behind them, flatly, as a fact, and nobody draws the conclusion aloud.
+
+**Day 10: his best day and her worst, the same hours.** Water is the crisis, not food; Noli's grounder at D10.3 is the only fresh food.
+
+- **D10.1.** Keo sings on the march (K10): his best day, breath to spare, the reader enjoying him as he enjoys himself. It is the last time he sings. The *delicious* joke is his here, as planned.
+- **D10.2.** Teva, concealing sunfever, hears him singing ahead of her, and the irony is never stated. She keeps going by reciting the fields under her breath, and it breaks at the same place. Benal estimates their water aloud (B30), and one of his figures nearly gives her away; she heads it off. She is hiding from the one who notices.
+- **D10.3.** Noli drags in her grounder, and Teva teases Keo about her for the last time (T28); nobody knows it is the last. Benal works out the dataset aloud and Teva listens, while Keo, not following, performs for her.
 
 
 ## 4. Reader regard
