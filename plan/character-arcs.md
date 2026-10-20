@@ -1,5 +1,5 @@
 ---
-approval: approved cf24d792
+approval: approved a18048b8
 ---
 
 # Character arcs and intimacy
@@ -123,6 +123,19 @@ So all three misread each other, which is the novel's whole subject arriving in 
 3. **Jealousy is usually a misreading**, and where it is, the reader should see the misreading before Keo does.
 4. **Touch is rationed, and functional when it comes** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. Roughly one an act is the rate that feels right; it is a sense of scarcity, not a budget with a balance to spend down. The functional touch that lasts a moment too long does more than any embrace.
 5. **What each of them withholds is one specific thing** (`voice-sheets.md`), **never talk itself.** Silence is rationed like touch: rare, and used where it is the point.
+
+### Relationships by day
+
+The dyad table gives temperatures; this gives the scenes that carry them. Each scene's map cites its line here in `RELATIONS`, and spends the backstory by id from `plan/backstory.md`. Each placement costs a sentence or an exchange, not a scene.
+
+**Days 1–2: before the Council, the three are already in each other's lives.** Each opening scene touches the other two at least once and shows one peer.
+
+- **D1.2.** The returning is the one place all three are before the Council. Teva sees Keo standing with his parents, and Benal a head above the crowd at the back. Riel touches her arm as she passes (T20). Unseen by her: Keo's family never had a rite for Yara.
+- **D2.1.** Topo turns up at dawn, and Keo's big-brother kindness is on the page in his own scene (K18).
+- **D2.2.** Benal's botanist friend appears briefly (B24).
+- **D2.3.** Riel asks after Teva and Omya, and the family teases Keo about the flowers he has brought Omya (K19, T20).
+- **D2.4.** Teva tucks a flower into Omya's plait (T6), and Omya, lucid and dry, remembers the Explorers' boy who brought her flowers.
+- **D2.5.** Benal's math children pass the pool on the teaching rota (X10). The yazhi know him, and a yazhi's joke about him is the funny line Teva does not laugh at.
 
 ## 4. Reader regard
 
