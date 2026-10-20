@@ -1,5 +1,5 @@
 ---
-approval: approved 690846a6
+approval: approved d6cb5601
 ---
 
 # Backstory register
@@ -231,7 +231,7 @@ What the three and the people around them were before the story opens: habits, h
 - **F23** Lunet calls the count at the cycad treading, and told Benal "He was arguing for you in there". *(D2.2, D2.7)*
 - **F24** Liaso is older than Benal, the son of Marek's older sister. He is friendly to Benal and very mainstream in every way, including his social life: a benevolent older brother, though not close.
 - **F25** Liaso's rex stood across a clearing from him; he shook until the next day, and tells it as a funny story. *(D2.9)*
-- **F26** On watch, Liaso stamps, walks to the far end, and stays turned while he hums a song of known length. *(D3.1, revise: "counts thirty")*
+- **F26** On watch, Liaso stamps, walks to the far end, and stays turned while he hums a song of known length. *(D3.1)*
 
 **Others**
 - **F27** Topo: a year younger than Keo, born with a misshapen ankle. *(K18)*
