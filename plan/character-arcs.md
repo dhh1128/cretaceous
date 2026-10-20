@@ -1,5 +1,5 @@
 ---
-approval: approved af86f6a7
+approval: approved 9a6abf59
 ---
 
 # Character arcs and intimacy
@@ -26,7 +26,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 **Her magnetic sense is not a loss and never becomes one.** Offshore it is worth more than it was on land, because there is nothing else to steer by. What limits her is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 12 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. `[?]` Whether she needs a third loss at all is open.
 
-**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, whose whole training is what is safe to eat — says it needs another day and does not press it, because he is injured and the burden and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
+**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, whose training includes what is safe to eat — says it needs another day and does not press it, because he is injured and the burden and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
 
 **And a fourth loss that is Teva's alone, running underneath the book.** She was being trained for the Watch — Omya taught her the stars because Keepers hold a memorized sky and check it nightly (`milieu-brief.md` §5). Her sensory upgrades failed, so she has a Keeper's memory and not a Keeper's senses: **she was supposed to inherit the sky and got part of the way, and the woman who could finish teaching her is disappearing while she walks away from her.** It gives her grief a specific object instead of a general one, and a role in book 2 beyond navigator — she holds the only fragment of the Watch anyone has left, and it is incomplete.
 
@@ -40,7 +40,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 | day | W | B | F | H |
 |---|---|---|---|---|
-| **1–2** | to be treated as an adult | the adults are broken; he is strong enough | being a child | the crush; **Yara**; that he is frightened |
+| **1–2** | to be treated as an adult | the adults are too slow, too protective and too cautious; he is strong enough | being a child | the crush; **Yara**; that he is frightened |
 | **2, evening** | Teva to be safe, which he confuses with Teva | someone has to act | letting her go alone | the crush |
 | **2, night** | to prove he needs no crutch | he can do it unsuited | shame, not death | the third suit was a choice about his sister |
 | **3–6** | to lead | he is the reason they are alive | the others noticing he is guessing | the bites, the strain, the headaches |
@@ -104,7 +104,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 
 ### How the triangle actually works
 
-**Keo → Teva** is unrequited and unspoken, and he misreads her in every scene. She recruits him and he hears a choice.
+**Keo → Teva** is unrequited and unspoken, and he misreads her often. She recruits him and he hears a choice.
 
 **Teva → Benal** is the one to get right, and the answer is not a rival suitor. She is drawn to his mind and **does not know what that feeling is.** Keo reads it correctly as attraction and incorrectly as settled, and watching her discover someone she has walked past for sixteen years is what unsettles him. **It ends in trust**: Benal's arc is about being heard, and she is the first person who ever asked, so she ends as the one he trusts to understand him. The attraction stays open; the friendship under it settles.
 

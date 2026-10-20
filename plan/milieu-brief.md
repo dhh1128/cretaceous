@@ -1,5 +1,5 @@
 ---
-approval: approved 27f2764f
+approval: approved 1564e9ec
 ---
 
 # Cretaceous — Milieu Brief
@@ -179,7 +179,7 @@ This is a scientific mission, not a tribe, and **status follows mission-critical
 
 **Which means the impactor could already be findable, and there is nobody left who would know.**
 
-**Two consequences that pay off later.** First, Teva was being trained for this — it is why Omya taught her the stars (`content/superseded/01.1.md:53`), and it recasts her failed sensory upgrades: she has the memory a Keeper needs and not the senses, so **she was supposed to inherit the sky and got part of the way.** Second, a 206-year positional record held in one dying woman's head is a scientific dataset, and Benal is the only person alive who would recognize it as one.
+**Two consequences that pay off later.** First, Teva was being trained for this — it is why Omya taught her the stars (`content/superseded/01.1.md:53`), and it recasts her failed sensory upgrades: she has the memory a Keeper needs and not the senses, so **she was supposed to inherit the sky and got part of the way.** Second, a 206-year positional record held in one dying woman's head is a scientific dataset, and Benal is the one who recognizes it as one. The adult mathematicians who taught him could read it as well as he can; what sets him apart is curiosity, and he is the only one of his age who can read the founders' notation at all.
 
 **The clinical detail that makes scene D2.4 work.** In dementia, remote and heavily-rehearsed memory outlasts recent and complex memory. Omya learned the sky as a child and has recited it sixty years <!-- @WF-omya.watch.years: 60 -->; she learned the full synthesis protocol later and it is far more intricate. **So she can still name every star and cannot remember the protein fold.** The knowledge nobody thinks is worth anything survives, and the knowledge keeping them alive is going — and Marek would call the star lore dead symbols, which is the exact phrase he uses on Benal's mathematics. Both turn out to matter. @D2.4
 
@@ -335,7 +335,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 **A Seeding is also a treatment, and it has to come early.** <!-- @WF-seeding.acute: early-only --> A T-cell Seeding given early in a stingburn turns most of them over a day or two; given late, it does not. Lumea's was given and did not take. So when a child is dying, a dose that night would already be too late, and everyone who knows the work knows it.
 
-**Naming.** A birth name, informal and provisional. A **True Name** at roughly three, once the critical early Seedings are survived — this is the passage out of *yazhi* into personhood, and it matters more than any individual Seeding. An adult name at fourteen or fifteen, when all Seedings are complete. Alira in scene D1.1 was two and a half: named, and therefore a person, and therefore a death the community must count. @D1.1
+**Naming.** A birth name, informal and provisional. A **True Name** at roughly three, once the critical early Seedings are survived — this is the passage out of *yazhi* into personhood, and it matters more than any individual Seeding. An adult name at fourteen or fifteen, when all Seedings are complete. **The adult name begins adulthood rather than conferring it**: it is a passage entered at fourteen or fifteen and complete by about eighteen, so a sixteen-year-old with an adult name is still told *you're not an adult yet*, and is still a child to his mother. Alira in scene D1.1 was two and a half: named, and therefore a person, and therefore a death the community must count. @D1.1
 
 ## 8. The crisis
 
@@ -363,7 +363,7 @@ Strong expression across the sensory suite — vision, hearing, smell — plus e
 
 Both parents are Explorers and suit custodians — **Joram**, a heavy sleeper, and **Riel** ("Ri"), who has proximity sense of her own. Keo has been outside the perimeter on supervised trips, and has the training that comes with it.
 
-**He has a dead younger sister**, killed by the world outside rather than by a failed upgrade (`content/superseded/04.1.md:97`). She is unnamed and needs a name. She is why his parents are as protective as they are, which makes her the strongest single piece of evidence available for the parent-nuance arc.
+**He has a dead younger sister, Yara**, killed by the world outside rather than by a failed upgrade (§4; `plan/minor-characters.md`). She is why his parents are as protective as they are, which makes her the strongest single piece of evidence available for the parent-nuance arc.
 
 He is not rebelling against his parents' philosophy — they sit ambivalently between Traditionalist and Brancher — but against being protected. He **refuses to take a third suit**, out of pride and a wish to prove he needs no crutch, and it nearly kills him.
 
@@ -371,7 +371,7 @@ His mask is bravado. *"We'll be fine."*
 
 ### Teva — 16–18, female, POV
 
-Average height, sturdy, 165 cm.
+Average height and average build, 165 cm. Cute rather than striking; chin-length hair, a few freckles, and light gray eyes, which are rare in this gene pool. The colony's stock is mostly Latino and Native American with some Anglo roots, so nobody in it is fair-skinned or fair-haired.
 
 Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in both directions, and only one of them can kill her.** She cannot shed heat, and in a humid hothouse that is the direction with a body count — it is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). She also cannot hold heat, and that shows up wherever the environment is abnormal for this world: the limestone kiva, and Genesis after the storm, dank and half-submerged. **That direction is misery, not danger.** It is copeable — get dry, find a covering, sit in the sun when it comes back — and there is no deep, persistent cold anywhere on this planet to kill her with. The sea is 28–32 °C, rain lands near 22 °C.
 
@@ -389,7 +389,7 @@ Navigator, strategist, and the one who decides. Her mask is rage. Her thematic l
 
 ### Benal "Ben" — 16–18, male, POV
 
-Unusually tall and thin to the point of looking wrong, 190 cm, 65 kg. Fragile, low endurance, tires fast. Probably a paradoxical expression — growth modification gone sideways.
+Unusually tall and thin to the point of looking wrong, 195 cm <!-- @WF-benal.height: 195cm -->, 65 kg. Fragile, low endurance, tires fast. Probably a paradoxical expression — growth modification gone sideways. **He is unenhanced, not sickly.** He can walk with his peers as long as it is only walking and the days ask nothing unreasonable, and he can tread the household's cycad batch through an afternoon at a real cost; the view that he can barely work a shift in the gardens is Keo's, and it is ungenerous.
 
 **Superb smell and hearing**, to the point of assault: the jungle's noise is not atmosphere to him, it is an attack, and the suit's dampening is what lets him think. Ordinary vision. Excellent thermal regulation. Moderate healing, weaker than the other two. **Poor venom resistance**, which is the gap that could kill him.
 

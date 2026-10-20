@@ -1,5 +1,5 @@
 ---
-approval: approved 08236a39
+approval: approved a7c5d1d5
 ---
 
 # Voice sheets
@@ -32,7 +32,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **The trajectory, and it is his arc in miniature.** The instructing register is the verbal form of his hubris, so it breaks where the hubris breaks.
 
-- **Days 1–10, defended.** Imperatives, often stacked. Answers directly and too fast. Never asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
+- **Days 1–10, defended.** Imperatives, often stacked. Answers directly and too fast. Rarely asks anyone a question he could answer himself, because needing an answer would mean not knowing. Bravado as the default deflection — *"we'll be fine"* **[designed]**, seeded early so the other two can throw it back at him.
 - **Day 11, the break.** He gives an instruction and it is worthless; Noli dies anyway. After this his old register fails on contact — the jokes don't finish, the commands land on nobody. `humor-plan.md` has his comedy dying here and staying dead; his instruction habit dies with it.
 - **Days 12–19, changed.** What replaces instruction is **asking** — and the completion of the arc is him taking direction from a machine his people call an abomination, on Day 19, and doing what it says.
 
@@ -74,9 +74,9 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **Does not say — and this is about the other two, not about the reader.** She does not tell Keo or Benal that she is tired, cold, hurt or afraid — until Day 15 night, where she stops hiding; then **for good**, though she still says less than she means. **In her own POV the reader feels all of it in full.** An earlier version made this absolute in both directions, which left nobody inside her head for a third of the book. The concealment is from the cast; the reader is ahead of them.
 
-**Her warmth is in what she does, never in what she says**, and it points at people weaker than her. She drills the yazhi. She cleans Keo's wound on Day 11. She sees what Benal is for. Nobody remarks on any of it, least of all her.
+**Her warmth is mostly in what she does rather than what she says**, and it points at people weaker than her. She drills the yazhi. She cleans Keo's wound on Day 11. She sees what Benal is for. Nobody remarks on any of it, least of all her.
 
-**Funny about** almost nothing — roughly one joke to Benal's six. When she lands one it is flat, hostile and dry, and it surprises everyone including her. The planned model is *"Be quiet or be bait. Your choice."* **[designed]**, and note that it arrives while she is caring for him, because that is the only way she has of saying anything warm.
+**Funny about** very little — roughly one joke to Benal's six. When she lands one it is flat, hostile and dry, and it surprises everyone including her. **The exception is Keo and Noli: she teases him about Noli**, in the same flat delivery, and it is the one light register she has and the one place her warmth reaches Keo in words. Noli's death on Day 11 ends it. The planned model is *"Be quiet or be bait. Your choice."* **[designed]**, and note that it arrives while she is caring for him, because that is the only way she has of saying anything warm.
 
 ---
 
@@ -84,7 +84,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What speech is for.** Explaining. He has the longest sentences and the only subordinate clauses in the book, and technical nouns in lists. He hedges everything that is not a fact — *I think*, *roughly*, *maybe three*.
 
-**And one word carries the hedge: *possibly*.** He qualifies things that need no qualifying, constantly, from the first scene he appears in. It is what a person who estimates for a living says, it costs the reader nothing, and it is the last verbal signature this book needs.
+**And one word carries the hedge: *possibly*.** He qualifies things that need no qualifying, often, from the first scene he appears in. **Often enough for the in-joke to land, never in every sentence**: he hedges with *I think*, *roughly*, *maybe* and *more or less* as well, and *possibly* keeps its force by not being the only one. It is what a person who estimates for a living says, it costs the reader nothing, and it is the last verbal signature this book needs.
 
 *Possibly* measures **what he is willing to claim**, which is his whole arc, so it is an instrument rather than a name tag. Three things follow from it:
 

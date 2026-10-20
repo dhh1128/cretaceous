@@ -82,7 +82,7 @@ From `kb/worldbuilding/safety-suits.md`: the outer layer is a living chromatopho
 
 ### Drift
 
-Benal, for the silhouette — 190 cm, 65 kg, tall to the point of looking wrong (`plan/milieu-brief.md` §9). The suit's technology is visible; the jungle is implied around it.
+Benal, for the silhouette — 195 cm, 65 kg, tall to the point of looking wrong (`plan/milieu-brief.md` §9). The suit's technology is visible; the jungle is implied around it.
 
 `[?]` **Mid-wide, not over the shoulder.** The two-thirds rule rules out the over-the-shoulder framing, which is figure-dominant by construction — the near shoulder and head take half the frame. Benal small and low instead, the understory towering, sightlines closing at a meter or two at chest height (`plan/milieu-brief.md` §3), depth built from receding fog planes rather than from detail.
 

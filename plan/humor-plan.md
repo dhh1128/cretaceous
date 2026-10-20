@@ -1,5 +1,5 @@
 ---
-approval: approved a8e67d40
+approval: approved f3df004b
 ---
 
 # Humor plan
@@ -32,6 +32,8 @@ Mechanism: flat literalism at the worst possible moment, usually delivered in th
 
 He is funniest when most frightened, and **he does not know he is being funny**, which is what keeps it from becoming quipping.
 
+**Use it more.** His flat deadpan about death is one of the most likable things about him, and it belongs in ordinary scenes as well as frightened ones, from Day 2 on.
+
 ### Keo — bravado, and it curdles
 
 His mask is "we'll be fine," so his comedy is deflection and swagger — teasing, overconfidence played for laughs at his own expense, the older-brother register he uses on Benal. The planned line at D10.1 is the right note: *"Next time, try not to look so delicious. You're making them hungry."* @D10.1
@@ -40,7 +42,11 @@ His mask is "we'll be fine," so his comedy is deflection and swagger — teasing
 
 ### Teva — almost never, and lethal when she does
 
-She is the one who doesn't laugh. That is her whole comic function: scarcity. When she does land one it should be flat, hostile and dry, and it should surprise everyone including her. The planned line at D11.5 — *"Be quiet or be bait. Your choice."* — is the model, and note that it arrives while she is caring for him, which is the only way she has of saying anything warm. @D11.5
+She is the one who rarely laughs, and scarcity is most of her comic function. When she does land one it should be flat, hostile and dry, and it should surprise everyone including her. The planned line at D11.5 — *"Be quiet or be bait. Your choice."* — is the model, and note that it arrives while she is caring for him, which is the only way she has of saying anything warm. @D11.5
+
+**The exception: she teases Keo about Noli**, in the same flat delivery. It is affection she can deny, it is the one place her warmth reaches Keo in words, and it ends when Noli dies on Day 11, so that the loss is hers as well as his.
+
+`[?]` **Her laughter has a budget.** Laughing aloud is rare — at most one a day where it happens at all — and Day 6, the anomaly for light-heartedness, may spend two or three. A hidden smile or a snort counts against the same budget.
 
 Rough ratio: for every ten jokes in the book, Benal gets six, Keo three, Teva one.
 

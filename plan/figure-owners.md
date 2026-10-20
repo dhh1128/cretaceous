@@ -28,7 +28,7 @@ approval: unapproved
 | 22 °C | what rain lands near | `plan/journey-calendar.md` §2 |
 | 32 °C | the top of the shelf-sea range, 28–32 | `plan/journey-calendar.md` §2 |
 | 24 °C | the top of the mean-annual-air range, 20–24 | `kb/research/geo-flora-fauna.md` §2.2 |
-| 190 cm | Benal's height | `plan/milieu-brief.md` §9 |
+| 195 cm | Benal's height | `plan/milieu-brief.md` §9 |
 | 65 kg | Benal's mass | `plan/milieu-brief.md` §9 |
 | 3 days | **`distinct`** — the founders' three years at Genesis, biome day-ranges, and leaching time all use the token. Not one proposition | `distinct` |
 | 2 days | **`distinct`** — suit feeding interval, forage day-ranges, days of food. Not one proposition | `distinct` |
