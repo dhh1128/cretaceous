@@ -1,5 +1,5 @@
 ---
-approval: approved d82ff81c
+approval: approved af86f6a7
 ---
 
 # Character arcs and intimacy
@@ -122,3 +122,17 @@ So all three misread each other, which is the novel's whole subject arriving in 
 2. **Physical proximity is the main instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for sixteen nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
 3. **Jealousy is usually a misreading**, and where it is, the reader should see the misreading before Keo does.
 4. **Touch is rationed, and functional when it comes** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. Roughly one an act is the rate that feels right; it is a sense of scarcity, not a budget with a balance to spend down. The functional touch that lasts a moment too long does more than any embrace.
+
+## 4. Reader regard
+
+What the reader is meant to feel toward each of the three, and the cardboard version of each that the prose has to keep them out of. Maps answer `REGARD` from this section (`process/methodology-theory.md` §4a).
+
+**The failure mode all three share is the strong, silent, moody, depressed loner.** It comes from how they communicate rather than from who they are: when talk is only logistics or concealment, three different people collapse into one sullen type. The guard is that each of them talks constantly in their own register about everything except the specific thing they hide (`voice-sheets.md`), and that the reader sees them want things from each other, tease, ask, and get things wrong out loud.
+
+| | the caricature risked |
+|---|---|
+| **Keo** | the competent hothead |
+| **Teva** | the angry one |
+| **Benal** | the head-in-the-clouds loner. His dark humor is real and is not the danger |
+
+[?] The rest of this section — what the reader should feel toward each by day, and the details that earn it — is to be proposed.

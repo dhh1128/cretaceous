@@ -32,7 +32,7 @@ Read every layer that allocates anything to this scene. Read the files; do not g
 | `outline.md` | which step of the fifteen-step structure this sits in |
 | `body-and-resources.md` | the loadout at departure, and the physical state this scene inherits |
 | `pacing-and-stakes.md` | the four ladders and this scene's rung on each |
-| `character-arcs.md` | what each character wants, believes, fears and hides at this point |
+| `character-arcs.md` | what each character wants, believes, fears and hides at this point; **the relationships the scene touches — pairs, the trio, the absent — and the reader regard each protagonist is owed, with the caricature each risks** |
 | `voice-sheets.md` | per-character speech shape, and **what each does not say, and until when** |
 | `knowledge-ledger.md` | which facts are known to whom here; which rows this scene pays |
 | `foreshadow-and-motif.md` | plants and payoffs landing here |
@@ -56,6 +56,7 @@ Build the scene structure map per `methodology-theory.md` §4. Roughly one move 
 
 Requirements that exist because they were violated:
 
+- **Every scene plans its talk around what people want from each other**, not only around the job in front of them. `RELATIONS`, `REGARD` and `TEXTURE` in IN say which relationships move, what the reader should come to feel about each person, and which backstory the scene spends; the moves then name the exchanges that do it, tagged `[relation]`, `[regard]` and `[texture]`. **An exchange is long enough to probe, deflect, lie by implication or change someone**, not a line set into narration. The *hides* column of `character-arcs.md` says what one person keeps back; it is never the plan for how they talk to each other, and a map whose only person-to-person instruction is concealment produces the strong, silent, moody loner (`character-arcs.md` §4).
 - **Every character present gets a `wants` line.** Not just the POV. A character with no want is furniture, and Daniel will hate them.
 - **A world-facts block in IN** — the physical facts of the location the scene will touch, stated so the drafter never has to invent them. Where things are kept. Where animals sleep. Heights, distances, temperature, light.
 - **Moves state what a move *does*, not what it looks like.** "Riel describes a stretch of ground: distances, terrain, one hazard" produced non-sequitur drivel because the move had a shape and no function.
@@ -159,6 +160,7 @@ Iterate until clean. Do not send him a draft that has not passed all of these, b
 - `prompts/repetition-hawk.md`
 - the four invariants, now against the prose
 - **the referent audit**: list every noun that names a place, a room, an opening or an object, with what it refers to. Any noun pointing at two referents, or any referent with two nouns, is fixed before he reads. A checker model does this reliably when it is asked to; it did not do it unasked.
+- **the blind reader** (`prompts/blind-reader.md`): a model from another lineage reads the drafted prose with no map and no canon and says what each person is like, what it likes and dislikes in them, whom it would miss, and who reads as a type. Its answers are compared against the map's `REGARD`. **This is the only check that can see a missing relationship**, because a scene that moves nobody contradicts nothing (`methodology-theory.md` §4a).
 - **the invention audit**: every concrete fact in the draft is in canon or on the answered ledger. Anything else is an unauthorized invention and comes out.
 
 **Elaborations get the same checks as first drafts** (R-QE4S). A resize, an added paragraph or a fix after his reading is new prose, and new prose invents. Run the checker on the added lines against canon before he sees them; pipe the diff in and ask about only what changed. The first resize skipped this and put warm air in a cave.

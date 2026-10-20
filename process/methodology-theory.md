@@ -125,7 +125,11 @@ Its case does not rest on rhythm (see C8). It rests on what it produced: given a
 
 IN     place · time · weather and light
        per character: body, resources, what they know, what they want
-       relationship temperatures this scene will touch
+       RELATIONS: every relationship the scene touches -- the three pairs,
+         the trio as a unit, ties to people who are absent -- and how it moves
+       REGARD: what the reader should feel toward each person on the page,
+         and the specific behavior or detail that earns it
+       TEXTURE: the backstory and personality items the scene spends, by id
        READER: what the reader arrives carrying — promises made, dread
          accumulated, facts held that no character holds
          (COMPUTED from the ledger once scenes are ordered; never authored,
@@ -139,6 +143,7 @@ SPINE  the one continuous thing the scene hangs on — a hand-task, an
 1..n   moves: one move by one party, in order. The world is a party.
        A feeling is not a move.
        types:  [image] [ledger] [spine] [body] [refused] [turn] [opens] [closes]
+               [relation] [regard] [texture]
        turn:   name who it happens to. Often not the speaker. May be a
                silent listener, or READER ONLY.
        links:  [answers N] · [pays <scene>.<move>] · [plants → <scene>]
@@ -152,6 +157,7 @@ SPINE  the one continuous thing the scene hangs on — a hand-task, an
 OUT    deltas only, against IN
        what changed · what was worked on and did not · what is left open
        what the scene refused to answer
+       relations moved · regard earned · texture spent
        READER: which ledger rows were paid or contributed to here
 ```
 
@@ -173,8 +179,13 @@ Cut from an earlier version: `[withheld]`, meaning the narration declines to tel
 - **`PRESENT`** — **every living thing traveling with the party, accounted for or explicitly placed off-page.** Noli walked out of the Enclave on Day 3 and died on Day 11, and she appears in none of the three scenes of the river crossing, because nobody ever asked.
 - **`BODY`** — per character, state and resources, and nothing resets.
 - **`WANTS`** — per character, **quoted from `character-arcs.md` rather than paraphrased.** A paraphrase drifts, and a drifted want is the join mis-made at the one line the map exists to make it.
+- **`RELATIONS`** — **every relationship the scene touches, its state on the way in, and the exchange that moves it.** Not only the three pairs: **the trio as a unit** — who is inside and who is out, two against one, the group's jokes and habits — and **each character's ties to people who are not there**: Omya, the parents, Yara, the cohort. Answered from `character-arcs.md`'s relationship plan for the day. A scene that moves nothing between people says so, and says why that is right for it.
+- **`REGARD`** — **what the reader should feel toward each person on the page by the end of the scene** — liking, sympathy, recognition, irritation, dislike — **and the specific behavior or detail that earns it.** Answered from `character-arcs.md`'s reader-regard plan, which names the caricature each protagonist risks. A regard with no earning detail is an assertion, and the drafter will fill it with an adjective.
+- **`TEXTURE`** — **the backstory and personality items the scene spends, cited by id from the backstory register.** Talk is where a reader learns what is on someone's mind and how they came to be who they are, and a drafter with nothing to draw on invents it, inconsistently. An item not in the register is an invention and goes on the ledger.
 - **`CAPABILITIES`** — every ability in play, with the limit the corpus states for it. A map that has a capability doing something outside its stated limit has invented a new capability.
 - **`READER`** — computed, never authored. See §5.2.
+
+**The last three fields are the ones the original form left out, and how they were lost is the lesson.** The §4 artifact named *relationship temperatures this scene will touch* from the start. When IN became a form, its rule was that every field is one a real map actually missed, so a field entered only when a check had caught its absence. **A scene that moves no relationship contradicts nothing**, so no check ever caught one, and the line was dropped without anyone deciding to drop it. The drafts that followed were planned around physical jobs, carried the arc table's *hides* column as the only instruction about how people treat each other, and came out with three characters who read as strong, silent, moody loners: talk happened as logistics or as concealment, and nobody spoke to find anything out. **A form built only from detected defects cannot contain what no check detects.** These three fields come from what the book is for rather than from a failure a checker found, and the blind reader in `scene-build-runbook.md` Phase 7 is the check that can detect their absence.
 
 **The form is checked mechanically** (`scene_map_in_complete`), and the fields are read from this section at runtime rather than restated in `tools/`.
 
