@@ -10,13 +10,13 @@ Daniel is the author. You are not. Everything below follows from that.
 
 ## 0. The method this novel is written under
 
-**Cretaceous is written under novel-method** (`~/code/me/novel-method`). Its `charter.md` and `adopt.md` govern, and they are referenced from here rather than copied, because a copy drifts from its original.
+**Cretaceous is written under novel-method** (`~/code/me/novel-method`). Its `~/code/me/novel-method/charter.md` and `~/code/me/novel-method/adopt.md` govern, and they are referenced from here rather than copied, because a copy drifts from its original.
 
 **Until novel-method tags its first edition, `process/methodology-theory.md` and `process/scene-build-runbook.md` stay the operative theory and runbook.** That edition absorbs them, and these two files then shrink to pointers plus whatever is specific to Cretaceous.
 
-**At every phase-9 retro, each correction from Daniel that is not canon becomes a tick in `~/code/me/novel-method`**, as `adopt.md` *The flywheel* describes: his exact words, the session id and the timestamp, classed as method, craft, tool or friction. A message he types while a session is busy is a correction too. Canon corrections stay in this repo.
+**At every phase-9 retro, each correction from Daniel that is not canon becomes a tick in `~/code/me/novel-method`**, as `~/code/me/novel-method/adopt.md` *The flywheel* describes: his exact words, the session id and the timestamp, classed as method, craft, tool or friction. A message he types while a session is busy is a correction too. Canon corrections stay in this repo.
 
-**The per-scene flywheel numbers and the §10 log stay here**, because they are Cretaceous's own evidence; novel-method's `log.md` records only editions.
+**The per-scene flywheel numbers and the §10 log stay here**, because they are Cretaceous's own evidence; `~/code/me/novel-method/log.md` records only editions.
 
 ---
 
