@@ -1,5 +1,5 @@
 ---
-approval: approved 61f0f45d
+approval: approved 27dffe03
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -183,7 +183,7 @@ A suit reads its wearer's vitals and wakes its archaea on confirmed death — se
 
 So: a suited character knocked unconscious, and a suit beginning to decide. **Day 5, Benal under the constrictor** is where it sits most naturally — he is crushed, not breathing properly, and pinned, and the thing that was protecting him starts working out whether he is dead. Keo has to reach him and know what to do, which is the one moment in Act 2 where his parents' training is worth more than his strength.
 
-It is also the first time the reader understands, viscerally, what the suits are actually for. **Spent at D5.2, after the release:** he faints as the blood comes back, wakes inside the count unable to move or speak, and Keo's torn hands are already at his forearm. Nobody explains it in the scene. The other two now know a suit can count down on a living wearer and only Keo can stop it, which D6.2 carries.
+It is also the first time the reader understands, viscerally, what the suits are actually for. **Spent at D5.2, as the coils come off:** he blacks out in them, wakes inside the count unable to move or speak, and Keo's torn hands are already at his forearm. Nobody explains it in the scene. The other two now know a suit can count down on a living wearer and only Keo can stop it, which D6.2 carries.
 
 ### Sleep
 
