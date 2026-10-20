@@ -203,7 +203,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Must carry:**
 - **The elation is real and the reader has to have it**, because Day 4 takes it away and every day after that draws on the difference.
 - **Noli.** Two of her four comic moments belong in Act 1 and the rest of her life is nine days long.
-- `[?]` **Nobody mentions their families.** All three are avoiding the same subject and none of them notices the others doing it.
+- `[?]` **Nobody mentions their families.** All three are avoiding the same subject and none of them notices the others doing it — **while talking about everything else.**
 - **Keo's rations, and the arithmetic nobody has done yet.**
 **Hazard:** foreshadowing. The scene must not know what is coming, because the elation is not ironic yet and treating it as ironic spends Day 4 early.
 **Ends on:** somebody laughing, and it being the last easy laugh until Day 6.
@@ -265,7 +265,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 - **The color of dead leaves and shadow.** Crushing, breathless silence, and all he can smell is the snake's musky reek and his own terror. **The birds stop before it** — the overcast thickens in the afternoon and the birds go quiet, as they do when light drops; it is the weather, not the snake. The insect wall goes on; only Benal hears the difference.
 - **His hearing is defeated by silence rather than noise**, which is the one failure mode nobody would predict and the reason it gets him.
 - **Keo and Teva save him with their bodies**, and the debt is the point. Chest wall bruised the width of a body, breathing shallow for four days. Teva thrown, shoulder wrenched, calls it nothing. Keo's hands torn on scale.
-- **Shattered, then welded** — surviving it together does more than any conversation, and the scene should not follow it with a conversation.
+- **Shattered, then welded** — surviving it together does more than any conversation about it. **What they say afterward is ordinary and in voice** — the count, the shoulder, the hands, a joke that comes out wrong — **not a debrief of what it meant.**
 **Hazard:** the rescue as heroics. Three frightened teenagers pulling on an animal that is not letting go, badly, for a long time.
 **Ends on:** three kilometers made in the whole afternoon, and stopping early.
 
@@ -350,7 +350,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Keo has to drive a hadrosaur into the river tomorrow, deeper than it wants to go**, and this is the night before. The scene belongs to the person with the job.
 - `[?]` **Teva does not look up.** Omya taught her the stars (`minor-characters.md`), and Keo watches her not look and misreads what it means. Strict third: the reader gets his misreading, not her reason.
 - Day 6 was four days of good weather ago and is already the thing they draw against.
-**Hazard:** the night-before-the-battle conversation. Two teenagers talking meaningfully about courage. The scene is about not sleeping, and most of it should have nobody speaking.
+**Hazard:** the night-before-the-battle conversation. Two teenagers talking meaningfully about courage. The scene is about not sleeping. **They talk, low, about anything but courage** — the plan again, the herd, which stones, whether the moon will be up — **and the courage is what none of them mentions.**
 **Ends on:** first light, which is not a relief.
 
 ---
@@ -387,7 +387,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Nobody can do anything else for an hour or two**, and then they move a short distance before dark. Two kilometers in a day.
 **Must carry:**
 - **The aftermath belongs to the one who had no job.** Benal was cargo across, and being carried is his subject.
-- `[?]` Nobody says *we did it*. The gap between surviving and being pleased about it is the scene.
+- `[?]` Nobody says *we did it*. The gap between surviving and being pleased about it is the scene. **They talk about everything else** — Keo's state, the chute, the skins, the pot — and the one sentence they avoid is that one.
 - Keo is paying for the projection now.
 **Hazard:** the relief scene. Somebody saying *we made it*. The gap between surviving and being pleased about it is the whole scene, and it should be uncomfortable.
 **Ends on:** the river behind them, and the first of them to think about what that means not saying so.
@@ -413,8 +413,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **This pays a faint plant** — `foreshadow-and-motif.md` **R16**, the river crossed easily in low water, paid at Days 16–18 when the flood has spread it into kilometers of shallow water and it is not a crossing at all. Signal level here is *faint*; the scene must not underline it.
 - They could not do that again. None of them says so in those words.
 - `[?]` The social ladder moves without an argument, which it has not yet done.
-**Hazard:** underlining. Signal level is *faint*. The bad version has someone say *we can't go back, can we?* Nobody says it, and the scene ends on the not-saying.
-**Ends on:** the thing unsaid, and one of them choosing not to say it.
+**Hazard:** underlining. Signal level is *faint*. The bad version has someone say *we can't go back, can we?* **Somebody names the river** — a fact, in passing — **and nobody draws the conclusion aloud.**
+**Ends on:** the river named as a fact, and its conclusion left to the reader.
 
 ---
 
@@ -481,7 +481,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** BOND · **Ending:** SETTLED
 **The silence afterward, and the first act of plain compassion in the book.** Teva moves his pack for him. Benal sits near him and methodically picks a fern apart. Neither of them says anything about it.
 **Must carry:**
-- **The bond moves, and it moves without a conversation.** `character-arcs.md` §3 has every dyad shifting on Day 11 and none of them shifting by speech; this is where shared guilt turns into something positive.
+- **The bond moves, and it moves without a conversation about the bond.** They talk — about the fever, the water, the next mile — and the shift is in what they do. `character-arcs.md` §3 has every dyad shifting on Day 11 and none of them shifting by speech; this is where shared guilt turns into something positive.
 - **A single blood-spattered feather**, which is the day's allocated image. Her plumage is iridescent, so whether it reads purple-black or mud-brown is the light's decision and both are canon (`plan/milieu-brief.md` §9).
 - **The deafening, ringing silence** after, which is most of what he can hear.
 - **He has stopped being able to hide anything.** `character-arcs.md`: he wants Noli back, he believes nothing, and he fears that it was his fault, correctly.
@@ -815,7 +815,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **It is a swap, not a fabrication** — take that off that one, put it on this one. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable.
 - **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their raft. All three have different work.
-- `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now and none of them says so.
+- `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now; **they talk about what to do next as if it were already settled**, which is how the reader learns it is.
 - **They cannot carry it all, and that is Benal's job.** A four-seat machine, a charge that will not stretch, and an archive with more in it than they can lift. **Three exhausted teenagers choose which records come home, and the choice shapes their society permanently** — `plan/knowledge-ledger.md`. He is the only one who can compute the trade and the only one who understands what is being left, and nobody has time to argue with him.
 **Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.
 **Ends on:** the rotors seated, and the charge indicator being the new problem.
