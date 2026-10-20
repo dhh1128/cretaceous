@@ -496,7 +496,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **A single blood-spattered feather**, which is the day's allocated image. Her plumage is iridescent, so whether it reads purple-black or mud-brown is the light's decision and both are canon (`plan/milieu-brief.md` §9).
 - **The deafening, ringing silence** after, which is most of what he can hear.
 - **He has stopped being able to hide anything.** `character-arcs.md`: he wants Noli back, he believes nothing, and he fears that it was his fault, correctly.
-- `[?]` **There is no rite and nothing to return.** In a culture that dissolves its own dead overnight and keeps no graves, a body that has been taken is the one loss that leaves something behind — which is exactly Yara (`plan/minor-characters.md`). Whether that parallel reaches an animal is unestablished, and nobody in the scene may say it.
+- **There is no rite and nothing to return.** In a culture that dissolves its own dead overnight and keeps no graves, a body that has been taken is the one loss that leaves something behind — which is exactly Yara (`plan/minor-characters.md`). **The parallel lives only in Keo's head** (`plan/backstory.md` K20; `plan/character-arcs.md` §3, Day 11), and nobody in the scene may say it.
 **Hazard:** grief narrated. He is numb and the POV is his, so the compassion has to arrive as things being done to him that he does not respond to. Second: anybody making it better, or anybody saying her name.
 **Ends on:** the pack on his back, and the three of them walking.
 

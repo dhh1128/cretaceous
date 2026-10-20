@@ -1,5 +1,5 @@
 ---
-approval: approved 4f9283bc
+approval: approved 4435a880
 ---
 
 # Character arcs and intimacy
@@ -181,6 +181,13 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D10.1.** Keo sings on the march (K10): his best day, breath to spare, the reader enjoying him as he enjoys himself. It is the last time he sings. The *delicious* joke is his here, as planned.
 - **D10.2.** Teva, concealing sunfever, hears him singing ahead of her, and the irony is never stated. She keeps going by reciting the fields under her breath, and it breaks at the same place. Benal estimates their water aloud (B30), and one of his figures nearly gives her away; she heads it off. She is hiding from the one who notices.
 - **D10.3.** Noli drags in her grounder, and Teva teases Keo about her for the last time (T28); nobody knows it is the last. Benal works out the dataset aloud and Teva listens, while Keo, not following, performs for her.
+
+**Day 11: the one day silence is the point.** Keo is numb, and the care is in what the others do; the scene list already carries the talk that is there. What this adds is the absent.
+
+- **D11.2.** Noli is taken, with no body to return and no rite, which is exactly Yara. The parallel lives only in Keo's head (K20); nobody says it, and her name is not spoken.
+- **D11.4.** The fall is driven by that grief. Leaving the third suit was Keo proving he could survive what Yara could not, and this is what it buys.
+- **D11.5.** Teva's hands know wound care because she sat with her mother (T16), who died of infection after a bite, so Keo's wound frightens her in a specific way. That fear is under the hostile joke.
+- **D11.6.** Benal, sitting watch, hums Liaso's song, the one Keo sang on Days 8 and 10, and Keo hears it through the fever. The song passes from Keo to Benal as the protection reverses, and neither says so.
 
 
 ## 4. Reader regard
