@@ -23,7 +23,7 @@ Nine files. `checks.py` holds the logic as plain functions returning violations;
 
 **Two rounds of tuning are recorded in its docstring**, because both are the same mistake this directory keeps making. Reading every `##` section reported 148 of them and drowned the signal — `allocation_off_day`'s failure, repeating. And the open half originally *ranked* items by how many files mention what they name, which turned out to measure how common the words were: three notes about cover art outscored the scene-ledger items blocking work. **The ranking is gone rather than improved.** It groups by whose ground an item sits on, which is computable, and says outright that dependency order is a reader's job.
 
-`substance.py` and `gloss.py` are the two older front ends and are undocumented here.
+`substance.py` separates real edits from pure renumbering in a diff: it applies the old-to-new day map to each minus line and drops the line only if the result is identical to its plus line, so it can wrongly keep a trivial line but never drop a real one. `gloss.py` annotates day numbers with what the calendar says happens on them. **Do not show Daniel a glossed diff**: the glosses are labels he never approved, so explaining with them is explaining with more unapproved text (2026-09-12).
 
 **One test per invariant, not per violation, and the test name states the claim.** `test_every_file_reference_resolves` fails once, listing all thirteen dangling pointers, rather than thirteen times. Two reasons. The failing line reads as a sentence and needs no docstring to decode it. And the failure count then means what it looks like it means: an earlier version parametrized per violation and reported thirteen pointers plus seven stray dates as *"20 failed"*, which reads as twenty problems and is two. The instances go in the message as `file:line — what`, which is the change-set row.
 
@@ -31,11 +31,7 @@ Nine files. `checks.py` holds the logic as plain functions returning violations;
 
 **A check asserts a relationship, never a value.** *"Every day named anywhere exists in the calendar"* is a check. *"The savanna is 6 km"* is a second copy of the calendar wearing a test costume: it freezes a number into a new location, and if that number was never approved the suite now enforces an invention. This is the failure the corpus has already suffered and it is the one thing that would make the suite worse than nothing.
 
-**Anything the corpus declares about itself is read from the corpus at runtime.** The day range comes from parsing the calendar's own table. The US-English word list comes from the grep command in `AGENTS.md` §5. A check that hardcodes one of those is the seventh copy of a fact and it will drift.
-
-### The one place `checks.py` cheats
-
-`british_words()` reads `AGENTS.md` §5 and then adds ten words found in the corpus that the blacklist does not carry — `armoured`, `synthesised`, `energised`, `micrometres`, `cruellest`, and five more. Those belong in `AGENTS.md` §5, which is the owner. When they are moved there, delete the extension list.
+**Anything the corpus declares about itself is read from the corpus at runtime.** The day range comes from parsing the calendar's own table. The US-English word list is `tools/british-english.txt`, 1,818 vendored British→American pairs, and the exceptions are subtractions from it; filenames are checked as well as text. A hand-written list catches only mistakes somebody has already made, which is why it was replaced. A check that hardcodes one of those is the seventh copy of a fact and it will drift.
 
 ## The checks, and why each exists
 

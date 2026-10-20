@@ -4,6 +4,8 @@ approval: unapproved
 
 # Open questions
 
+**This is not a history file.** It holds questions that do not have an answer. When one is answered, it is deleted from here and the decision is recorded in the file it belongs to; git holds the history. **A removal is not an answer**: a question leaves this file only because Daniel answered it.
+
 Thirty-six questions were removed from an earlier list on the grounds that they had been answered elsewhere and never crossed off. Daniel did not approve that cut. **A removal is not an answer**, and twelve of them are restored below.
 
 Daniel did not approve that cut, and on reviewing the list ruled:

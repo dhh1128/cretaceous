@@ -58,6 +58,9 @@ Requirements that exist because they were violated:
 
 - **Every scene plans its talk around what people want from each other**, not only around the job in front of them. `RELATIONS`, `REGARD` and `TEXTURE` in IN say which relationships move, what the reader should come to feel about each person, and which backstory the scene spends; the moves then name the exchanges that do it, tagged `[relation]`, `[regard]` and `[texture]`. **An exchange is long enough to probe, deflect, lie by implication or change someone**, not a line set into narration. The *hides* column of `character-arcs.md` says what one person keeps back; it is never the plan for how they talk to each other, and a map whose only person-to-person instruction is concealment produces the strong, silent, moody loner (`character-arcs.md` §4).
 - **Every character present gets a `wants` line.** Not just the POV. A character with no want is furniture, and Daniel will hate them.
+- **A routine that recurs is shown once.** The first scene that has the three eat snails, build a fence or change a watch shows how it is done; a later scene gives only what is new about it. The repetition check compares wording and will not catch a retold procedure, so the map has to.
+- **When new material pushes a scene past its band, there is an order to what gives.** First, it displaces sentences that carry nothing: repeated procedure, decorative description, narrated summary an exchange can now do. A short scene at a crisis point holds its band, and relationship work that will not fit moves to the next scene that consolidates. A medium or long scene may run long, with the overage logged for the post-edit trim. Post-edit is for cutting, not for expanding.
+- **The scene list's `Hazard` is a failure the scene invites, named concretely enough that someone could write the wrong version on purpose.** A risk every scene shares belongs in `prompts/ai-tells-blacklist.md`, and a hazard that recurs across three or four scenes drains into it. The map says how each hazard is avoided; the suite checks only that the field exists.
 - **A world-facts block in IN** — the physical facts of the location the scene will touch, stated so the drafter never has to invent them. Where things are kept. Where animals sleep. Heights, distances, temperature, light.
 - **Moves state what a move *does*, not what it looks like.** "Riel describes a stretch of ground: distances, terrain, one hazard" produced non-sequitur drivel because the move had a shape and no function.
 - **Voice traits carry a scope.** "Riel counts" without bounds metastasized into a whole family obsessed with precision measurement.
@@ -180,8 +183,3 @@ Not optional, and not long. Budget it before you start so the session does not e
 3. **Update `ai-tells-blacklist.md`**: new tells from Daniel's critique; and check whether the old ones recurred.
 4. **Record the three flywheel numbers** (`methodology-theory.md` §11): invention-ledger items asked, author words read, author words written. They should fall from scene to scene. If they do not, the flywheel is not turning and something in this procedure is wrong.
 
----
-
-## Open question for the first run
-
-`Q-8HNV`, unanswered as of 2026-09-10: for scene D1.1, is `content/superseded/01.1.md` an **input** — map the existing scene and rebuild from that map, inheriting the architecture Daniel designed — or is it **set aside**, mapping D1.1 from the scene list and the layers alone and writing fresh? The first inherits a structure he liked along with whatever is wrong with it; the second is a cleaner test of the process. Ask him before phase 2.

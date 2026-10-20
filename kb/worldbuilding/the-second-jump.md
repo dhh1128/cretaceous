@@ -113,7 +113,7 @@ They never prove the cure. They never build the equipment. A thousand years <!--
 | the stayers | dead | a thousand years <!-- @WF-secondjump.distance: 1000y --> upstream, and they left a letter |
 | the taboos | founder instruction | founder *duty*, colony apparatus — see `plan/milieu-brief.md` §6 |
 
-**Benal does not derive a new figure at Genesis. He finds theirs and does the subtraction.** `[?]` The arithmetic wants one pass for consistency: 220 from year 3 puts the outer edge at year 223, so seventeen years <!-- @WF-impact.window.max: 17y --> remain, and `plan/milieu-brief.md` §2 says "about two decades out, plus or minus one." Those are close and not identical. Pick one and make both files say it.
+**Benal does not derive a new figure at Genesis. He finds theirs and does the subtraction.** 220 from year 3 puts the outer edge at year 223, so **at most** seventeen years <!-- @WF-impact.window.max: 17y --> remain, and `plan/milieu-brief.md` §2's "about two decades out, plus or minus one" is the same window seen from inside the colony. **Both stand, and the imprecision is the point:** it is never seventeen exact years, it is seventeen years at most, and they are already well inside the envelope where it could come any day. Book 2 argues about it, and that dread hangs over all of book 2. Do not reconcile the two figures into one.
 
 **And the Watch is a duty whose purpose has been forgotten.** It was instituted to continue the dating work with the long baseline the founders never had, and nobody alive can say why they do it — the same shape as the upgrades, in a smaller key. Omya recites the sky perfectly and cannot tell you what it is for.
 

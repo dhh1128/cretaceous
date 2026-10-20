@@ -60,11 +60,15 @@ So when you add something to an approved file, you mark it `[?]` — unless you 
 
 **His attention is the scarce resource in this project**, and the process is measured on it — see `process/methodology-theory.md` §11. Three numbers per scene: invention-ledger items put to him, words he had to read, words he had to write. The baseline is deliberately terrible: scene D2.3, zero ledger items, ~8,600 words read, thousands written, and the output unusable.
 
-- **Propose, don't ask.** An open question makes him do the work. A proposal lets him scan and object, which is an order of magnitude cheaper. Every proposal should be answerable in a few words.
-- **One or two questions at a time, in dependency order** — the one whose answer implies the most about the others first. A list of twenty questions makes him answer ones that later answers would have settled.
+- **Propose, don't ask.** An open question makes him do the work. A proposal lets him scan and object, which is an order of magnitude cheaper. **His answer should take a few words; the question should not.** Each one carries its reasoning: what the proposal is concretely, the alternatives and why they lose, how it runs as an event, and what it implies for later scenes (`process/scene-build-runbook.md` phase 4). Terse questions move the cost from his reading to his writing, and two of six terse ones once failed basic reasoning (`process/methodology-theory.md` §10, 2026-10-09).
+- **One question per reply, in dependency order** — the one whose answer implies the most about the others first. A list of twenty questions makes him answer ones that later answers would have settled.
 - **Deciding *not* to specify something is not a question.** It needs his approval only when the omission has a consequence somebody could get wrong. Everything else you decide and record.
 - **Never be elliptical.** If you write "the paralysis is spatial," say what paralysis and what you mean by spatial, because compression that costs him a round-trip is not economy.
-- **Say what you need from him at the top**, before the reasoning that led there.
+- **Say what you need from him on the last line**, after the reasoning and with nothing after it, because he comes back to the tail of the pane and a long reply has scrolled its opening away (his chat-voice rule, 2026-09-18).
+- **One decision per item.** A deferral or an exception gets its own question; riding one inside a yes to something else has made him approve what he never saw (`process/methodology-theory.md` §10, 2026-10-06).
+- **Bring contradictions and reviews in conversation, one at a time, not as a file for him to read** (`process/methodology-theory.md` §10, 2026-09-12).
+- **When you show him a change, show the current state, and both sides of every hunk.** Not a diff against an intermediate commit, which shows him half-fixed lines; not a `-` whose `+` was filtered away, which reads as a deletion; not a line whose only change is a renumbered day, which `tools/substance.py` drops. Do not gloss with labels he never approved. If he doubts a tool's count, prove it either way rather than defend it (`process/methodology-theory.md` §10, 2026-09-12).
+- **Name a scene by its id and what happens in it, and a section by its heading.** A bare address means nothing to him.
 
 ## 3b. When Daniel edits a file himself
 
@@ -150,7 +154,7 @@ status:   ratified 2026-10-07
 
 **Summary files generate contradictions and nothing else.** Six have been deleted. The clearest case opened by conceding that it loses every disagreement with the file it summarized. A file that restates another file will drift from it, and then a drafter picks whichever it read last. Point at the authority instead.
 
-**The corpus is full of decisions nobody made.** Yesterday's rewrites bundled real decisions of his with large numbers of unrequested changes, and the real decisions made the commits look legitimate. Examples found in one day: an exact population replacing a deliberate vagueness, accents stripped from every name in the name file, a calendar arguing against a season pivot and then scheduling one three times <!-- @WF-season.pivot: none -->, a character's dead sibling changing cause of death.
+**The corpus is full of decisions nobody made.** Yesterday's rewrites bundled real decisions of his with large numbers of unrequested changes, and the real decisions made the commits look legitimate. Examples found in one day: an exact population replacing a deliberate vagueness, a calendar arguing against a season pivot and then scheduling one three times <!-- @WF-season.pivot: none -->, a character's dead sibling changing cause of death.
 
 **The novel is strict third-person limited, and that constrains what a scene can pay.** <!-- @WF-pov: third-limited --> The reader receives exactly what the POV character receives. Irony works by the POV character *misreading shared information*, never by the reader getting extra information. A planning layer that assigns the reader a payment a POV cannot deliver is a defect — one did, at scene D1.1, and it took Daniel to notice.
 
