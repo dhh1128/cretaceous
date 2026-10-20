@@ -203,7 +203,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **Keo's family**
 - **F1** Riel married Joram: "You can see why I married him. So efficient." Joram said eleven words to her the day they met, seven of them about the weather: "It was raining." *(D2.3)*
-- **F2** Joram fell off a ridge in the limestone country onto a rock. The bone came through the skin and closed in four days, and he was hollow for two weeks from the vitality the fast healing took: asleep standing, asleep eating, cold at midday. It was the year Yara was named, about nine years ago. *(D2.3)*
+- **F2** Joram fell off a ridge in the limestone country onto a rock. The bone came through the skin and closed in four days, and he was hollow for two weeks <!-- @WF-joram.hollow: 2w --> from the vitality the fast healing took: asleep standing, asleep eating, cold at midday. It was the year Yara was named, about nine years ago. *(D2.3)*
 - **F3** The scar story is the oldest story in the family, and "And then?" is Keo's line in it. *(D2.3)*
 - **F4** The family's old games and bits: counting Keo's sighs; "Your father will say one word. Two, if it goes well." Riel has a dry voice she keeps for tracking Keo's mornings. *(D2.3)*
 - **F5** Keo's parents have been past the tangle more times than anyone he knows, and are among the best Explorers the Enclave has. They can tell the story of the suits that are gone. *(D2.3, D2.6, D2.11)*
@@ -217,7 +217,7 @@ What the three and the people around them were before the story opens: habits, h
 **Teva's family**
 - **F12** Lumea was Omya's daughter, so what Omya passes to Teva is a heritage down the women of the family. Lumea had none of a Keeper's patience, argued with Omya, and was "very good at being wrong". *(D2.4, revise: drop "the senses for it")*
 - **F13** Lumea died at home in their nest, in the morning, after days sick, with the Keepers bringing a Seeding. She liked to cook. *(D1.1; T14)*
-- **F14** Omya taught Rano the keys when he was Teva's age, and taught the protocol to two generations of Keepers. She is older than sixty. *(D1.1, D2.4)*
+- **F14** Omya taught Rano the keys when he was Teva's age, and taught the protocol to two generations <!-- @WF-omya.protocol.generations: 2 --> of Keepers. She is older than sixty. *(D1.1, D2.4)*
 - **F15** Omya used to say "Precision, Teva", tapping the table between them. Her sayings: "It has to rest before it goes in", over dough; "You can't hurry a fig"; "Leave me enough to be returned with". *(D1.1, D2.4)*
 - **F16** Omya used to wear a particular face over a culture that failed in the night, when she had already worked out why. *(D2.4)*
 - **F17** Omya succeeded at the blue in public a month ago, by two bystanders' contested accounts. Every attempt at the rust-red since the flood has failed (`plan/milieu-brief.md` §8). *(D1.1, revise: one line says "the blue", one says "it")*
