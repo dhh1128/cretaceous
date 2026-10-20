@@ -347,7 +347,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **Nobody sleeps.** The sky is enormous and useless and they are not looking at it.
 **Must carry:**
-- **Keo has to hold two tonnes <!-- @WF-decoy.mass: 2t --> of panicking animal tomorrow** and this is the night before. The scene belongs to the person with the job.
+- **Keo has to drive a hadrosaur into the river tomorrow, deeper than it wants to go**, and this is the night before. The scene belongs to the person with the job.
 - `[?]` **Teva does not look up.** Omya taught her the stars (`minor-characters.md`), and Keo watches her not look and misreads what it means. Strict third: the reader gets his misreading, not her reason.
 - Day 6 was four days of good weather ago and is already the thing they draw against.
 **Hazard:** the night-before-the-battle conversation. Two teenagers talking meaningfully about courage. The scene is about not sleeping, and most of it should have nobody speaking.

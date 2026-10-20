@@ -1,5 +1,5 @@
 ---
-approval: approved abb54d48
+approval: approved d66e5ba0
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -74,7 +74,7 @@ The dependency order:
 |---|---|---|---|
 | **Leaving, Day 3 pre-dawn** | ground fog | clear | The fog is the only reason they get past the watcher |
 | **Constrictor, Day 5** | still air, dense understory | wind, hard rain | An ambush predator the color of dead leaves needs litter that isn't moving, and Benal's hearing has to be defeated by *silence*, not noise |
-| **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to hold two tonnes <!-- @WF-decoy.mass: 2t --> of panicking animal with his mind while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
+| **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to push a panicking animal deeper into the water than it wants to go while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
 | **Sunfever, Day 10** | cloudless, no wind | any cloud | Her suit has to lose |
 | **Noli taken, Day 11 dawn** | clear low sun | overcast | The flybeak comes out of the sun. No sun, no ambush |
 | **The raft, Day 14** | building sea, then cyclone | calm | — |
