@@ -739,7 +739,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The complete synthesis protocols, etched on metal tablets.** **SU2** in the budget: the journey was not futile. A relief-shaped surprise landing directly on all-is-lost.
 **Must carry:**
 - **They have solved the thing they came for**, and it is only the middle of Act 3.
-- `[?]` **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not be able to read it. @D1.1 @D2.4
+- **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not read most of it, and she recognizes the first twenty positions Omya drilled into her (`plan/backstory.md` T8). @D1.1 @D2.4
 - **EP11 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
 **Hazard:** triumph. They have what they came for and they are still on a coral spit with no boat, and the scene should know that before they do.
 **Ends on:** the tablets, and Benal already looking at the next door.
@@ -776,7 +776,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **Her reaction is *they lied to us*, and it is the emotional truth and it is wrong** — the corruption was drift, not deceit. The nuance arc is the distance between this scene and the confrontation. `plan/outline.md` and `plan/character-arcs.md`.
 - **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
-- `[?]` Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
+- Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
 **Hazard:** an argument that resolves. Nothing is settled here; the accusation stands unrefuted until Act 3's confrontation, and a scene that answers it now spends the arc.
 **Ends on:** her deciding what she is going to say to the Council, which is the wrong speech and she will not give it.
 

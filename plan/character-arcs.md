@@ -1,5 +1,5 @@
 ---
-approval: approved 6b62ffa9
+approval: approved c647ac27
 ---
 
 # Character arcs and intimacy
@@ -204,6 +204,15 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D15.2.** At Teva's lowest, *we'll be fine*, the trio's line since Day 2, is said by Teva, flat, and it breaks as she says it.
 - **D15.3.** Eighteen hours <!-- @WF-cyclone.tail: 18h --> of wet dark are got through on home stories: Topo, Teva's two friends, Omya. It warms them toward the night.
 - **D15.4.** Teva tells Benal that, years ago, Keo made the boy who startled him stop (K26, T27): Benal learns he has been protected longer than either knew, and that is what takes Keo↔Benal to 9. Keo, edging toward the crush without saying it, asks Teva whether she remembers chasing him to kiss him when they were small, and she does not (K22, T30); he laughs it off, and the reader knows what it cost. It is the scene list's *someone says the wrong thing first*, and the romance stays unresolved (Rule 1).
+
+**Days 16–18: Genesis, and the register pays.**
+
+- **D16.2.** While the other two work the archive, Keo is useless, and his dyslexia (K15) is the specific reason: a room of text is his particular failure, which makes his wandering on Day 18 inevitable rather than sulky. Benal sees it, having suspected since math class (B22), and says nothing.
+- **D16.3.** The protocols pass through Teva's hands. She cannot read all of it, but she recognizes the first twenty positions Omya drilled into her (T8), etched in metal: her grandmother's words outlasting her grandmother's mind.
+- **D17.1.** *A name she knows, spelled the long way* is Cecilia Arroyo, ancestor of Sila, the woman Teva idolized and is disillusioned with, and mother of one of her two friends (T18, T19). The reader knows Cecilia from her warm, doubting letters, so the face Teva finds is the real one behind the voice Sila claims.
+- **D17.2.** Keo asks the frustrated question, the rare question he cannot answer himself, and in the answer Benal hears something Marek once said (F22).
+- **D17.3.** Teva gets as far as Omya guarding a protocol for a journey home she could never have made, and stops. Keo sides with her that it was a lie, and Benal is alone with the impossible mission: two against one, the reverse of D3.2.
+- **D18.2.** The training system talks rather than needing to be read, which is why it is Keo's: the boy who could not use the archive finds the way home.
 
 
 ## 4. Reader regard
