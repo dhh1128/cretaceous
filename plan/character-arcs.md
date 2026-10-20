@@ -1,5 +1,5 @@
 ---
-approval: approved e98257b6
+approval: approved f398eda0
 ---
 
 # Character arcs and intimacy
@@ -95,6 +95,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **2, evening** | 7 volunteers for her | 4 recruits his mind | 4 afraid for him, then awe |
 | **3–5** | 6 | 5 respect | 5 debt |
 | **6** | **7 the good day; almost says it** | **6** | **7 the joke that becomes theirs** |
+| **7** | 6 she takes the decision from him | 6 she listens | 7 the debt holds under strain |
 | **10** | 6 performing for her | 5 | 6 |
 | **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch — the protection reverses** |
 | **12–14** | 5 changed, quieter | 7 | 8 |
@@ -148,6 +149,18 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D4.2.** At the moths, the day's one shared pleasure, Teva asks Benal what he hears and he tells them. Keo shows off about his bites.
 - **D5.1.** At the lay-up, Teva teases Keo about Noli for the first time (T28). Keo answers Benal's false alarm with a tease rather than a turned back.
 - **D5.2.** The after-talk is in voice: the count, the shoulder, the hands, and a joke that comes out wrong. Benal registers that Teva read the snake the way he reads things, the first step of his admiration. Marek's *you'll be ill* surfaces once (`minor-characters.md`).
+
+**Day 6: the good day, and Teva inside the joke.** The three dyads peak together here and only here, so Teva has to be inside the comedy on the day it becomes theirs.
+
+- **D6.1.** Teva asks Benal how he tells honey from resin at that distance: her first real question to him, the asking where her warmth is. At the young croc, Benal sees Keo's face and knows why, because small crocs inside are culled for Yara (K47); nobody says her name. Benal has one thought of home, the boy who had never been outside. The closing laugh is dramatized rather than reported.
+- **D6.2.** Benal clowns and Teva lands the last line (`humor-plan.md`, mechanism 3), within her laughter budget. Teaching her the suit override, Keo's hands stay on her forearm a moment too long, and she notices and does not understand it. Keo answers "This is the best day I've ever had" with fondness, and someone asks what Benal's ordinary days were like (B2).
+- **D6.3.** The beetle argument is dramatized, with Teva's dry cut-off. On the ridge they talk about standing where nobody they know has stood. Keo's almost-declaration becomes the flower (T6): he offers it instead of saying it, she takes it flatly and says something he misreads, and he never learns she kept it.
+
+**Day 7: the river, and the absent kept present by observation.** Yara is never named; the others see what the crocs are to Keo, and Teva sees it wrong.
+
+- **D7.1.** Benal sees Keo looking at sixteen crocs and knows what he is seeing. Teva's "I know" acknowledges what Benal offered instead of closing him down. Someone registers that they all trust his ears now, reversing Day 5. Benal tries to answer Keo's failed joke and cannot, so the register dies in both of them.
+- **D7.2.** Teva reads Keo on the rock as bravado, and through her POV the reader can see him standing over croc water, which took his sister. When Benal says "We could go home", Keo answers protectively and Benal hears pity. After she takes the decision from Keo, Teva has a moment that shows what it costs her. When Keo admits he cannot do something, she asks him about it.
+- **D7.3.** The night-before talk is dramatized: logistics on the surface and the three holding on to each other under it, drawing on Day 6's honey and the *delicious* joke. Keo thinks of Yara. Keo answers Benal's "Statistically".
 
 
 ## 4. Reader regard
