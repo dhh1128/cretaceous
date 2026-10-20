@@ -262,7 +262,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Purpose:** CLASH · **Ending:** SETTLED
 **The constrictor.** Pure silent terror, and it is the first time the world tries to kill one of them specifically.
 **Must carry:**
-- **The color of dead leaves and shadow.** Crushing, breathless silence, and all he can smell is the snake's musky reek and his own terror. **Silence, absolute, before it** — allocated to Day 5 and it is the only absolute silence in the book.
+- **The color of dead leaves and shadow.** Crushing, breathless silence, and all he can smell is the snake's musky reek and his own terror. **The birds stop before it** — the overcast thickens in the afternoon and the birds go quiet, as they do when light drops; it is the weather, not the snake. The insect wall goes on; only Benal hears the difference.
 - **His hearing is defeated by silence rather than noise**, which is the one failure mode nobody would predict and the reason it gets him.
 - **Keo and Teva save him with their bodies**, and the debt is the point. Chest wall bruised the width of a body, breathing shallow for four days. Teva thrown, shoulder wrenched, calls it nothing. Keo's hands torn on scale.
 - **Shattered, then welded** — surviving it together does more than any conversation, and the scene should not follow it with a conversation.

@@ -1,5 +1,5 @@
 ---
-approval: approved 609d0a6a
+approval: approved 6c740980
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -149,7 +149,7 @@ Each of these is owned once. The number is the day.
 
 **Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days <!-- @WF-mudwalk.days: 11 -->. Nobody has to point this out.
 
-**Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **silence, absolute, before the constrictor (5)** · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
+**Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **the birds stop, before the constrictor (5)** — the overcast thickens and they go quiet, as birds do when the light drops; the insect wall goes on, and only Benal hears the difference · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
 **Touch and taste** — limestone underfoot (1, established, never again) · septic gel on a spike's tip, and on the fingers that put it there (3) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
