@@ -10,8 +10,9 @@ sentences with two or more `, and` joints (budget two or three a scene,
 narration reporting that someone did not speak (§32, at most one a scene), listed; and
 spoken lines per thousand words (Daniel's viking runs about nineteen); the share of
 words that are dialogue, and the longest exchange, counted as consecutive paragraphs
-carrying speech. Those two are diagnostics and not targets: viking runs 28% dialogue,
-34% in its chapters that have any, with a median longest exchange of fifteen paragraphs.
+carrying speech. Those two are diagnostics and not targets: viking (edition 3.3, this file's own quote
+regex, chapters split on `## `) runs 28% dialogue overall and about 30% in the 48 of its 55 chapters
+that have any, with a median longest exchange of seven paragraphs (eight among chapters with dialogue).
 A scene whose map plans `RELATIONS` and whose talk comes out in ones and twos has not
 done what the map asked (`process/methodology-theory.md` §4a).
 
@@ -83,7 +84,7 @@ def main(argv: list[str]) -> int:
         print(f"{name}: {m['words']} words; narration ≤5 words {pct:.1f}% "
               f"({len(m['short'])}/{m['narration']}); comma-and chains {len(m['chains'])}; nobody {m['nobody']}; "
               f"the-way similes {len(m['manner'])} (max 1); as-if {m['asif']}; "
-              f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19); dialogue {100*m['dialogue']/max(1,m['words']):.0f}% (viking 28-34); longest exchange {m['exchange']} paras (viking ~15)")
+              f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19); dialogue {100*m['dialogue']/max(1,m['words']):.0f}% (viking 28-30); longest exchange {m['exchange']} paras (viking ~7)")
         for c in m["chains"]:
             print(f"    chain: {c[:110]}")
         for s in m["manner"]:
