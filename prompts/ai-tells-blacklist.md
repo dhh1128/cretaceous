@@ -1,5 +1,5 @@
 ---
-approval: approved 9aa12fa2
+approval: approved 0a7c1c11
 ---
 
 # AI tells — the blacklist
@@ -227,6 +227,12 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 - **No stock phrases**: *belonged to someone else*, *never seen it before*, *weighed nothing*, *nothing had happened*. Each turned up twice before this rule.
 
 **At most one full-clause *as if* in a scene**; the short physical and comic ones (*let go as if it had been burned*) are not counted against it. `tools/measure.py` reports the total.
+
+## 32. The withheld line
+
+> After the Day 8 maps: "Why is it constantly the case that nobody is saying anything? This is turning into a vastly overused trope. These people seem to have a stupid predilection for not communicating. … Every character is wooden."
+
+**Rule.** The voice sheets name the specific things each character does not say — fear, pain, needing help, the Day 15 confessions. **Everything else they talk about**, constantly and in their own registers: Keo instructs, objects and asks (`plan/voice-sheets.md`: speech is how he gets people to do things), Teva leads by asking, Benal explains. The drafts turned *does not say the feeling* into *does not talk*. Measured 2026-10-21: narration that reports someone not speaking (*nobody said anything*, *he did not say it*, *without a word*) runs **0.16 and 0.20 per thousand words** in viking and cordimancy, and climbed in the drafts from 0.69 on Day 1 to **2.41 on Day 7**; viking carries about **nineteen spoken lines per thousand words**, and drafted scenes had as few as none. **At most one withheld line in a scene, and it names the specific thing held back.** Never the default ending. When a scene's plan says *nobody says X*, the scene still has talk — about everything except X. `tools/measure.py` counts both.
 
 ## What worked, kept as positive exemplars
 

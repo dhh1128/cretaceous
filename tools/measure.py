@@ -6,7 +6,9 @@ Prints, per file: words; narration sentences of five words or fewer, as a share 
 narration (target 19-22%, `prompts/style-canon.md` §0 and `AGENTS.md` §4); narration
 sentences with two or more `, and` joints (budget two or three a scene,
 `prompts/ai-tells-blacklist.md` §30); the count of `nobody` (§29); and manner similes,
-*X does Y, the way Z* (§31, at most one a scene), listed, with *as if* / *as though* counted beside them.
+*X does Y, the way Z* (§31, at most one a scene), listed, with *as if* / *as though* counted beside them; withheld lines,
+narration reporting that someone did not speak (§32, at most one a scene), listed; and
+spoken lines per thousand words (Daniel's viking runs about nineteen).
 
 **Narration only.** Quoted speech is removed before sentences are split, because
 Daniel's dialogue runs about twice his narration's short-sentence rate and a
@@ -27,6 +29,7 @@ SPEECH = re.compile(r'"[^"]*"')
 COMMENT = re.compile(r"<!--.*?-->", re.S)
 SENT = re.compile(r"(?<=[.!?])\s+")
 MANNER = re.compile(r"\bthe way (?:you|a|an|people|he|she|they|it|someone|anyone|one|his|her|their|everyone|everybody|men|women|children|[A-Z][a-z]+)\b(?! (?:home|back|out|to|through|across)\b)(?!\s(?:\w+\s)?(?:had|have) (?:come|carried)\b)(?!\s(?:\w+\s)?(?:were|was) telling\b)")
+WITHHELD = re.compile(r"\b(?:nobody|no one|none of them|neither of them)\b[^.]{0,40}\b(?:said|say|says|spoke|speak|talked|answered|asked|mentioned|remarked|argued)\b|\b(?:said|say) nothing\b|\bdid not say\b|\bdidn't say\b|\bnot say(?:ing)?\b|\bdid not answer\b|\bwithout a word\b|\bnothing to say\b", re.I)
 ASIF = re.compile(r"\bas (?:if|though)\b", re.I)
 ATTRIB = re.compile(r"^(?:\w+\s+)?(?:said|asked|whispered|breathed|called|shouted|answered)\b[^.!?]*[.!?]?$", re.I)
 
@@ -53,6 +56,8 @@ def measure(path: Path) -> dict:
         "nobody": len(re.findall(r"\bnobody\b", body, re.I)),
         "manner": [s for s in SENT.split(body.replace("\n", " ")) if MANNER.search(s)],
         "asif": len(ASIF.findall(body)),
+        "withheld": [s for s in SENT.split(SPEECH.sub(" ", body.replace("\n", " "))) if WITHHELD.search(s)],
+        "spoken": len(SPEECH.findall(body)),
     }
 
 
@@ -65,11 +70,14 @@ def main(argv: list[str]) -> int:
         pct = 100 * len(m["short"]) / max(1, m["narration"])
         print(f"{name}: {m['words']} words; narration ≤5 words {pct:.1f}% "
               f"({len(m['short'])}/{m['narration']}); comma-and chains {len(m['chains'])}; nobody {m['nobody']}; "
-              f"the-way similes {len(m['manner'])} (max 1); as-if {m['asif']}")
+              f"the-way similes {len(m['manner'])} (max 1); as-if {m['asif']}; "
+              f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19)")
         for c in m["chains"]:
             print(f"    chain: {c[:110]}")
         for s in m["manner"]:
             print(f"    the-way: {s.strip()[:110]}")
+        for s in m["withheld"]:
+            print(f"    withheld: {s.strip()[:110]}")
     return 0
 
 
