@@ -1,5 +1,5 @@
 ---
-approval: approved db5f3042
+approval: approved 39e6dcc0
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -147,7 +147,7 @@ Each of these is owned once. The number is the day.
 
 **Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · brine and cold (14) · the mosasaur's breath (14) · wet metal, ozone and dormant circuits at Genesis (16).
 
-**Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters wear the second one on their faces for eleven days <!-- @WF-mudwalk.days: 11 -->. Nobody has to point this out.
+**Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters carry the second one in a pot and put it on their fence every night until the river takes it on Day 8 *(`body-and-resources.md` §0; on skin only at the crossing)*. Nobody has to point this out.
 
 **Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **the birds stop, before the constrictor (5)** — the overcast thickens and they go quiet, as birds do when the light drops; the insect wall goes on, and only Benal hears the difference · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
