@@ -1,5 +1,5 @@
 ---
-approval: approved d6cb5601
+approval: approved f55cbb90
 ---
 
 # Backstory register
@@ -95,7 +95,7 @@ What the three and the people around them were before the story opens: habits, h
 - **T9** She knows the culture lineages the way she knows the rungs of their ladder in the dark. *(D2.4)*
 - **T10** She has heard "We are scientists, not shamans" so often it usually goes past her, and she has heard Omya stumble on the bad days. *(D2.4)*
 - **T11** She knows the faintest stars by name and number and has never seen one. She learned her sensory upgrades had failed by going through the Watch for months, hoping the faint stars would appear to her, until she concluded nothing had changed. *(D2.4, D3.5)*
-- **T12** She used to lose the recitation somewhere past the sixth field and let Omya go on alone, because the rest was useless and Omya would be there tomorrow. She has the seventh field's name and not its count, and breaks at the same place. *(D2.4, D3.5 revise: "the useless half"; D6.2)*
+- **T12** She used to lose the recitation somewhere past the sixth field and let Omya go on alone, because the rest was useless and Omya would be there tomorrow. She has the seventh field's name and not its count, and breaks at the same place. *(D2.4, D3.5, D6.2)*
 - **T13** She does not count things compulsively. Her habit is memory: she recalls exactly what she was taught. Noticing quantities is Riel's (`plan/voice-sheets.md`), and estimating odds is Benal's (B34). *(D5.1, revise: "counted hers without meaning to")*
 
 **Her mother**
