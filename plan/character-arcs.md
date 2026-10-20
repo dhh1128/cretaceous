@@ -1,5 +1,5 @@
 ---
-approval: approved c647ac27
+approval: approved feb6dd33
 ---
 
 # Character arcs and intimacy
@@ -103,7 +103,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **12–14** | 5 changed, quieter | 7 | 8 |
 | **15, night** | 6 he confesses to both | **7 and Keo sees it** | 9 |
 | **16–18** | 6 | 7 | 9 Genesis proves Benal right |
-| **19** | 7 unresolved | 8 trust, as his first real listener; the attraction unresolved | 9 trust and admiration, both ways |
+| **19** | 8 close friends; the romance unresolved | 8 trust, as his first real listener; the attraction unresolved | 9 trust and admiration, both ways |
 
 ### How the triangle actually works
 
