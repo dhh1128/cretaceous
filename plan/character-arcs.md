@@ -1,5 +1,5 @@
 ---
-approval: approved bc6540e8
+approval: approved e98257b6
 ---
 
 # Character arcs and intimacy
@@ -137,7 +137,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D2.4.** Teva tucks a flower into Omya's plait (T6), and Omya, lucid and dry, remembers the Explorers' boy who brought her flowers.
 - **D2.5.** Benal's math children pass the pool on the teaching rota (X10). The yazhi know him, and a yazhi's joke about him is the funny line Teva does not laugh at.
 
-**Days 3–5: what happens between them gets answered.** A quarrel, a save, a joke or a wound is met by a reply rather than closed by silence or summary. Each of the three has one beat tied to someone absent.
+**Days 3–5: what happens between them gets answered.** A quarrel, a save, a joke or a wound is met by a reply rather than closed by silence or summary. Each of the three has one moment tied to someone absent.
 
 - **D3.1.** Keo says aloud to Benal something about what the suit's quiet means to him: the kind face of his pity. When Teva says "Possibly", Keo takes it up, so the joke belongs to all three.
 - **D3.2.** Keo answers "reckless, unsuited idiot" in his own register, protesting and then conceding. Someone acknowledges that Teva saved him and Noli. The debt starts here.
