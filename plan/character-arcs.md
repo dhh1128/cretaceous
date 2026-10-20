@@ -1,5 +1,5 @@
 ---
-approval: approved f398eda0
+approval: approved 6589a1e4
 ---
 
 # Character arcs and intimacy
@@ -96,6 +96,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **3–5** | 6 | 5 respect | 5 debt |
 | **6** | **7 the good day; almost says it** | **6** | **7 the joke that becomes theirs** |
 | **7** | 6 she takes the decision from him | 6 she listens | 7 the debt holds under strain |
+| **8** | 6 he holds the herd while she takes Ben across | 7 she hauls him out | 7 carried, and Benal sees what it cost |
 | **10** | 6 performing for her | 5 | 6 |
 | **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch — the protection reverses** |
 | **12–14** | 5 changed, quieter | 7 | 8 |
@@ -161,6 +162,13 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D7.1.** Benal sees Keo looking at sixteen crocs and knows what he is seeing. Teva's "I know" acknowledges what Benal offered instead of closing him down. Someone registers that they all trust his ears now, reversing Day 5. Benal tries to answer Keo's failed joke and cannot, so the register dies in both of them.
 - **D7.2.** Teva reads Keo on the rock as bravado, and through her POV the reader can see him standing over croc water, which took his sister. When Benal says "We could go home", Keo answers protectively and Benal hears pity. After she takes the decision from Keo, Teva has a moment that shows what it costs her. When Keo admits he cannot do something, she asks him about it.
 - **D7.3.** The night-before talk is dramatized: logistics on the surface and the three holding on to each other under it, drawing on Day 6's honey and the *delicious* joke. Keo thinks of Yara. Keo answers Benal's "Statistically".
+
+**Day 8: the crossing, and what each of them pays for the others.** Talk fills the waiting and the night; silence is spent only in the water, where the surface is the danger.
+
+- **D8.1.** The waiting is filled with talk. Noli crosses an hour early on her own, and Teva teases Keo that his animal is braver than he is; three days later the joke has no object. Keo sings under his breath, Liaso's song from D3.1 (K10), and Benal knows it. Driving the herd, Keo does what he does at home with the hadrosaurs (K1), and home is in his head while he does it.
+- **D8.2.** Talk is spent only where the surface allows. Teva towing Benal is her care: she hauls him up the bank by the strap before she lets herself stop.
+- **D8.3.** Benal sees that what Keo paid is more than a headache: the first time Benal looks after Keo, which the Day 11 reversal builds on.
+- **D8.4.** The whispered argument at the bare fence, as mapped. Benal's joke fails, as planned, and Teva lands the last line, so the night ends with the three of them together rather than each alone with the fear.
 
 
 ## 4. Reader regard
