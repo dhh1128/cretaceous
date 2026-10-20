@@ -1,5 +1,5 @@
 ---
-approval: approved 36847647
+approval: approved d983ef8b
 ---
 
 # Character arcs and intimacy
@@ -97,7 +97,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **6** | **7 the good day; almost says it** | **6** | **7 the joke that becomes theirs** |
 | **7** | 5 she takes the decision from him, and he admits he cannot | 5 she kills *we could go home* in two words | 6 Keo protective, and Benal hears pity |
 | **8** | 6 he holds the herd while she takes Ben across | 7 she hauls him out | 7 carried, and Benal sees what it cost |
-| **9** | 7 she offers him a taste and he reads it as more | 6 she listens to the shells | 7 Benal watching Keo's head |
+| **9** | 7 she offers him a taste of the honey and he reads it as more | 6 she listens to the shells | 7 Benal watching Keo's head |
 | **10** | 6 performing for her | 5 | 6 |
 | **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch — the protection reverses** |
 | **12–14** | 5 changed, quieter | 7 | 8 |
@@ -174,7 +174,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 **Day 9: the ordinary day after the enormous one, when they start telling each other their lives.**
 
 - **D9.1.** On the long walk they trade home lives: Benal's shells (B12) and the mathematician everyone thinks is scatterbrained (B6); Keo's hadrosaurs and Topo (K1, K18). At a rest stop Benal balances stones without thinking (B13), the first time the habit appears, and the day after the crossing he either knocks the stack down before they move on or leaves it standing. Benal keeps watching Keo's head, carrying on the care that began at D8.3.
-- **D9.2.** Teva cooks the evening food and offers the others a taste the way she does with Omya (T5), so what she brought from home is in what she does. Keo takes the taste as meant for him: the misreading is how the scene moves the social ladder without an argument. Teva names the river behind them, flatly, as a fact, and nobody draws the conclusion aloud.
+- **D9.2.** Teva shares out the last handful kept back from Day 6, the pinyons and honey (`body-and-resources.md` §3, Day 9), and offers the others a taste of the honey the way she offers Omya sips (T5), so what she brought from home is in what she does. Nothing is cooked. Keo takes the taste as meant for him: the misreading is how the scene moves the social ladder without an argument. Teva names the river behind them, flatly, as a fact, and nobody draws the conclusion aloud.
 
 
 ## 4. Reader regard
