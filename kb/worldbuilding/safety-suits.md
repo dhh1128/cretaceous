@@ -1,5 +1,5 @@
 ---
-approval: approved 4e34f4c7
+approval: approved aaf29af1
 ---
 
 # Environmental suits
@@ -71,7 +71,7 @@ So wearing a suit outside the perimeter is only half about surviving. The other 
 
 That is the actual charge against going unsuited, and it is a cultural one rather than a safety one: *if you die out there, and something eats you, you may leave a piece of yourself in the record.* Reckless rather than treasonous — but it is the kind of recklessness this society finds hard to forgive, and Keo knows it when he leaves the third suit on the rack.
 
-**Trigger and override.** The suit reads the wearer's vitals through the inner layer. Confirmed absence of pulse and temperature, sustained past a margin, wakes the archaea. **There is an override**, because the margin is not long enough to be safe for someone merely unconscious, and knowing the override is ordinary Explorer knowledge — which Keo has and the other two do not. *(Spent at D5.2: Benal blacks out in the constrictor's coils as they come off him and wakes inside the count, and Keo does the override. See `body-and-resources.md`.)*
+**Trigger and override.** The suit reads the wearer's vitals through the inner layer. Confirmed absence of pulse and temperature, sustained past a margin, wakes the archaea. **There is an override**, because the margin is not long enough to be safe for someone merely unconscious, and knowing the override is ordinary Explorer knowledge — which Keo has and the other two do not. *(Spent at D5.2: Benal blacks out in the constrictor's coils as they come off him and wakes inside the count, and Keo does the override. See `body-and-resources.md`.)* **From D6.2 Teva and Benal know the motions too**, taught by Keo in the tree; the count runs only on a wearer the suit has lost, so it cannot be practiced live, and neither knows whether they learned it right.
 
 ### Maintenance — "the Feeding"
 
