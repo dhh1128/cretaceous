@@ -1,5 +1,5 @@
 ---
-approval: approved c4005775
+approval: approved fbdd5eff
 ---
 
 # Environmental suits
@@ -18,7 +18,7 @@ A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 6–8 m
 
 `[?]` **How they should read on the page: bio-functional, sleek, grounded.** Not cyberpunk, not a mech, not robotic. They are living equipment that a person steps into, and the prose should not reach for the vocabulary of powered armor.
 
-**Helmet, yes. Faceplate, never.** <!-- @WF-suit.faceplate: none --> The hood is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
+**Helmet, yes. Faceplate, never.** <!-- @WF-suit.faceplate: none --> It is a stiff strut-reinforced helmet that raises over the skull and continues down to shield the neck — bicycle-helmet class for impact, with the comms earpiece and mic built into the struts. Raised or lowered at will.
 
 The helmet carries a **flip-down eye shield**: a single transparent curve from brow to cheekbone, for impact, debris and UV. It is not a seal and never was. **Nose and mouth are open to the air at all times, in every configuration.** There is no atmospheric control of any kind — no filtration, no recycling, no regulation.
 

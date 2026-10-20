@@ -239,7 +239,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Must carry:**
 - **The bait and switch**: a clearing with clouds of hand-sized iridescent day-flying moths, then sauna heat and protein-seeking flies that crawl on his eyes and mouth.
 - **He is the only one experiencing the full assault**, and the isolation is what deepens the shame. Nobody else can even see the problem.
-- **Rain on a raised hood**, and rain is the one thing that defeats his hearing — `tech-rules.md` has this as the limit, and it should be a relief and a blindness at once.
+- **Rain on a raised helmet**, and rain is the one thing that defeats his hearing — `tech-rules.md` has this as the limit, and it should be a relief and a blindness at once.
 **Hazard:** describing the jungle. The subject is a boy who cannot turn his senses down, and the environment should only ever be rendered through how much of it is reaching him.
 **Ends on:** him not saying anything about it.
 

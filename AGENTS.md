@@ -123,6 +123,10 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 | `escaping pressure` | The same ruling: **cord, saddle and stones**, never air. |
 | `gel on exposed skin` | **Nobody wears the gel to pass the tangle.** It goes on a perimeter, on the night fence, and on Teva's spike tip; skin only at the Day 8 crossing. `plan/body-and-resources.md` §0 |
 | `Days 3–14, constantly` | **Teva's magnetic sense matters at four named moments, each with a reason** — rebuilding the D3.2 run, finding the narrows, the suits failing, and offshore — and is quiet between, because the suits give a compass and a distance. `plan/tech-rules.md` |
+| `the hood` | **The suit's headgear is a helmet, and it is only ever called that.** A stiff strut-reinforced helmet over the skull and down to shield the neck, open face, no faceplate. *Hood* reads as cloth, and the prose was using both words for one thing. `kb/worldbuilding/safety-suits.md` |
+| `his hood` | The same ruling: **helmet**, never hood. |
+| `her hood` | The same ruling: **helmet**, never hood. |
+| `raised hood` | The same ruling: **helmet**, never hood. |
 
 **Retired scene addresses.** Scene ids are **`D<day>.<n>`** <!-- @WF-scene.id.scheme: Dday.n --> and always have been since the renumber. The outline-unit form is dead, and the suite fails on any of these appearing in a tracked file: `1.1`, `1.2`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `3.1`, `3.2`, `3.3`, `3.4`, `4.1`, `4.2`, `4.3`, `5.1`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `7.1`, `7.2`, `7.3`, `8.1`, `8.2`, `8.3`, `8.4`, `9.1`, `9.2`, `9.3`, `9.4`, `10.1`, `11.1`, `12.1`, `13.1`, `14.1`, `15.1`. `no_legacy_addresses` reads that list from this sentence. **It is listed rather than described because a range would be wrong** — `11.2` and `2.8` look like addresses and are a sentence-length mean and a percentage, and a check that flagged them would be crying wolf about the two most common kinds of number in this corpus. Four of these kept their digits across the move, so `2.3` became `D2.3`: a stale one does not read as broken, it reads as almost right, which is why the prohibition is permanent rather than a one-off sweep.
 
