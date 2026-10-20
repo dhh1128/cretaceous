@@ -1,5 +1,5 @@
 ---
-approval: approved 6c740980
+approval: approved db5f3042
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -109,7 +109,7 @@ Allocated deliberately, and mostly to Day 6, because beauty spent evenly is wall
 - **Bioluminescent beetles** at night, pulsing on an unfamiliar rhythm — Days 2 and 6. *(Luminous elateroid beetles are known from Cretaceous amber; this is inference to the Maastrichtian rather than direct evidence, and it is a small, cheap inference.)*
 - **A saropo herd from a ridge** — Day 6. Awe with nothing at stake.
 - ***ornithomimus* running** — Day 10. Pure pleasure, no threat.
-- **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at, and what it means that it will still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->.
+- **Amber** in a conifer wound, with something in it — Day 6. They would understand exactly what they are looking at: resin that becomes amber, which anywhere else could still be there in sixty-six million years <!-- @WF-transit.depth: 66Mya -->, **and here will not**, because they are inside what the impact erases. Benal says so (D6.2).
 
 ### Edible things, and what they cost
 
