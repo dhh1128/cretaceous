@@ -102,7 +102,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | 5 | 2 | the constrictor |
 | **6** | **3** | **the gift.** Fed, dry, laughing. The deposit every later day draws on |
 | **7** | **3** | **they come to the water and stop.** Arriving · the plans proposed and discarded on the bank — raft, riding a saropo across, upstream, go home · the night nobody sleeps |
-| **8** | **3** | **the crossing.** Driving the hadrosaur while they wait for the afternoon · the water · the far bank, with nobody able to walk |
+| **8** | **4** | **the crossing.** Driving the hadrosaur while they wait for the afternoon · the water · the far bank, with nobody able to walk · the first night with a bare fence |
 | **9** | **2** | what it cost and what it bought. Across, and still walking |
 | 10 | 3 | the savanna; hubris at its peak; Teva cooking inside her own protection |
 | 11 | 6 | Noli, then the fall |

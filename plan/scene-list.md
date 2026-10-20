@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-unit outline into scenes. Each is a distinct unit of action with a specific POV.
 
-**The rescene is done.** **70 scenes**, which is the count `pacing-and-stakes.md` §5 proposes, and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, thirty-eight in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+**The rescene is done.** **71 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
 **One format, everywhere.** Every entry carries size, day and hour, POV, place, ladders, must-carry, hazard and ending. The older single-line form with a B-Story note is gone; the last of it was Days 10, 11 and 14, and each of those entries carries a *was* note recording the id it converted from. **Act 1 keeps its `D1.1`–`D3.1` ids and everything below Act 1 is day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
@@ -171,7 +171,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 **Act 1 totals:** 14 scenes, ~15,800 words.
 
-## ACT 2: THE MUDWALK — RESCENED, 39 scenes
+## ACT 2: THE MUDWALK — RESCENED, 40 scenes
 
 ### D3.2 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland]
 **Ladders:** EM6 P7 S8 SP4
@@ -393,6 +393,17 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the river behind them, and the first of them to think about what that means not saying so.
 
 ---
+
+### D8.4 — [SHORT, ~800] [Day 8, night] [KEO] [The camp] — **NEW**
+**Ladders:** EM8 P7 S7 SP5
+**Purpose:** PRESSURE · **Ending:** OMINOUS
+**The first night with a bare fence.** Something large comes in the dark and walks the line of the stakes, unseen, and leaves at first light without trying them. Nobody sleeps, which is why Day 9 is eleven kilometers on none.
+**Must carry:**
+- **What the gel was doing, felt by its absence.** Teva's spike tip is bare for the first time since Day 3; Noli, bedded down outside the fence for the first time, goes flat, and Keo brings her in through the gap under threat — the one time she is inside, and not to sleep.
+- **Keo's sense gives presence and kind only** (`tech-rules.md`): one large hunter, alone, unhurried. **It is never seen and never named** — every large predator in the inventory is spent or held in reserve.
+- **They talk, whispering**: what it is, whether to wake the fire or kill it, whose watch, Benal counting its steps and trying a joke that does not come out. The fear is in what they argue about, not in silence.
+**Hazard:** an attack. It does not try the fence, and that is worse, because they spend the night not knowing why. Second: a silent vigil — three people too frightened to talk is the cliché; three people too frightened to stop is the scene.
+**Ends on:** first light, and its tracks along the outside of the stakes.
 
 ### D9.1 — [MEDIUM] [Day 9, the walk] [BENAL] [Thinning woodland] — **NEW**
 **Ladders:** EM5 P6 S6 SP5
