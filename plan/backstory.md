@@ -1,5 +1,5 @@
 ---
-approval: approved a70f0c3a
+approval: approved 690846a6
 ---
 
 # Backstory register
@@ -70,7 +70,7 @@ What the three and the people around them were before the story opens: habits, h
 - **K43** A wild hadrosaur once yielded to him briefly and it cost him; he has never pushed one to its death. *(D6.3, D7.3; `plan/milieu-brief.md` §9)*
 - **K44** He has seen saropo from the top of the tangle, far off, on a few prized occasions. *(D6.3, revise: "all his life")*
 - **K45** Nobody from home has described the lake to him. *(D6.3)*
-- **K46** The Enclave has open ground, and Keo has seen plenty of sky; he has never paid it much attention. Most of his memories of stars are glimpses through the canopy over the nests. Outside, at night with nothing to do but keep watch, he looks properly for the first time. *(D3.4, revise: "thicker than Keo had ever seen them from the nests")*
+- **K46** The Enclave has open ground, and Keo has seen plenty of sky; he has never paid it much attention. Most of his memories of stars are glimpses through the canopy over the nests. Outside, at night with nothing to do but keep watch, he looks properly for the first time. *(D3.4)*
 - **K47** Since Yara, small crocs inside the perimeter are killed on sight, because hers grew up inside. Keo has seen plenty of them, dead or being killed. D6.1's is the first he can leave alone. *(D6.1, revise)*
 
 **Habits on the page**
