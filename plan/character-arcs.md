@@ -1,5 +1,5 @@
 ---
-approval: approved 9a6abf59
+approval: approved cf24d792
 ---
 
 # Character arcs and intimacy
@@ -110,7 +110,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 
 **Benal → Teva** is admiration for the person who listened. He is oblivious to the rest throughout, because he cannot conceive of being wanted.
 
-So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. `[?]` **Nothing resolves in book 1.** The engine is proximity, inability to speak, and a POV character noticing a physical detail and drawing the wrong conclusion from it. Do not answer the question the scene raises; `voice-sheets.md` carries the standing list of what each scene refuses to answer.
+So all three misread each other, which is the novel's whole subject arriving in the romance instead of being stated. `[?]` **Nothing resolves in book 1.** The engine is proximity, talk that circles the one thing each of them cannot say, and a POV character noticing a physical detail or a turn of phrase and drawing the wrong conclusion from it. Do not answer the question the scene raises; `voice-sheets.md` carries the standing list of what each scene refuses to answer.
 
 **Keo ↔ Benal is the strongest dyad.** They have known each other since infancy, in a cohort of perhaps thirty, and are not close. **Keo pities him kindly, as everyone does**, and is protective of him the way he is of everyone, because he thinks he is the best of them at what lies past the tangle; Benal is the one it applies to most. Then debt, then the silent watch on Day 11, where the protection reverses, then Genesis proving Benal right, and it **ends in trust and admiration running both ways**: Keo admires the mind and the nerve, and Benal admires the competence he lacks and no longer resents it, because it has stopped being pointed at him as pity. Its texture is built through the body — carrying, watching, being carried — where Teva's is built through asking. It ends at 9 while both romantic lines end unresolved, which is the honest shape for a book about three sixteen-year-olds.
 
@@ -119,9 +119,10 @@ So all three misread each other, which is the novel's whole subject arriving in 
 ### Rules
 
 1. **Declarations are the wrong instrument here.** The closest anyone comes is on the good day, and he doesn't. A strong default rather than a ban; a scene that earns one has earned it.
-2. **Physical proximity is the main instrument** — the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for sixteen nights. `body-and-resources.md` §2b provides four hours a day of enforced stillness. Use it.
+2. **Proximity and talk are the two instruments, and they work together.** Proximity makes the time: the lay-up, shared watches, treating wounds, sharing food, sleeping within arm's reach for sixteen nights. Talk is what they do with it: teasing, asking, arguing, stories from home, getting each other wrong out loud. Keo and Benal lean on the body and Teva's lines lean on asking, but none of the three relationships is built on silence. `body-and-resources.md` §2b provides four hours a day of enforced stillness; use it for talk.
 3. **Jealousy is usually a misreading**, and where it is, the reader should see the misreading before Keo does.
 4. **Touch is rationed, and functional when it comes** — a hand on a shoulder, a wound being cleaned, being hauled up a bank. Roughly one an act is the rate that feels right; it is a sense of scarcity, not a budget with a balance to spend down. The functional touch that lasts a moment too long does more than any embrace.
+5. **What each of them withholds is one specific thing** (`voice-sheets.md`), **never talk itself.** Silence is rationed like touch: rare, and used where it is the point.
 
 ## 4. Reader regard
 
