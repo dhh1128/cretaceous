@@ -580,7 +580,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The weapons.** Nothing has dried since Day 11 and the archaea in the bindings wake on sustained wetting. `plan/milieu-brief.md` §6. **Keeping the spears dry is a losing daily labor** and the reader should see them fail at it.
 - **Nothing at all on Day 12 but rain.** The allocation gives the day one sound and that is it.
 - ***thescelosaurus*** burrows — allocated to Day 12 and unspent. **Their holes are a hazard on bad ground**, and bad ground in continuous rain is what the whole day is. Somebody goes in to the knee, and on this day that is nearly a catastrophe.
-- `[?]` **Benal is taking watches he cannot afford** and neither of the others stops him.
+- **Benal is taking watches he cannot afford.** Keo tries to stop him and fails (`plan/character-arcs.md` §3, Day 12).
 **Hazard:** guilt narrated. He does not think *I should have insisted*. He thinks about the fever, and the reader does the rest.
 **Ends on:** the rain, and Teva asleep, and him awake.
 

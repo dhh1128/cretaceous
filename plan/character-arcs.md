@@ -1,5 +1,5 @@
 ---
-approval: approved 4435a880
+approval: approved 9d12530c
 ---
 
 # Character arcs and intimacy
@@ -188,6 +188,13 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D11.4.** The fall is driven by that grief. Leaving the third suit was Keo proving he could survive what Yara could not, and this is what it buys.
 - **D11.5.** Teva's hands know wound care because she sat with her mother (T16), who died of infection after a bite, so Keo's wound frightens her in a specific way. That fear is under the hostile joke.
 - **D11.6.** Benal, sitting watch, hums Liaso's song, the one Keo sang on Days 8 and 10, and Keo hears it through the fever. The song passes from Keo to Benal as the protection reverses, and neither says so.
+
+**Days 12–13: the threads they built pay, and one pays cruelly.**
+
+- **D12.1.** The edibility argument from D4.1 inverts: Keo is the cautious one now, and Benal, who always supplied the toxicology, hedges, the one rehearsal of *possibly* doing harm (`voice-sheets.md`, Benal). The joke built on Days 4–6 is what fails them. Teva serves the mash the way she serves Omya (T5), and eats first, to protect them.
+- **D12.2.** Keo, febrile, tries to send Benal to sleep in his older-brother register, and it no longer works, because that register died at Day 11. Benal refuses with a death joke: Keo's humor falls as Benal's rises (`humor-plan.md`). Keo does try to stop him taking watches he cannot afford, and fails.
+- **D13.1.** Benal's estimates (B30) are worth something at last. Watching Teva vomit, he remembers her sharing her lunch with him when they were small (B23), and that is where his tenderness comes from.
+- **D13.2.** The distant *T. rex* pays Liaso's story from D2.9. Benal says his cousin's name, the only thing any of them has the energy to say, and it brings home and that night back to all three.
 
 
 ## 4. Reader regard
