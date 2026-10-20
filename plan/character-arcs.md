@@ -1,5 +1,5 @@
 ---
-approval: approved a18048b8
+approval: approved bc6540e8
 ---
 
 # Character arcs and intimacy
@@ -136,6 +136,19 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D2.3.** Riel asks after Teva and Omya, and the family teases Keo about the flowers he has brought Omya (K19, T20).
 - **D2.4.** Teva tucks a flower into Omya's plait (T6), and Omya, lucid and dry, remembers the Explorers' boy who brought her flowers.
 - **D2.5.** Benal's math children pass the pool on the teaching rota (X10). The yazhi know him, and a yazhi's joke about him is the funny line Teva does not laugh at.
+
+**Days 3–5: what happens between them gets answered.** A quarrel, a save, a joke or a wound is met by a reply rather than closed by silence or summary. Each of the three has one beat tied to someone absent.
+
+- **D3.1.** Keo says aloud to Benal something about what the suit's quiet means to him: the kind face of his pity. When Teva says "Possibly", Keo takes it up, so the joke belongs to all three.
+- **D3.2.** Keo answers "reckless, unsuited idiot" in his own register, protesting and then conceding. Someone acknowledges that Teva saved him and Noli. The debt starts here.
+- **D3.3.** Next morning Keo makes "idiot" a joke against himself, and the quarrel is mended. Teva's fear of water stays hers alone, but Keo says something when she feeds Noli before she drinks. Navigating, Teva thinks of her mother (T43).
+- **D3.4.** The day told back is dramatized in their voices: teasing, correcting, the croc-length game. The talk goes to shared childhood rather than family, the fog walk (X1) and math class (X4). Teva has a line. Keo's frogs are hunger's verdict (K14).
+- **D3.5.** Benal wakes frightened on Teva's watch, and her guard comes down a little because he was vulnerable first. The sky stays her secret.
+- **D4.1.** Keo is overconfident about the mushroom and Benal makes him do the smell test (K17, B35), and the running argument about what is edible begins (`humor-plan.md`, inside jokes). Benal's snail talk is in his voice. Teva says something about the wet ground that Keo takes the wrong way, so his misreading happens between them. The snails after rain are Keo's tie to Yara (K8).
+- **D4.2.** At the moths, the day's one shared pleasure, Teva asks Benal what he hears and he tells them. Keo shows off about his bites.
+- **D5.1.** At the lay-up, Teva teases Keo about Noli for the first time (T28). Keo answers Benal's false alarm with a tease rather than a turned back.
+- **D5.2.** The after-talk is in voice: the count, the shoulder, the hands, and a joke that comes out wrong. Benal registers that Teva read the snake the way he reads things, the first step of his admiration. Marek's *you'll be ill* surfaces once (`minor-characters.md`).
+
 
 ## 4. Reader regard
 

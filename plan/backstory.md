@@ -1,5 +1,5 @@
 ---
-approval: approved f55cbb90
+approval: approved a5fde17c
 ---
 
 # Backstory register
@@ -103,6 +103,7 @@ What the three and the people around them were before the story opens: habits, h
 - **T15** She was always a sober child, but she could talk to her mother and was lighthearted for it. Losing her mother lost her a confidante, and taught her too early that life is fragile. There was a time when she would have laughed at Omya's jokes. *(D2.4)*
 - **T16** She sat beside her mother as she died, in their own nest, in the morning, after days sick, and still has the sound of the breathing in her ears. *(D1.1)*
 - **T17** She has stood through returnings before, her father's and her mother's, and her body knows the posture: arms folded across her ribs, eyes off the mats. *(D1.2)*
+- **T43** When she navigates by the pull in her bones, she thinks of her mother, because the sense is Lumea's. *(D3.3, to be placed)*
 
 **People**
 - **T18** She has two friends, girls who like her and with whom she is fairly happy, but who are closer to each other than to her. She is a bit more closed off than a full share of that friendship would take, and uses caring for Omya as the excuse. One of them is Sila's daughter.
