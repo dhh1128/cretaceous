@@ -1,5 +1,5 @@
 ---
-approval: approved 3cf1688f
+approval: approved 9aa12fa2
 ---
 
 # AI tells — the blacklist
@@ -218,7 +218,15 @@ Actual instances: nests at the wrong height; a suit stored in a basket in the ne
 
 > D7.1: *The woodland ran low and green, and they walked into it easily, without hurry, the way people walk on a good day toward nothing in particular.* "This particular phrasing pattern seems to repeat constantly in your prose: <X> does <Y>, <possibly adverbial phrase>, the way <something to which the manner of doing Y is similar>. … It's fine, once or twice, but it's heavy-handed and repetitive."
 
-**Rule.** *X does Y, the way Z* is a cadence, and the drafts made it the default. Measured 2026-10-20: Daniel's novels run **0.12 per thousand words** (viking 11 in 92,662; cordimancy 16 in 127,169); the Day 4–7 drafts ran **about twenty times his rate**, with up to eight in one scene. **At most one in a scene**, and only where the comparison says something the plain statement cannot. Its four forms fail differently: *the way he always did* asserts a habit nobody established; *the way you…* steps out of the character into a narrator's general wisdom; *the way a Master walked* can characterize, and is the one most worth keeping; the tacked-on tail after a complete sentence is rhythm only. The fix is usually the plain fact, or nothing. `tools/measure.py` counts them. *As if* and *as though* run in the same family, 1.64 per thousand words in the drafts against 0.19 and 0.31 in his; the counter reports them too.
+**Rule.** *X does Y, the way Z* is a cadence, and the drafts made it the default. Measured 2026-10-20: Daniel's novels run **0.12 per thousand words** (viking 11 in 92,662; cordimancy 16 in 127,169); the Day 4–7 drafts ran **about twenty times his rate**, with up to eight in one scene. **At most one in a scene**, and only where the comparison says something the plain statement cannot. Its four forms fail differently: *the way he always did* asserts a habit nobody established; *the way you…* steps out of the character into a narrator's general wisdom; *the way a Master walked* can characterize, and is the one most worth keeping; the tacked-on tail after a complete sentence is rhythm only. The fix is usually the plain fact, or nothing. `tools/measure.py` counts them. **As if and as though** run in the same family: 1.64 per thousand words in the drafts against 0.19 and 0.31 in his. His are short and read an intention off a body, often verbless (*as if considering*, *recoiled as if he'd been stung*); when he wants a figure he uses *like a*. The drafts reached for a full hypothetical clause that explained what the reader already had. Five patterns:
+
+- **The act stands alone.** If a gesture is readable, give the gesture and stop. *He looked at the knife in his hands*, not *…as if it belonged to someone else*.
+- **A participle or *like* is better than a hypothetical clause.** *As if considering*, *like a man looking over a field*.
+- **Landscape gets metaphor, not *as if somebody had*.** State the image as what is there: *a flat gray hide pulled across the world*.
+- **One to a sentence, never two.**
+- **No stock phrases**: *belonged to someone else*, *never seen it before*, *weighed nothing*, *nothing had happened*. Each turned up twice before this rule.
+
+**At most one full-clause *as if* in a scene**; the short physical and comic ones (*let go as if it had been burned*) are not counted against it. `tools/measure.py` reports the total.
 
 ## What worked, kept as positive exemplars
 
