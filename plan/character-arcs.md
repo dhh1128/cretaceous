@@ -1,5 +1,5 @@
 ---
-approval: approved 788d78e2
+approval: approved ba4ffe19
 ---
 
 # Character arcs and intimacy
@@ -233,4 +233,18 @@ What the reader is meant to feel toward each of the three, and the cardboard ver
 | **Teva** | the angry one |
 | **Benal** | the head-in-the-clouds loner. His dark humor is real and is not the danger |
 
-[?] The rest of this section — what the reader should feel toward each by day, and the details that earn it — is to be proposed.
+### Regard by stretch
+
+What the reader should feel toward each of the three, the details that earn it, and which caricature they hold off. The relationship score above places the details scene by scene; this says which of them do the earning.
+
+**Days 1–2, before the walk.**
+- **Teva**: protective sympathy and respect, for a grieving, capable girl alone with Omya. Earned by finishing Omya's plait, the flower tucked into it (T6), and her memory of Alira on Elana's hip (T23). Holds off *the angry one*: the reader sees her tenderness before her rage, so the rage reads as grief.
+- **Keo**: liking, with worry. Earned by his big-brother kindness to Topo (K18), his family teasing him about the flowers he brought Omya (K19), and his care not to frighten Noli (K31). Holds off *the competent hothead*: his mother refuses him a suit in the same words as always (K32), and his hurt is a child's.
+- **Benal**: affection and amusement. Earned by *Your grandmother, possibly* to the flybeak (B14), his botanist friend (B24), and the yazhi knowing him (D2.5). Holds off *the loner*: he has a friend and pupils, and he is funny without knowing it.
+
+**Days 3–5, the first walking days.**
+- **Keo**: admiration with exasperation. Earned by answering *reckless, unsuited idiot* and then making it a joke against himself (D3.3), and by yielding on the mushroom's smell test (K17). Holds off the hothead: he concedes aloud.
+- **Teva**: respect turning to warmth. Earned by feeding Noli before she drinks (D3.3), asking Benal what he hears at the moths (D4.2), and her first tease about Noli (D5.1). Holds off the angry one: she asks, and she teases.
+- **Benal**: tenderness and admiration. Earned by catching frogs with a kind of horrified care (B33), his curiosity about snails (B15), and joking about his own returning (B31). Holds off the loner: he talks to them, and *possibly* becomes theirs.
+
+[?] Days 6–19 are to be proposed.
