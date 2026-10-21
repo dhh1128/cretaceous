@@ -1,5 +1,5 @@
 ---
-approval: approved 978f4730
+approval: approved 4b10ecd8
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -29,7 +29,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | **11** | **Noli at dawn. Then the fall** <!-- @WF-noli.death.day: 11 --> | 4 | 64 |
 | 12 | rain, and **the mash** | 4 | 68 |
 | 13 | it comes due; he carries her <!-- @WF-teva.carried.from: D13 -->; the coastal plain | 10 | 78 |
-| **14** | `[?]` two kilometers in the dark before dawn to the coast; then mudflats, the raft, open water, the mosasaur | 2, then offshore | 80 |
+| **14** | two kilometers in the dark before dawn to the coast, with the night hunters out; then mudflats, the raft, open water, the mosasaur | 2, then offshore | 80 |
 | **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
 | **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |
 | **17** | **the revelation** — the logs of the arrival, and what it does to six generations <!-- @WF-drift.generations: 6 --> | — | — |
