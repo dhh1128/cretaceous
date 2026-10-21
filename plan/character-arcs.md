@@ -1,5 +1,5 @@
 ---
-approval: approved 519968b3
+approval: approved 5fb2d2e7
 ---
 
 # Character arcs and intimacy
@@ -167,7 +167,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 **Day 8: the crossing, and what each of them pays for the others.** Talk fills the waiting and the night; silence is spent only in the water, where the surface is the danger.
 
 - **D8.1.** The waiting is filled with talk. Noli crosses an hour early on her own, and Teva teases Keo that his animal is braver than he is; three days later the joke has no object. Keo sings under his breath, Liaso's song from D3.1 (K10), and Benal knows it. Driving the herd, Keo does what he does at home with the hadrosaurs (K1), and home is in his head while he does it.
-- **D8.2.** Talk is spent only where the surface allows. Teva towing Benal is her care: she hauls him up the bank by the strap before she lets herself stop.
+- **D8.2.** Talk is spent only where the surface allows. Nobody swims; they are tied on Keo's cord, and Teva, first because her balance holds on wet rock, reels Benal onto each stone and hauls on the cord while he climbs the bank before she lets herself stop. That is her care. Benal's part is keeping still, which is the hardest thing he has done.
 - **D8.3.** Benal sees that what Keo paid is more than a headache: the first time Benal looks after Keo, which the Day 11 reversal builds on.
 - **D8.4.** The whispered argument at the bare fence, as mapped. Benal's joke fails, as planned, and Teva lands the last line, so the night ends with the three of them together rather than each alone with the fear.
 
@@ -258,7 +258,7 @@ What the reader should feel toward each of the three, the details that earn it, 
 
 **Days 7–10, the river to the savanna.**
 - **Keo**: fear for him, then enjoyment, then dread. Earned by facing sixteen crocs while the others see Yara in it, admitting he cannot, and singing on the savanna (K10). Day 10 is his hothead peak, and the guard is the scene list's own: the reader enjoys him as much as he enjoys himself, and he looks after Benal.
-- **Teva**: admiration and anxiety. Earned by taking the decision, the cost seen from inside at D7.2, towing Benal, and concealing sunfever by reciting the fields. D7.2 is her angry-one peak, and the cost seen from inside is the guard.
+- **Teva**: admiration and anxiety. Earned by taking the decision, the cost seen from inside at D7.2, reeling Benal in on the cord, and concealing sunfever by reciting the fields. D7.2 is her angry-one peak, and the cost seen from inside is the guard.
 - **Benal**: respect. Earned by seeing what Keo paid (D8.3), the stone stacks (B13), and estimating the water. Holds off the loner: he looks after Keo.
 
 **Day 11, the midpoint.**
