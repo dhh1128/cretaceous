@@ -1,5 +1,5 @@
 ---
-approval: approved 09980039
+approval: approved 6e3ce472
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -18,7 +18,7 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 **Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. **Septic gel on the tip of her spike**, put there by her own hand once they are through the tangle, after Keo refused it for his: it keeps Noli off her, and it is the loudest thing her suit's chemical sensors show. It keeps the gel close to her while Noli ranges ahead. **She dresses it each morning from the pot and wipes it clean when they settle for the night**, which is why Noli will come close for the salve on Night 3 *(D3.4)*, until the last of the gel goes on their skin for the crossing on Day 8; the pot is empty when they come out, partly spent and partly washed away *(D8.2, D8.3)*.
 
-**Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club. Salves and two chemical pods. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
+**Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club. Salves and two chemical pods. **No knife**; he borrows one when there is cutting to do. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
 
 **Noli** — held by projection against her terror of the barrier smell until they are through the tangle, then released, and gone ahead into the fog. The razortails are out there for her: they hunt sicklefeet (`kb/worldbuilding/lingo.md`).
 
