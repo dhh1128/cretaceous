@@ -1,5 +1,5 @@
 ---
-approval: approved cd15a0cb
+approval: approved 7f2b0e56
 ---
 
 # Backstory register
@@ -176,7 +176,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **Habits on the page**
 - **B29** He goes still before he says something with numbers in it. *(D4.1)*
-- **B30** He estimates proportions and odds as a habit: what share of the crocs they can see, their chances of meeting some animal, how many days of the past month had rain. *(D5.2, revise: "always doing sums")*
+- **B30** He estimates proportions and odds as a habit: what share of the crocs they can see, their chances of meeting some animal, how many days of the past month had rain. It is his father's habit too: Marek talks in proportions (D2.2, D2.6), and neither of them notices. *(D2.2, D2.9, D4.1, D5.2)*
 - **B31** He makes jokes about his own returning ("*Flies. He was bothered by flies.*"). *(D4.2)*
 - **B32** He has never heard so little as under the rain on his helmet. *(D4.2)*
 - **B33** He catches frogs with a kind of horrified care, and cuts slowly and too well. *(D3.3, D3.4)*
