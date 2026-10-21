@@ -1,5 +1,5 @@
 ---
-approval: approved 4c50aec0
+approval: approved b3e50d33
 ---
 
 # Backstory register
@@ -237,6 +237,7 @@ What the three and the people around them were before the story opens: habits, h
 **Others**
 - **F27** Topo: a year younger than Keo, born with a misshapen ankle. *(K18)*
 - **F28** Sila has a daughter, one of Teva's two friends. *(T18)*
+- **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 ## Noli
 
