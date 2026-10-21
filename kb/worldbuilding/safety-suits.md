@@ -1,5 +1,5 @@
 ---
-approval: approved dc0f2f0d
+approval: approved 9893fcfe
 ---
 
 # Environmental suits
@@ -22,7 +22,7 @@ A neck-down bodysuit, wetsuit-thin, with a high protective collar. About 6–8 m
 
 The helmet carries a **flip-down eye shield**: a single transparent curve from brow to cheekbone, for impact, debris and UV. It is not a seal and never was. **Nose and mouth are open to the air at all times, in every configuration.** There is no atmospheric control of any kind — no filtration, no recycling, no regulation.
 
-Everything that follows from that is deliberate. The wearer smells the world directly, always. The lower face can be bitten, stung and cut. Faces stay readable to each other, and to the reader. **A character who wants their scent hidden smears the pheromone barrier on their own skin**; the suit will not do it for them.
+Everything that follows from that is deliberate. The wearer smells the world directly, always. The lower face can be bitten, stung and cut. Faces stay readable to each other, and to the reader. **The suit does not hide the wearer's scent.** The only thing that does is the pheromone barrier, and that belongs on a perimeter; nobody smears it on a person except at the Day 8 crossing *(`plan/body-and-resources.md` §0)*.
 
 The shield down or up is a real trade, which is what makes it usable in a scene. **Down:** eye protection, and the data display (below). **Up:** full peripheral vision, no rain-beading or fog on the curve, and your friends can see your eyes.
 
@@ -84,7 +84,7 @@ The suits are alive and must be fed. Water, which can be dirty, and which rain o
 This section is the most important one in the file, and every item is deliberate.
 
 - **It does not make you stronger — it removes penalties.** <!-- @WF-suit.strength: removes-penalties --> There are no actuators, and the power budget forbids them: 10–15 W is a bicycle lamp, while walking costs a human on the order of 100 W of mechanical output and a meaningful assist would need several hundred. So Benal's peak strength is unchanged. What the suit does instead is stop things from taking strength away from him. It carries its own weight and distributes pack load across the weave instead of onto his shoulders and spine. It supports his joints under load, the way athletic taping does — passive, no power. It keeps him from overheating. It filters the insect wall so he can think. And it converts injuries that would end his walk into bruises. **He is not stronger; he is harder to stop.** <!-- @WF-suit.strength: removes-penalties --> That is what makes an 80 km mudwalk believable for a fragile boy, and it leaves his frailty intact, which his arc needs.
-- **It does not filter your breath, hide your scent, or purify air.** Scent management is the pheromone barrier, applied by hand.
+- **It does not filter your breath, hide your scent, or purify air.** Scent management is the pheromone barrier, put on a perimeter by hand *(`plan/body-and-resources.md` §0)*.
 - **It does not stop a determined large predator.** The fabric may survive a bite; the wearer will not. Crushing force passes straight through. Camouflage is the defense; the armor is for incidental harm.
 - **It does not hide movement.** Camouflage works when you are still. Motion breaks it, and crocs and mosasaurs read vibration regardless of what you look like.
 - **It does not make you quiet.** No white-noise generation, no sound masking.

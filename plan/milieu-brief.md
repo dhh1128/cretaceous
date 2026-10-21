@@ -1,5 +1,5 @@
 ---
-approval: approved 9fb0e2b4
+approval: approved bb020157
 ---
 
 # Cretaceous — Milieu Brief
@@ -267,7 +267,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 - **Razor-club** — hardwood, slotted and edged with razortail teeth. Same logic. When the wood goes, the teeth scatter and read as scatter.
 - **Tooth-knife** — a large theropod tooth, held or short-hafted, in a hide sheath. Theropod teeth are ziphodont, meaning finely serrated, which makes them superb at opening hide and useless for shaving. **This replaces the chert knife entirely; see below.**
 - **Atl** — spear-thrower, wood and bone. Gives them reach. *(Listed in canon and used in no scene anywhere. Either give it a moment or drop it.)*
-- **Sling** — fiber cord and a hide pouch, wholly organic. **But the ammunition cannot be shaped.** A knapped or ground sling stone is an artifact; only unmodified natural pebbles are permissible. So good stones are *gathered*, never made, and a well-sized round pebble is a small treasure that gets kept, traded and mourned when lost. A constraint that generates behavior.
+- **Sling** — fiber cord and a hide pouch, wholly organic. **But the ammunition cannot be shaped.** A knapped or ground sling stone is an artifact; only unmodified natural pebbles are permissible. So good stones are *gathered*, never made, and a well-sized round pebble is worth keeping, and a good one gets kept and traded; outside, pebbles are not common but not rare either *(`plan/body-and-resources.md` §0)*. A constraint that generates behavior.
 - **Blowgun** — cane tube, hardwood or bone darts. Silent, and this is where their bioengineering earns its keep: **an engineered neurotoxin on the dart tip** is exactly what this culture would build. Useless against anything large. Perfect for small game, and for one desperate precise moment.
 - **Fire-hardened wooden points** — free, disposable, always available.
 
