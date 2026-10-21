@@ -2010,7 +2010,9 @@ CHECKS["identifiers_resolve"] = check_identifiers_resolve
 
 FIGURES = "plan/figure-owners.md"
 FIGURE = re.compile(
-    r"\b(\d[\d,]*(?:\.\d+)?)\s*"
+    # The digit group may hold thousands commas but not end on one: `§4, Days 1–2` is a
+    # citation followed by a range, and reading it as *4 days* flagged sixteen files.
+    r"\b(\d(?:[\d,]*\d)?(?:\.\d+)?)\s*"
     r"(years?|months?|weeks?|days?|hours?|kilometers?|km|meters?|centimeters?|cm|"
     r"kilograms?|kg|tonnes?|degrees?|°C|percent|%|people|colonists?|scientists?|"
     r"suits?|generations?|million|Mya|W\b|mm)\b", re.I)
