@@ -1,5 +1,5 @@
 ---
-approval: approved aaf29af1
+approval: approved d56e83e6
 ---
 
 # Environmental suits
@@ -32,7 +32,7 @@ Sealing is a step-in with a self-closing tab that hisses shut. Sizes are fixed a
 
 - **Living skin, ~1 mm.** A biofilm of engineered human chromatophore cells, cephalopod-style. Self-repairing, because the cells divide. It ripples and matches the surrounding light within a second or two. It covers UV as well as visible wavelengths, which matters because much of the fauna sees into UV. Healthy film is faintly bioluminescent; a dead patch is a visible dead patch until it regrows.
 - **Structural layer, ~2 mm.** Three carbon-nanotube weaves, each offset 60° from the last, with a graphene film laminated between the first and second and the whole impregnated with a shear-thickening polymer — liquid until struck, rigid on impact.
-- **Impact layer, 3–5 mm.** Aerogel foam beneath the structure.
+- **Impact layer, 3–5 mm.** Aerogel foam beneath the structure. **It is sealed and does not take on water, so a suited body floats**, face up if you lie back, with a little to spare — about what a thick wetsuit does, and not a life vest *(`plan/scene-maps/D8.2.md` L1; it carries Days 14–15 at sea)*.
 - **Inner layer.** Thermoelectric generation against the skin, plus moisture wicking.
 
 ### Power and thermal

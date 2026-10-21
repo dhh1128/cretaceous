@@ -277,7 +277,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ### D6.1 — [MEDIUM] [Day 6, morning] [BENAL] [Open-canopy woodland] — **NEW**
 **Ladders:** EM4 P4 S5 SP5
 **Purpose:** DISCOVER · **Ending:** SETTLED
-**They start hungry**, four days out and down to journey-pan, and the day begins as foraging rather than as a gift. **Benal's ladder moves:** he finds the honey by smell, and the sense that has been an unfiltered assault on him since Day 4 is the reason they eat.
+**They start hungry**, the rations gone since Day 4, and the day begins as foraging rather than as a gift. **Benal's ladder moves:** he finds the honey by smell, and the sense that has been an unfiltered assault on him since Day 4 is the reason they eat.
 **Must carry:**
 - **Face-height spiderwebs strung across a game trail overnight** — allocated to Day 6 dawn and marked comic.
 - **Good water, and a croc in it that does not matter.** **A meter and a half, and young** — anything larger is not harmless to a sixteen-year-old and the scene would be lying. This is the day teaching them that "croc" is a range and not one animal, and it is the gift's real shape: the thing their whole culture is organized around fearing has a version that does not matter. **It makes Day 7 worse, because now they can tell the difference.** `[?]` And a reader who remembers `milieu-brief.md` §4 — a grating sized to stop an adult passes a one-meter juvenile, which then grows up inside — gets something the three of them do not.
@@ -545,7 +545,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D11.6 — [SHORT, ~700] [Day 11, night] [KEO] [Camp, feverish]
 **Ladders:** EM6 P8 S7 SP5
 **Purpose:** DISCOVER · **Ending:** BLACKOUT
-**The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and the ocean, under the bitter herbal taste of the salve.
+**The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*.
 **Must carry:**
 - **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` **R14**). It pays at D17.2. @D17.2
 - **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.

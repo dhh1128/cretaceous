@@ -1,5 +1,5 @@
 ---
-approval: approved cfeb50be
+approval: approved 0b998d8f
 ---
 
 # Cretaceous — Outline
@@ -182,7 +182,7 @@ The Hero's Act: They hand over the synthesis protocols, saving the kiva.
 
 The Heretic's Act: They walk into the Council chamber. Their parents are prisoners. They reveal the lie at the heart of their society.
 
-Rationale (Emotional Climax): Vindication.
+Rationale (Emotional Climax): not vindication — anger when they are not received well, weeping for their disappointments, and happiness at their solidarity and friendship at the end (`plan/character-arcs.md` §4).
 
 Rationale (Maturation Climax): This is the emotional payoff. From Keo's POV, he understands his parents (seeing their fear and pride) rather than just feeling guilty.
 

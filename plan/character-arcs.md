@@ -1,5 +1,5 @@
 ---
-approval: approved ceffbb50
+approval: approved bc17af8b
 ---
 
 # Character arcs and intimacy
@@ -173,7 +173,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 **Day 9: the ordinary day after the enormous one, when they start telling each other their lives.**
 
-- **D9.1.** On the long walk they trade home lives: Benal's shells (B12) and the mathematician everyone thinks is scatterbrained (B6); Keo's hadrosaurs and Topo (K1, K18). At a rest stop Benal balances stones without thinking (B13), the first time the habit appears, and the day after the crossing he either knocks the stack down before they move on or leaves it standing. Benal keeps watching Keo's head, carrying on the care that began at D8.3.
+- **D9.1.** On the long walk they trade home lives: Benal's shells (B12) and the mathematician everyone thinks is scatterbrained (B6); Keo's hadrosaurs and Topo (K1, K18). At a rest stop Benal balances stones without thinking (B13), the habit Keo watched at D8.1, now from inside, and this time he leaves the stack standing. Benal keeps watching Keo's head, carrying on the care that began at D8.3.
 - **D9.2.** Teva shares out the last handful kept back from Day 6, the pinyons and honey (`body-and-resources.md` §3, Day 9), and offers the others a taste of the honey the way she offers Omya sips (T5), so what she brought from home is in what she does. Nothing is cooked. Keo takes the taste as meant for him: the misreading is how the scene moves the social ladder without an argument. Teva names the river behind them, flatly, as a fact, and nobody draws the conclusion aloud.
 
 **Day 10: his best day and her worst, the same hours.** Water is the crisis, not food; Noli's grounder at D10.3 is the only fresh food.
@@ -214,7 +214,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D17.3.** Teva gets as far as Omya guarding a protocol for a journey home she could never have made, and stops. Keo sides with her that it was a lie, and Benal is alone with the impossible mission: two against one, the reverse of D3.2.
 - **D18.2.** The training system talks rather than needing to be read, which is why it is Keo's: the boy who could not use the archive finds the way home.
 
-**Day 19: three threads close, and the approved D19.7–D19.8 maps are untouched.** Act 3 has almost no humor until one small callback (`humor-plan.md`), and this is it.
+**Day 19: three threads close, and the D19.7–D19.8 maps carry the revisions below.** Act 3 has almost no humor until one small callback (`humor-plan.md`), and this is it.
 
 - **D19.3.** At the launch Benal hums Liaso's song and Keo joins in. Keo knew the song at D3.1 and sang it on Days 8 and 10; it passed to Benal at his bedside on Day 11, and comes back to Keo here, the two of them singing it in the first frightening minute of flight.
 - **D19.5.** As Keo aims for the river she has taught four-year-olds is death, Teva's hand goes to where she has kept the flower he gave her on Day 6 (T6). The reader sees it; Keo does not, and never learns she kept it (Rule 1).
@@ -275,3 +275,4 @@ What the reader should feel toward each of the three, the details that earn it, 
 - **Keo**: vindication. Earned by the archive he cannot use (K15) and the machine that talks, which makes him the one who flies them home, singing again.
 - **Teva**: the reader wants her to be wrong about the lie and loves her for stopping at Omya. Earned by the flower at the landing and the plait done by another hand.
 - **Benal**: triumph, and wanting him heard. Earned by being right in a room that will not take it, his canon fear: being agreed with by the wrong person.
+- **Day 19 is the emotional climax, and it is not vindication.** The earlier events of Day 19 are the plot climax. At the confrontation and after it, the reader is angry with them when they are not received well, weeps with them for their disappointments, and is happy with them at their solidarity and friendship at the end *(`plan/scene-maps/D19.7.md`, `plan/scene-maps/D19.8.md`)*.
