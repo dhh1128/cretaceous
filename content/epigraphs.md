@@ -97,7 +97,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 >
 > You keep saying I chose. I want to be precise, because you have never once let me be imprecise about anything: I was selected, and then I said yes. Those are different, and the second one is the part I have to live with.
 >
-> And no, I am not doing the house again. Sell it, don't sell it, burn it down. We have been having that argument since I was nineteen and neither of us has said a new thing about it in twelve years.
+> And no, I am not doing the house again. Sell it, don't sell it, burn it down. We have been having that argument since I was nineteen and neither of us has said a new thing about it in twelve years. <!-- @WF-cecilia.house.argument: 12y -->
 >
 > **You are well. That is the only line of your message I read more than once.**
 >
@@ -127,7 +127,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 >
 > I have read your message four times and there is a sentence in the middle of it, about being tired, that you would not have written if you were only tired.
 >
-> I am so close. I want to say a number and I am not allowed to say a number. Understand that I am working on precisely this, that I have been for two years, that it is not going to be finished in time, and that I have known that for eleven months and have not stopped.
+> I am so close. I want to say a number and I am not allowed to say a number. Understand that I am working on precisely this, that I have been for two years, that it is not going to be finished in time, and that I have known that for eleven months <!-- @WF-cecilia.known.unfinished: 11mo --> and have not stopped.
 >
 > Go and be seen. Today, not Thursday.
 >
