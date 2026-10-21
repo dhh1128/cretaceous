@@ -25,7 +25,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **He sets up radio between the Enclave and Genesis**, and this is the enabling move for everything else. *(No conflict with `content/epigraphs.md`'s "nothing crosses, ever": that rule is about **time**. Radio across eighty kilometers <!-- @WF-route.overland: 80km --> of space is ordinary physics and always was.)*
 
-**And it lets him make sense of what the Watch is for.** With the link open, **Omya can pass along a perfect dataset, with Teva's help** — two hundred years of nightly sky observation, held in the memory of a woman who cannot retain a protein fold and can still recite the stars. The knowledge nobody valued turns out to be the instrument.
+**And it lets him make sense of what the Watch is for.** With the link open, **Omya can pass along a perfect copy of the founders' table, with Teva's help** — the moon's calendar as the founders predicted it, held unchanged for two hundred years in the memory of a woman who cannot retain a protein fold and can still recite the stars; checked against observed coverings, it dates them *(`plan/milieu-brief.md` §5)*. The knowledge nobody valued turns out to be the instrument.
 
 `[?]` **Keo's thread is not settled.** He has graduated to the Explorers. There should be romantic tension with Teva and possibly a second interest, so confusion. One candidate occupation: searching for things the original colonists lost on the walk from Genesis to the Enclave — which would give him a reason to be out in the world, keep him on the route the first book crossed, and let him find physical evidence the others cannot.
 

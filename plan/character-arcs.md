@@ -1,5 +1,5 @@
 ---
-approval: approved f15df8cf
+approval: approved ceffbb50
 ---
 
 # Character arcs and intimacy
@@ -180,7 +180,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 - **D10.1.** Keo sings on the march (K10): his best day, breath to spare, the reader enjoying him as he enjoys himself. It is the last time he sings. The *delicious* joke is his here, as planned.
 - **D10.2.** Teva, concealing sunfever, hears him singing ahead of her, and the irony is never stated. She keeps going by reciting the fields under her breath, and it breaks at the same place. Benal estimates their water aloud (B30), and one of his figures nearly gives her away; she heads it off. She is hiding from the one who notices.
-- **D10.3.** Noli drags in her grounder, and Teva teases Keo about her for the last time (T28); nobody knows it is the last. Benal works out the dataset aloud and Teva listens, while Keo, not following, performs for her.
+- **D10.3.** Noli drags in her grounder, and Teva teases Keo about her for the last time (T28); nobody knows it is the last. Benal works out aloud what the recited sky is, the founders' own table and a way to date them, and Teva listens, while Keo, not following, performs for her.
 
 **Day 11: the one day silence is the point.** Keo is numb, and the care is in what the others do; the scene list already carries the talk that is there. What this adds is the absent.
 

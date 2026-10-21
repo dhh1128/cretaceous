@@ -1,5 +1,5 @@
 ---
-approval: approved 7193c131
+approval: approved 564f7093
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -205,7 +205,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 
 - **Scene D2.4, and this is what the scene is for.** Omya, lucid, recites the sky *perfectly* — sixty years <!-- @WF-omya.watch.years: 60 --> of drilling, remote memory intact — and then cannot hold a protein fold. **The knowledge nobody values survives; the knowledge keeping them alive is going.** Somewhere in it she asks whether the sky was watched last night, and Teva has no good answer, because nobody ever told her the duty was hers now. @D2.4
 - **Night 3, first night out (D3.5, her watch).** Teva tries the recitation alone and gets partway, then finds a gap she cannot fill, and understands that the gap is permanent.
-- **Day 6, she tells them (D6.2); Night 10, Benal works it out (D10.3).** Teva volunteers the gap on the good day, as a fact. On Night 10 Benal works out what a memorized positional sky actually *is* — a 206-year observational dataset held in one dying woman's head — and is the one who recognizes it as a resource: the adults who could have are not looking (`milieu-brief.md` §5).
+- **Day 6, she tells them (D6.2); Night 10, Benal works it out (D10.3).** Teva volunteers the gap on the good day, as a fact. On Night 10 Benal works out what the memorized sky actually *is* — the founders' own prediction table, held unchanged for 206 years in one dying woman's head, which one observed covering would turn into a date — and is the one who recognizes it as a resource: the adults who could have are not looking (`milieu-brief.md` §5).
 - **Genesis.** The colony had two ways to find the impactor: instruments here, the Watch at home. It lost both and only noticed one.
 - **Book 2.** Teva holds the only fragment of the sky anyone has left, and it is incomplete.
 
