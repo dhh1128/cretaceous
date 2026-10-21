@@ -1,5 +1,5 @@
 ---
-approval: approved bc17af8b
+approval: approved 16503584
 ---
 
 # Character arcs and intimacy
@@ -220,7 +220,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D19.5.** As Keo aims for the river she has taught four-year-olds is death, Teva's hand goes to where she has kept the flower he gave her on Day 6 (T6). The reader sees it; Keo does not, and never learns she kept it (Rule 1).
 - **D19.6.** Omya is present and cannot follow it. Teva sees that her plait has been done by another hand while she was gone: her grandmother was cared for, and by someone else.
 - **D16.2, planted for Day 19.** In the dry room they say what they will do first at home, lightly: Benal that Marek will look at the board, Keo that he will tell his father something, Teva that she will do Omya's hair. Day 19 answers each.
-- **D19.7.** Sila complains that two suits went out against every rule; Riel, under guard, answers *Three children went out. Three came home.*, the children and not the suits being what frightened them, and *children* dropped from the second half on purpose: adulthood planted by omission, reversing her own D2.3 refusal, and Keo half-hears it. When Sila absorbs Benal, Marek rises, says he called the work useless and was wrong, and crosses to stand beside him; Keo, already moving, takes Benal's other side. The room treats them as children who stole and does not notice what Keo's parents paid: the anger is the reader's.
+- **D19.7.** Sila complains that two suits went out against every rule; Riel, under guard, answers *Three children went out. Three came home. That is what the suits are for.*, purpose over rule, the children and not the suits being what frightened them, and *children* dropped from the second half on purpose: adulthood planted by omission, reversing her own D2.3 refusal, and Keo half-hears it. When Sila absorbs Benal, Marek rises, says he called the work useless and was wrong, and crosses to stand beside him; Keo, already moving, takes Benal's other side. The room treats them as children who stole and does not notice what Keo's parents paid: the anger is the reader's.
 - **D19.8.** Joram says two words, Keo steps into the hug, and Riel says low, *Two words. Now you know why I married him. So efficient.* Only Teva hears it, and she cries, joy for her friend and loss for herself. Benal turns and meets Marek's look, hands back his father's words, and Marek, for once, listens; then Benal looks across the room for Teva.
 - **D19.9.** Teva re-plaits Omya's hair, and Omya's hand goes to hers. The three end side by side, and the D16.2 hopes come back as the final callback.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 02127416
+approval: approved a9640b18
 ---
 
 # Cretaceous — Outline
@@ -13,7 +13,7 @@ Purpose: To deliver the objective backstory of the pandemic and the original mis
 
 Placement: Used as epigraphs before each Act or major chapter block (e.g., ~8-15 times in the novel).
 
-Content Example (for Act 1): News Headline: "GLOBAL PANDEMIC CONFIRMED: ORIGIN UNKNOWN." Body: A short, clipped paragraph about the virus's early mortality, near 90% <!-- @WF-pathogen.early.cfr: 90pct --> with patients still sick, and the failure of all countermeasures.
+Content Example (for Act 1): News Headline: "GLOBAL PANDEMIC CONFIRMED: ORIGIN UNKNOWN." Body: A short, clipped paragraph about the virus's early mortality, near 90% <!-- @WF-pathogen.early.cfr: 90pct --> with patients still sick and no known recoveries, and the failure of all countermeasures.
 
 Content Example (for Act 2): Internal Memo: "CHICXULUB SOLUTION AUTHORIZED. We go back to find an answer. We go back to save ourselves. Mission briefing 0800."
 
