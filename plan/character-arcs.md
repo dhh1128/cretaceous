@@ -1,5 +1,5 @@
 ---
-approval: approved 5fb2d2e7
+approval: approved f15df8cf
 ---
 
 # Character arcs and intimacy
@@ -166,7 +166,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 **Day 8: the crossing, and what each of them pays for the others.** Talk fills the waiting and the night; silence is spent only in the water, where the surface is the danger.
 
-- **D8.1.** The waiting is filled with talk. Noli crosses an hour early on her own, and Teva teases Keo that his animal is braver than he is; three days later the joke has no object. Keo sings under his breath, Liaso's song from D3.1 (K10), and Benal knows it. Driving the herd, Keo does what he does at home with the hadrosaurs (K1), and home is in his head while he does it.
+- **D8.1.** The waiting is filled with talk. Noli crosses an hour early on her own, and Teva teases Keo that his animal is braver than he is; three days later the joke has no object. Keo sings under his breath, Liaso's song from D3.1 (K10), and Benal knows it. Driving the herd, Keo does what he does at home with the hadrosaurs (K1), and home is in his head while he does it. Keo watches Benal stack stones in the waiting and knock them over when they go down (B13), and does not know why.
 - **D8.2.** Talk is spent only where the surface allows. Nobody swims; they are tied on Keo's cord, and Teva, first because her balance holds on wet rock, reels Benal onto each stone and hauls on the cord while he climbs the bank before she lets herself stop. That is her care. Benal's part is keeping still, which is the hardest thing he has done.
 - **D8.3.** Benal sees that what Keo paid is more than a headache: the first time Benal looks after Keo, which the Day 11 reversal builds on.
 - **D8.4.** The whispered argument at the bare fence, as mapped. Benal's joke fails, as planned, and Teva lands the last line, so the night ends with the three of them together rather than each alone with the fear.

@@ -1,5 +1,5 @@
 ---
-approval: approved a5fde17c
+approval: approved cd15a0cb
 ---
 
 # Backstory register
@@ -153,7 +153,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **What he likes**
 - **B12** He collects shells, and has a big, beautiful collection: snails and turtles, and beetle carapaces too. He likes insects, as long as they are quiet.
-- **B13** He balances stones on top of each other, as a reflex. It is a way to make something in a culture that forbids leaving a trace, safe because the first storm or animal will undo it. It is not a cairn, which is built to last and mark a place, and the narration does not call it one. On the walk, whether he knocks his own stack down before they move on says how he feels about the duty that day.
+- **B13** He balances stones on top of each other, as a reflex. It is a way to make something in a culture that forbids leaving a trace, safe because the first storm or animal will undo it. It is not a cairn, which is built to last and mark a place, and the narration does not call it one. On the walk, whether he knocks his own stack down before they move on says how he feels about the duty that day: **at D8.1, seen from outside by Keo, he knocks it over on the way to the crossing; at D9.1, from inside, the day after, he leaves one standing.** A third, left standing somewhere it cannot stay, is placed when its day is mapped.
 - **B14** He talks to animals: a flybeak on the roof, "Your grandmother, possibly". *(D2.2)*
 - **B15** He is curious about small things: how far a snail travels in a night, whether it has teeth. He holds that the beetles outside are not the ones at home, and why, at length. *(D4.1, D6.3)*
 
