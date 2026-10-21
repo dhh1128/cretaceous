@@ -1,5 +1,5 @@
 ---
-approval: approved feb6dd33
+approval: approved 914088c9
 ---
 
 # Character arcs and intimacy
@@ -213,6 +213,12 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D17.2.** Keo asks the frustrated question, the rare question he cannot answer himself, and in the answer Benal hears something Marek once said (F22).
 - **D17.3.** Teva gets as far as Omya guarding a protocol for a journey home she could never have made, and stops. Keo sides with her that it was a lie, and Benal is alone with the impossible mission: two against one, the reverse of D3.2.
 - **D18.2.** The training system talks rather than needing to be read, which is why it is Keo's: the boy who could not use the archive finds the way home.
+
+**Day 19: three threads close, and the approved D19.7–D19.8 maps are untouched.** Act 3 has almost no humor until one small callback (`humor-plan.md`), and this is it.
+
+- **D19.3.** At the launch Benal hums Liaso's song and Keo joins in. Keo knew the song at D3.1 and sang it on Days 8 and 10; it passed to Benal at his bedside on Day 11, and comes back to Keo here, the two of them singing it in the first frightening minute of flight.
+- **D19.5.** As Keo aims for the river she has taught four-year-olds is death, Teva's hand goes to where she has kept the flower he gave her on Day 6 (T6). The reader sees it; Keo does not, and never learns she kept it (Rule 1).
+- **D19.6.** Omya is present and cannot follow it. Teva sees that her plait has been done by another hand while she was gone: her grandmother was cared for, and by someone else.
 
 
 ## 4. Reader regard

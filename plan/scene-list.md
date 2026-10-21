@@ -886,7 +886,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The handover, and it takes four minutes.** Nineteen days <!-- @WF-story.span: 19d -->, eighty kilometers <!-- @WF-route.overland: 80km -->, Noli, and nearly Teva, and the thing they went for changes hands in the time it takes to hand over a metal tablet.
 **Must carry:**
 - **It works.** The protocols are complete and a Keeper can read them, and the immediate crisis — a child dying because the synthesis is dying inside Omya's head — is over. `[?]` The reader should feel the disproportion between the cost and the transaction.
-- `[?]` **Omya is present and cannot follow it.** The knowledge comes home and the person it was taken from is past receiving it, which is the cruelty the whole arc has been walking toward.
+- **Omya is present and cannot follow it.** The knowledge comes home and the person it was taken from is past receiving it, which is the cruelty the whole arc has been walking toward. Teva sees that her plait has been done by another hand (`plan/character-arcs.md` §3, Day 19).
 - **This is separate from the confrontation on purpose.** They were one scene and they are two jobs — the mission succeeding, and the society failing to hear what else they found.
 **Hazard:** ceremony. Nobody makes a speech. Somebody takes the tablet and starts working, and the three of them are suddenly standing in a room with nothing to do.
 **Ends on:** being sent for.
