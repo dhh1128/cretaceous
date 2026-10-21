@@ -1,5 +1,5 @@
 ---
-approval: approved c2348b17
+approval: approved 1dffafa1
 ---
 
 # Character arcs and intimacy
@@ -144,7 +144,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 - **D3.1.** Keo says aloud to Benal something about what the suit's quiet means to him: the kind face of his pity. When Teva says "Possibly", Keo takes it up, so the joke belongs to all three.
 - **D3.2.** Keo answers "reckless, unsuited idiot" in his own register, protesting and then conceding. Someone acknowledges that Teva saved him and Noli. The debt starts here.
-- **D3.3.** Next morning Keo makes "idiot" a joke against himself, and the quarrel is mended. Teva's fear of water stays hers alone, but Keo says something when she feeds Noli before she drinks. Navigating, Teva thinks of her mother (T43).
+- **D3.3.** Later that morning Keo makes "idiot" a joke against himself, and the quarrel is mended. Teva's fear of water stays hers alone, and she feeds her suit before she drinks, without comment from anyone (`body-and-resources.md` §3b). Navigating, Teva thinks of her mother (T43).
 - **D3.4.** The day told back is dramatized in their voices: teasing, correcting, the croc-length game. The talk goes to shared childhood rather than family, the fog walk (X1) and math class (X4). Teva has a line. Keo's frogs are hunger's verdict (K14).
 - **D3.5.** Benal wakes frightened on Teva's watch, and her guard comes down a little because he was vulnerable first. The sky stays her secret.
 - **D4.1.** Keo is overconfident about the mushroom and Benal makes him do the smell test (K17, B35), and the running argument about what is edible begins (`humor-plan.md`, inside jokes). Benal's snail talk is in his voice. Teva says something about the wet ground that Keo takes the wrong way, so his misreading happens between them. The snails after rain are Keo's tie to Yara (K8).
@@ -248,7 +248,7 @@ What the reader should feel toward each of the three, the details that earn it, 
 
 **Days 3–5, the first walking days.**
 - **Keo**: admiration with exasperation. Earned by answering *reckless, unsuited idiot* and then making it a joke against himself (D3.3), and by yielding on the mushroom's smell test (K17). Holds off the hothead: he concedes aloud.
-- **Teva**: respect turning to warmth. Earned by feeding Noli before she drinks (D3.3), asking Benal what he hears at the moths (D4.2), and her first tease about Noli (D5.1). Holds off the angry one: she asks, and she teases.
+- **Teva**: respect turning to warmth. Earned by feeding her suit before she drinks (D3.3), asking Benal what he hears at the moths (D4.2), and her first tease about Noli (D5.1). Holds off the angry one: she asks, and she teases.
 - **Benal**: tenderness and admiration. Earned by catching frogs with a kind of horrified care (B33), his curiosity about snails (B15), and joking about his own returning (B31). Holds off the loner: he talks to them, and *possibly* becomes theirs.
 
 **Day 6, the good day.**
