@@ -1,5 +1,5 @@
 ---
-approval: approved 8159c57b
+approval: approved dc0f2f0d
 ---
 
 # Environmental suits
@@ -43,7 +43,7 @@ The suit's **primary job in this climate is cooling, not warming.** <!-- @WF-sui
 
 ### Sensors and data
 
-Chemical (predator pheromones), vibration (footfalls through the ground), short-range proximity. **Vibration reads only when the wearer is still**, because the wearer's own steps swamp it; in camp, on watch or at a lay-up it picks up heavy footfalls. **Proximity reads body heat, because it was built to find people**: it registers a warm-blooded animal and misses one at the temperature of the air, so a constrictor in the litter or a croc in the water never shows. The large dinosaurs run warm enough to register, and when one does, the wearers' own senses have usually found it as fast.
+Chemical (predator pheromones), vibration (footfalls through the ground), short-range proximity. **The chemical sensor is an active sniffer**: it draws air across an intake at the collar and names only compounds in its library, which holds predator pheromones and the gel. It reads several at once, but only what is close and concentrated, such as a predator upwind at a few meters, a fresh trail or fresh dung, and a sample can be held to the intake. Anything outside the library, or anything that does not rise into the air, it does not name. **Vibration reads only when the wearer is still**, because the wearer's own steps swamp it; in camp, on watch or at a lay-up it picks up heavy footfalls. **Proximity reads body heat, because it was built to find people**: it registers a warm-blooded animal and misses one at the temperature of the air, so a constrictor in the litter or a croc in the water never shows. The large dinosaurs run warm enough to register, and when one does, the wearers' own senses have usually found it as fast.
 
 Two data channels, and which one you're on is a choice with a cost.
 
