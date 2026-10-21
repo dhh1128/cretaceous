@@ -1,5 +1,5 @@
 ---
-approval: approved a9640b18
+approval: approved bd798591
 ---
 
 # Cretaceous — Outline
@@ -180,7 +180,7 @@ They arrive back at the Enclave in their heretical old-tech vehicle, stunning ev
 
 The Hero's Act: They hand over the synthesis protocols, saving the kiva.
 
-The Heretic's Act: They walk into the Council chamber. Their parents are prisoners. They reveal the lie at the heart of their society.
+The Heretic's Act: They walk into the Council chamber. Their parents are prisoners. They reveal what drifted at the heart of their society: drift, not deceit, and Teva reads it as a lie (`AGENTS.md` §7).
 
 Rationale (Emotional Climax): not vindication — anger when they are not received well, weeping for their disappointments, and happiness at their solidarity and friendship at the end (`plan/character-arcs.md` §4).
 
