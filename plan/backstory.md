@@ -1,5 +1,5 @@
 ---
-approval: approved ca5c6ef8
+approval: approved 5a5705a1
 ---
 
 # Backstory register
@@ -214,6 +214,7 @@ What the three and the people around them were before the story opens: habits, h
 - **F9** The yazhi drill that after heavy rain the groves are the river's started because of Yara. *(D2.10; `plan/milieu-brief.md` §4)*
 - **F10** Nobody's proximity sense found Yara's croc because other animals already known to be near, large turtles or a snake, covered its presence: the sense reads presence and kind at short range, and Riel read the ones she expected.
 - **F11** Keo blames himself for Yara's death. Riel and Joram attribute the mistake to Riel, for not sensing the croc, and only the two of them do.
+- **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 **Teva's family**
 - **F12** Lumea was Omya's daughter, so what Omya passes to Teva is a heritage down the women of the family. Lumea had none of a Keeper's patience, argued with Omya, and was "very good at being wrong". *(D2.4, revise: drop "the senses for it")*
@@ -233,7 +234,6 @@ What the three and the people around them were before the story opens: habits, h
 - **F24** Liaso is older than Benal, the son of Marek's older sister. He is friendly to Benal and very mainstream in every way, including his social life: a benevolent older brother, though not close.
 - **F25** Liaso's rex stood across a clearing from him; he shook until the next day, and tells it as a funny story. *(D2.9)*
 - **F26** On watch, Liaso stamps, walks to the far end, and stays turned while he hums a song of known length. *(D3.1)*
-- **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 **Others**
 - **F27** Topo: a year younger than Keo, born with a misshapen ankle. *(K18)*
