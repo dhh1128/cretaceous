@@ -507,7 +507,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **She is frightened of the sky now and hiding that as well.** `character-arcs.md` Day 11 — she is the only one left standing, and being the only one left standing is what she is afraid of.
 - **The shadow, not the animal.** `milieu-allocation.md` §3 gives the flybeak Day 11 and the Day 19 chase and forbids a second appearance between; its shadow may pass, and it is a pressure rather than an encounter. `plan/outline.md` has that pressure pushing them off open ground and onto worse.
-- **Hell ants moving over leaf litter** like a single flowing oil-slick, allocated to Day 11 in the species table and again in the sound list.
+- **Ground ants boiling out of a nest the runoff has flooded**, a dense moving mass over the litter that stings, allocated to Day 11.
 - **Benal's line, and it is the model for the whole comic register:** *"Sky or ground. Pick your death."* `humor-plan.md` calls it exactly right. Teva answers *"Shut up, Benal,"* and feels a flash of dark shared humor, and Keo snorts. **She lands the last line**, which is the mechanism that turns her one-joke-in-ten rate into a weapon rather than a deficit.
 - **The rain is deliverance before it is misery.** `journey-calendar.md` §2 — the front is the best thing that has happened to her, she puts her face up into it, and the suffering starts later and starts because it does not stop.
 - **The ground they are driven onto is the limestone broken country** — scree, gulches, ravines, thin soil, exposed rock — allocated to Days 11 and 12. The old entry set this scene in jungle undergrowth, which is the wrong biome band (`milieu-allocation.md` §2) and reaches for the rainforest §1 exists to correct.

@@ -1,5 +1,5 @@
 ---
-approval: approved 39e6dcc0
+approval: approved 651c84f6
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -67,7 +67,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *kritosaurus* / *velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
 | *ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
 | *quetzalcoatlus* — **flybeak** | 11, 19 | takes Noli out of a low sun. Returns as the chase on Day 19 and nowhere between — its shadow may pass, but the animal is not shown twice in Act 2. |
-| *haidomyrmecinae* — hell ants | 11 | already allocated to D11.3. | @D11.3
+| stinging ground ants, flooded out of their nest | 11 | D11.3, by the front's runoff. Not hell ants (*haidomyrmecinae*), which were small, likely arboreal hunters, rare, and last known about 78 million years ago. | @D11.3
 | *didelphodon* | 12 | badger-sized, bone-crushing bite, raids the camp. Nuisance and comedy on a miserable day. |
 | *thescelosaurus* | 12 | burrowers; their holes are a hazard on bad ground. |
 | *palaeosaniwa* | 13 | 3 m monitor lizard, an active hunter. **Unused, and the best mid-tier land threat in the inventory.** |
@@ -99,7 +99,7 @@ This is where two layers interact, and the interaction is the point.
 
 Note what this does to the cast. **Keo is unsuited, so he is the one being eaten** — the cost of his pride, delivered in a form no reader will resent. Teva and Benal watch him swell and scratch while their own skin is covered. And *stingburn* is the term for what it becomes when it goes wrong, which is what killed Alira, so every bite carries a small charge.
 
-Also present, allocated sparingly: **hell ants** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he didn't (Day 5), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
+Also present, allocated sparingly: **stinging ground ants flooded out of their nest** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he didn't (Day 5), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
 
 ### Beautiful things
 
@@ -149,7 +149,7 @@ Each of these is owned once. The number is the day.
 
 **Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters carry the second one in a pot and put it on their fence every night until the river takes it on Day 8 *(`body-and-resources.md` §0; on skin only at the crossing)*. Nobody has to point this out.
 
-**Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **the birds stop, before the constrictor (5)** — the overcast thickens and they go quiet, as birds do when the light drops; the insect wall goes on, and only Benal hears the difference · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · hell ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
+**Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **the birds stop, before the constrictor (5)** — the overcast thickens and they go quiet, as birds do when the light drops; the insect wall goes on, and only Benal hears the difference · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · flooded-out ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
 **Touch and taste** — limestone underfoot (1, established, never again) · septic gel on a spike's tip, and on the fingers that put it there (3) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
