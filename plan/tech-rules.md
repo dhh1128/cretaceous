@@ -1,5 +1,5 @@
 ---
-approval: approved a8b087d4
+approval: approved 5d1210ff
 ---
 
 # Tech rules — taught before exploited
@@ -25,7 +25,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 | **Pheromone barrier** | reads as wounded alpha to predators; terrifies small animals; **blinds the suits' chemical sensors**. **It belongs on a perimeter, not on skin** <!-- @WF-barrier.location: perimeter --> — at home it weeps from nozzles in the tangle, and nobody smears it on a person except at the Day 8 crossing. On the night fence it costs them Noli's company after dark; on their bodies it would cost Keo his concentration every waking hour | D3.1, Teva dresses her spike tip by hand | D3.2: **a smell at the nose means panic, and it breaks a committed hunt that projection cannot**; downwind of the pack, a dab on one spike is not noticed until it is brought to a nose, and one animal's panic scatters a pack | — | ok | @D3.1
 | **Archaea failsafe** | dissolves unmaintained old-tech in hours | D2.11, the soured-fig smell | **D14.2, the raft** — founder-era, never wrapped, and nobody remarks on it · **D16.2**, a dry room full of old-tech that has not dissolved, which is wrong and which nobody has energy to find wrong yet | — | ok — the payoff is placed. `foreshadow-and-motif.md` **R7** pays it at D17.2: the apparatus was built at the Enclave and Genesis predates it | @D2.11 @D14.2 @D16.2 @D17.2
 | **Accelerated healing** | **metabolically expensive** — heals fast at the cost of strength, warmth and clarity <!-- @WF-healing.cost: strength-warmth-clarity --> | **nowhere** | Days 11–13, Keo | — | **GAP — must be taught in Act 1** |
-| **Suit thermal management** | primary function is *cooling* <!-- @WF-suit.thermal.primary: cooling -->; reservoirs saturate; a hot night does not reset them | **nowhere** | **Day 10, where it loses and Teva cooks** | Day 11 onward — she walks unshelled, and the cost is camouflage and sensors, never cold | **GAP — must be taught before Day 10** |
+| **Suit thermal management** | primary function is *cooling* <!-- @WF-suit.thermal.primary: cooling -->; reservoirs saturate; a hot night does not reset them | **nowhere** | **Day 10, where it loses and Teva cooks** | Day 11 she walks unshelled and carries it; she puts it back on during Night 11 and wears it from then on, patchy, and stops trusting its camouflage | **GAP — must be taught before Day 10** |
 | **Croc surface sensing** | **pressure receptors in the jaw skin read disturbance on the water, not vibration through the ground** <!-- @WF-croc.sense: water-surface -->; attracted to thrashing; **mental projection barely touches a hungry one** | milieu only, never dramatized | **Day 8, the entire crossing depends on it** | — | **GAP — must be taught in Act 1** |
 | **Suit feeding** | water and sugars every two days, more when repairing | D3.3, at the first lay-up | Day 6, honey split four ways and two suits | Day 15 | thin — wants one clear moment | @D3.1
 

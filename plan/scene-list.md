@@ -533,7 +533,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** BOND · **Ending:** SETTLED
 **Tending his wound, in warm rain that will not stop.** She is caring for him and has no idea what it means to him.
 **Must carry:**
-- **She has been unshelled since the saturation** and is carrying the suit rather than wearing it, so what she has lost is camouflage and sensors. `body-and-resources.md` §3b.
+- **She has been unshelled since the saturation** and has carried the suit all day. **Halfway through the dressing she pulls it back on**, cold and with a night of cool rain behind it, and wears it from then on; it works patchily and she stops trusting its camouflage. `body-and-resources.md` §3b.
 - **She feels cold and the others do not, and it comes from inside her** — hunger, two days without proper sleep, and the deficit. `journey-calendar.md` §2: write the symptom, never the climate. The rain is warm, and nobody in the scene may call it cold.
 - **Her one joke of the stretch, delivered with her hands in the wound.** He groans *"Careful,"* and she snaps *"Be quiet or be bait. Your choice."* `humor-plan.md` gives this as the model for her register — flat, hostile, dry, and the only way she has of saying anything warm.
 - **The irony belongs to the reader and never to her.** She sees a brave, foolish friend; the reader has been holding his crush since D2.8. Strict third means the scene delivers her competence and his misreading of it and never her knowing (`AGENTS.md` §6).
@@ -654,6 +654,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
 - **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
 - **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water. @D15.1
+- **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs something that floats** and holds on; `[?]` what it is.
 **Hazard:** a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Second: him being brave. He is not, and the book has never asked him to be.
 **Ends on:** him under, with nothing in his hands.
 
