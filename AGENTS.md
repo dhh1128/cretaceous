@@ -33,6 +33,12 @@ So:
 - **The only test that works is whether he recognizes it.** Archaeology builds the list to show him. It does not clear or condemn anything by itself.
 - **The approval state is in the files themselves.** See §2. Nothing outside the repo is needed to read it.
 
+### The layers have to agree, and a disagreement goes to him
+
+**The evidence of what Daniel decided comes in layers**: his own words answering a question (the `tagged` store, `~/.local/state/claude-tagged/items/`), prose he has read and approved, approved plan files, and everything else. **The order says which layer is better evidence. It does not settle a disagreement between them.** When two layers disagree, something is misaligned — a ruling recorded wrongly, a plan line nobody tested, a scene that drifted — and it is reconciled **with him**, as a question that shows both sides, never decided silently by precedence. A disagreement left in place surfaces later in ways nobody can predict: the friction fire `[retired]` sat in an approved plan file from 2026-10-05 to 2026-10-21 while every drafted scene used the kindler, and a prose check then "corrected" a scene to match the plan (`process/scene-build-runbook.md` phase 3).
+
+So a reviewer's finding that contradicts prose he approved is a conflict to bring him, not a fix; a brief to a subagent names his words and his approved prose as the first evidence and says that a disagreement is to be reported, not resolved; and a ruling is recorded as what his words say, not what the question proposed — where his answer covers less than the question asked, the rest is still open.
+
 ## 2. How approval is recorded
 
 **Every markdown file carries one line of frontmatter:**

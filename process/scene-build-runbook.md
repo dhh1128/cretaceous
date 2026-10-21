@@ -95,6 +95,7 @@ Three things that decide whether it is worth the call:
 - **The highest-value section is the undeclared inventions**, because that is the ledger's own measure: what the pass failed to ask about. Say so in the prompt and ask for it exhaustively.
 - **The packet must show approval state.** A builder that strips frontmatter makes every section look equally unapproved, and on the D2.2 run three seats reported a ruling inside an approved map as an invention nobody had asked about. Carry each file's `approval:` line into its section heading.
 - **Verify before adopting.** One seat's headline finding in the first run was confidently wrong and would have broken a working scene. Agreement across lineages is weak evidence and a single confident dissent is not evidence at all until you have chased it.
+- **Check every finding against the drafted prose as well as the plan.** A packet hands the seat the plan as canon and the scene as the thing under review, so wherever the two disagree, the seat sides with the plan. Before adopting a finding about how the characters do something, grep `content/` for how earlier scenes already do it. **If plan and prose disagree, neither wins: the disagreement goes to Daniel** (`AGENTS.md` §1, *The layers have to agree*). The friction fire `[retired]` was "corrected" into D10.3 this way, against every scene before it.
 
 **Its output is ledger items**, which is why it sits before phase 4 rather than after it. Two of the first run's findings reshaped the scenes and neither was reachable from the four invariants.
 
