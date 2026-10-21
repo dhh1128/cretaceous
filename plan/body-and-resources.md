@@ -1,5 +1,5 @@
 ---
-approval: approved b416890a
+approval: approved 95ce0968
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -81,7 +81,7 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 
 **It works on the things it is sized for, which is the point.** A fence built against a predator passes anything small, exactly as the Enclave's own river grating stops a six-meter croc <!-- @WF-croc.length: 6m --> and passes a one-meter juvenile that then grows up inside (`milieu-brief.md` §3). **The same failure, in miniature, every night.** Nobody in the novel remarks on the parallel.
 
-**Fire, when there is wood.** <!-- @WF-fire.march: when-wood --> Small, made by friction — a cord bow, a drill, a hearth board and tinder, all cut on the way and all rot-tier — on ground scraped bare. `[-]` **They carry a kindler** for wet country: a resin paste in a leaf-wrapped gourd, boiled from conifer resin and fat at home, which catches when tinder will not. **It starts a fire; it does not make wet wood burn**, so some nights allow no fire at all — three days of rain on Days 11 to 13 is one of them *(`plan/scene-maps/D12.2.md`)*. **On a bare savanna there is no wood, so they carry it in.** And **they kick and scatter the ashes before they leave** (`milieu-brief.md` §6).
+**Fire, when there is wood.** <!-- @WF-fire.march: when-wood --> Small, on ground scraped bare, and **started with the kindler**, the chemical fire starter they carry from home in a leaf-wrapped gourd: a resin paste that catches when tinder will not. **Nobody makes fire by friction**; these are not primitives, and few in this society ever go outside. **It starts a fire; it does not make wet wood burn**, so some nights allow no fire at all — three days of rain on Days 11 to 13 is one of them *(`plan/scene-maps/D12.2.md`)*. **On a bare savanna there is no wood, so they carry it in.** And **they kick and scatter the ashes before they leave** (`milieu-brief.md` §6).
 
 **The lay-up is where the B-story lives, and this solves a real problem.** Four hours a day of enforced stillness and proximity, nothing to do, nowhere to go. Every confession, argument, joke and silence in Act 2 has a natural home now, and no scene has to invent a reason for three exhausted people to talk to each other.
 
