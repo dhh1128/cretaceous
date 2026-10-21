@@ -1,5 +1,5 @@
 ---
-approval: approved 4b10ecd8
+approval: approved d199578b
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -38,7 +38,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **Days are skipped freely.** Not every day needs a scene, and several should have none. The calendar exists so that what *is* written sits in a coherent world, not so that every square gets filled.
 
-**The pace profile is deliberate.** Eight to twelve kilometers on an ordinary day. **Three on Day 7 and two on Day 8** — they stop at the water, and then the crossing takes an afternoon and leaves nobody able to walk afterward. **Six on Day 10**, because head-high fern is slow ground and they walk the heat on Keo's certainty of water ahead *(`body-and-resources.md` §2b)*. **Four on Day 11**, when Noli dies and Keo is hurt. A reader will not compute any of this, but they will feel the days where the map barely moves.
+**The pace profile is deliberate.** Eight to twelve kilometers on an ordinary day. **Three on Day 7 and two on Day 8** — they stop at the water, and then the crossing takes an afternoon and leaves nobody able to walk afterward. **Six on Day 10**, and six is forward progress, not the distance walked: on packed trodden way they walk from before dawn until the sun is low, but they follow the herds' way and the *Kritosaurus* calls toward water that is not there, off their heading, on Keo's certainty of water ahead *(`body-and-resources.md` §2b)*, and Teva, hiding the heat, does not call the heading back. **Four on Day 11**, when Noli dies and Keo is hurt. A reader will not compute any of this, but they will feel the days where the map barely moves.
 
 **The crossing is an afternoon, not a morning.** They do not march. The morning goes on preparing and on failing to be ready, the lay-up passes in the worst heat with nobody sleeping, and they go in at the height of the afternoon — the hour the light still reaches into the water and the hour most of what hunts the bank is lying up — fewer hunting, not none. Afterward they sit on the far side for an hour or two because nobody can do anything else, and then move a short distance before dark. **Two kilometers in a day, and the day is the hinge of the book.**
 
