@@ -1,5 +1,5 @@
 ---
-approval: approved b3e50d33
+approval: approved ca5c6ef8
 ---
 
 # Backstory register
@@ -233,11 +233,11 @@ What the three and the people around them were before the story opens: habits, h
 - **F24** Liaso is older than Benal, the son of Marek's older sister. He is friendly to Benal and very mainstream in every way, including his social life: a benevolent older brother, though not close.
 - **F25** Liaso's rex stood across a clearing from him; he shook until the next day, and tells it as a funny story. *(D2.9)*
 - **F26** On watch, Liaso stamps, walks to the far end, and stays turned while he hums a song of known length. *(D3.1)*
+- **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 **Others**
 - **F27** Topo: a year younger than Keo, born with a misshapen ankle. *(K18)*
 - **F28** Sila has a daughter, one of Teva's two friends. *(T18)*
-- **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 ## Noli
 
