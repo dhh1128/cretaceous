@@ -142,7 +142,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 | `air-bladder` | **The Repository door is a limestone slab hung on an archaea-soaked fiber cord over a greased hardwood saddle, balanced by a net of stones.** A pull lifts it; it creaks, it does not hiss. Nothing in the Enclave is pneumatic. `plan/milieu-brief.md` §6 |
 | `escaping pressure` | The same ruling: **cord, saddle and stones**, never air. |
 | `gel on exposed skin` | **Nobody wears the gel to pass the tangle.** It goes on a perimeter, on the night fence, and on Teva's spike tip; skin only at the Day 8 crossing. `plan/body-and-resources.md` §0 |
-| `Days 3–14, constantly` | **Teva's magnetic sense matters at four named moments, each with a reason** — rebuilding the D3.2 run, finding the narrows, the suits failing, and offshore — and is quiet between, because the suits give a compass and a distance. `plan/tech-rules.md` |
+| `Days 3–14, constantly` | **Teva's magnetic sense matters at four named moments, each with a reason** — rebuilding the D3.2 run, finding the narrows, the suits failing, and offshore — and the book does not dwell on it between: her sense holds the heading and the suits count the distance. `plan/tech-rules.md` |
 | `the hood` | **The suit's headgear is a helmet, and it is only ever called that.** A stiff strut-reinforced helmet over the skull and down to shield the neck, open face, no faceplate. *Hood* reads as cloth, and the prose was using both words for one thing. `kb/worldbuilding/safety-suits.md` |
 | `his hood` | The same ruling: **helmet**, never hood. |
 | `her hood` | The same ruling: **helmet**, never hood. |
