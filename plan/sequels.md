@@ -19,7 +19,7 @@ Marked `[?]` items are session inference, not rulings.
 - **The time capsule had no usable content.** It proved the second jump happened and told them nothing they could act on.
 - **The equipment used to jump is missing from Genesis.** He works this out from pictures and from temporal flashes: something was there and is not. **Where did it go?**
 
-**So he goes back to Genesis, by wig.** His father — a committed Brancher — now supports him, which is the first repair of that relationship and a reversal of *do something real*. `[pays R22 — the river gratings must be raised to open the channel, established at D2.5 as the reason for the drill]` **Every flight opens the croc barrier**, so a wig used routinely is a standing hole in the perimeter, and that cost is book 2's to spend.
+**So he goes back to Genesis, by wig.** His father — a committed Brancher — backs him, actively, campaigning and supporting: D19.7, where Marek says aloud that he was wrong and stands beside him, was the down payment on that change, and book 2 is where he delivers on it. `[pays R22 — the river gratings must be raised to open the channel, established at D2.5 as the reason for the drill]` **Every flight opens the croc barrier**, so a wig used routinely is a standing hole in the perimeter, and that cost is book 2's to spend.
 
 **The schism at the Enclave gets worse.** The trio's revelation has split the society and control of Genesis and the wig is what it splits over.
 
