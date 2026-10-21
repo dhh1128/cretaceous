@@ -1,5 +1,5 @@
 ---
-approval: approved 859d6086
+approval: approved 1c702ea5
 ---
 
 # Environmental suits
@@ -43,7 +43,7 @@ The suit's **primary job in this climate is cooling, not warming.** <!-- @WF-sui
 
 ### Sensors and data
 
-Chemical (predator pheromones), vibration (footfalls through the ground), electromagnetic (bioelectric fields of nearby animals), short-range proximity. **Proximity reads body heat, because it was built to find people**: it registers a warm-blooded animal and misses one at the temperature of the air, so a constrictor in the litter or a croc in the water never shows. The large dinosaurs run warm enough to register, and when one does, the wearers' own senses have usually found it as fast.
+Chemical (predator pheromones), vibration (footfalls through the ground), short-range proximity. **Proximity reads body heat, because it was built to find people**: it registers a warm-blooded animal and misses one at the temperature of the air, so a constrictor in the litter or a croc in the water never shows. The large dinosaurs run warm enough to register, and when one does, the wearers' own senses have usually found it as fast.
 
 Two data channels, and which one you're on is a choice with a cost.
 
