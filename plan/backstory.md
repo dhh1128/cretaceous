@@ -1,5 +1,5 @@
 ---
-approval: approved 7f2b0e56
+approval: approved 4c50aec0
 ---
 
 # Backstory register
@@ -172,7 +172,7 @@ What the three and the people around them were before the story opens: habits, h
 - **B25** He loves and admires his mother and thinks she is deeper than others do. He wishes she would spend more time with him. She feels distant to him: kind, but not warm. He would know her voice in any crowd, and his father's step on the platform. *(D2.2)*
 - **B26** He had never seen his father defeated before D2.7. *(D2.7)*
 - **B27** He expects Keo to want to fix things that cannot be fixed. *(D4.2)*
-- **B28** He had never said anything like "reckless idiot" to Keo in his life; his "Hit it with your spear?" at D2.9 was sarcasm, and D3.2 is the first time he critiques him. *(D3.2)*
+- **B28** He had never said anything like "reckless idiot" to Keo in his life; his "Hit it with your spike?" at D2.9 was sarcasm, and D3.2 is the first time he critiques him. *(D3.2)*
 
 **Habits on the page**
 - **B29** He goes still before he says something with numbers in it. *(D4.1)*

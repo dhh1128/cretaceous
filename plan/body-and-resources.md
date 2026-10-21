@@ -1,5 +1,5 @@
 ---
-approval: approved 6e3ce472
+approval: approved 53a80302
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -91,7 +91,7 @@ Taken from viking and cordimancy, where **somebody is always doing something wit
 
 **The task carries the scene, not the dialogue.** It supplies the rhythm, it supplies the silences, and it gives a character a reason not to look at anyone. In viking a man whittles through an entire despairing conversation and his only line is *"Can't hurt"* — which answers both the question about the spear and the one about hopelessness. Remove the whittling and the scene becomes people taking turns delivering backstory into a void, which is precisely the failure mode.
 
-**Cretaceous has an unusually good supply of these**, and they are all already canon: drying and re-treating spear shafts, feeding the suits, tending the biofilm, cleaning and re-dressing Keo's wound, processing forage, mending, sharpening, checking the seams of a suit that is failing. **Every lay-up scene should open with somebody's hands already busy.**
+**Cretaceous has an unusually good supply of these**, and they are all already canon: drying and re-treating spike shafts, feeding the suits, tending the biofilm, cleaning and re-dressing Keo's wound, processing forage, mending, sharpening, checking the seams of a suit that is failing. **Every lay-up scene should open with somebody's hands already busy.**
 
 **And the group names the activity out loud rather than drifting into it.** In viking somebody says *"Okay, I'll bite. Let's have a pity party. You go first"* — which licenses forty lines of backstory without the scene reading as an author dumping files. The line that makes it work is *"We're a captive audience"*: nobody can leave, so the talk is all there is. **That is the load-bearing move for an Act 2 built on enforced stillness**, and it should be used early — Day 4 or Day 6 — to establish the form.
 
@@ -166,7 +166,7 @@ The weather turns after Day 3, so **they walk out with good gear and the rains s
 | day | gear |
 |---|---|
 | 3 | dry, sound |
-| 4–5 | first sustained wet. Keeping the spears off the ground and out of the rain becomes a daily chore with no good solution |
+| 4–5 | first sustained wet. Keeping the spikes off the ground and out of the rain becomes a daily chore with no good solution |
 | 6 | **the good day dries the gear as well as the people.** One more reason it is the deposit |
 | 8 | the crossing soaks everything |
 | 10 | bone dry and fine — the savanna is good for exactly one thing |

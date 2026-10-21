@@ -1,5 +1,5 @@
 ---
-approval: approved bb020157
+approval: approved 0e7ae120
 ---
 
 # Cretaceous — Milieu Brief
@@ -195,7 +195,7 @@ Teva recruiting Benal is a thesis statement: the younger generation understands 
 
 **Hard tech — "old-tech."** Metal, polymer, electronics. Dangerous because it leaves geological trace across 66 million years. Kept only inside the Enclave, inventoried individually, used almost never. Taking it beyond the impact radius is the deepest taboo: a lost blade could survive to be found. **The colony has lived that fear once.** A first-generation Explorer lost the Enclave's machete in a river, and two suited Explorers were killed by crocs digging it out of the mud. It lies wrapped on the Repository's taboo shelf, and every Explorer's child knows what it cost.
 
-**The duty is a founder instruction. The apparatus is not, and the distinction is load-bearing.** The prime directive — leave no evidence that could make a paradox — came through the transit with them and has never been in question. What came through with it was a *plan*: sit at ground zero, for weeks or months or at the outside a year or two, and be erased. **Nobody wrote a doctrine for living eighty kilometers <!-- @WF-route.overland: 80km --> inland for two hundred years, because nobody expected to.** So every mechanism below — the archaea, the wrappings, the weekly balm, the returning, a spear built to rot — is the colony extending an instruction it was given into a situation it was not given instructions for.
+**The duty is a founder instruction. The apparatus is not, and the distinction is load-bearing.** The prime directive — leave no evidence that could make a paradox — came through the transit with them and has never been in question. What came through with it was a *plan*: sit at ground zero, for weeks or months or at the outside a year or two, and be erased. **Nobody wrote a doctrine for living eighty kilometers <!-- @WF-route.overland: 80km --> inland for two hundred years, because nobody expected to.** So every mechanism below — the archaea, the wrappings, the weekly balm, the returning, a spike built to rot — is the colony extending an instruction it was given into a situation it was not given instructions for.
 
 **Which is why the taboos are as hard as they are.** They are the terms the leavers accepted in the third year at Genesis in exchange for permission to go (§3). A rule you adopted as the price of getting your way is held harder than one you were handed, and it hardens further in the generation that inherits it without the argument. **The Traditionalists are not superstitious and they are not wrong about the duty.** What has drifted is not the obligation; it is the belief that the apparatus came down from the founders rather than being built here, by people who knew exactly what they were improvising. <!-- @WF-corruption.kind: drift -->
 
@@ -291,7 +291,7 @@ Shafts, handles and bindings are **soaked in an archaea solution and dried.** Dr
 
 Dry, dry-ish, and alive. Three states of *still in use*.
 
-**And this puts their weapons on a clock that the weather winds.** The weather turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 11–13 are wet and nothing dries. **Keeping the spears dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. The crossing gets worse in a new way: you have to carry the thing that dissolves in water *through water*, and then dry it on the far bank before the archaea wake. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
+**And this puts their weapons on a clock that the weather winds.** The weather turns after Day 3, so they walk out with good gear and the rains start eating it. Days 4–5 and 11–13 are wet and nothing dries. **Keeping the spikes dry becomes a daily problem with real stakes** — wrapped, kept off the ground, dried at the lay-up when there is anything to dry them with — and it is exactly the kind of labor that makes a survival novel feel true. The crossing gets worse in a new way: you have to carry the thing that dissolves in water *through water*, and then dry it on the far bank before the archaea wake. And it compounds the one-way-journey argument in `body-and-resources.md` §1 — they reach the coast short of calories **and** short of weapons.
 
 **Deepest of all, it makes the mantra literal.** *Water is death* is not a slogan about crocs. It is a physical law with five separate mechanisms: the crocs, Teva's thermal collapse, the dissolution of every weapon they carry, the sea that Genesis sits in, and Yara.
 
