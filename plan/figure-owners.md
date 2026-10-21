@@ -48,7 +48,7 @@ approval: unapproved
 |---|---|---|
 | two days | `idiom` | rations, elapsed time, sleep debt, suit feeding, a prepared speech. Twenty-nine statements, no shared proposition |
 | three people | `idiom` | the trio as a count, and portions divided three ways |
-| two people · one day · two years · six days · seven days · nine days · three weeks · four years · sixteen years | `idiom` | ordinary durations and ages in prose; no proposition recurs |
+| two people · one day · two years · six days · nine days · three weeks · four years · sixteen years | `idiom` | ordinary durations and ages in prose; no proposition recurs |
 | three days · four days · four hours · six hours · three hours · two hours · one hour · twelve hours | `idiom` | leaching stages, lay-ups, watches and marches. The corpus measures in these constantly |
 | two kilometers · three kilometers · four kilometers · eight kilometers · twelve kilometers | `idiom` | per-day distances, owned day by day by `plan/journey-calendar.md` §1 and not a single figure |
 | two suits · three meters · one meter | `idiom` | the stolen pair against the twelve in store; sightlines; a juvenile croc against an adult |
