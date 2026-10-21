@@ -81,7 +81,7 @@ The proposed check was *every ironic row named in exactly one scene*. That is ri
 | **FD** | carry it forward, don't send it | accumulated | seeded **EP3** (*sent to work*), seeded **EP5** (*what returns is the platform*), **completed EP13** | the coda, plainly, to a dead woman |
 | **FE** | ~two decades, not centuries | delivered | **EP9**, the global alert | not stated — inferred from a fourth wave and no further guidance |
 | **FF** | they don't know what year it is | delivered | **EP7**, targeting confidence | *will not be resolvable from the far side* |
-| **FK** | the flashes are real | delivered | **D11.6** | Keo dismisses it as fever in the same move the reader stops being able to | @D11.6
+| **FK** | the flashes are real | delivered | **D11.6**, planted; paid by R26's growth (D13.2, D14.1, D15.1) | Keo dismisses the first as fever; one dismissible perception cannot make the reader certain, so the certainty comes as the flashes recur and spread to the other two | @D11.6 @D13.2 @D15.1
 | **FL** | Teva's mother died of what kills Alira | delivered | **D1.1** | the wet rattle, twice, two years apart | @D1.1
 | **FM** | Keo had a sister | delivered | **D2.3, move 17** | Riel fills a fourth gourd for three people. **No character changes. `[turn — READER ONLY]`** | @D2.3
 | **FM2** | a croc took her while their parents watched | delivered | **D2.10** | *the world that had killed his sister*, against the Repository he is about to rob | @D2.10
