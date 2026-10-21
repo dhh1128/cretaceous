@@ -1,5 +1,5 @@
 ---
-approval: approved f52d5264
+approval: approved b416890a
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -99,7 +99,7 @@ Taken from viking and cordimancy, where **somebody is always doing something wit
 
 **The exceptions are the disasters, and they should be caused by the doctrine breaking.**
 
-- **Day 10, the savanna.** They march through midday because **there is nowhere to lay up** — a fern savanna has no shade, and stopping in it is worse than crossing it. The doctrine cannot be followed, and Teva pays. This is much better than Keo simply pushing too hard: the terrain removes the option, and his hubris only decides *how fast*.
+- **Day 10, the savanna.** They march through midday **because of an argument, not the terrain.** Head-high fern gives some shade to anyone who crouches in it, and resting cuts the body's heat; **Benal argues for lying up**, and has the odds. **Keo overrules him**: the water is half a canteen, a *Kritosaurus* herd is calling across the fern on its way to water, and he is sure the water is ahead. **Teva does not take Benal's side**, because asking to rest would give away what the heat is doing to her; her concealment is what cooks her. **There is no water ahead**, and Day 11's rain is what saves them. His hubris is a choice the other two watch him make, and Benal losing the argument costs Keo↔Benal its point that day.
 - **Day 14.** They march into the dark to reach the coast ahead of the storm.
 - **Day 11.** They stop before dusk because Keo cannot go on, and camping early in bad ground is its own danger.
 
