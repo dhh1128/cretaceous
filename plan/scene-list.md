@@ -654,7 +654,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
 - **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
 - **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water. @D15.1
-- **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs something that floats** and holds on; `[?]` what it is.
+- **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs a piece of the broken raft** and holds on.
 **Hazard:** a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Second: him being brave. He is not, and the book has never asked him to be.
 **Ends on:** him under, with nothing in his hands.
 
@@ -671,6 +671,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The eye is the cruelest weather in the book because it looks exactly like deliverance** — high bright cloud, no wind, a lit hour, and the birds moving wrong. `journey-calendar.md` §2. The reader should be allowed to feel rescued.
 - The bank is **razor-sharp fossilized rudist bivalves and platform limestone** — not volcanic rock; `kb/research/geo-flora-fauna.md` §1.2. Small iridescent crabs scatter.
 - **The fieldpack is gone**, and with it his mathematics and the last of the food.
+- `[?]` **Benal finds Keo on the coral still wrapped around the piece of raft that kept him up** — the one of them with no suit, alive because he held on.
 **Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
 **Ends on:** the horizon, and Benal understanding what the calm is.
 
