@@ -397,7 +397,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D8.4 — [SHORT, ~800] [Day 8, night] [KEO] [The camp] — **NEW**
 **Ladders:** EM8 P7 S7 SP5
 **Purpose:** PRESSURE · **Ending:** OMINOUS
-**The first night with a bare fence.** Something large comes in the dark and walks the line of the stakes, unseen, and leaves at first light without trying them. Nobody sleeps, which is why Day 9 is eleven kilometers on none.
+**The first night with a bare fence.** Something large comes in the dark and walks the line of the stakes, unseen, and leaves at first light without trying them. Nobody sleeps, which is why Day 9 is eleven kilometers <!-- @WF-day9.distance: 11km --> on none.
 **Must carry:**
 - **What the gel was doing, felt by its absence.** Teva's spike tip is bare for the first time since Day 3; Noli, bedded down outside the fence for the first time, goes flat, and Keo brings her in through the gap under threat — the one time she is inside, and not to sleep.
 - **Keo's sense gives presence and kind only** (`tech-rules.md`): one large hunter, alone, unhurried. **It is never seen and never named** — every large predator in the inventory is spent or held in reserve.
@@ -408,7 +408,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D9.1 — [MEDIUM] [Day 9, the walk] [BENAL] [Thinning woodland] — **NEW**
 **Ladders:** EM5 P6 S6 SP5
 **Purpose:** TRAVERSE · **Ending:** OMINOUS
-**Eleven kilometers on no sleep, the longest walk since the gift**, and the calendar's own register for the day is that there is nothing to feel about it yet except that they are still walking. Overcast, breaking to showers.
+**Eleven kilometers <!-- @WF-day9.distance: 11km --> on no sleep, the longest walk since the gift**, and the calendar's own register for the day is that there is nothing to feel about it yet except that they are still walking. Overcast, breaking to showers.
 **Must carry:**
 - **The ordinary day after the enormous one**, which is a shape the book has not used and Day 6 paid for.
 - Open-canopy woodland thinning toward the savanna edge — the last of the biome before Day 10 takes the shade away.
