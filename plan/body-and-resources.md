@@ -1,5 +1,5 @@
 ---
-approval: approved 36fffd6a
+approval: approved f757dd06
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -95,7 +95,7 @@ Taken from viking and cordimancy, where **somebody is always doing something wit
 
 **And the group names the activity out loud rather than drifting into it.** In viking somebody says *"Okay, I'll bite. Let's have a pity party. You go first"* — which licenses forty lines of backstory without the scene reading as an author dumping files. The line that makes it work is *"We're a captive audience"*: nobody can leave, so the talk is all there is. **That is the load-bearing move for an Act 2 built on enforced stillness**, and it should be used early — Day 4 or Day 6 — to establish the form.
 
-**The crossing happens in the afternoon, and that is deliberately counterintuitive.** Crocs are ambush predators most active at the water's edge at dawn and dusk. The one hour you want to be in the water is the hour everything else is lying up — and it is also the hour you can see into it. So Day 8 crosses at the height of the afternoon, the hour the light still reaches into the water and the hour everything that hunts the bank is lying up. That interlocks with the weather assignment in `journey-calendar.md` §2: the glassy river, the listening water, the insects at their worst, and the decoy that only works in flat calm.
+**The crossing happens in the afternoon, and that is deliberately counterintuitive.** Crocs are ambush predators most active at the water's edge at dawn and dusk. The one hour you want to be in the water is the hour fewer of them are hunting — fewer, not none, since crocodilians do take prey by day, so it is the best hour and not a safe one — and it is also the hour you can see into it. So Day 8 crosses at the height of the afternoon, the hour the light still reaches into the water and the hour everything that hunts the bank is lying up. That interlocks with the weather assignment in `journey-calendar.md` §2: the glassy river, the listening water, the insects at their worst, and the decoy that only works in flat calm.
 
 **The exceptions are the disasters, and they should be caused by the doctrine breaking.**
 
