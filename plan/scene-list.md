@@ -196,7 +196,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Hazard:** competence porn. She is doing the one thing she can do, badly, in terrain nobody trained her for, and the counting is a thing she has to keep re-starting.
 **Ends on:** the lay-up, and how little of the map they have moved.
 
-### D3.4 — [SHORT, ~800] [Day 3, evening] [KEO] [First camp] — **NEW**
+### D3.4 — [MEDIUM] [Day 3, evening] [KEO] [First camp] — **NEW**
 **Ladders:** EM7 P8 S8 SP4
 **Purpose:** BOND · **Ending:** SETTLED
 **Briefly the best day of their lives**, and `body-and-resources.md` says so: terrified and elated. They got out. They got past crocs.
@@ -274,7 +274,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 ---
 
-### D6.1 — [MEDIUM] [Day 6, morning] [BENAL] [Open-canopy woodland] — **NEW**
+### D6.1 — [LONG] [Day 6, morning] [BENAL] [Open-canopy woodland] — **NEW**
 **Ladders:** EM4 P4 S5 SP5
 **Purpose:** DISCOVER · **Ending:** SETTLED
 **They start hungry**, the rations gone since Day 4, and the day begins as foraging rather than as a gift. **Benal's ladder moves:** he finds the honey by smell, and the sense that has been an unfiltered assault on him since Day 4 is the reason they eat.
@@ -301,7 +301,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Hazard:** the confessions. `plan/scene-list.md`'s Dark Night on Day 15 is built on three of them — Keo's guilt, Benal's shame at being pitied, Teva's grandmother — and if this scene opens any of those, Day 15 has nothing to open. Second: the therapy circle, where each takes a turn and says a true thing. Somebody should refuse.
 **Ends on:** an hour later than they should be, and nobody minding.
 
-### D6.3 — [MEDIUM] [Day 6, evening] [KEO] [A ridge, then on] — **NEW**
+### D6.3 — [LONG] [Day 6, evening] [KEO] [A ridge, then on] — **NEW**
 **Ladders:** EM3 P3 S5 SP5
 **Purpose:** TRAVERSE · **Ending:** SETTLED
 **Most of the day's twelve kilometers are in this walk**, and it is easy ground in good light. **Keo's ladder moves:** *maybe he can do this*, which is the confidence Day 7 destroys and Day 10 punishes.

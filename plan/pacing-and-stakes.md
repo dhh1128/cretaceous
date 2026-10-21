@@ -74,6 +74,8 @@ Page-turning is not a function of short scenes. It comes from three things.
 | **medium** | 1,000–1,600 | the workhorse |
 | **long** | 1,800–2,500 | consolidation, revelation, the emotional set-pieces |
 
+**The bands are preliminary targets for the first draft.** They change when the complete draft is trimmed and polished, so a drafted scene that lands near its band is close enough, and one that grows past it is re-tagged rather than cut.
+
 **The arithmetic, and it is what ties the scene count to the word count.** A mix of a quarter short, half medium, a quarter long, at the midpoint of each band:
 
 > 17 × 650 + 35 × 1,300 + 17 × 2,150 = **93,000 words**
