@@ -1,12 +1,12 @@
 ---
-approval: approved d56e83e6
+approval: approved 859d6086
 ---
 
 # Environmental suits
 
 **PART 1 IS CANON.** Part 2 is the research it rests on, retained for reasoning but not authoritative. Options considered and rejected are deliberately not listed here, so that nothing in this file can be mistaken for spec. They are recoverable from git history if ever needed.
 
-Origin: built before the upgrade system worked, to keep the original settlers alive — they were too old to be Seeded. Two hundred were brought back. **Twelve remain.** The rest failed or were destroyed across 206 years, and each loss has a story attached. They are the most precious old-tech the colony has, individually inventoried, and Keo's parents are their custodians.
+Origin: built before the upgrade system worked, to keep the original settlers alive. **They were adapted from military prototypes, not designed for the Cretaceous**, and what they sense shows it — they were too old to be Seeded. Two hundred were brought back. **Twelve remain.** The rest failed or were destroyed across 206 years, and each loss has a story attached. They are the most precious old-tech the colony has, individually inventoried, and Keo's parents are their custodians.
 
 ---
 
@@ -43,7 +43,7 @@ The suit's **primary job in this climate is cooling, not warming.** <!-- @WF-sui
 
 ### Sensors and data
 
-Chemical (predator pheromones), vibration (footfalls through the ground), electromagnetic (bioelectric fields of nearby animals), short-range proximity.
+Chemical (predator pheromones), vibration (footfalls through the ground), electromagnetic (bioelectric fields of nearby animals), short-range proximity. **Proximity reads body heat, because it was built to find people**: it registers a warm-blooded animal and misses one at the temperature of the air, so a constrictor in the litter or a croc in the water never shows. The large dinosaurs run warm enough to register, and when one does, the wearers' own senses have usually found it as fast.
 
 Two data channels, and which one you're on is a choice with a cost.
 
