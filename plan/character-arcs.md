@@ -1,5 +1,5 @@
 ---
-approval: approved ba4ffe19
+approval: approved de00e666
 ---
 
 # Character arcs and intimacy
@@ -247,4 +247,27 @@ What the reader should feel toward each of the three, the details that earn it, 
 - **Teva**: respect turning to warmth. Earned by feeding Noli before she drinks (D3.3), asking Benal what he hears at the moths (D4.2), and her first tease about Noli (D5.1). Holds off the angry one: she asks, and she teases.
 - **Benal**: tenderness and admiration. Earned by catching frogs with a kind of horrified care (B33), his curiosity about snails (B15), and joking about his own returning (B31). Holds off the loner: he talks to them, and *possibly* becomes theirs.
 
-[?] Days 6–19 are to be proposed.
+**Day 6, the good day.**
+- **Keo**: delight and fondness. Earned by the flower offered instead of a declaration (T6), his hands on her forearm in the override lesson, and his fondness at Benal's *best day*. Holds off the hothead: he holds back.
+- **Teva**: plain liking, for the first time. Earned by her honey question to Benal and by landing the last line. Holds off the angry one: she laughs, within budget.
+- **Benal**: love. Earned by *This is the best day I've ever had* and the beetle argument. Holds off the loner: he is the center of the joke.
+
+**Days 7–10, the river to the savanna.**
+- **Keo**: fear for him, then enjoyment, then dread. Earned by facing sixteen crocs while the others see Yara in it, admitting he cannot, and singing on the savanna (K10). Day 10 is his hothead peak, and the guard is the scene list's own: the reader enjoys him as much as he enjoys himself, and he looks after Benal.
+- **Teva**: admiration and anxiety. Earned by taking the decision, the cost seen from inside at D7.2, towing Benal, and concealing sunfever by reciting the fields. D7.2 is her angry-one peak, and the cost seen from inside is the guard.
+- **Benal**: respect. Earned by seeing what Keo paid (D8.3), the stone stacks (B13), and estimating the water. Holds off the loner: he looks after Keo.
+
+**Day 11, the midpoint.**
+- **Keo**: grief with him. Earned by the Yara parallel in his head and his numbness. The hothead is gone; the fall is grief, not bravado.
+- **Teva**: tenderness under hostility. Earned by *Be quiet or be bait* and the reader knowing it is her mother's infection she fears; the anger reads as care.
+- **Benal**: admiration becoming love. Earned by sitting watch and humming Keo's song.
+
+**Days 12–15, the poisoning to the confessions.**
+- **Keo**: pity and admiration. Earned by being right and not pressing, carrying her, and asking whether she remembers the kiss chase.
+- **Teva**: the reader fears for her and forgives her before she forgives herself. Earned by testing the mash on herself, and *we'll be fine* breaking in her mouth.
+- **Benal**: tenderness. Earned by remembering her lunch, Marek's voice as the mathematics goes, and learning that Keo protected him.
+
+**Days 16–19, Genesis and the return.**
+- **Keo**: vindication. Earned by the archive he cannot use (K15) and the machine that talks, which makes him the one who flies them home, singing again.
+- **Teva**: the reader wants her to be wrong about the lie and loves her for stopping at Omya. Earned by the flower at the landing and the plait done by another hand.
+- **Benal**: triumph, and wanting him heard. Earned by being right in a room that will not take it, his canon fear: being agreed with by the wrong person.
