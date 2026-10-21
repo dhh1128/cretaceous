@@ -1,5 +1,5 @@
 ---
-approval: approved f757dd06
+approval: approved 17b67245
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -75,7 +75,7 @@ Explorers with two centuries of accumulated field knowledge have a doctrine, and
 | **~1500 to dusk** | second march, shorter | Cooling, and the light lasts |
 | **night** | **do not move** | Roots, burrows and scree in the dark is how you break a leg, and a broken leg out here is a death. Camp is chosen before the light goes, and that choice costs something every night. |
 
-**And camp is *built*, every night, because these are Explorer-trained colony children and the Enclave's entire answer to the world is the border-tangle.** They cut what the ground gives — thorny scrub, spined cycad fronds laid points outward, green stakes sharpened and angled out — and they wall whatever side the terrain does not already wall. It is an hour of labor at the end of every day, done by people who have not eaten, and it is a large part of why the doctrine stops them before the light goes rather than at dark.
+**And camp is *built*, every night, because these are Explorer-trained colony children and the Enclave's entire answer to the world is the border-tangle.** **The site does most of the work.** They stop where the ground already walls them on most sides — a thicket of close-set trunks, a rock face, a tangle of fallen trees — and they cut what the ground gives (thorny scrub, spined cycad fronds laid points outward, green stakes sharpened and angled out) only to close the gaps. **Nothing they can build in an hour stops a large predator that commits.** The fence is a deterrent and an alarm: a place full of spines that is not worth pushing into, and a noise if something does. The fern savanna on Day 10 offers no such site, and Night 10 is the one camp in the open. It is an hour of labor at the end of every day, done by people who have not eaten, and it is a large part of why the doctrine stops them before the light goes rather than at dark.
 
 **And the fence used to be doing two jobs.** Until Day 8 the night stakes were dressed with the septic gel, which kept small things off them entirely and cost them Noli's company after dark; the gel went into the river at the crossing and the pot has been empty since, so from Day 9 the fence is bare wood and thorn. **What they got back in exchange is her**, bedding down close outside the fence for the first time on the night of Day 8 and for two nights after that, instead of somewhere a long way off, and then she is taken at dawn on Day 11. **From Day 9 the camp is the only thing between them and whatever walks**, which is why the nights get worse in a way nobody can point at. *(It has no bearing on what took Noli. The barrier reads as a warning to things smaller than a tyrannosaur, and a ten-meter flybeak is not one.)*
 
