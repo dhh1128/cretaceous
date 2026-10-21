@@ -1,5 +1,5 @@
 ---
-approval: approved 1dffafa1
+approval: approved 519968b3
 ---
 
 # Character arcs and intimacy
@@ -96,7 +96,7 @@ Temperature 0–10. **They should not all move together** — when they do, the 
 | **3–5** | 6 | 5 respect | 5 debt |
 | **6** | **7 the good day; almost says it** | **6** | **7 the joke that becomes theirs** |
 | **7** | 5 she takes the decision from him, and he admits he cannot | 5 she kills *we could go home* in two words | 6 Keo protective, and Benal hears pity |
-| **8** | 6 he holds the herd while she takes Ben across | 7 she hauls him out | 7 carried, and Benal sees what it cost |
+| **8** | 6 he pushes the decoy in while she takes Ben across | 7 she hauls him out | 7 carried, and Benal sees what it cost |
 | **9** | 7 she offers him a taste of the honey and he reads it as more | 6 she listens to the shells | 7 Benal watching Keo's head |
 | **10** | 6 performing for her | 5 | 6 |
 | **11** | 4 he is a burden now | 6 caretaking | **8 the silent watch — the protection reverses** |
