@@ -1,5 +1,5 @@
 ---
-approval: approved f9e60625
+approval: approved cb536778
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -16,7 +16,7 @@ Calendar and distances: `plan/journey-calendar.md`. Forage: `plan/milieu-allocat
 
 **Keo, unsuited.** Tough-woven fiber tunic and leggings, stingburn-resistant. Hadrosaur-hide boots with pressed-bark soles. A 2.5 m croc-spike tipped with a croc tooth, a tooth-knife in a sheath on his belt, and **the sling**, with its pouch of round pebbles: he is the best of the three with it, and it is his on the walk. He hunts small game with it and the returns are poor, because birds are hard targets. Pebbles are worth stooping for and a small loss when a shot goes wide, but they are not rare, and the pouch never runs dry. The fieldpack with the group's supplies, a coil of fiber-cord, a spare water skin and `[-]` the kindler gourd in it. Three strips of journey-pan and two handfuls of roasted crawlers in a greasy pouch. No gel on him, and a leaden headache from holding Noli.
 
-**Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. **Septic gel on the tip of her spike**, put there by her own hand once they are through the tangle, after Keo refused it for his: it keeps Noli off her, and at close range it blinds her suit's chemical sensors.
+**Teva, suited** — small size, biofilm already scarred and patchy but working, thermal system green, chromatophores active. Croc-spike and knife. Journey-pan and crawlers. **Septic gel on the tip of her spike**, put there by her own hand once they are through the tangle, after Keo refused it for his: it keeps Noli off her, and it is the loudest thing her suit's chemical sensors show.
 
 **Benal, suited** — large size, **one shoulder capacitor red-lined and the shock grid compromised** before they even leave. Razor-club. Salves and two chemical pods. Journey-pan only; he forgot the protein and said so. Suit filtering the insect wall, which is the first relief his hearing has had.
 
@@ -138,7 +138,7 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 - **Thermal saturation.** The phase-change reservoirs fill and cannot dump heat faster than it arrives. Discharge needs cool conditions, so **a hot night does not reset it** and the deficit carries into the next day.
 - **Power starvation.** Photovoltaic needs light and is blocked by canopy and by mud; thermoelectric needs a gradient and this climate barely offers one; piezoelectric needs movement. **So generation is near zero exactly when they are lying up in shade** — the suits work worst when the wearers are sheltering.
 - **Seal breaches** at the joints, which is where the constrictor gets Benal.
-- **Sensors fouled** by mud, salt and gel — and the chemical sensors are blinded by **the pheromone barrier they are wearing.** The thing that hides them from predators hides the predators from their suits.
+- **Sensors fouled** by mud and salt. **The pheromone barrier does not blind the chemical sensors**: wherever it is, it is the loudest thing they show, and anything else is read underneath it.
 - **Salt**, which is catastrophic. A living biofilm in seawater is an osmotic disaster.
 
 ### The schedule
