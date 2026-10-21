@@ -1,5 +1,5 @@
 ---
-approval: approved 81175464
+approval: approved 216704c0
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -51,7 +51,7 @@ Five animals, each load-bearing: the primary threat, the recurring pack threat, 
 | term | meaning | drift |
 |---|---|---|
 | **stingburn** | the wound and spreading infection from a venomous bite | compound. Load-bearing: it kills Alira, and Benal's poor venom resistance is the gap it exploits |
-| **sunfever** | heatstroke | folk medical term. Load-bearing: Teva's failed thermal regulation |
+| **sunfever** | heat illness across its range: the dizzy, dry, nauseous stage that passes with rest and water, and heatstroke at the deadly end | folk medical term, as broad as people's words for illness are. Load-bearing: Teva's failed thermal regulation; her Day 10 case is the survivable end |
 | **mudwalk** | a long overland trek through difficult terrain | compound. The name of Act 2 |
 
 ### Technology
