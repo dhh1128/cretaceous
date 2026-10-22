@@ -138,11 +138,10 @@ Plus the physics that Benal earns: only the original crew could ever have gone h
 **Two specific prohibitions:**
 
 - **No fragment and no character may imply two-way contact.** The capsule is an object somebody buried and somebody else dug up. It traveled by sitting still.
-- **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning FG from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Open question, and it is the one craft risk in this whole structure:** does he deduce it and *then* find the capsule confirming it, or is the capsule damaged so that it proves a second jump happened and cannot supply the physics? Either works. It has not been decided.
+- **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning FG from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Settled: he deduces it first.** He earns the physics from the equation, the flash and the offhand remark; the D18.3 flash shows the burial; at D19.2 he digs the capsule out and does not open it, so in book 1 it proves a second jump happened by existing and explains nothing. What it holds opens book 2.
 
 ## 11. Still open
 
-- The ordering of Benal's deduction against the capsule, above.
 - The arithmetic reconciliation in §9.
 - Whether Cecilia recorded her result, and where it is.
 - Whether the stayers can return. Fact G says you can travel forward along a worldline you personally traveled, and jumping 66 to 66.001 Ma gives them exactly that leg — so on the stated rules they can come back, and chose a thousand years <!-- @WF-secondjump.distance: 1000y --> of work instead. `[?]` That recasts the heretics as the ones who kept faith hardest, and it is an enormous sequel hook. It is also not something book 1 needs to answer.
