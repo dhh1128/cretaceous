@@ -1,5 +1,5 @@
 ---
-approval: approved 0a7c1c11
+approval: approved d8b059fb
 ---
 
 # AI tells — the blacklist
@@ -251,3 +251,15 @@ Not everything failed, and the successes are as instructive as the tells.
 **Rhythm was not the problem in those four drafts** — measured against `viking.md`, their sentence-length distribution came out close to target every time, and the real failures were all in §§5–15.
 
 **But do not read that as a standing exemption.** The first draft of scene D1.1 came out at **42.4% sentences of five words or fewer against viking's 25.7%**, and mean 13.0 against 11.2 — the same staccato that made `content/superseded/` unusable, from a drafter who had read this line and taken it at face value. Measure the distribution every time. It is one command and it caught a rewrite.
+
+## 33. The sentence the reader already has
+
+> D11.1: *Keo sat inside the fence with his spike across his knees. He had had the last watch, as he always did, and it had been an easy one. The others were still asleep behind him. Benal was curled on his side with one long arm over his face, and Teva lay with her back to the dead fire and her suit in a heap beside her. Nothing had come near the thorns all night.* "The fact that he had had the last watch becomes obvious from the fact that he's sitting there at dawn… 'as he always did' is another waste, since the reader will have read all those scenes where he had the last watch. 'The others were still asleep behind him' becomes obvious when you describe Benal and Teva's sleeping positions… 'Nothing had come near the thorns all night' is also mostly useless, since we would have had a scene about it if something eventful had happened… Words have to earn their place, and most of these don't."
+
+**Rule.** Cut a sentence or clause when the reader already has what it says. There are four ways that happens:
+- **The scene shows it.** A boy on watch at dawn has had the last watch.
+- **Another sentence in the same paragraph says it.** Two sleeping postures already say the others are asleep.
+- **An earlier scene said it.** A habit the reader has watched for days needs no *as he always did*.
+- **It is a non-event the reader would have been shown if it had happened.** Nothing came near the thorns.
+
+Cutting one never needs a replacement. The test is per sentence: what would the reader lose if it went? If nothing, it goes, whatever that does to the scene's word count. A scene's size band is measured after this pass, never before it, and a shortfall is filled with material that earns its place, never by restoring a cut.
