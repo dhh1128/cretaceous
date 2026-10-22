@@ -1,5 +1,5 @@
 ---
-approval: approved 81c58810
+approval: approved e6d07460
 ---
 
 # Backstory register
@@ -87,7 +87,7 @@ What the three and the people around them were before the story opens: habits, h
 - **T3** She has walked Omya down to the Vitarium more evenings than she can count. *(D1.1)*
 - **T4** She plaits Omya's hair, in a Master's loops, every day, and has heard her recite the protocol and the fields while she plaits. *(D1.1, D2.4, D3.5)*
 - **T5** She cooks for Omya and offers her sips from her mother's spoon, the way her mother offered her tastes. *(T12)*
-- **T6** She gathers wildflowers: small ones, because nothing flowers spectacularly in this world (`plan/milieu-allocation.md` §4), and the showiest grow in slow water, which she fears. She tucks them into Omya's plait. On the walk she picks one without thinking and there is nobody to give it to. On Day 6 Keo offers her one; she takes it flatly and keeps it, and he never learns she kept it. *(placements: D2.4, a Day 4 or 5 scene, a Day 6 scene)*
+- **T6** She gathers wildflowers: small ones, because nothing flowers spectacularly in this world (`plan/milieu-allocation.md` §4), and the showiest grow in slow water, which she fears. She tucks them into Omya's plait. On the walk she picks one without thinking and there is nobody to give it to. On Day 6 Keo offers her one; she takes it flatly and keeps it, and he never learns she kept it. *(placements: D2.4, D5.1, D6.3)*
 
 **Omya and the Watch**
 - **T7** Omya showed her the stars on clear nights when she was small, one star at a time. *(D1.1)*
