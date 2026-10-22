@@ -1,5 +1,5 @@
 ---
-approval: approved 16503584
+approval: approved c3f4ac8e
 ---
 
 # Character arcs and intimacy
@@ -46,7 +46,7 @@ The shape being aimed at is that each of the three **loses a capability they wer
 | **3–6** | to lead | he is the reason they are alive | the others noticing he is guessing | the bites, the strain, the headaches |
 | **10** | to be seen doing it | his body is the answer | nothing. **This is the top of the arc** | nothing — and that is the problem |
 | **11** | **Noli back** | **nothing** | that it was his fault, correctly | he cannot hide anything any more |
-| **12–13** | to stop being the burden | he is a liability | that he has done to Teva and Benal what he did to Yara | how much pain he is in; **that he said the mash needed another day and let her overrule him** |
+| **12–13** | to stop being the burden | he is a liability | that he has done to Teva and Benal what he did to Yara | how much pain he is in; **that he knew the mash needed another day and did not fight for it** — they all heard him say it, so what he hides is the guilt, not the fact |
 | **14–17** | to be useful again | Benal is the one who matters now | irrelevance | nothing. He has stopped |
 | **18–19** | to get them home | **the machine can do what he cannot** | — | — |
 | **19, evening** | his parents to look at him | they were afraid *for* him | that they were right | nothing |
