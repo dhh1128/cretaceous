@@ -1,5 +1,5 @@
 ---
-approval: approved 5a5705a1
+approval: approved 81c58810
 ---
 
 # Backstory register
@@ -40,8 +40,8 @@ What the three and the people around them were before the story opens: habits, h
 - **K17** He thinks of himself as *the Explorer*, and food training came with every trip. He would not be careless about a possibly poisonous food. His failure with food is overconfidence: he decides a mushroom is safe and Benal makes him do the smell test he had skipped. *(D4.1, revise)*
 
 **People**
-- **K18** His friend is **Topo**, a year younger, born with a misshapen ankle. Keo takes a big-brother role with him and is loyal and kind to him. He is popular with his peers in general and has no other fast friend.
-- **K19** He likes Omya, and has brought her flowers.
+- **K18** His friend is **Topo**, a year younger, born with a misshapen ankle. Keo takes a big-brother role with him and is loyal and kind to him. He is popular with his peers in general and has no other fast friend. Topo watches Keo's dawn drill and is easy enough with him to tease back.
+- **K19** He likes Omya, and has brought her flowers. He carried them up her ladder in his teeth, and she kept them, weeds and all. *(D2.4, D2.6)*
 - **K20** He found Noli about a year after Yara died, and some of his tenderness for his sister went to her.
 - **K21** He would find Teva in any crowd. *(D2.8)*
 - **K22** When they were little, Teva flirted with him and chased him, threatening to kiss him. He treasures it and wonders whether she remembers. She does not. *(T30)*
@@ -138,7 +138,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **Home and the ordinary day**
 - **B1** He has no siblings.
-- **B2** He often does hand work in the gardens and groves, then teaches. His teaching assignment is mathematics, and several younger children he has tutored like him a good deal. *(X10)*
+- **B2** He often does hand work in the gardens and groves, then teaches. His teaching assignment is mathematics, and several younger children he has tutored like him a good deal. *(X10)* He teaches in the afternoon, to pupils a few years older than the yazhi.
 - **B3** His sleeping space was made for a boy, and he stopped fitting it long before he stopped being one. He works at home folded in a corner with the board on his knees. *(D2.2, D5.2, D7.2)*
 - **B4** He lets food sit untouched while he works ("Have you eaten?" "I will."). *(D2.2)*
 - **B5** He has heard the jungle's wall of sound from his nest nearly every night of his life, and once told Keo he can't sleep because the jungle is too loud. People call his hearing a gift; nothing in him sorts what comes in, and covering his ears only lets him hear his own blood. *(D2.2, D2.9, D3.1, D4.2)*
@@ -168,7 +168,7 @@ What the three and the people around them were before the story opens: habits, h
 **People**
 - **B22** He mostly admires Keo, as a rare kid gifted in many ways who is generous-hearted rather than proud. He knows what dyslexia is and wonders whether Keo has it, because he remembers Keo confusing letters that mirror each other. He remembers Keo not picking him for a team game once, and thinks it was oblivious rather than mean.
 - **B23** He remembers Teva being lazy in math class and asking him for help without trying very hard, and suspects she did it to act dumb in front of her two friends, who were less sharp than she was. That is his reading; whether it is true stays unstated. He remembers her sharing her lunch with him one day when they were little.
-- **B24** His friend is a girl who is really into botany and a bit odd by their peers' standards.
+- **B24** His friend is a girl who is really into botany and a bit odd by their peers' standards. Her oddness is urgency about plants, and she comes to the foot of his ladder to make him see the tree ferns unrolling. *(D2.2)*
 - **B25** He loves and admires his mother and thinks she is deeper than others do. He wishes she would spend more time with him. She feels distant to him: kind, but not warm. He would know her voice in any crowd, and his father's step on the platform. *(D2.2)*
 - **B26** He had never seen his father defeated before D2.7. *(D2.7)*
 - **B27** He expects Keo to want to fix things that cannot be fixed. *(D4.2)*
@@ -238,6 +238,7 @@ What the three and the people around them were before the story opens: habits, h
 **Others**
 - **F27** Topo: a year younger than Keo, born with a misshapen ankle. *(K18)*
 - **F28** Sila has a daughter, one of Teva's two friends. *(T18)*
+- **F30** Elana knows Teva as "Omya's girl". *(D1.2)*
 
 ## Noli
 
