@@ -597,6 +597,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Keo is the one carrying**, and he spent Days 11 and 12 as the burden — slowed, with nothing on him, his load on her back. **Nobody ever carried him** <!-- @WF-keo.carried: false -->, and the reversal is the whole reason the pair of days exists.
 - **He is thin, cold and quiet with starvation cold rather than weather** — the wound closing fast and costing him everything.
 - **Benal watches.** He has nothing to give but arithmetic: how far, how long, how much water. It is the only thing he has ever had and today it is worth something.
+- **The reader learns here, in his POV, that his shoulder capacitor died on Day 11 and he has told nobody** (`body-and-resources.md` §3b), as a thing two days old that he has kept.
+- **The loads** `[-]`: Benal takes Teva's pack and the fieldpack; Keo's pack is emptied into them and left, because a boy carrying her on his back cannot wear one. Keo's ankle, worse since the hole on Night 12, is part of why he goes down.
 **Hazard:** her being brave about it. She is vomiting and cannot stop, and dignity is not available; the scene should be about what it costs the two of them to watch.
 **Ends on:** Keo going down on one knee, and getting up.
 
