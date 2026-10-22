@@ -1,5 +1,5 @@
 ---
-approval: approved d8b059fb
+approval: approved 04ca466b
 ---
 
 # AI tells — the blacklist
@@ -263,3 +263,18 @@ Not everything failed, and the successes are as instructive as the tells.
 - **It is a non-event the reader would have been shown if it had happened.** Nothing came near the thorns.
 
 Cutting one never needs a replacement. The test is per sentence: what would the reader lose if it went? If nothing, it goes, whatever that does to the scene's word count. A scene's size band is measured after this pass, never before it, and a shortfall is filled with material that earns its place, never by restoring a cut.
+
+## 34. Action slowed by explanation
+
+> D11.1, Daniel's own edit after the §33 pass, 569 words to 444. The attack went from *The sun came up over the edge of the fern. / He looked straight at it, because that was where she was. There was nothing to see. There was a line of white fire along the world and a glare above it that filled his eyes, and when he squinted he could make out the dark lump of her in the fern, and that was all. He looked away and blinked green shapes out of his eyes. / Then the light went out of the sun. / It was a shadow, too big to be anything, and it came out of the glare low over the fern without a sound until it was on top of her. Then he heard it: a long tearing noise, like a sail ripping from end to end. / It came down beside her in one stride. He saw a beak close on her neck…* to *The sun peeked at him around the edge of the fern. He looked straight at it, saw only a line of white fire and glare. He looked away and blinked green shapes out of his eyes. / Then the glare vanished. A huge shadow swooped down until it was on top of Noli. He saw a beak close on her neck…* He also cut *He had pushed into an empty sky* and *He did not remember standing*, and turned *It had taken a second. It might have taken two.* into *The whole thing took one second, maybe two.*
+
+**Rule.** When something happens fast, the prose goes fast. These are the ways the drafts slowed it down:
+- **Explaining the perception.** Why he looked (*because that was where she was*), what he could not see (*There was nothing to see*), and how hard he tried (*when he squinted*). Give what he sees.
+- **The announcing paragraph.** A one-line paragraph that tells the reader something is coming (*Then the light went out of the sun.*), followed by the thing itself.
+- **Saying it twice, louder the second time.** *It had taken a second. It might have taken two.* / *a shadow, too big to be anything*. Say it once.
+- **Decoration inside the action.** A sound simile mid-strike, a stride, *going away into the sun*. If it is not the event, it waits or goes.
+- **The aftermath stock phrase.** *He did not remember standing* is a cliché, and it was already the day's third *did not remember*.
+
+The same edit made smaller changes everywhere else:
+- **A plain verb for a state:** *was asleep* became *dozed*, *went gray* became *faded*.
+- **Location tails the reader supplies:** *her suit in a heap beside her* became *her suit in a heap*.
