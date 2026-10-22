@@ -151,6 +151,7 @@ The procedure is `process/scene-build-runbook.md`. Two things in it are load-bea
 | `hearth board` | The same ruling: **the kindler**, never friction. |
 | `coal from the kindler` | **The kindler is a resin paste and nothing else**: a pinch worked into tinder catches. It carries no coal. `plan/body-and-resources.md` §2b |
 | `bioelectric` | **The suits do not sense an animal's electric field.** Air insulates, and electroreception works only in water at centimeters. They sense chemistry, vibration and body heat. `kb/worldbuilding/safety-suits.md` |
+| `her forelegs` | **Noli is a bipedal sicklefoot**: she stands and runs on her hind legs, and her forearms carry wing feathers. Asleep she tucks her snout under one feathered arm; resting she folds her legs under her. `plan/milieu-brief.md` §9 |
 | `kills first, by dehydration` | **The mash is a settled premise**: the stone-cycad's poison is released only by gut bacteria, onset about fifteen hours <!-- @WF-mash.onset: 15h --> for everyone, dose sets severity, no liver phase, and the vomiting is not what kills. A review checks scenes against its listed assumptions and never reopens it. `plan/milieu-brief.md` §4 |
 | `nobody works out` | **They have leached cycad all their lives**: when Teva goes down, all three know at once that the short leach did it. `plan/milieu-brief.md` §4 |
 | `queasy all day` | **Keo and Benal fall sick around nightfall on Day 13**, fifteen hours <!-- @WF-mash.onset: 15h --> after their dawn meal, less than she is and never down. `plan/milieu-brief.md` §4 |
