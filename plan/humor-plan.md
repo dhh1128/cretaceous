@@ -1,5 +1,5 @@
 ---
-approval: approved f3df004b
+approval: approved 8dd91c61
 ---
 
 # Humor plan
@@ -46,7 +46,7 @@ She is the one who rarely laughs, and scarcity is most of her comic function. Wh
 
 **The exception: she teases Keo about Noli**, in the same flat delivery. It is affection she can deny, it is the one place her warmth reaches Keo in words, and it ends when Noli dies on Day 11, so that the loss is hers as well as his.
 
-`[?]` **Her laughter has a budget.** Laughing aloud is rare — at most one a day where it happens at all — and Day 6, the anomaly for light-heartedness, may spend two or three. A hidden smile or a snort counts against the same budget.
+**She rarely laughs aloud, which is why it lands when she does; Day 6 is the day she laughs more than once.**
 
 Rough ratio: for every ten jokes in the book, Benal gets six, Keo three, Teva one.
 
