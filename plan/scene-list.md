@@ -490,9 +490,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D11.2 — [MEDIUM] [Day 11, dawn] [KEO] [Camp on the savanna]
 **Ladders:** EM8 P6 S7 SP5
 **Purpose:** BOND · **Ending:** SETTLED
-**The silence afterward, and the first act of plain compassion in the book.** Teva moves his pack for him. Benal sits near him and methodically picks a fern apart. Neither of them says anything about it.
+**The silence afterward, and the first act of plain compassion in the book.** Teva moves his pack for him. Benal takes the fence apart near him, frond by frond, and keeps the stakes. Neither of them says anything about it.
 **Must carry:**
-- **The bond moves, and it moves without a conversation about the bond.** They talk — about the fever, the water, the next mile — and the shift is in what they do. `character-arcs.md` §3 has every dyad shifting on Day 11 and none of them shifting by speech; this is where shared guilt turns into something positive.
+- **The bond moves, and it moves without a conversation about the bond.** They talk — about the water, the cloud in the west, the next mile — and the shift is in what they do. `character-arcs.md` §3 has every dyad shifting on Day 11 and none of them shifting by speech; this is where shared guilt turns into something positive.
 - **A single blood-spattered feather**, which is the day's allocated image. Her plumage is iridescent, so whether it reads purple-black or mud-brown is the light's decision and both are canon (`plan/milieu-brief.md` §9).
 - **The deafening, ringing silence** after, which is most of what he can hear.
 - **He has stopped being able to hide anything.** `character-arcs.md`: he wants Noli back, he believes nothing, and he fears that it was his fault, correctly.
@@ -548,7 +548,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*.
 **Must carry:**
 - **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` **R14**). It pays at D17.2. @D17.2
-- **Fact K, in the same move.** He dismisses it as fever exactly when the reader stops being able to.
+- **Fact K, in the same move.** He dismisses it as fever, and one flash is still dismissible; certainty comes with the later flashes (`plan/knowledge-ledger.md`).
 - **Benal sitting watch**, a frail silhouette that turns out to be a steady one, and a wave of pure gratitude. `character-arcs.md` puts Benal's real emotional turn here rather than at Genesis — being needed for something no upgrade provides — and this is where the strongest dyad in the book starts.
 - **Gratitude is what cuts the hubris, not the injury.** He is being kept alive by the one he used to dismiss, and neither of them says so.
 **Hazard:** the flash written as a vision sequence. It is a perception with nothing attached, delivered in the same register as the taste of the salve and the sound of the rain, and the prose must not signal that it matters (`foreshadow-and-motif.md`: the default is none). Second: him working anything out. He is febrile, he files it, and he sleeps.
