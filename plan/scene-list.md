@@ -545,7 +545,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D11.6 — [SHORT, ~700] [Day 11, night] [KEO] [Camp, feverish]
 **Ladders:** EM6 P8 S7 SP5
 **Purpose:** DISCOVER · **Ending:** BLACKOUT
-**The first temporal flash, and he files it under fever.** A gleaming impossible symbol, ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*.
+**The first temporal flash, and he files it under fever.** A bright sharp-edged mark, a ring with a straight line struck through it <!-- @WF-flash.symbol: ring-and-line -->, and ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*.
 **Must carry:**
 - **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` **R14**). It pays at D17.2. @D17.2
 - **Fact K, in the same move.** He dismisses it as fever, and one flash is still dismissible; certainty comes with the later flashes (`plan/knowledge-ledger.md`).
