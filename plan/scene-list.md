@@ -575,7 +575,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** PRESSURE · **Ending:** HELD
 **He does not say it again**, and that is the thing he will be hiding from Act 3.
 **Must carry:**
-- **Keo is febrile** — infection, and the healing upgrade burning through reserves he does not have. `body-and-resources.md`. The fever is why he did not press, and he knows that too.
+- **Keo is febrile** — no infection: the healing upgrade running hot, burning reserves he does not have. `body-and-resources.md`. The fever is why he did not press, and he knows that too.
 - **A *didelphodon* raids the camp** — badger-sized, bone-crushing, entirely unimpressed. Allocated here, and the humor plan wants a nuisance on a miserable day. It should be funny and then not, because it is after the same food.
 - **The weapons.** Nothing has dried since Day 11 and the archaea in the bindings wake on sustained wetting. `plan/milieu-brief.md` §6. **Keeping the spikes dry is a losing daily labor** and the reader should see them fail at it.
 - **Nothing at all on Day 12 but rain.** The allocation gives the day one sound and that is it.
