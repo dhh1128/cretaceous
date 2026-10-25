@@ -1,5 +1,5 @@
 ---
-approval: approved 651c84f6
+approval: approved 99c774e4
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -145,7 +145,7 @@ Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–
 
 Each of these is owned once. The number is the day.
 
-**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · brine and cold (14) · the mosasaur's breath (14) · wet metal, ozone and dormant circuits at Genesis (16).
+**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · brine and cold (14) · wet metal, ozone and dormant circuits at Genesis (16).
 
 **Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters carry the second one in a pot and put it on their fence every night until the river takes it on Day 8 *(`body-and-resources.md` §0; on skin only at the crossing)*. Nobody has to point this out.
 
