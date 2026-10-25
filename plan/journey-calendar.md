@@ -1,5 +1,5 @@
 ---
-approval: approved a6e4327d
+approval: approved fe826656
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -30,7 +30,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | 12 | rain, and **the mash** | 4 | 68 |
 | 13 | it comes due; he carries her <!-- @WF-teva.carried.from: D13 -->; the coastal plain | 10 | 78 |
 | **14** | two kilometers in the dark before dawn to the coast, with the night hunters out; then mudflats, the raft, open water, the mosasaur | 2, then offshore | 80 |
-| **15** | ashore in the eye; the tail closes over; **the Dark Night** | — | — |
+| **15** | ashore after the storm; failing to get in; **the Dark Night** | — | — |
 | **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |
 | **17** | **the revelation** — the logs of the arrival, and what it does to six generations <!-- @WF-drift.generations: 6 --> | — | — |
 | 18 | **the impasse.** No boat, and the route home is under water. Keo finds something to talk to | — | — |
@@ -150,7 +150,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | **12** | rain, continuous | warm and saturating | gray, unchanging | Misery without incident. Keo feverish, the food changed, and **this is the day the mash goes in short-leached** |
 | **13** | clearing; heavy mist at dawn | warming | soft, returning | Recovery, and false safety |
 | **14** | **hot, glassy, no wind at all** → the wall of black on the horizon | oppressive | flat brilliant, then extinguished | The unnatural calm before a cyclone is a real signature. Benal notices the air is wrong before anyone sees the sky |
-| **15** | **the eye at dawn** — high bright cloud, no wind, birds moving wrong → **the back wall, and the back half is worse** | falling; wet and wind-driven | a lit hour, then dark for eighteen | The eye is the cruelest weather in the book: it looks exactly like deliverance. **The Dark Night happens in the tail**, which is why it gets a night instead of two hours of daylight |
+| **15** | **the storm blown out by morning** — the wind dropping, the cloud breaking, the sea still heaving on the reef <!-- @WF-cyclone.eye: false --> | warm; cold only off wet skin | gray, breaking to sun by afternoon | One night of storm, Night 14, and no eye. Day 15 is the day after it: they fail to get into the station, and **the Dark Night is that night**, in the flooded block, with nothing |
 | **16** | blown out; washed, scoured, brilliant | warm, clean | the first honest sunlight since Day 10 | The world after the storm, and the dry powered section. Relief-shaped, and the light is doing it |
 | **17–18** | clear, hot, coastal | hot | hard bright | **Not rest — work, on a clock.** Genesis has no fresh water and they are drinking what the cyclone left standing, which is worse every day. Two adjacent days share this sky because nothing about it changes, and that is the pressure |
 | **19** | clear and hot | hot | high hard light all the way home | No weather to hide behind. They lift at noon and land in the middle of the afternoon, in front of everybody. The wig is loud and visible and so are they |
@@ -179,7 +179,6 @@ A weather layer that maps bad weather to bad feeling is a mood ring. The assignm
 - **The clear day as the killer, Day 10.** Sun as antagonist, no shelter, good weather and the worst day so far.
 - **Rain as deliverance, Day 11.** They have spent a day nearly dying of heat, and the first ten minutes of the front are the best thing that has happened to them. Teva puts her face up into it. The misery starts later, and it starts because it does not stop.
 - **Rain as mercy, Days 11–12.** Unbearable, and the only thing that clears the biting insects. Weather that hurts and helps in the same hour is worth more than either.
-- **The eye of the storm as the cruelest weather in the book, Day 15.** It looks exactly like deliverance.
 
 **Do not let weather move to suit an emotional moment.** The temptation to refuse is Omya's lucidity ending as the storm-dark comes on in D2.4 — it ends because she tires. If Teva notices herself wanting the dark to mean something and refuses it, that is character. If the narration makes it mean something, that is pathetic fallacy. @D2.4
 

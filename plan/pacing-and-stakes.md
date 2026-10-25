@@ -111,7 +111,7 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | **12** | **2** | **the mash.** She overrules him and is wrong, which is the hinge of her arc |
 | **13** | **2** | it comes due; he carries her; one distant sighting of the thing that never touches them |
 | 14 | 2 | the mudflats and the raft; the storm and the mosasaur, one scene (Q-BCKT) |
-| 15 | 4 | the eye, the failing to get in, the tail, and the confessions |
+| 15 | 4 | waking on the bank after the storm, the failing to get in, the night in the flooded block, and the confessions |
 
 **Act 3, by day.** Genesis is three distinct days and Day 19 is everything else.
 
