@@ -24,6 +24,7 @@ approval: unapproved
 | 67 Mya | where the Enclave emigrates at the end of book 3. **Not the second jump, which is a thousand years** | `plan/sequels.md` |
 | 80 km | the Enclave to the coast, overland | `plan/journey-calendar.md` §1 |
 | 8 km | Day 3's distance | `plan/journey-calendar.md` §1 |
+| 5 km | `[?]` **`distinct`** — Day 13's morning leg (D13.1) and afternoon leg (D13.2), each half of the day's 10. Two propositions, one number | `distinct` |
 | 40 km | **`distinct`** — the river's distance along the route in the calendar, and the transit's spatial targeting accuracy in EP7. Two propositions, one number | `distinct` |
 | 22 °C | what rain lands near | `plan/journey-calendar.md` §2 |
 | 32 °C | the top of the shelf-sea range, 28–32 | `plan/journey-calendar.md` §2 |
