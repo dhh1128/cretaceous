@@ -1,5 +1,5 @@
 ---
-approval: approved 76385c89
+approval: approved ae24d4a1
 ---
 
 # Cretaceous — Milieu Brief
@@ -65,7 +65,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **The First Walk is a short journey at the end of a long argument, and nothing in the corpus may turn it into a three-year <!-- @WF-genesis.occupancy: 3y --> march.** The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy; the walk is weeks. That makes the loss worse rather than easier to explain — better than half of them in under a month, with rifles, plasma cutters and a suit apiece — and it is why Hesh's arithmetic is unanswerable rather than merely grim. He does not have to state any of the timing for it to work, and in scene D2.6 he does not. @D2.6
 
-**The First Walk crossed the river at the narrows, where it runs between the stones**, <!-- @WF-firstwalk.crossing: narrows --> and every child knows that much of the story: it is the one fixed point on the route between the Enclave and Genesis. Where exactly the narrows lie is known only as a heading and a rough distance.
+**The First Walk crossed the river at the narrows, where it runs between the stones**, <!-- @WF-firstwalk.crossing: narrows --> and every child knows that much of the story: it is the one fixed point on the route between the Enclave and Genesis. Where exactly the narrows lie is known only as a heading and a rough distance. **The story begins on the turtle beach**: Genesis is offshore, so the founders crossed the water on rafts of founder polymer floats on an alloy frame, came ashore there, dragged the rafts up into the dune scrub and never went back. <!-- @WF-raft.origin: firstwalk --> Sand drifted over them, and founder materials carry no archaea, so nothing broke them down; the one the three dig out on Day 14 has split decking and a cracked float, and is barely seaworthy (`plan/tech-rules.md`).
 
 `[retired]` **Shelter was never the problem, and the corpus said it had no stable shelter for a while, which Act 3 contradicts on every page.** Genesis is a built research station <!-- @WF-genesis.shelter: built-station -->: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
 
