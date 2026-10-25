@@ -1,5 +1,5 @@
 ---
-approval: approved bd798591
+approval: approved 768e04b1
 ---
 
 # Cretaceous — Outline
@@ -120,7 +120,7 @@ Rationale (Protagonist Competence): Having them plan to find the old raft makes 
 
 10. Dark Night of the Soul:
 [POV: Teva] [Fear Level: Despair (Cold & Hopeless)]
-Keo, Teva, and Ben huddle in a flooded, unstable section of Genesis. They are soaked, wind-chilled and defeated — Teva worst, still hollowed out by the poisoning. The disorientation is now strong.
+Keo, Teva, and Ben huddle in a flooded, unstable section of Genesis. They are soaked, wind-chilled and defeated — Teva worst, with the headache that cost them the reef gap; the poisoning itself is behind her. The disorientation is now strong.
 
 Temporal Flash (Emotional Core): As they huddle in despair, the flashes become overwhelming and specific, linked to their inner conflicts:
 

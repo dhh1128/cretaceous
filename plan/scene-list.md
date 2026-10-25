@@ -675,12 +675,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **They reach Genesis and cannot get in.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the door does not open.
 **Must carry:**
 - `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
-- She is still hollowed out by the poisoning, and it is her own decision that did it.
+- The headache that cost them the gap in the reef is still on her, and it is her own decision that left it there (`plan/milieu-brief.md` §4, assumption 6).
 - **The place is not a ruin and not a working facility.** Some of it is open to the sky, some under water, some sealed. `plan/milieu-brief.md` §3.
 **Hazard:** a puzzle scene. They are not solving a lock; they are failing at one while a storm comes back, and the failure is physical and stupid rather than clever.
 **Ends on:** the light going, and the wind returning from the other side.
 
-### D15.3 — [SHORT, ~700] [Day 15, afternoon] [KEO] [The flooded section] — **NEW**
+### D15.3 — [SHORT, ~700] [Day 15, day] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The back wall arrives and the tail closes over them for eighteen hours <!-- @WF-cyclone.tail: 18h -->.** They get into the only part of Genesis that is open, which is the part that is under water.
@@ -726,8 +726,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **This scene is why Keo wanders off on Day 18, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. Two days of watching the others be necessary, from inside his head, is what makes finding something to talk to land.
 - **Old-tech everywhere and none of it dissolving**, which is wrong and which nobody has the energy to find wrong yet. `plan/tech-rules.md` flags this as a payoff owed; the answer is that the failsafe is a colony invention and Genesis predates it.
 - Genesis groaning on its own weight — allocated to Day 16.
-- **They say what they will do first at home**, lightly, each in their own register: Benal that Marek will look at the board, Keo that he will tell his father something, Teva that she will do Omya's hair. **The reader has to hold these exact hopes for Day 19 to answer them**: Benal's half-granted and then swallowed by the room, Keo's turned inside out, Teva's refused at D19.8 and given at D19.9. `plan/character-arcs.md` §3, Day 19.
-**Hazard:** the sanctuary scene. The dryness is not safety; the structure is unstable, the food is two centuries old, and the reader should be uneasy about both while the characters are not. **Second hazard: Keo sulking.** He is not resentful and he does not say anything. He is glad they can do it and he is the only one with his hands empty, and the scene should let the reader notice before he does.
+- **They say what they will do first at home**, lightly, each in their own register: Benal that he will write the equation out again for Marek to look at, the board being at the bottom of the sea, Keo that he will tell his father something, Teva that she will do Omya's hair. **The reader has to hold these exact hopes for Day 19 to answer them**: Benal's half-granted and then swallowed by the room, Keo's turned inside out, Teva's refused at D19.8 and given at D19.9. `plan/character-arcs.md` §3, Day 19.
+**Hazard:** the sanctuary scene. The dryness is not safety; the structure is unstable, the food is whatever the bank gives, and the reader should be uneasy about both while the characters are not. **Second hazard: Keo sulking.** He is not resentful and he does not say anything. He is glad they can do it and he is the only one with his hands empty, and the scene should let the reader notice before he does.
 **Ends on:** somebody asking what else is in here — and it is not him.
 
 ### D16.3 — [MEDIUM] [Day 16, afternoon] [BENAL] [The archive]
