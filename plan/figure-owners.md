@@ -56,6 +56,7 @@ approval: unapproved
 | three generations | `idiom` | the name-reuse horizon and the drift span are different spans |
 | five weeks | `idiom` | Marisol's silence, and a separate interval in the ladder |
 | fifteen meters | `distinct` | the border-tangle's height, which the wig's ceiling deliberately matches; nests at twelve to fifteen; the kiva's collapse hole at ten to fifteen |
+| five kilometers | `distinct` | `[?]` the morning's walk before the honey on Day 6 (D6.1), and Genesis's distance offshore as Benal gives it from the rock (D14.1). Two propositions |
 | ten meters | `distinct` | the flybeak's wingspan, and the radius Noli will not enter around the barrier |
 | thirty meters | `distinct` | conifer emergent height; canopy depth above the nests; the proximity sense's reach into the ground; and the retired nest height |
 | a million years · one-million years | `distinct` | the depth of book 3's emigration relative to 66 Mya, the galactic-year figure, and fragment 8's artifact |
