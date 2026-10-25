@@ -1,5 +1,5 @@
 ---
-approval: approved d6d81680
+approval: approved d346e5df
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -139,7 +139,7 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 - **Power starvation.** Photovoltaic needs light and is blocked by canopy and by mud; thermoelectric needs a gradient and this climate barely offers one; piezoelectric needs movement. **So generation is near zero exactly when they are lying up in shade** — the suits work worst when the wearers are sheltering.
 - **Seal breaches** at the joints, which is where the constrictor gets Benal.
 - **Sensors fouled** by mud and salt. **The pheromone barrier does not blind the chemical sensors**: wherever it is, it is the loudest thing they show, and anything else is read underneath it.
-- **Salt**, which is catastrophic. A living biofilm in seawater is an osmotic disaster.
+- **Salt does not kill the film.** Seawater is not what ends the suits. <!-- @WF-suit.salt.kills: false -->
 
 ### The schedule
 
@@ -151,8 +151,8 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 | 10 | **thermal saturation on the savanna.** The system loses and she cooks inside her own protection | thermal fine; his regulation is good and the suit barely has to work |
 | 11 | unshelled since Day 10; she carries it all day, and the rain is the only reason she can walk at all. **She puts it back on during Night 11**, the reservoirs discharged by a night of cool rain, and wears it from then on; it works patchily and she stops trusting its camouflage | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
 | 12–13 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
-| 14 | mudflat silt, then salt | salt in the open elbow |
-| 15 | **immersion.** Biofilm dying in sheets. **She is wearing it, so it floats her** (`kb/worldbuilding/safety-suits.md`); what the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
+| 14 | mudflat silt `[?]` | `[?]` the open elbow, battered on the raft |
+| 15 | **immersion.** `[?]` Biofilm dying in sheets, from starvation — no feed since Day 6 — and the night's battering on the raft and the coral, not from the salt. **She is wearing it, so it floats her** (`kb/worldbuilding/safety-suits.md`); what the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
 | 16 | a dead gray skin she is still wearing because taking it off is worse | the same |
 
 **Two moments worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
