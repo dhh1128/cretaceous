@@ -598,7 +598,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **He is thin, cold and quiet with starvation cold rather than weather** — the wound closing fast and costing him everything.
 - **Benal watches.** He has nothing to give but arithmetic: how far, how long, how much water. It is the only thing he has ever had and today it is worth something.
 - **The reader learns here, in his POV, that his shoulder capacitor died on Day 11 and he has told nobody** (`body-and-resources.md` §3b), as a thing two days old that he has kept.
-- **The loads** `[-]`: Benal takes Teva's pack and the fieldpack; Keo's pack is emptied into them and left, because a boy carrying her on his back cannot wear one. Keo's ankle, worse since the hole on Night 12, is part of why he goes down.
+- **The loads** `[-]`: Benal takes Teva's pack and the fieldpack, which is Keo's only pack and has been on Teva's back since the scree (D11.4). Keo's ankle, worse since the hole on Night 12, is part of why he goes down.
 **Hazard:** her being brave about it. She is vomiting and cannot stop, and dignity is not available; the scene should be about what it costs the two of them to watch.
 **Ends on:** Keo going down on one knee, and getting up.
 
