@@ -1,5 +1,5 @@
 ---
-approval: approved 6aef8c28
+approval: approved 60c70523
 ---
 
 # Benal's equation
@@ -72,7 +72,7 @@ The displacement is measured from the **arrival baseline** — the moment the ex
 
 1. **Never explain it.** No character delivers a lecture. Benal talks in fragments, to himself, so that the reader assembles the shape from his frustration.
 2. **He is stuck for most of the book**, and being stuck is characterizing — it is why Marek can call the work useless and why Benal half believes him.
-3. **The fieldpack loss at D14.3 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically. @D14.3
+3. **The fieldpack loss at D14.2 destroys his written work.** After that he carries the equation only in his head, which is what makes the Genesis tablets matter to him personally and not just tactically. @D14.2
 4. Use the notation sparingly and as an *image* — something seen on a board, something etched in metal — not as text to be parsed.
 
 ## Open issue for the science pass

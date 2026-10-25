@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-unit outline into scenes. Each is a distinct unit of action with a specific POV.
 
-**The rescene is done.** **71 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+**The rescene is done.** **70 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
 **One format, everywhere.** Every entry carries size, day and hour, POV, place, ladders, must-carry, hazard and ending. The older single-line form with a B-Story note is gone; the last of it was Days 10, 11 and 14, and each of those entries carries a *was* note recording the id it converted from. **Act 1 keeps its `D1.1`–`D3.1` ids and everything below Act 1 is day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
@@ -171,7 +171,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 
 **Act 1 totals:** 14 scenes, ~15,800 words.
 
-## ACT 2: THE MUDWALK — RESCENED, 40 scenes
+## ACT 2: THE MUDWALK — RESCENED, 39 scenes
 
 ### D3.2 — [MEDIUM] [Day 3, morning] [BENAL] [Deep woodland]
 **Ladders:** EM6 P7 S8 SP4
@@ -635,30 +635,21 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Ends on:** the raft in the water, and the black nearer than it was.
 
 ### D14.2 — [LONG, ~1800] [Day 14, night] [BENAL] [The raft, open water]
-**Ladders:** EM9 P9 S7 SP6
-**Purpose:** TRAVERSE · **Ending:** THREAT
-**The cyclone, and hours of it.** Chaos, drowning and physical helplessness — the three things he is most afraid of, arriving together and then not stopping.
+**Ladders:** EM9 P10 S7 SP6
+**Purpose:** CLASH · **Ending:** BLACKOUT
+**The cyclone, built fast, and the mosasaur that ends it** (Q-BCKT: one scene, not two). Chaos, drowning and physical helplessness arrive together, each as something happening to him; then one strike from below, the raft in pieces, and Benal in the dark water. `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
 **Must carry:**
-- **The full fury of it**, and waves as black moving mountains. The raft is an old-tech remnant of corroded polymer and metal, and nobody aboard is sailing anything.
+- **The full fury of it**, and waves as black moving mountains. The raft is the First Walk's, founder polymer floats on an alloy frame, and nobody aboard is sailing anything.
 - **Old-tech that has not dissolved, and the answer is already in canon.** The archaea failsafe is a **colony** invention and Genesis predates it — `plan/knowledge-ledger.md`, and it is why paper survives in the Archive. **The raft is founder-era for the same reason**, so nothing ever wrapped it and there is nothing in it to wake. It is not an exception to the rule; it is the rule's other instance, sitting on a beach two days before the reader meets the big one. **Do not have anyone remark on it here** — noticing it early spends the Genesis payoff, and three people who have never left the Enclave have no reason to expect a two-century-old hull to have rotted.
 - **Everything he is for is switched off.** Rain defeats his hearing — `tech-rules.md` has that as the limit — and here there is nothing to hear through it and nobody who could be told anything.
 - **The suits are past helping.** His shoulder capacitor died on Day 11 and he told nobody, and the film is starving, unfed since Day 6. `body-and-resources.md` §3b.
-- **The length is the point.** This is an ordeal rather than an event, and the physical ladder is climbing to the top of its column.
-**Hazard:** the storm as spectacle. The POV is the most fragile person in the book with nothing to do, so the sea should reach the reader only in proportion to how much of it is happening to him. Second: competence. Nobody manages anything; they hold on.
-**Ends on:** the night not being over.
-
-### D14.3 — [SHORT, ~800] [Day 14, night] [BENAL] [The water]
-**Ladders:** EM9 P10 S6 SP6
-**Purpose:** CLASH · **Ending:** BLACKOUT
-**The mosasaur, the raft in pieces, and Benal in the dark water.** `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
-**Must carry:**
 - **One image and one smell.** An eye as large as his head, ancient and cold, and brine and dead fish washing over him. Both allocated to Day 14 and neither of them repeatable.
 - **The fieldpack goes**, and with it his mathematics and the last of the food. `character-arcs.md` — the second of his two losses, and the one that leaves him holding only what is in his head, which turns out to be everything.
 - **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
 - **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
 - **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water. @D15.1
 - **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs a piece of the broken raft** and holds on.
-**Hazard:** a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Second: him being brave. He is not, and the book has never asked him to be.
+**Hazard:** the storm as spectacle, and the storm as an ordeal with no turn: its events come fast and each changes something. Second: a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Third: him being brave. He is not, and the book has never asked him to be.
 **Ends on:** him under, with nothing in his hands.
 
 ---
