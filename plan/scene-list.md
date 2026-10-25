@@ -660,14 +660,14 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.1 — [MEDIUM] [Day 15, dawn] [BENAL] [The coral bank]
 **Ladders:** EM10 P8 S6 SP6
 **Purpose:** CONSOLIDATE · **Ending:** REVEAL
-**Washing up in the eye of the storm.** Battered, separated, finding Keo and then Teva. They believe they have failed.
+**Washed up the morning after the storm.** Battered, separated, finding Keo and then Teva. They believe they have failed. The storm was one night and is blowing itself out; there is no eye (Q-CEBN) <!-- @WF-cyclone.eye: false -->.
 **Must carry:**
-- **The eye is the cruelest weather in the book because it looks exactly like deliverance** — high bright cloud, no wind, a lit hour, and the birds moving wrong. `journey-calendar.md` §2. The reader should be allowed to feel rescued.
+- **The morning after**: wind dropping but still on their wet skin, low cloud breaking, the sea still heaving on the reef. `journey-calendar.md` §2.
 - The bank is **razor-sharp fossilized rudist bivalves and platform limestone** — not volcanic rock; `kb/research/geo-flora-fauna.md` §1.2. Small iridescent crabs scatter.
 - **The fieldpack is gone**, and with it his mathematics and the last of the food.
 - `[?]` **Benal finds Keo on the coral still wrapped around the piece of raft that kept him up** — the one of them with no suit, alive because he held on.
 **Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
-**Ends on:** the horizon, and Benal understanding what the calm is.
+**Ends on:** the station up the spit, standing and silent, and nobody there.
 
 ### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
 **Ladders:** EM10 P7 S7 SP6
@@ -677,19 +677,19 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
 - The headache that cost them the gap in the reef is still on her, and it is her own decision that left it there (`plan/milieu-brief.md` §4, assumption 6).
 - **The place is not a ruin and not a working facility.** Some of it is open to the sky, some under water, some sealed. `plan/milieu-brief.md` §3.
-**Hazard:** a puzzle scene. They are not solving a lock; they are failing at one while a storm comes back, and the failure is physical and stupid rather than clever.
-**Ends on:** the light going, and the wind returning from the other side.
+**Hazard:** a puzzle scene. They are not solving a lock; they are failing at one with the light going, and the failure is physical and stupid rather than clever.
+**Ends on:** the light going, wet skin in the wind, and nothing to make a fire with.
 
-### D15.3 — [SHORT, ~700] [Day 15, day] [KEO] [The flooded section] — **NEW**
+### D15.3 — [SHORT, ~700] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**The back wall arrives and the tail closes over them for eighteen hours <!-- @WF-cyclone.tail: 18h -->.** They get into the only part of Genesis that is open, which is the part that is under water.
+**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: a stairwell above a hall still full of the surge, off the ground for the night.
 **Must carry:**
-- **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin and eighteen hours <!-- @WF-cyclone.tail: 18h --> of wind off the cyclone's back half. `body-and-resources.md`: write the symptom, never the climate.
+- **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
 - `[?]` The disorientation is stronger here than anywhere, and he is the one who has been having flashes since Day 11.
-**Hazard:** describing the storm. The cyclone is not the subject; three people in a wet dark room for eighteen hours <!-- @WF-cyclone.tail: 18h --> is the subject.
-**Ends on:** full dark, with hours of it left.
+**Hazard:** describing the place. Three people in a wet dark room is the subject.
+**Ends on:** full dark, and the night all ahead of them.
 
 ### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Archive, flooded section]
 **Ladders:** EM10 P7 S9 SP7

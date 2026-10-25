@@ -1,5 +1,5 @@
 ---
-approval: approved fe826656
+approval: approved eb50ccf6
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -150,7 +150,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | **12** | rain, continuous | warm and saturating | gray, unchanging | Misery without incident. Keo feverish, the food changed, and **this is the day the mash goes in short-leached** |
 | **13** | clearing; heavy mist at dawn | warming | soft, returning | Recovery, and false safety |
 | **14** | **hot, glassy, no wind at all** → the wall of black on the horizon | oppressive | flat brilliant, then extinguished | The unnatural calm before a cyclone is a real signature. Benal notices the air is wrong before anyone sees the sky |
-| **15** | **the storm blown out by morning** — the wind dropping, the cloud breaking, the sea still heaving on the reef <!-- @WF-cyclone.eye: false --> | warm; cold only off wet skin | gray, breaking to sun by afternoon | One night of storm, Night 14, and no eye. Day 15 is the day after it: they fail to get into the station, and **the Dark Night is that night**, in the flooded block, with nothing |
+| **15** | **the storm blown out by morning** — the wind dropping, the cloud breaking, the sea still heaving on the reef <!-- @WF-cyclone.eye: false --> | warm; cold only off wet skin | gray, thinning, no sun yet | One night of storm, Night 14, and no eye. Day 15 is the day after it: they fail to get into the station, and **the Dark Night is that night**, in the flooded block, with nothing |
 | **16** | blown out; washed, scoured, brilliant | warm, clean | the first honest sunlight since Day 10 | The world after the storm, and the dry powered section. Relief-shaped, and the light is doing it |
 | **17–18** | clear, hot, coastal | hot | hard bright | **Not rest — work, on a clock.** Genesis has no fresh water and they are drinking what the cyclone left standing, which is worse every day. Two adjacent days share this sky because nothing about it changes, and that is the pressure |
 | **19** | clear and hot | hot | high hard light all the way home | No weather to hide behind. They lift at noon and land in the middle of the afternoon, in front of everybody. The wig is loud and visible and so are they |
