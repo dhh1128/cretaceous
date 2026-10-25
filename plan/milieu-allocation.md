@@ -1,5 +1,5 @@
 ---
-approval: approved b33883fd
+approval: approved e0360bf4
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -153,7 +153,7 @@ Each of these is owned once. The number is the day.
 
 **Touch and taste** — limestone underfoot (1, established, never again) · septic gel on a spike's tip, and on the fingers that put it there (3) · slick black river mud (8) · a croc's hide against a suited leg, like a rough log (8) · fern sap that stings (4) · the constrictor's pressure (5) · **cool clean water on the good day (6)** · heat as physical weight (10) · limestone scree opening skin (11) · sulfur water at forty degrees <!-- @WF-spring.temp: 40C --> (12) · salt drying tight on the face (14) · coral and rudist shell cutting (15).
 
-**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the first honest sunlight in six days (16).
+**Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the first clear morning since the storm (16).
 
 ---
 
