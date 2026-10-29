@@ -1,5 +1,5 @@
 ---
-approval: approved 04ca466b
+approval: approved 39b2eeef
 ---
 
 # AI tells — the blacklist
@@ -278,3 +278,9 @@ Cutting one never needs a replacement. The test is per sentence: what would the 
 The same edit made smaller changes everywhere else:
 - **A plain verb for a state:** *was asleep* became *dozed*, *went gray* became *faded*.
 - **Location tails the reader supplies:** *her suit in a heap beside her* became *her suit in a heap*.
+
+## 35. The negation closer
+
+> D12.1: *It knew the smells of things that hunted, and it knew the gel, and it knew nothing else.* "this construction is an AI tick, and I'm frustrated to keep seeing it: <clause>, and <clause>, and <negation clause>. Here ", and it knew nothing else" is the embodiment of it. Fix this tic. I'd fix this one by changing to "it knew..., and it knew.... Did it know anything else?"
+
+**Rule.** Do not close a run of *, and* clauses with a clause that negates the rest (*, and nothing else*, *, and none of it*, *, and no one came*). It is a §30 chain with a cadence-ending flourish bolted on. His fix keeps the list and turns the closer into the POV character's question. A full stop before a plain negative sentence also works. Count them before he reads.
