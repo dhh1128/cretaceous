@@ -71,7 +71,7 @@ The protocol is hers alone and it is not reckless. A blood test detects progress
 
 **At Genesis, at roughly the same time, the remaining scientists finally get a fix.** The mechanism is sensor data captured during the transit itself, re-analyzed — the one dataset they had that did not depend on a three-year <!-- @WF-genesis.occupancy: 3y --> baseline.
 
-**The answer is: now, plus or minus two hundred and twenty years.**
+**The answer is: now, plus or minus two hundred and twenty years.** <!-- @WF-dating.fix.margin: 220y -->
 
 Every day at Genesis is now a day that might be the last one. They are no closer to testing the cure, no closer to building the equipment, and they have just learned that the deadline may be inside their own lifetimes.
 
