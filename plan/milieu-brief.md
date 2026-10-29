@@ -1,5 +1,5 @@
 ---
-approval: approved bd71ce2b
+approval: approved b6c4d569
 ---
 
 # Cretaceous — Milieu Brief
@@ -65,7 +65,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **The First Walk is a short journey at the end of a long argument, and nothing in the corpus may turn it into a three-year <!-- @WF-genesis.occupancy: 3y --> march.** The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy; the walk is weeks. That makes the loss worse rather than easier to explain — better than half of them in under a month, with rifles, plasma cutters and a suit apiece — and it is why Hesh's arithmetic is unanswerable rather than merely grim. He does not have to state any of the timing for it to work, and in scene D2.6 he does not. @D2.6
 
-**The First Walk crossed the river at the narrows, where it runs between the stones**, <!-- @WF-firstwalk.crossing: narrows --> and every child knows that much of the story: it is the one fixed point on the route between the Enclave and Genesis. Where exactly the narrows lie is known only as a heading and a rough distance. **The story begins on the turtle beach**: Genesis is offshore, so the founders crossed the water on rafts of founder polymer floats on an alloy frame, came ashore there, at the rock: the one high thing on that coast, a ridge of pale dune rock at the far end of the beach. <!-- @WF-raft.origin: firstwalk --> The ones who had lost the argument about leaving insisted the rafts be stowed where the sea could not take them, so that the way back stayed open, and they were wedged into a deep cleft in its seaward face and weighted with stones. Nobody ever went back. Surge has flooded the crack and sand has half filled it, and founder materials carry no archaea, so nothing broke them down; the one the three dig out on Day 14 is jammed against the rock with split decking and a cracked float, and is barely seaworthy (`plan/tech-rules.md`).
+**The First Walk crossed the river at the narrows, where it runs between the stones**, <!-- @WF-firstwalk.crossing: narrows --> and every child knows that much of the story: it is the one fixed point on the route between the Enclave and Genesis. Where exactly the narrows lie is known only as a heading and a rough distance. **The story begins on the turtle beach**: Genesis is offshore, so the founders crossed the water on rafts of founder polymer floats on an alloy frame, came ashore there, at the rock: the one high thing on that coast, a ridge of pale dune rock at the far end of the beach. <!-- @WF-raft.origin: firstwalk --> The ones who had lost the argument about leaving insisted the rafts be stowed where the sea could not take them, so that the way back stayed open, and they were wedged into a deep crack in its seaward face and weighted with stones. Nobody ever went back. Surge has flooded the crack and sand has half filled it, and founder materials carry no archaea, so nothing broke them down; the one the three dig out on Day 14 is jammed against the rock with split decking and a cracked float, and is barely seaworthy (`plan/tech-rules.md`).
 
 `[retired]` **Shelter was never the problem, and the corpus said it had no stable shelter for a while, which Act 3 contradicts on every page.** Genesis is a built research station <!-- @WF-genesis.shelter: built-station -->: the mission's entire purpose was laboratory work on a pandemic, so the founders arrived with, and put up, structures good enough to culture in. That is why 206 years later there is a dry section with power in it, an archive, a temporal lab, two wigs and a machine that still answers when spoken to. A site with no stable shelter has none of that, and Act 3 needs all of it.
 
@@ -383,7 +383,7 @@ Excellent proprioception and an excellent magnetic sense — she navigates by th
 
 She feels cold as a *symptom* too — of starvation, blood loss, exhaustion — and more than the others do. See §3 of `plan/journey-calendar.md`.
 
-**Her excellent venom resistance does not cover ingested plant toxins**, and this matters. <!-- @WF-venomresistance.covers.glycoside: false --> Venoms are proteins delivered under the skin; the cycad glycosides are small molecules that do their damage in the gut and liver. Different mechanism, no crossover — and she is the one who should have been safe, which is what makes it land.
+**Her excellent venom resistance does not cover ingested plant toxins**, and this matters. <!-- @WF-venomresistance.covers.glycoside: false --> Venoms are proteins delivered under the skin; the cycad glycosides are small molecules that do their damage in the gut. Different mechanism, no crossover — and she is the one who should have been safe, which is what makes it land.
 
 Her grandmother is **Omya**, the last Master Keeper. Because of that position she was expected to receive better upgrades than she got, and the failures read to her as a family failing.
 
