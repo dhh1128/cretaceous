@@ -151,7 +151,7 @@ Every answer goes into the appropriate canon file immediately. **This is what ma
 
 ## Phase 6 — Draft
 
-One pass. One mind holding the scene at once. Do not factor the writing into layers, because that gives committee prose (`process/methodology-theory.md` §3) — plan in layers, draft in one pass, revise in layers.
+**Script first, then narration, then a separate trim-and-truth pass by a different agent.** Daniel proposed the split on 2026-10-22 (*"Maybe we need a pass that writes just dialog, and another that writes just description/exposition"*) and chose it blind against a one-pass draft of D11.5 on 2026-10-25 (*"I like X2 significantly better. It seems less encumbered with cruft. X1 seems to have excess description."*). The drafting prompt is `prompts/draft-script-first.md`: the scene as dialogue alone, then narration written around the fixed script. The revision prompt is `prompts/trim-and-truth.md`, run by an agent that did not draft the scene. This replaces the earlier rule of drafting in one pass; plan in layers, draft in two, revise in a third.
 
 **Before the band is measured, cut what the reader already has** (`prompts/ai-tells-blacklist.md` §33): a separate pass, sentence by sentence, run on the draft before any other check and before he reads it, and applied as cuts rather than suggestions. A band is measured on what survives. No check prompt may forbid a cut because it takes a scene under its band; that clause was in the Day 11 check prompt, and the filler it protected is what he found.
 

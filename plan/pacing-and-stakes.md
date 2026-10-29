@@ -188,6 +188,8 @@ Emotional, Physical, Social, Species — written `EM`, `P`, `S`, `SP`, because `
 
 ---
 
+**One river wading in the book, and it is the Day 8 crossing.** <!-- @WF-river.wadings: 1 --> No later scene puts them in the river again, because it would repeat the book's river set piece. Shallows elsewhere are still waded (`plan/milieu-brief.md` §3).
+
 ## 7. What to do next
 
 **Rescene Acts 2 and 3.** Act 1 is done. Act 2 needs the four missing days most of all — Day 6 because it is the deposit, Day 9 because it is what the river cost, and Days 12 and 13 because they are the hinge of Teva's arc. It also needs the river built out: Days 7 and 8 carry one scene each and the crossing is the courage the book is built on. Act 3 needs roughly to triple.
