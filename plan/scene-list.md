@@ -691,7 +691,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
-### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Archive, flooded section]
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Seaward block, the stair landing above the flooded hall]
 **Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.

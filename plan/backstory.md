@@ -1,5 +1,5 @@
 ---
-approval: approved 4860eb47
+approval: approved 2037a9ef
 ---
 
 # Backstory register
@@ -48,7 +48,7 @@ What the three and the people around them were before the story opens: habits, h
 - **K23** He has had a declaration to Teva ready for a long time, longer than the journey. *(D6.3)*
 - **K24** He remembers Benal being the best in math class, many times, and admires how modest Benal was about it. Benal once shared a piece of his birthday fruit with him.
 - **K25** When they were small he carried Ben's share of a load more than once and walked slower for him without saying so. *(D2.9)*
-- **K26** Years ago a boy used to shout suddenly to startle Benal and watch him cover his ears. Keo made him stop by threatening him. Benal does not know; Teva does. *(T33)*
+- **K26** Years ago a boy used to shout suddenly to startle Benal and watch him cover his ears. Keo made him stop by threatening him. Benal does not know; Teva does. *(`[-]` T27)*
 - **K27** "Everything likes me. It's Ben they love." *(D6.3)*
 - **K28** On the schism and the Council: boring adult business, mostly, though he has lately begun to doubt their wisdom and is more aware of disagreeing with authority. He admires Marek, because his parents do.
 
