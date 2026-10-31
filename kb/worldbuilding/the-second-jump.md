@@ -91,7 +91,7 @@ They never prove the cure. They never build the equipment. A thousand years <!--
 
 **So they leave a time capsule**, buried beside the cleft where the anchor shaft of a Genesis solar array will one day be drilled. They know the site's layout because they lived in it. They place it where somebody who has had the flash will think to look, and not where a survey would turn it up by accident. It is addressed to whoever comes back.
 
-**And they leave other traces, which the founders will find and fail to explain.** Worked stone, an anchor cleft, scarring on rock that reads as habitation on a coral spit in the Cretaceous. It goes into the Archive as an unresolved oddity in year zero, because everyone has more urgent problems. **The reader passes it early and thinks it strange. Benal reaches it in Act 3 and it detonates.**
+**And they leave other traces, which the founders will find and fail to explain.** Worked stone, an anchor cleft, scarring on rock that reads as habitation on a coral island in the Cretaceous. It goes into the Archive as an unresolved oddity in year zero, because everyone has more urgent problems. **The reader passes it early and thinks it strange. Benal reaches it in Act 3 and it detonates.**
 
 ## 8. The anomaly
 

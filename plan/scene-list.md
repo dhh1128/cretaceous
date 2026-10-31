@@ -667,7 +667,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The fieldpack is gone**, and with it his mathematics and the last of the food.
 - `[?]` **Benal finds Keo on the coral still wrapped around the piece of raft that kept him up** — the one of them with no suit, alive because he held on.
 **Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
-**Ends on:** the station up the spit, standing and silent, and nobody there.
+**Ends on:** the station along the bank, standing and silent, and nobody there.
 
 ### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
 **Ladders:** EM10 P7 S7 SP6
@@ -683,7 +683,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.3 — [SHORT, ~700] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: a stairwell above a hall still full of the surge, off the ground for the night.
+**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: the upper store, the top module of a stack of stores on the flooded low ground, above a module still full of the surge, off the ground for the night `[-]`.
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
@@ -691,7 +691,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
-### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [Seaward block, the stair landing above the flooded hall]
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The upper store, above the flooded low ground]
 **Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.
@@ -738,7 +738,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **They have solved the thing they came for**, and it is only the middle of Act 3.
 - **The protocols should pass through Teva's hands even though this is Benal's scene.** Her grandmother is losing this exact knowledge, and D1.1 and D2.4 are the plants. She can hold it and not read most of it, and she recognizes the first twenty positions Omya drilled into her (`plan/backstory.md` T8). @D1.1 @D2.4
 - **EP11 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
-**Hazard:** triumph. They have what they came for and they are still on a coral spit with no boat, and the scene should know that before they do.
+**Hazard:** triumph. They have what they came for and they are still on a coral island with no boat, and the scene should know that before they do.
 **Ends on:** the tablets, and Benal already looking at the next door.
 
 ---
