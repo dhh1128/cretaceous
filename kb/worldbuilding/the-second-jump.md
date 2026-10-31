@@ -14,7 +14,7 @@ Marked `[?]` items are proposals from a session, not rulings. Everything unmarke
 
 ## 1. The three years at Genesis
 
-Two hundred people <!-- @WF-founders.count: 200 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because a spit of coral has none and the rain drains through porous rock within the hour.
+Two hundred people <!-- @WF-founders.count: 200 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because an island of coral and limestone has none and the rain drains through porous rock within the hour.
 
 Three things happen across those three years <!-- @WF-genesis.occupancy: 3y -->, and they interlock.
 
