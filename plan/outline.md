@@ -1,5 +1,5 @@
 ---
-approval: approved 768e04b1
+approval: approved 56b025be
 ---
 
 # Cretaceous — Outline
@@ -114,9 +114,9 @@ Rationale (POV Irony): We are in Teva's head as she cares for Keo, seeing him as
 
 9. All Is Lost:
 [POV: Benal] [Fear Level: Extreme (Overwhelming Panic)]
-The offshore journey. They locate the old raft, but it's barely seaworthy. A storm hits. They are attacked by a Mosasaur (Q#11). We are in Benal's head—the most fragile, the most terrified of the physical world. This is his ultimate nightmare: drowning, chaos, and a sea monster. The raft is destroyed. They are separated and wash up on the sharp coral bank of the Gensis Site, battered and believing they've failed.
+The offshore journey. They locate the old boat, but it's barely seaworthy. A storm hits. They are attacked by a Mosasaur (Q#11). We are in Benal's head—the most fragile, the most terrified of the physical world. This is his ultimate nightmare: drowning, chaos, and a sea monster. The boat is destroyed. They are separated and wash up on the sharp coral bank of the Gensis Site, battered and believing they've failed.
 
-Rationale (Protagonist Competence): Having them plan to find the old raft makes them more competent.
+Rationale (Protagonist Competence): Having them plan to find the old boat makes them more competent.
 
 10. Dark Night of the Soul:
 [POV: Teva] [Fear Level: Despair (Cold & Hopeless)]

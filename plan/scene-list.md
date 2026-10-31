@@ -623,32 +623,32 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D14.1 — [MEDIUM] [Day 14, low tide] [BENAL] [The coast]
 **Ladders:** EM8 P8 S8 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**The coast, the raft, and a kilometer of mudflat that reads as ground and is not.** On the horizon, a wall of black.
+**The coast, the boat, and a kilometer of mudflat that reads as ground and is not.** On the horizon, a wall of black.
 **Must carry:**
-- **They planned to find the raft, which is why finding it counts.** `plan/outline.md` — the old raft is barely seaworthy and they knew it was there, and knowing it was there is what makes them competent rather than lucky. It is one of the First Walk's rafts, on a ledge under an overhang on the landward face of the rock at the far end of the turtle beach, weighted with stones, where the founders came ashore (`plan/milieu-brief.md` §3) <!-- @WF-raft.origin: firstwalk -->.
-- **The lead is his, and his senses are the reason they find the raft** `[-]`, as they found the honey on Day 6 and will find the hatch on Day 16. Heat haze hides the rock; he hears the swell breaking on stone, not sand, far down the beach, and they follow him to it without asking. The stakes are moderate: exhaustion, hunger, the tide and the storm. Turtles laying and crocs at the waterline are the beach's life, given room and nothing more.
+- **They planned to find the boat, which is why finding it counts.** `plan/outline.md` — the old boat is barely seaworthy and they knew it was there, and knowing it was there is what makes them competent rather than lucky. It is one of the First Walk's boats, on a ledge under an overhang on the landward face of the rock at the far end of the turtle beach, weighted with stones, where the founders came ashore (`plan/milieu-brief.md` §3) <!-- @WF-boat.origin: firstwalk -->.
+- **The lead is his, and his senses are the reason they find the boat** `[-]`, as they found the honey on Day 6 and will find the hatch on Day 16. Heat haze hides the rock; he hears the swell breaking on stone, not sand, far down the beach, and they follow him to it without asking. The stakes are moderate: exhaustion, hunger, the tide and the storm. Turtles laying and crocs at the waterline are the beach's life, given room and nothing more.
 - ***Hesperornis*** working the shallows, going under and staying under a long time, and ***muzquizopteryx*** soaring, small and coastal. **Most things in the sky are harmless**, three days after one of them took Noli, and that contrast is the allocation's brief for the animal.
-- **Ovos, and they eat them.** `body-and-resources.md` is the physical-continuity authority and its Day 14 row says *ovos at the turtle beach — the last real meal*. That is consistent with Day 16 being the first food since the raft, because the raft goes down the same night: **the eggs are the last thing any of them eats for two days.** They take them from a turtle laying high on the beach, with the crocs down at the waterline.
+- **Ovos, and they eat them.** `body-and-resources.md` is the physical-continuity authority and its Day 14 row says *ovos at the turtle beach — the last real meal*. That is consistent with Day 16 being the first food since the boat, because the boat goes down the same night: **the eggs are the last thing any of them eats for two days.** They take them from a turtle laying high on the beach, with the crocs down at the waterline.
 - **The unnatural calm, and he notices the air before anyone sees the sky.** Hot, glassy, no wind at all. `journey-calendar.md` §2 makes that a real cyclone signature and gives the noticing to him.
 - **They walked the last two kilometers in the dark before dawn to get here ahead of the storm**, which is one of the two days the marching doctrine is deliberately broken (`body-and-resources.md` §2b), and the night belongs to hunters that see and smell better in it than they do. They are on a clock made of a tide and a sky.
 **Hazard:** the mudflats as scenery. They are a surface that is not a surface, crossed now because both the tide and the storm are moving, and the reason is arithmetic. Second: the beach as a second croc set piece. The crocs are background; the mosasaur is tonight.
-**Ends on:** the raft in the water, and the black nearer than it was.
+**Ends on:** the boat in the water, and the black nearer than it was.
 
-### D14.2 — [LONG, ~1800] [Day 14, night] [BENAL] [The raft, open water]
+### D14.2 — [LONG, ~1800] [Day 14, night] [BENAL] [The boat, open water]
 **Ladders:** EM9 P10 S7 SP6
 **Purpose:** CLASH · **Ending:** BLACKOUT
-**The cyclone, built fast, and the mosasaur that ends it** (Q-BCKT: one scene, not two). They reach Genesis's reef ring by mid-afternoon and cannot find a way through the surf; the storm's first wind, off the land, pushes them onto it, and the mosasaur strikes at the reef edge (Q-SJBY). Chaos, drowning and physical helplessness arrive together, each as something happening to him; then one strike from below, the raft in pieces, and Benal in the dark water. `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
+**The cyclone, built fast, and the mosasaur that ends it** (Q-BCKT: one scene, not two). They reach Genesis's reef ring by mid-afternoon and cannot find a way through the surf; the storm's first wind, off the land, pushes them onto it, and the mosasaur strikes at the reef edge (Q-SJBY). Chaos, drowning and physical helplessness arrive together, each as something happening to him; then one strike from below, the boat in pieces, and Benal in the dark water. `pacing-and-stakes.md` §6 puts Day 14 at the top of the physical column, level with the chase, and this is where it sits.
 **Must carry:**
-- **The full fury of it**, and waves as black moving mountains. The raft is the First Walk's, founder polymer floats on an alloy frame, and nobody aboard is sailing anything.
-- **Old-tech that has not dissolved, and the answer is already in canon.** The archaea failsafe is a **colony** invention and Genesis predates it — `plan/knowledge-ledger.md`, and it is why paper survives in the Archive. **The raft is founder-era for the same reason**, so nothing ever wrapped it and there is nothing in it to wake. It is not an exception to the rule; it is the rule's other instance, sitting on a beach two days before the reader meets the big one. **Do not have anyone remark on it here** — noticing it early spends the Genesis payoff, and three people who have never left the Enclave have no reason to expect a two-century-old hull to have rotted.
+- **The full fury of it**, and waves as black moving mountains. The boat is the First Walk's, founder polymer floats on an alloy frame, and nobody aboard is sailing anything.
+- **Old-tech that has not dissolved, and the answer is already in canon.** The archaea failsafe is a **colony** invention and Genesis predates it — `plan/knowledge-ledger.md`, and it is why paper survives in the Archive. **The boat is founder-era for the same reason**, so nothing ever wrapped it and there is nothing in it to wake. It is not an exception to the rule; it is the rule's other instance, sitting on a beach two days before the reader meets the big one. **Do not have anyone remark on it here** — noticing it early spends the Genesis payoff, and three people who have never left the Enclave have no reason to expect a two-century-old hull to have rotted.
 - **Everything he is for is switched off.** Rain defeats his hearing — `tech-rules.md` has that as the limit — and here there is nothing to hear through it and nobody who could be told anything.
 - **The suits are past helping.** His shoulder capacitor died on Day 11 and he told nobody, and the film is starving, unfed since Day 6. `body-and-resources.md` §3b.
-- **One image and one touch.** An eye as large as his head, ancient and cold; and before it, the raft lifted from below by something passing under it, a long scrape along the floats. Smell is no shock in a sea that is all brine. Neither is repeatable.
+- **One image and one touch.** An eye as large as his head, ancient and cold; and before it, the boat lifted from below by something passing under it, a long scrape along the floats. Smell is no shock in a sea that is all brine. Neither is repeatable.
 - **The fieldpack goes**, and with it his mathematics and the last of the food. `character-arcs.md` — the second of his two losses, and the one that leaves him holding only what is in his head, which turns out to be everything.
-- **It is the fourth of the five proofs of *water is death***: the sea takes the raft, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
+- **It is the fourth of the five proofs of *water is death***: the sea takes the boat, the fieldpack and the mathematics. `foreshadow-and-motif.md` is explicit that nobody in the novel ever enumerates them.
 - **He reads it as his failure.** The reader should be able to see the loss as the setup for D17.2 while he can see nothing but the end of his usefulness.
 - **They are separated here**, and finding each other is D15.1's job, so this scene ends with him alone in the water. @D15.1
-- **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs a piece of the broken raft** and holds on.
+- **Nobody can swim, so each of them stays up on something.** Teva and Benal float in their suits (`kb/worldbuilding/safety-suits.md`). **Keo, unsuited, grabs a piece of the broken boat** and holds on.
 **Hazard:** the storm as spectacle, and the storm as an ordeal with no turn: its events come fast and each changes something. Second: a fight. It is one strike, in the dark, in weather, and the animal is gone before it has been understood. Third: him being brave. He is not, and the book has never asked him to be.
 **Ends on:** him under, with nothing in his hands.
 
@@ -665,7 +665,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The morning after**: wind dropping but still on their wet skin, low cloud breaking, the sea still heaving on the reef. `journey-calendar.md` §2.
 - The bank is **razor-sharp fossilized rudist bivalves and platform limestone** — not volcanic rock; `kb/research/geo-flora-fauna.md` §1.2. Small iridescent crabs scatter.
 - **The fieldpack is gone**, and with it his mathematics and the last of the food.
-- `[?]` **Benal finds Keo on the coral still wrapped around the piece of raft that kept him up** — the one of them with no suit, alive because he held on.
+- `[?]` **Benal finds Keo on the coral still wrapped around the piece of boat that kept him up** — the one of them with no suit, alive because he held on.
 **Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
 **Ends on:** the station along the bank, standing and silent, and nobody there.
 
@@ -720,7 +720,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D16.2 — [MEDIUM] [Day 16, midday] [KEO] [The dry section] — **NEW**
 **Ladders:** EM5 P4 S6 SP7
 **Purpose:** CONSOLIDATE · **Ending:** QUESTION
-**Warm, dry, lit, and they eat for the first time since the raft.** The exhale, and the only one they get.
+**Warm, dry, lit, and they eat for the first time since the boat.** The exhale, and the only one they get.
 **Must carry:**
 - `[?]` **Dry is the luxury, not the food.** Nineteen days <!-- @WF-story.span: 19d --> of being wet, and the thing that undoes them is a room that is not. **It lands hardest on Keo, who has never had a suit** — everything the other two's shells were for has been happening directly to his skin since Day 3.
 - **This scene is why Keo wanders off on Day 18, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. Two days of watching the others be necessary, from inside his head, is what makes finding something to talk to land.
@@ -785,7 +785,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The impasse. There is no boat, and the way home is under water.**
 **Must carry:**
 - **This pays foreshadow **R16** at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
-- The raft is gone, the mudflats are under the surge, and eighty kilometers <!-- @WF-route.overland: 80km --> of walking is a route that no longer exists.
+- The boat is gone, the mudflats are under the surge, and eighty kilometers <!-- @WF-route.overland: 80km --> of walking is a route that no longer exists.
 - **They have the cure and cannot deliver it**, which is worse than not having it.
 **Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
 **Ends on:** nobody having an idea, and Keo walking off.
@@ -822,7 +822,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **The salvage. One flyable wig out of two wrecks, guided by a machine his people call an abomination.**
 **Must carry:**
 - **It is a swap, not a fabrication** — take that off that one, put it on this one. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable.
-- **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their raft. All three have different work.
+- **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their boat. All three have different work.
 - `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now; **they talk about what to do next as if it were already settled**, which is how the reader learns it is.
 - **They cannot carry it all, and that is Benal's job.** A four-seat machine, a charge that will not stretch, and an archive with more in it than they can lift. **Three exhausted teenagers choose which records come home, and the choice shapes their society permanently** — `plan/knowledge-ledger.md`. He is the only one who can compute the trade and the only one who understands what is being left, and nobody has time to argue with him.
 **Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.

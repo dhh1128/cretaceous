@@ -88,7 +88,7 @@ Filed as "answered" in the first draft of this file. Daniel: decided without con
 
 ### Genuinely answered, with a place to check
 
-0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline.md`, the debate), **10** (how they leave → D2.10–D3.1), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the raft), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → D2.4), **24** (Noli's death → D11.1), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
+0.6 numbers: **5** (death and burial → the returning, confirmed his), **9** (Ben's motivation → already in `outline.md`, the debate), **10** (how they leave → D2.10–D3.1), **11** (fauna encounters → `milieu-allocation.md` §3), **12** (offshore challenge → the boat), **16** (return complications → the wig and the flooded route), **17** (river crossings → one crossing, Day 8), **20** (friendship evolution → the dyad progression), **22** (grandmother scenes → D2.4), **24** (Noli's death → D11.1), **26** (time travel mechanics → `benals-equation.md`), **33** (the larger mission), **39** (POV), **40** (opening scene), **41** (structure), **42** (pacing targets), **43** (tone balance), **44** (the ending), **45** (sequel hooks), **46** (word count).
 
 **Twenty of forty-eight.** Not thirty-six.
 

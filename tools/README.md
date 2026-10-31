@@ -88,7 +88,7 @@ Nine files. `checks.py` holds the logic as plain functions returning violations;
 
 `N` spelled as a word or a numeral; the check reads either, and reads nothing else, so a paraphrase will not register. What the number has to be decided against, all of it measurement rather than opinion:
 
-- **The scene list today** runs 70 scenes in 50 runs — 38 of one scene, nine of two, one of three, **one of five** (KEO, D2.8 through D3.1, which is the theft) and **one of six** (BENAL, D13.1 through D15.1, which is the drag-frame, the coast, the raft and the coral bank).
+- **The scene list today** runs 70 scenes in 50 runs — 38 of one scene, nine of two, one of three, **one of five** (KEO, D2.8 through D3.1, which is the theft) and **one of six** (BENAL, D13.1 through D15.1, which is the drag-frame, the coast, the boat and the coral bank).
 - **In Daniel's own novels:** `viking.md` never runs three consecutive chapters in one head across fifty-five, and `cordimancy.md` has a single run of five.
 - So a ceiling of three flags both long runs, and a ceiling of five flags only the six. Neither is a number this directory may pick.
 
@@ -98,7 +98,7 @@ It is the inverse of `allocation_covered` and it is the instrument `milieu-alloc
 
 **The corpus does not assert what the check would enforce.** §3 of the allocation, one line under that premise: *"Each species gets one showcase. After its day it may be referenced but not re-described."* The croc row spells out what a permitted reference looks like — *after Day 8 it is a shape, a wake, an absence of birds.* So the invariant is not *appears nowhere else*; it is *is not re-described elsewhere*, and re-description is a property of prose that no key match can see. Registering the stronger claim would enforce a rule that was never made.
 
-**And the scene list is a plan, not prose.** This directory's own "Not yet built" list already has this check under **Blocked on prose**, and that judgment was right. Most of what fires is the plan discussing its own allocations: the saropo-riding plan proposed and rejected on Days 7 and 8, *"the honey on Day 6, the turtle corridor on Day 14"* in a Day 16 hazard note, *"four days after a mosasaur destroyed their raft"* on Day 19.
+**And the scene list is a plan, not prose.** This directory's own "Not yet built" list already has this check under **Blocked on prose**, and that judgment was right. Most of what fires is the plan discussing its own allocations: the saropo-riding plan proposed and rejected on Days 7 and 8, *"the honey on Day 6, the turtle corridor on Day 14"* in a Day 16 hazard note, *"four days after a mosasaur destroyed their boat"* on Day 19.
 
 **The measurements**, all against the scene list, all counting one (day, item) pair as one finding:
 

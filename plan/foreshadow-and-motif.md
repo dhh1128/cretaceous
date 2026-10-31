@@ -1,5 +1,5 @@
 ---
-approval: approved 1e949bf1
+approval: approved 3159120d
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -115,7 +115,7 @@ The mantra is stated early and then **never defended**, because the book proves 
 1. **Crocs.** The primary threat, and mental projection barely touches a hungry one.
 2. **Teva.** The sea is where her own judgment comes due — the short-leached mash leaves her with a headache she cannot think through at the one moment navigation matters. *(Not her magnetic sense, which is worth more offshore than on land — a heading matters most where there are no landmarks. Not her thermal failure either; the lethal half of that is heat, and there is no cold water in this world.)*
 3. **The weapons.** Archaea in the shafts wake on sustained wetting. Water eats the things you defend yourself with.
-4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the raft, the fieldpack, and Benal's mathematics.
+4. **Genesis.** The one place they must reach sits in the sea, and the sea takes the boat, the fieldpack, and Benal's mathematics.
 5. **Yara.** Not the river: the ground the river spreads onto after rain, where nobody thought to look.
 
 Nobody in the novel enumerates this. The mantra is a children's rule that turns out to be an understatement, and the reader should get there alone.

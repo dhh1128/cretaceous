@@ -1,5 +1,5 @@
 ---
-approval: approved e0360bf4
+approval: approved 97d96e41
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -43,7 +43,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **Fern savanna** | 10 | head-high ferns and cycads to the horizon, no trees, nothing to hide behind or under. |
 | **Limestone broken country** | 11–12 | scree, gulches, ravines, thin soil, exposed rock. Where Keo falls. |
 | **Coastal plain and wetland** | 13–14 | *nypa*-type palms, *weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. <!-- @WF-mangroves.exist: false --> Then mudflats that read as ground and are not. |
-| **Open water** | 14–15 | the raft, the storm, the bank. |
+| **Open water** | 14–15 | the boat, the storm, the bank. |
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |
 
@@ -74,7 +74,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *hesperornis* | 14 | toothed diving bird, coast. |
 | *muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
 | sea turtles, nesting | 14 | already allocated to D14.1 as the croc distraction. | @D14.1
-| *mosasaurus* | 14 | night, the raft. |
+| *mosasaurus* | 14 | night, the boat. |
 | ***tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9
 
 **Not allocated, held in reserve:** *albertosaurus*, *coahuilaceratops*, *bravoceratops*, *magnapaulia*, *avisaurus*, *coniophis*, *polyglyphanodon*. Do not spend these without moving something else off the list, because each striking thing gets one or two days and is off-limits elsewhere (top of `milieu-allocation.md`).

@@ -110,14 +110,14 @@ at the sixty-nine scenes §5 now proposes. **Going long is fine.** Ninety or nin
 | 11 | 6 | Noli, then the fall |
 | **12** | **2** | **the mash.** She overrules him and is wrong, which is the hinge of her arc |
 | **13** | **2** | it comes due; he carries her; one distant sighting of the thing that never touches them |
-| 14 | 2 | the mudflats and the raft; the storm and the mosasaur, one scene (Q-BCKT) |
+| 14 | 2 | the mudflats and the boat; the storm and the mosasaur, one scene (Q-BCKT) |
 | 15 | 4 | waking on the bank after the storm, the failing to get in, the night in the flooded block, and the confessions |
 
 **Act 3, by day.** Genesis is three distinct days and Day 19 is everything else.
 
 | day | scenes | what it is |
 |---|---|---|
-| 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the raft |
+| 16 | ~3 | getting in · the dry powered section · the protocols found · the first food since the boat |
 | 17 | ~3 | the logs of the arrival · the epiphany and FG · the second jump |
 | 18 | **3** | no boat, and no route home · Keo finds something to talk to, and two hulls · **the flash that shows a man burying something where Benal was lying yesterday**. Raised from two: the row always named three things, and the capsule is a fourth |
 | 19 | **9** | salvaging one wig from two · the capsule · the launch · the chase · the landing on the river · the handover · the confrontation with FB failing · the final image · **and one scene after it, outside, under the sky.** Raised from eight: the row listed nine separate jobs, and the last of them is two — the chamber settles nothing by design, and Teva's turn cannot happen in a cave |

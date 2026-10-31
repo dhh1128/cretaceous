@@ -1,5 +1,5 @@
 ---
-approval: approved 8ef9b9b1
+approval: approved c0992a48
 ---
 
 # Character arcs and intimacy
@@ -199,7 +199,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 **Days 14–15: what was planted on Days 1–9 pays.**
 
 - **D14.1.** They follow Benal's lead down the turtle beach without asking — he hears the swell breaking on the rock through the haze — completing the turn from Day 5. Teva asks him how he knew.
-- **D14.2.** Nobody manages anything; they hold on, and Keo holds Benal on the raft, in the body, where Keo and Benal have always worked.
+- **D14.2.** Nobody manages anything; they hold on, and Keo holds Benal on the boat, in the body, where Keo and Benal have always worked.
 - **D14.2.** As the fieldpack and his mathematics go, Benal hears Marek's *do something real*, his one tie home at the moment of loss.
 - **D15.2.** At Teva's lowest, *we'll be fine*, the trio's line since Day 2, is said by Teva, flat, and it breaks as she says it.
 - **D15.3.** The hours of wet dark are got through on home stories: Topo, Teva's two friends, Omya. It warms them toward the night.

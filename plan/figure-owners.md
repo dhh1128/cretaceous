@@ -31,7 +31,7 @@ approval: unapproved
 | 24 °C | the top of the mean-annual-air range, 20–24 | `kb/research/geo-flora-fauna.md` §2.2 |
 | 195 cm | Benal's height | `plan/milieu-brief.md` §9 |
 | 65 kg | Benal's mass | `plan/milieu-brief.md` §9 |
-| 120 kg | the top of the First Walk raft's mass, 100–120 | `plan/milieu-brief.md` §3 |
+| 120 kg | the top of the First Walk boat's mass, 100–120 | `plan/milieu-brief.md` §3 |
 | 3 days | **`distinct`** — the founders' three years at Genesis, biome day-ranges, and leaching time all use the token. Not one proposition | `distinct` |
 | 2 days | **`distinct`** — suit feeding interval, forage day-ranges, days of food. Not one proposition | `distinct` |
 | 200 years | **`distinct`** — the near edge of EP7's arrival estimate, and Daniel's round figure for the colony's age in `plan/milieu-brief.md` §11. Not one proposition | `distinct` |

@@ -1,5 +1,5 @@
 ---
-approval: approved 72c400cc
+approval: approved 5ed8bfd4
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -29,9 +29,9 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 | **11** | **Noli at dawn. Then the fall** <!-- @WF-noli.death.day: 11 --> | 4 | 64 |
 | 12 | rain, and **the mash** | 4 | 68 |
 | 13 | it comes due; he carries her <!-- @WF-teva.carried.from: D13 -->; the coastal plain | 10 | 78 |
-| **14** | two kilometers in the dark before dawn to the coast, with the night hunters out; then mudflats, the raft, open water, the mosasaur | 2, then offshore | 80 |
+| **14** | two kilometers in the dark before dawn to the coast, with the night hunters out; then mudflats, the boat, open water, the mosasaur | 2, then offshore | 80 |
 | **15** | ashore after the storm; failing to get in; **the Dark Night** | — | — |
-| **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the raft | — | — |
+| **16** | **Genesis.** They wake, find the dry powered section, and eat for the first time since the boat | — | — |
 | **17** | **the revelation** — the logs of the arrival, and what it does to six generations <!-- @WF-drift.generations: 6 --> | — | — |
 | 18 | **the impasse.** No boat, and the route home is under water. Keo finds something to talk to | — | — |
 | **19** | one wig salvaged by noon, then **the run home** — and the confrontation that evening | 80 | — |
@@ -46,7 +46,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **They avoid water absolutely.** Most of the route is not crossed dramatically — it is waded at shallows, walked around, or taken on a fallen trunk, the way anyone crossing real terrain finds the easy line. **Exactly one channel cannot be avoided.** <!-- @WF-crossing.count: 1 -->
 
-**It is the most frightening thing in the novel**, and it must be, because it is the only time they willingly get into deep water in a culture whose first law is *water is death*. It is scarier than the raft — on a raft you are out of the water — and scarier than the flight home. So it does not belong in the first days, before the reader has spent any time outside with them, and it does not belong in the collapse, when the fear would be indistinguishable from everything else going wrong.
+**It is the most frightening thing in the novel**, and it must be, because it is the only time they willingly get into deep water in a culture whose first law is *water is death*. It is scarier than the boat — on a boat you are out of the water — and scarier than the flight home. So it does not belong in the first days, before the reader has spent any time outside with them, and it does not belong in the collapse, when the fear would be indistinguishable from everything else going wrong.
 
 **It happens while the suits work and everyone is healthy**, which is the constraint that fixes it in the calendar. The degradation sequence — her suit saturating, Noli, the fall, the mash — all of it starts on Day 10 and none of it may have happened yet. So the crossing sits at the end of the good stretch, immediately after the gift.
 
@@ -77,7 +77,7 @@ The dependency order:
 | **The crossing, Day 8** | **still air; slow flat water where the decoy goes in** | wind; **heavy sustained rain in the days before** | The decoy has to stay where they put it, so the water at the decoy point must be slow. Heavy rain puts the channel out of reach a second way, because it spreads and a spread river has no crossing point. They go in the brightest hour so they can see into the water. Keo has to push a panicking animal deeper into the water than it wants to go while chaos happens around him, and a mirror-flat river with everything in it listening is **more frightening**, because the trick is legible and so is its failure |
 | **Sunfever, Day 10** | cloudless, no wind | any cloud | Her suit has to lose |
 | **Noli taken, Day 11 dawn** | clear low sun | overcast | The flybeak comes out of the sun. No sun, no ambush |
-| **The raft, Day 14** | building sea, then cyclone | calm | — |
+| **The boat, Day 14** | building sea, then cyclone | calm | — |
 | **The run home, Day 19** | clear and hot | fog, rain | They must be visible. That is the price of the heresy |
 
 **Light rain is the baseline here and changes nothing.** This climate rains often and moderately; showers are ordinary, the ground is usually damp, and a channel on a flat plain does not notice. **Only heavy sustained rain moves water**, and there is none of it before Day 11 — so Days 4 and 5 can be as wet as they like without touching the crossing. **The river has to still have a discrete channel and be crossable**, and that is the constraint the rain schedule exists to protect.
