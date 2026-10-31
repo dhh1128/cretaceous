@@ -625,7 +625,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The coast, the raft, and a kilometer of mudflat that reads as ground and is not.** On the horizon, a wall of black.
 **Must carry:**
-- **They planned to find the raft, which is why finding it counts.** `plan/outline.md` — the old raft is barely seaworthy and they knew it was there, and knowing it was there is what makes them competent rather than lucky. It is one of the First Walk's rafts, wedged in a cleft of the rock at the far end of the turtle beach, where the founders came ashore (`plan/milieu-brief.md` §3) <!-- @WF-raft.origin: firstwalk -->.
+- **They planned to find the raft, which is why finding it counts.** `plan/outline.md` — the old raft is barely seaworthy and they knew it was there, and knowing it was there is what makes them competent rather than lucky. It is one of the First Walk's rafts, on a ledge under an overhang on the landward face of the rock at the far end of the turtle beach, weighted with stones, where the founders came ashore (`plan/milieu-brief.md` §3) <!-- @WF-raft.origin: firstwalk -->.
 - **The lead is his, and his senses are the reason they find the raft** `[-]`, as they found the honey on Day 6 and will find the hatch on Day 16. Heat haze hides the rock; he hears the swell breaking on stone, not sand, far down the beach, and they follow him to it without asking. The stakes are moderate: exhaustion, hunger, the tide and the storm. Turtles laying and crocs at the waterline are the beach's life, given room and nothing more.
 - ***Hesperornis*** working the shallows, going under and staying under a long time, and ***muzquizopteryx*** soaring, small and coastal. **Most things in the sky are harmless**, three days after one of them took Noli, and that contrast is the allocation's brief for the animal.
 - **Ovos, and they eat them.** `body-and-resources.md` is the physical-continuity authority and its Day 14 row says *ovos at the turtle beach — the last real meal*. That is consistent with Day 16 being the first food since the raft, because the raft goes down the same night: **the eggs are the last thing any of them eats for two days.** They take them from a turtle laying high on the beach, with the crocs down at the waterline.
@@ -683,7 +683,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.3 — [SHORT, ~700] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: the upper store, the top module of a stack of stores on the flooded low ground, above a module still full of the surge, off the ground for the night `[-]`.
+**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: the upper store, the top module of a stack of stores on the bank's landward edge, at the flooded low ground, above a module where the surge still stands waist-deep, off the ground for the night `[-]`.
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
