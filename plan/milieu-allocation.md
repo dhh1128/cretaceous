@@ -1,5 +1,5 @@
 ---
-approval: approved 78eaed93
+approval: approved 132a417b
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -84,6 +84,8 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 The megafauna is the spectacle; **this is what makes the world feel lived in.** You know a place by what bites you, what you step around, and what you can eat.
 
 **The governing principle: recognizable and slightly wrong.** Not butterflies — day-flying moths that behave like butterflies. Not honeybees — stingless bees storing honey in resin pots instead of wax comb. Not fireflies — beetles that glow on a rhythm no modern insect uses. The reader's pattern-matcher should fire and then misfire, every time.
+
+**Seabirds at Genesis** `[-]`: gull-sized fish-eaters, harmless, roosting in anything with a roof; to the three they are noise and droppings, and otherwise ignored. Like modern pelicans and shearwaters they glide long distances a hand's breadth off calm water without a wingbeat, riding the cushion of air the water holds under their wings, which is the ground effect a wig flies on. Which birds they are is not settled and the prose never names them: small toothed seabirds and early relatives of shorebirds both fit the period.
 
 ### Biters and nuisance — and they are governed by the weather layer
 
