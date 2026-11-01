@@ -1,5 +1,5 @@
 ---
-approval: approved d8999ed8
+approval: approved 46bb41ee
 ---
 
 # Character arcs and intimacy
@@ -218,7 +218,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 **Day 19: three threads close, and the D19.7–D19.8 maps carry the revisions below.** Act 3 has almost no humor until one small callback (`humor-plan.md`), and this is it.
 
 - **D19.3.** At the launch Benal hums Liaso's song and Keo joins in. Keo knew the song at D3.1 and sang it on Days 8 and 10; it passed to Benal at his bedside on Day 11, and comes back to Keo here, the two of them singing it in the first frightening minute of flight.
-- **D19.5.** As Keo aims for the river she has taught four-year-olds is death, Teva's hand goes to where she has kept the flower he gave her on Day 6 (T6). The reader sees it; Keo does not, and never learns she kept it (Rule 1).
+- **D19.5.** As Keo aims for the river she has taught four-year-olds is death, Teva's hand goes to the zipped pocket of her suit, where she has kept the flower he gave her on Day 6 (T6). The reader sees it; Keo does not, and never learns she kept it (Rule 1).
 - **D19.6.** Omya is present and cannot follow it. Teva sees that her plait has been done by another hand while she was gone: her grandmother was cared for, and by someone else.
 - **D16.2, planted for Day 19.** In the dry room they say what they will do first at home, lightly: Benal that he will write the equation out again for Marek to look at, the board being at the bottom of the sea, Keo that he will tell his father something, Teva that she will do Omya's hair. Day 19 answers each.
 - **D19.7.** Sila complains that two suits went out against every rule; Riel, under guard, answers *Three children went out. Three came home. That is what the suits are for.*, purpose over rule, the children and not the suits being what frightened them, and *children* dropped from the second half on purpose: adulthood planted by omission, reversing her own D2.3 refusal, and Keo half-hears it. When Sila absorbs Benal, Marek rises, says he called the work useless and was wrong, and crosses to stand beside him; Keo, already moving, takes Benal's other side. The room treats them as children who stole and does not notice what Keo's parents paid: the anger is the reader's.
