@@ -680,7 +680,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** the ruin as a discovery. There is no lock to fail at and nothing to find: they walk in, it is empty, and the flood keeps them from the crown. The failure is that there is nothing, and it is physical rather than clever.
 **Ends on:** the light going, wet skin in the wind, and nothing to make a fire with.
 
-### D15.3 — [SHORT, ~700] [Day 15, evening] [KEO] [The flooded section] — **NEW**
+### D15.3 — [MEDIUM, ~1,400] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised gallery of the desalination plant house, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
