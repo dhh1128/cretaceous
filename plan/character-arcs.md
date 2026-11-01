@@ -1,5 +1,5 @@
 ---
-approval: approved c0992a48
+approval: approved d8999ed8
 ---
 
 # Character arcs and intimacy
@@ -207,12 +207,13 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 **Days 16–18: Genesis, and the register pays.**
 
-- **D16.2.** While the other two work the archive, Keo is useless, and his dyslexia (K15) is the specific reason: a room of text is his particular failure, which makes his wandering on Day 18 inevitable rather than sulky. Benal sees it, having suspected since math class (B22), and says nothing.
+- **D16.2.** While the other two work the archive, Keo is useless, and his dyslexia (K15) is the specific reason: a room of text is his particular failure, which makes his wandering on Day 16 inevitable rather than sulky. Benal sees it, having suspected since math class (B22), and says nothing.
 - **D16.3.** The protocols pass through Teva's hands. She cannot read all of it, but she recognizes the first twenty positions Omya drilled into her (T8), etched in metal: her grandmother's words outlasting her grandmother's mind.
+- **D16.4.** The training system talks rather than needing to be read, which is why it is Keo's: the boy who could not use the archive is the one it first answers.
 - **D17.1.** *A name she knows, spelled the long way* is Cecilia Arroyo, ancestor of Sila, the woman Teva idolized and is disillusioned with, and mother of one of her two friends (T18, T19). The reader knows Cecilia from her warm, doubting letters, so the face Teva finds is the real one behind the voice Sila claims.
 - **D17.2.** Keo asks the frustrated question, the rare question he cannot answer himself, and in the answer Benal hears something Marek once said (F22).
 - **D17.3.** Teva gets as far as Omya guarding a protocol for a journey home she could never have made, and stops. Keo sides with her that it was a lie, and Benal is alone with the impossible mission: two against one, the reverse of D3.2.
-- **D18.2.** The training system talks rather than needing to be read, which is why it is Keo's: the boy who could not use the archive finds the way home.
+- **D18.2.** It becomes the way home.
 
 **Day 19: three threads close, and the D19.7–D19.8 maps carry the revisions below.** Act 3 has almost no humor until one small callback (`humor-plan.md`), and this is it.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 259552f6
+approval: approved 9563e678
 ---
 
 # The wig
@@ -22,7 +22,9 @@ Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** —
 
 **Four seats, in an enclosed cabin inside the hull**, low, behind a windscreen a meter or two above the surface. At cruise they are not looking down at the world. They are screaming across it at eye level, and obstacles arrive edge-on.
 
-**Solar.** The dorsal surfaces are photovoltaic skin. This is why anything works at all after 206 years — a fuel-burning machine would be a sculpture. Range on a full charge: **80 km**, which is precisely the distance home and not one kilometer more.
+**Power.** The founders grew a **photosynthetic power membrane** on the wigs' dorsal surfaces and on the station's roofs: an engineered living film that makes electricity from light and feeds itself on light and water. It ran for some years after they left and is long dead <!-- @WF-wig.membrane: dead --> — salt crust, drought between storms, cyclone damage — and there is no time to regrow it. **What flies the wig now is a bank of nickel-iron cells** <!-- @WF-wig.power: nickel-iron -->: the founders' Edison cells, stored dry, and their premixed potassium-hydroxide electrolyte, sealed in polymer drums. Filled, connected in series and charged from the station's radioisotope generators, at the little they still give (`plan/milieu-brief.md` §3), a full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 -->. The cells are heavy, roughly 25–30 Wh/kg and several hundred kilos of them, and the electrolyte burns skin. `[-]` Stored dry is why there is anything to charge after 206 years — a fuel-burning machine would be a sculpture. Range on a full charge: **80 km**, which is precisely the distance home and not one kilometer more.
+
+**Keo also carries home what the membrane needs to come back**: dried starter cysts of the membrane organism sealed in glass ampoules, whose revival is uncertain, and an aluminum plate etched with its recipe and growing method, so that the Enclave's Vitarium can grow it on the wig in book 2.
 
 **Two propulsion systems, and the difference between them is the whole climax.**
 
@@ -45,7 +47,7 @@ The problem this has to solve: two hundred people <!-- @WF-founders.count: 200 -
 
 *This is worth having in the records, because it makes the Day 19 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
 
-**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people <!-- @WF-founders.count: 200 -->, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a solar charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
+**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people <!-- @WF-founders.count: 200 -->, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
 
 **So: the wigs solved the finding problem and could not solve the moving problem.** Survey is not transport.
 
@@ -63,10 +65,12 @@ The trio do not need to move a colony. They need to move **three people and a sa
 
 They find **two** wigs, and neither flies.
 
-- **The dry one** — hull sound, structure intact, sitting where it was left. Its solar skin is dead and its lift rotors were taken.
-- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. But it went down level, so its **dorsal solar array and its rotor units are above the waterline** and salvageable.
+- **The dry one** — hull sound, structure intact, sitting where it was left. Its membrane is dead, as both are, and its lift rotors were taken.
+- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. It went down level, so part of it stands above the waterline. `[?]` **What on it is still worth taking is open.** Two hundred years of salt water and spray leave no working electronics and no working rotor motor, so whatever the swap takes from it is something that survives that.
 
 **The job is a swap, not a fabrication**, which is what makes three untrained teenagers believable: take that off that one, put it on this one. No machining, no electronics, no expertise — just instructions, leverage, and hours. Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it. It is a real scene with real jeopardy and it gives all three of them different work.
+
+**The charge comes first, and it is Keo's alone.** On the evening of Day 16 (D16.4) the training system tells him it cannot fly without power, tells him about the cells and the drums and how long a charge takes, and talks him through filling the first cells and starting the charge. By D18.1 it has been charging for two days, and at D18.2 it becomes the way home: his training, the weight, and the start of the swap, which D19.1 finishes `[-]`. **Keo strips the wig to save weight.** It has four seats and three fly, so the fourth seat goes, and so does anything else not needed to get home: `[-]` the cabin's lining panels, `[-]` the fourth seat's harness and stowage locker. The charge still will not be full by noon on Day 19.
 
 ## 5. The AI, and it should be Keo
 
@@ -80,7 +84,7 @@ Not a general intelligence and not an oracle. **It is the wig's maintenance and 
 
 **Keo activates it, and the reason is not convenience.**
 
-Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at D17.2, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, a burden, waiting. So he wanders off, and finds something to talk to.
+Benal is the obvious choice, which is why he is the wrong one — he is in the temporal lab having his own vindication at D17.2, and giving him this as well concentrates everything on one character. **Keo has nothing to do.** That has been his condition since Day 11: useless, a burden, waiting. So he wanders off, on the evening of Day 16 (D16.4), and finds something to talk to. He consults it from then on.
 
 And thematically it is his: **Keo is the one who talks to minds.** Proximity sense and projection are his whole gift; he spent the novel bonded to an animal that way and lost her at the midpoint, and he has been alone in his own head ever since. The boy who talks to minds meets a mind that is not alive, and it answers.
 
@@ -94,9 +98,9 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 ## 7. The flight, and what makes it frightening
 
-**It is solar, so it flies by day** — but the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent parked in the sun at Genesis. They lift at noon with everything it will hold and put eighty kilometers <!-- @WF-route.overland: 80km --> behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
+**It flies by day**, and the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent on the generators at Genesis. They lift at noon with everything it will hold and put eighty kilometers <!-- @WF-route.overland: 80km --> behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
 
-**They leave undercharged**, because charging takes hours they do not have and they cannot make themselves wait. Every decision afterward is spent out of margin they chose not to have.
+**They leave undercharged**, because a full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate, `[?]` the charge Keo began with the first cells on the evening of Day 16 is not full by noon on Day 19, and they cannot make themselves wait. Every decision afterward is spent out of margin they chose not to have.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
 
@@ -125,7 +129,7 @@ They arrive low on charge, in hard afternoon light, and they have been hoarding 
 
 **It clears the tangle by almost nothing** — fronds on the hull, everyone inside hearing it — and comes down **on the river**, settling onto its own boat hull and running out to a stop against the near shore. Substantially intact. It will fly again.
 
-**That last part is deliberate and it is the point.** A wrecked wig is a story that ends. An intact, working, **solar-recharging** wig is an object the colony now has to have an argument about, forever — and it is the centerpiece of book 2.
+**That last part is deliberate and it is the point.** A wrecked wig is a story that ends. An intact, working wig is an object the colony now has to have an argument about, forever — and it is the centerpiece of book 2. **It cannot recharge or fly back to Genesis until it has been grown a new membrane**, from the cysts and the etched plate Keo carried home, and whether to grow it is the argument.
 
 ### Why he aims for the river specifically, and why it is the last turn of his arc
 
@@ -149,7 +153,7 @@ This is the richest consequence and it should never be spelled out.
 
 - Anyone who uses it goes to the water.
 - Anyone who maintains it stands in croc range to do it.
-- **It cannot be hidden**, because it charges on sunlight and must sit in the open.
+- **It cannot be hidden**, because its membrane, once grown, makes its power from light and must sit in the open.
 - **It cannot be moved inland**, because inland it is scrap.
 - **And flying it means raising the grating** — deliberately opening the croc barrier, with a crew, every single time. Using the wig is not a decision about heresy. It is a decision to let the river in.
 

@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-unit outline into scenes. Each is a distinct unit of action with a specific POV.
 
-**The rescene is done.** **70 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, eighteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+**The rescene is done.** **71 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel, and D16.4, the evening Keo starts the wig charging — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, nineteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
 **One format, everywhere.** Every entry carries size, day and hour, POV, place, ladders, must-carry, hazard and ending. The older single-line form with a B-Story note is gone; the last of it was Days 10, 11 and 14, and each of those entries carries a *was* note recording the id it converted from. **Act 1 keeps its `D1.1`–`D3.1` ids and everything below Act 1 is day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
@@ -704,7 +704,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ---
 
-## ACT 3: GENESIS AND THE RETURN — RESCENED, 18 scenes
+## ACT 3: GENESIS AND THE RETURN — RESCENED, 19 scenes
 
 ### D16.1 — [MEDIUM] [Day 16, morning] [BENAL] [The structure] — **NEW**
 **Ladders:** EM7 P6 S6 SP7
@@ -723,7 +723,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Warm, dry, lit, and they eat for the first time since the boat.** The exhale, and the only one they get.
 **Must carry:**
 - `[?]` **Dry is the luxury, not the food.** Nineteen days <!-- @WF-story.span: 19d --> of being wet, and the thing that undoes them is a room that is not. **It lands hardest on Keo, who has never had a suit** — everything the other two's shells were for has been happening directly to his skin since Day 3.
-- **This scene is why Keo wanders off on Day 18, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. Two days of watching the others be necessary, from inside his head, is what makes finding something to talk to land.
+- **This scene is why Keo wanders off that evening, at D16.4, and it is the only place that reason gets built.** The other two start working the moment the room is dry: Benal on the hatch and the archive, Teva on anything a Keeper would read. **Keo has no work here and will not have any until the wig.** `kb/worldbuilding/the-wig.md` §5 rests the whole AI sequence on him having nothing to do — useless, carried, waiting since Day 11 — and until now the reader was told that rather than shown it. An afternoon of watching the others be necessary, from inside his head, is what makes finding something to talk to that evening land.
 - **Old-tech everywhere and none of it dissolving**, which is wrong and which nobody has the energy to find wrong yet. `plan/tech-rules.md` flags this as a payoff owed; the answer is that the failsafe is a colony invention and Genesis predates it.
 - Genesis groaning on its own weight — allocated to Day 16.
 - **They say what they will do first at home**, lightly, each in their own register: Benal that he will write the equation out again for Marek to look at, the board being at the bottom of the sea, Keo that he will tell his father something, Teva that she will do Omya's hair. **The reader has to hold these exact hopes for Day 19 to answer them**: Benal's half-granted and then swallowed by the room, Keo's turned inside out, Teva's refused at D19.8 and given at D19.9. `plan/character-arcs.md` §3, Day 19.
@@ -740,6 +740,21 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **EP11 is found here** and it retroactively makes the whole epigraph channel diegetic — the reader realizes they have been reading this archive since page one. `plan/knowledge-ledger.md`.
 **Hazard:** triumph. They have what they came for and they are still on a coral island with no boat, and the scene should know that before they do.
 **Ends on:** the tablets, and Benal already looking at the next door.
+
+### D16.4 — [MEDIUM] [Day 16, evening] [KEO] [The far end of the site] — **NEW**
+**Ladders:** EM7 P5 S7 SP8
+**Purpose:** DISCOVER · **Ending:** RESOLVE
+**Keo finds something to talk to.** Useless in the archive, he wanders to the far end of the site, finds the two wigs, and a flight-training system that answers when spoken to.
+**Must carry:**
+- **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, a burden, waiting. That is why it is him and not Benal, who is in the archive. `kb/worldbuilding/the-wig.md` §5.
+- **The boy who talks to minds meets a mind that is not alive, and it answers.** He lost Noli at the midpoint and has been alone in his own head since.
+- **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
+- **Two hulls, neither flyable**: the dry one with its membrane dead and no rotors, the wet one level in shallow water off the bank.
+- **It tells him it cannot fly without power**: the founders' membrane is long dead, so it needs the dry-stored nickel-iron cells, the electrolyte in its sealed drums, and two to three days <!-- @WF-wig.charge.days: 2-3 --> on the generators for a full charge. `kb/worldbuilding/the-wig.md` §2.
+- **With its instructions he fills the first cells and starts the charge**, and the electrolyte burns skin. **It is the first useful thing his hands have done since Day 11.**
+- **This is his first act of open heresy** and he does it alone, before anyone can vote on it.
+**Hazard:** the AI as a character with a personality to enjoy. It is equipment. Its warmth should be entirely in Keo's need rather than in its design.
+**Ends on:** `[?]` the charge running, and him not yet having told anyone.
 
 ---
 
@@ -775,6 +790,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
 - Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
 **Hazard:** an argument that resolves. Nothing is settled here; the accusation stands unrefuted until Act 3's confrontation, and a scene that answers it now spends the arc.
+- **Keo tells the others about the wigs and the charge, and neither takes it seriously.** Benal is deep in the lab and Teva is in *they lied to us*; a talking machine and a charging battery are nothing beside either. `[?]` Which Day 17 scene carries the telling is open; this one is the likeliest, since Teva's reaction is the one named.
 **Ends on:** her deciding what she is going to say to the Council, which is the wrong speech and she will not give it.
 
 ---
@@ -788,20 +804,19 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - The boat is gone, the mudflats are under the surge, and eighty kilometers <!-- @WF-route.overland: 80km --> of walking is a route that no longer exists.
 - **They have the cure and cannot deliver it**, which is worse than not having it.
 **Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
-**Ends on:** nobody having an idea, and Keo walking off.
+**Ends on:** Keo saying there is one way left, and it has been charging for two days.
 
 ### D18.2 — [LONG, ~2000] [Day 18, afternoon] [KEO] [The far end of the site] — **NEW**
 **Ladders:** EM7 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** RESOLVE
-**Keo finds something to talk to.** Two derelict wigs and a flight-training system that answers when spoken to.
+**The machine becomes the way home.** The rest of the work: the training, the weight, the start of the swap that D19.1 finishes `[-]`, and a charge that will not be full in time.
 **Must carry:**
-- **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, a burden, waiting. That is why it is him and not Benal, who is in the lab. `kb/worldbuilding/the-wig.md` §5.
-- **The boy who talks to minds meets a mind that is not alive, and it answers.** He lost Noli at the midpoint and has been alone in his own head since.
-- **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
-- **Two hulls, neither flyable**: the dry one with dead skin and no rotors, the wet one level in shallow water with its array and rotors above the surface.
-- **This is his first act of open heresy** and he does it alone, before anyone can vote on it.
-**Hazard:** the AI as a character with a personality to enjoy. It is equipment. Its warmth should be entirely in Keo's need rather than in its design.
-**Ends on:** him going back to tell them, and not being sure they will let him.
+- **The swap of parts from the wet hull begins**, under the training system's instructions, and D19.1 finishes it with the rotors seated `[-]`. `[?]` What the swap takes is open: two centuries of salt water leave no working electronics and no working rotor motor, and the dry hull's lift rotors were taken. `kb/worldbuilding/the-wig.md` §4.
+- **Keo's training begins**, because the training system trains him, and it would much prefer a qualified pilot.
+- **Keo strips it for weight.** Four seats and three fly, so the fourth seat goes, and anything else not needed to get home.
+- **The charge will not be full by noon on Day 19.** A full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate, and that is why they will leave undercharged.
+**Hazard:** a repeat of D16.4. The meeting has happened; this is work, and the AI is the instruction manual it was built to be.
+**Ends on:** `[?]` the charge indicator, short of full, and the light going.
 
 ### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [A rock above the anchor cleft] — **NEW**
 **Ladders:** EM8 P5 S8 SP9
@@ -844,7 +859,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
 **The launch, undercharged.**
 **Must carry:**
-- **The range is a full charge and not a meter more, and eighty kilometers <!-- @WF-route.overland: 80km --> is exactly the distance home.** They leave without a full one, because charging takes hours they cannot make themselves wait. **Every decision after this is spent out of margin they chose not to have.** `kb/worldbuilding/the-wig.md` §7.
+- **The range is a full charge and not a meter more, and eighty kilometers <!-- @WF-route.overland: 80km --> is exactly the distance home.** They leave without a full one, because a full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> on the generators, the one Keo started on Day 16 is not finished, and they cannot make themselves wait. **Every decision after this is spent out of margin they chose not to have.** `kb/worldbuilding/the-wig.md` §7.
 - **Three jobs, three people, nobody a passenger.** Keo flies because the training system trains him. Teva navigates and gets back, in a form that matters more, what she lost offshore. Benal is behind with the salvage doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
 - **Clear and hot, high hard light all the way home.** No weather to hide behind, and that is the price of the heresy.
 **Hazard:** the triumphant takeoff. They are frightened, the machine is two centuries old, and the first minute should feel like a mistake.

@@ -43,7 +43,7 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 ## 4. The water fails, and the colony splits for the first time
 
-**The desalination begins to fail in the third year.** Photovoltaic skin is passive and outlives everything; a desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
+**The desalination begins to fail in the third year.** The radioisotope generators have no moving parts and outlive everything (`plan/milieu-brief.md` §3); a desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
 
 **The argument that follows is the first appearance of the schism**, and it does not sound like the modern one. Some hold that leaving is an unacceptable risk: the prime directive is to leave no evidence, the plan was to sit at ground zero for months and be erased, and eighty kilometers <!-- @WF-route.overland: 80km --> of living in the world is not what anyone agreed to. Those who argue for going **accept every restriction that comes with it as the price of permission** — see `plan/milieu-brief.md` §6, because that bargain is the origin of every taboo the colony now keeps.
 
