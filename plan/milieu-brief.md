@@ -1,5 +1,5 @@
 ---
-approval: approved fe3af936
+approval: approved 7f5774a7
 ---
 
 # Cretaceous — Milieu Brief
@@ -153,7 +153,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **The assumptions it rests on, each deliberate:** <!-- @WF-mash.settled: true --> (1) the stone-cycad is a fictional relative of living cycads, and its slow, bacteria-only release is chosen rather than measured — a review that holds it to the onset of *Cycas* seed poisoning, a few hours, is answered here; (2) onset is the same for everyone and dose sets only severity, so Teva at fifteen hours and the boys at fifteen hours <!-- @WF-mash.onset: 15h --> are one rule; (3) feeling fine at dawn is real evidence to someone taught only that pulp *lets you feel fine for hours first*, so eating at dawn is rational for all three; (4) nobody is fooled about the cause once she is down; (5) the overnight leach is longer, which is the whole difference between her day and theirs; (6) profound healing is what puts Teva on her feet by Day 14, paid out of reserves. **What a review should report is a scene that breaks one of these, never the premise itself.**
 
-Alongside it: palm groves for fruit, hearts and pith; fig relatives; fern gardens for fiddleheads and rhizomes; foraged *Annonaceae* stonefruit, pinyons from the conifers, gnetophyte berries, mushrooms and *leche*, the milky sap of tuberous roots. Protein is river fish, small game, harvested eggs, farmed insects, and limited hunting of small theropods.
+Alongside it: palm groves for fruit, hearts and pith; fig relatives; fern gardens for fiddleheads and rhizomes; foraged *Annonaceae* stonefruit, pinyons from the conifers, gnetophyte berries, mushrooms and *leche*, the milky sap of tuberous roots. Protein is river fish and crayfish, taken in nets worked from above off the barrier so that nobody stands at the water's edge (Q-BNBP), small game, harvested eggs, farmed insects, and limited hunting of small theropods.
 
 ### Death, and the returning
 
