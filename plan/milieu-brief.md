@@ -1,5 +1,5 @@
 ---
-approval: approved bcc2f288
+approval: approved 821fd43e
 ---
 
 # Cretaceous — Milieu Brief
@@ -194,6 +194,8 @@ This is a scientific mission, not a tribe, and **status follows mission-critical
 **Mathematicians** — Benal — are the ones the Traditionalist mission actually depends on to solve forward travel, and the ones the pragmatic Branchers dismiss as useless. Benal's father is a Brancher, which is why the dismissal comes from inside his own house.
 
 Teva recruiting Benal is a thesis statement: the younger generation understands that the way into Genesis is intellect, not muscle.
+
+**Nobody alive has seen the sea.** They know it by word and story: the founders came from it, every child knows the First Walk began on the turtle beach, and the Keepers teach the founders' world. A tide is a word from the records and nobody has felt one. Crabs are new; the nearest thing anyone knows is the river's crayfish. <!-- @WF-sea.known: by-word -->
 
 ## 6. Technology
 
