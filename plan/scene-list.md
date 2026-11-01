@@ -669,21 +669,21 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
 **Ends on:** the station along the bank, standing and silent, and nobody there.
 
-### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [Outside the structure] — **NEW**
+### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [The plant house] — **NEW**
 **Ladders:** EM10 P7 S7 SP6
 **Purpose:** PRESSURE · **Ending:** THREAT
-**They reach Genesis and cannot get in.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the door does not open.
+**They reach Genesis and find almost nothing.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the one building they can reach stands open with nothing in it: the desalination plant house, a ruin, with the flood between it and the crown.
 **Must carry:**
 - `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
 - The headache that cost them the gap in the reef is still on her, and it is her own decision that left it there (`plan/milieu-brief.md` §4, assumption 6).
-- **The place is not a ruin and not a working facility.** Some of it is open to the sky, some under water, some sealed. `plan/milieu-brief.md` §3.
-**Hazard:** a puzzle scene. They are not solving a lock; they are failing at one with the light going, and the failure is physical and stupid rather than clever.
+- **Genesis is not a ruin and not a working facility**, though the one building they reach is a ruin. Some of it is open to the sky, some under water, some sealed. `plan/milieu-brief.md` §3.
+**Hazard:** the ruin as a discovery. There is no lock to fail at and nothing to find: they walk in, it is empty, and the flood keeps them from the crown. The failure is that there is nothing, and it is physical rather than clever.
 **Ends on:** the light going, wet skin in the wind, and nothing to make a fire with.
 
 ### D15.3 — [SHORT, ~700] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**Night coming, and the only way in.** They get into the only part of Genesis that is open, which is the part that is under water: the upper store, the top module of a stack of stores on the bank's landward edge, at the flooded low ground, above a module where the surge still stands waist-deep, off the ground for the night `[-]`.
+**Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised gallery of the desalination plant house, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
@@ -691,16 +691,18 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
-### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The upper store, above the flooded low ground]
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The plant house gallery, above the flooded floor]
 **Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.
 **Must carry:**
+- **The despair comes first, and it is about Genesis**: they came eighty kilometers <!-- @WF-route.overland: 80km --> and found almost nothing useful, and each of them says so in their own register. Not silence.
 - **Keo's guilt** — *I destroyed my family's lives for nothing.* **Benal's shame** — his parents pity him, and his work is useless. **Keo's connection** — *mine don't pity me, they don't trust me; we're fighting the same battle.* **Teva's bridge** — *I left her while she's disappearing.* Exact material in `plan/outline.md`.
 - **Teva's flash: the original argument inside Genesis**, and the faces are not malicious. Terror, grief, stubborn paralysis. This is the first seed of the nuance arc, and per `kb/worldbuilding/the-second-jump.md` it is a real event she is perceiving, not a symbol.
 - **Benal's flash: a corrupted fragment of the second-jump equation.** He dismisses it as a nightmare and it is the thing he will need in two days.
+- **Before morning they talk it over and agree that this cannot be all of Genesis**: the founders lived here three years <!-- @WF-genesis.occupancy: 3y -->, the archive is somewhere, and the plant house was only the water works. In the morning they will go and look.
 **Hazard:** the therapy circle, which is a live risk because the outline supplies the lines. Someone should resist, someone should say the wrong thing first, and Teva's bridge should cost her more than it comforts them.
-**Ends on:** the three of them, and none of it having changed the situation at all.
+**Ends on:** the three of them, none of it having changed the situation at all, and a decision to go and look in the morning.
 
 ---
 
@@ -712,7 +714,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
 **Must carry:**
 - **The sense that has been an assault on him for thirteen days is the reason they get inside.** Third and last time the book pays that: the honey on Day 6, the rock heard through the haze on Day 14, the hatch here.
-- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm.
+- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm. **It lifts them before anything is found**: the flood gone off the low ground, and in the clear light more of Genesis than Day 15 showed them — the crown, the torn arches, the long banked shapes on top — so much built here that the plant house was plainly not the whole of it.
 - A functional sealed hatch, which means power, which means something has been running here for two hundred and six years <!-- @WF-transit.elapsed: 206y -->.
 **Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
@@ -809,9 +811,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D18.2 — [LONG, ~2000] [Day 18, afternoon] [KEO] [The far end of the site] — **NEW**
 **Ladders:** EM7 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** RESOLVE
-**The machine becomes the way home.** The rest of the work: the training, the weight, the start of the swap that D19.1 finishes `[-]`, and a charge that will not be full in time.
+**The machine becomes the way home.** The rest of the work: the training, the weight, finding and checking the stored rotors that D19.1 fits `[-]`, and a charge that will not be full in time.
 **Must carry:**
-- **The swap of parts from the wet hull begins**, under the training system's instructions, and D19.1 finishes it with the rotors seated `[-]`. `[?]` What the swap takes is open: two centuries of salt water leave no working electronics and no working rotor motor, and the dry hull's lift rotors were taken. `kb/worldbuilding/the-wig.md` §4.
+- **Keo finds the dry hull's lift rotor units in dry storage with the cells, and checks them**, under the training system's instructions; D19.1 fits them `[-]`. The side that lost the argument about leaving took them off and stored them dry so the way back stayed open; two centuries in seawater left nothing usable on the wet hull, which stays a wreck. `kb/worldbuilding/the-wig.md` §4.
 - **Keo's training begins**, because the training system trains him, and it would much prefer a qualified pilot.
 - **Keo strips it for weight.** Four seats and three fly, so the fourth seat goes, and anything else not needed to get home.
 - **The charge will not be full by noon on Day 19.** A full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate, and that is why they will leave undercharged.
@@ -831,13 +833,13 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 
 ---
 
-### D19.1 — [LONG, ~2000] [Day 19, dawn to mid-morning] [KEO] [The two hulls]
+### D19.1 — [LONG, ~2000] [Day 19, dawn to mid-morning] [KEO] [The dry hull]
 **Ladders:** EM8 P9 S9 SP8
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**The salvage. One flyable wig out of two wrecks, guided by a machine his people call an abomination.**
+**The refit. One flyable wig out of a dry hull and the rotors the founders stored for it, guided by a machine his people call an abomination.**
 **Must carry:**
-- **It is a swap, not a fabrication** — take that off that one, put it on this one. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable.
-- **Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it**, four days after a mosasaur destroyed their boat. All three have different work.
+- **It is a refit, not a fabrication** — the stored rotor units fitted back onto the dry hull, under the training system's instructions. No machining, no expertise, just instructions, leverage and hours. That is what makes three untrained teenagers believable. `kb/worldbuilding/the-wig.md` §4.
+- **Heavy and awkward**, and all three have different work.
 - `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now; **they talk about what to do next as if it were already settled**, which is how the reader learns it is.
 - **They cannot carry it all, and that is Benal's job.** A four-seat machine, a charge that will not stretch, and an archive with more in it than they can lift. **Three exhausted teenagers choose which records come home, and the choice shapes their society permanently** — `plan/knowledge-ledger.md`. He is the only one who can compute the trade and the only one who understands what is being left, and nobody has time to argue with him.
 **Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.

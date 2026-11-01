@@ -1,5 +1,5 @@
 ---
-approval: approved 9563e678
+approval: approved b8730f26
 ---
 
 # The wig
@@ -65,12 +65,12 @@ The trio do not need to move a colony. They need to move **three people and a sa
 
 They find **two** wigs, and neither flies.
 
-- **The dry one** — hull sound, structure intact, sitting where it was left. Its membrane is dead, as both are, and its lift rotors were taken.
-- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. It went down level, so part of it stands above the waterline. `[?]` **What on it is still worth taking is open.** Two hundred years of salt water and spray leave no working electronics and no working rotor motor, so whatever the swap takes from it is something that survives that.
+- **The dry one** — hull sound, structure intact, sitting where it was left. Its membrane is dead, as both are, and its lift rotor units are not on it: they are in dry storage with the nickel-iron cells.
+- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. It went down level, so part of it stands above the waterline. **Two centuries in seawater leave nothing on it usable, and it stays a wreck.**
 
-**The job is a swap, not a fabrication**, which is what makes three untrained teenagers believable: take that off that one, put it on this one. No machining, no electronics, no expertise — just instructions, leverage, and hours. Heavy, awkward, in and out of shallow water on a coral bank with marine predators in it. It is a real scene with real jeopardy and it gives all three of them different work.
+**The rotors come from dry storage.** The side that lost the argument about leaving took the dry hull's rotor units off and stored them dry with the nickel-iron cells, as they cut the plates and stowed the boats, so that the way back stayed open (`plan/milieu-brief.md` §3). **The job is a refit, not a fabrication**, which is what makes three untrained teenagers believable: the stored units fitted back onto the dry hull, under the training system's instructions. No machining, no electronics, no expertise — just instructions, leverage, and hours. Heavy and awkward, and it gives all three of them different work.
 
-**The charge comes first, and it is Keo's alone.** On the evening of Day 16 (D16.4) the training system tells him it cannot fly without power, tells him about the cells and the drums and how long a charge takes, and talks him through filling the first cells and starting the charge. By D18.1 it has been charging for two days, and at D18.2 it becomes the way home: his training, the weight, and the start of the swap, which D19.1 finishes `[-]`. **Keo strips the wig to save weight.** It has four seats and three fly, so the fourth seat goes, and so does anything else not needed to get home: `[-]` the cabin's lining panels, `[-]` the fourth seat's harness and stowage locker. The charge still will not be full by noon on Day 19.
+**The charge comes first, and it is Keo's alone.** On the evening of Day 16 (D16.4) the training system tells him it cannot fly without power, tells him about the cells and the drums and how long a charge takes, and talks him through filling the first cells and starting the charge. By D18.1 it has been charging for two days, and at D18.2 it becomes the way home: his training, the weight, and finding and checking the stored rotors, which D19.1 fits `[-]`. **Keo strips the wig to save weight.** It has four seats and three fly, so the fourth seat goes, and so does anything else not needed to get home: `[-]` the cabin's lining panels, `[-]` the fourth seat's harness and stowage locker. The charge still will not be full by noon on Day 19.
 
 ## 5. The AI, and it should be Keo
 
