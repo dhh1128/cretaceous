@@ -753,7 +753,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
 - **Two hulls, neither flyable**: the dry one with its membrane dead and no rotors, the wet one level in shallow water off the bank.
 - **It tells him it cannot fly without power**: the founders' membrane is long dead, so it needs the dry-stored nickel-iron cells, the electrolyte in its sealed drums, and two to three days <!-- @WF-wig.charge.days: 2-3 --> on the generators for a full charge. `kb/worldbuilding/the-wig.md` §2.
-- **With its instructions he fills the first cells and starts the charge**, and the electrolyte burns skin. **It is the first useful thing his hands have done since Day 11.**
+- **With its instructions he fills the cells, wires them in series and starts the charge on the whole bank**: hours of pouring caustic electrolyte by hand into the night, and it burns skin. **It is the first useful thing his hands have done since Day 11.**
 - **This is his first act of open heresy** and he does it alone, before anyone can vote on it.
 **Hazard:** the AI as a character with a personality to enjoy. It is equipment. Its warmth should be entirely in Keo's need rather than in its design.
 **Ends on:** `[?]` the charge running, and him not yet having told anyone.
