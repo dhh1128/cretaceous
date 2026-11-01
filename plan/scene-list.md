@@ -714,7 +714,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
 **Must carry:**
 - **The sense that has been an assault on him for thirteen days is the reason they get inside.** Third and last time the book pays that: the honey on Day 6, the rock heard through the haze on Day 14, the hatch here.
-- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm. **It lifts them before anything is found**: the flood gone off the low ground, and in the clear light more of Genesis than Day 15 showed them — the crown, the arches on its slope standing as bare alloy frames, the long banked shapes on top — so much built here that the plant house was plainly not the whole of it.
+- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm. **It lifts them before anything is found**: the flood gone off the low ground, and, as they come over the brow of the crown's slope, more of Genesis than Day 15 could show them — the arches on its top standing as bare alloy frames, the long banked shapes beyond — so much built here that the plant house was plainly not the whole of it.
 - A functional sealed hatch, which means power, which means something has been running here for two hundred and six years <!-- @WF-transit.elapsed: 206y -->.
 **Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
