@@ -37,6 +37,12 @@ SENT = re.compile(r"(?<=[.!?])\s+")
 MANNER = re.compile(r"\bthe way (?:you|a|an|people|he|she|they|it|someone|anyone|one|his|her|their|everyone|everybody|men|women|children|[A-Z][a-z]+)\b(?! (?:home|back|out|to|through|across)\b)(?!\s(?:\w+\s)?(?:had|have) (?:come|carried)\b)(?!\s(?:\w+\s)?(?:were|was) telling\b)")
 WITHHELD = re.compile(r"\b(?:nobody|no one|none of them|neither of them)\b[^.]{0,40}\b(?:said|say|says|spoke|speak|talked|answered|asked|mentioned|remarked|argued)\b|\b(?:said|say) nothing\b|\bdid not say\b|\bdidn't say\b|\bnot say(?:ing)?\b|\bdid not answer\b|\bwithout a word\b|\bnothing to say\b", re.I)
 ASIF = re.compile(r"\bas (?:if|though)\b", re.I)
+# Sensory diction (Q-TMGK). PLAIN is the category word a drafter reaches for; SPECIFIC is
+# a word that names what the sense actually met. Both lists are crude, and the figures
+# are a direction, not a target: the passages quoted in `prompts/style-canon.md` run
+# about 2.9 plain and 1.6 specific per thousand words, and Days 11-14 ran 7.9 and 1.2.
+PLAIN = re.compile(r"\b(?:gray|grey|wet|dark|cold|warm|loud|quiet|bright|smell|sound|noise)\b", re.I)
+SPECIFIC = re.compile(r"\b(?:croak\w*|hiss\w*|zing\w*|whir\w*|thrum\w*|rasp\w*|crackl\w*|drone\w*|chirr\w*|clatter\w*|creak\w*|slap\w*|gurgl\w*|reek\w*|stink\w*|musk\w*|tang\w*|acrid|brin\w*|rank|sour\w*|buzz\w*|whine\w*|boom\w*|groan\w*|rattl\w*)\b", re.I)
 ATTRIB = re.compile(r"^(?:\w+\s+)?(?:said|asked|whispered|breathed|called|shouted|answered)\b[^.!?]*[.!?]?$", re.I)
 
 
@@ -71,6 +77,8 @@ def measure(path: Path) -> dict:
         "spoken": len(SPEECH.findall(body)),
         "dialogue": sum(len(s.split()) for s in SPEECH.findall(body)),
         "exchange": longest,
+        "plain": len(PLAIN.findall(body)),
+        "specific": len(SPECIFIC.findall(body)),
     }
 
 
@@ -84,7 +92,8 @@ def main(argv: list[str]) -> int:
         print(f"{name}: {m['words']} words; narration ≤5 words {pct:.1f}% "
               f"({len(m['short'])}/{m['narration']}); comma-and chains {len(m['chains'])}; nobody {m['nobody']}; "
               f"the-way similes {len(m['manner'])} (max 1); as-if {m['asif']}; "
-              f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19); dialogue {100*m['dialogue']/max(1,m['words']):.0f}% (viking 28-30); longest exchange {m['exchange']} paras (viking ~7)")
+              f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19); dialogue {100*m['dialogue']/max(1,m['words']):.0f}% (viking 28-30); longest exchange {m['exchange']} paras (viking ~7); "
+              f"plain sense words {1000*m['plain']/max(1,m['words']):.1f}/kw (his ~2.9); specific {1000*m['specific']/max(1,m['words']):.1f}/kw (his ~1.6)")
         for c in m["chains"]:
             print(f"    chain: {c[:110]}")
         for s in m["manner"]:
