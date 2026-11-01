@@ -1,5 +1,5 @@
 ---
-approval: approved 120b1362
+approval: approved 027b9f77
 ---
 
 # Cretaceous — Milieu Brief
@@ -73,7 +73,7 @@ They left Genesis because it had **no fresh water once the desalination failed, 
 
 **Genesis had solar desalination and that is why three years <!-- @WF-genesis.occupancy: 3y --> was survivable.** There is no fresh water on an island of coral and limestone and there did not need to be. **It rains, and the ground keeps none of it** — coral is porous, there is no soil and no aquifer, so what falls on the coral drains straight through within the hour. Hollows in the hard rock of the crown hold it for days after a big storm, which is never enough to live on. The rain is worth having anyway, because it keeps the arrays from crusting with salt.
 
-**The desalination failed in the third year and the power did not, and the difference is the whole point.** Photovoltaic skin is passive: it sits in the sun, it is rinsed by rain, and small self-maintaining units keep it clear and draw their own power from it. A desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is the opposite — membranes, pumps, pressure vessels, scaling, and consumables nobody on this planet can manufacture. **The power survives two centuries and the water plant does not survive three years <!-- @WF-genesis.occupancy: 3y -->**, and that is why the site is still standing and still lit while being uninhabitable.
+**The desalination failed in the third year and the power did not, and the difference is the whole point.** The station's guaranteed power was never the solar arrays, which ran the day's work and are long dead: it was **radioisotope generators** <!-- @WF-genesis.power: radioisotope -->, plutonium-238 thermoelectric units with no moving parts, brought because a lab with no resupply cannot let its cultures die in a week of cloud. Plutonium-238 halves in about 88 years, and the thermocouples wear too, so after two centuries they give about a tenth of what they did: a few hundred watts, enough for a few lit rooms, a panel, a terminal, and the warmth of their own decay in the banked crown modules. A desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is the opposite — membranes, pumps, pressure vessels, scaling, and consumables nobody on this planet can manufacture. **The power survives two centuries and the water plant does not survive three years <!-- @WF-genesis.occupancy: 3y -->**, and that is why the site is still standing and still lit while being uninhabitable.
 
 **The argument about what to do next is the first time the colony split.**
 
