@@ -1,5 +1,5 @@
 ---
-approval: approved 047a3a70
+approval: approved 85733025
 ---
 
 # Environmental suits
@@ -30,7 +30,7 @@ Sealing is a step-in with a self-closing tab that hisses shut. Sizes are fixed a
 
 ### Construction, outermost inward
 
-- **Living skin, ~1 mm.** A biofilm of engineered human chromatophore cells, cephalopod-style. Self-repairing, because the cells divide. It ripples and matches the surrounding light within a second or two. It covers UV as well as visible wavelengths, which matters because much of the fauna sees into UV. Healthy film is faintly bioluminescent; a dead patch is a visible dead patch until it regrows.
+- **Living skin, ~1 mm.** A biofilm of engineered chromatophore cells, derived from a cuttlefish's. Self-repairing, because the cells divide. It ripples and matches the surrounding light within a second or two. It covers UV as well as visible wavelengths, which matters because much of the fauna sees into UV. Healthy film is faintly bioluminescent; a dead patch is a visible dead patch until it regrows.
 - **Structural layer, ~2 mm.** Three carbon-nanotube weaves, each offset 60° from the last, with a graphene film laminated between the first and second and the whole impregnated with a shear-thickening polymer — liquid until struck, rigid on impact.
 - **Impact layer, 3–5 mm.** Aerogel foam beneath the structure. **It is sealed and does not take on water, so a suited body floats**, face up if you lie back, with a little to spare — about what a thick wetsuit does, and not a life vest *(`plan/scene-maps/D8.2.md` L1; it carries Days 14–15 at sea)*.
 - **Inner layer.** Thermoelectric generation against the skin, plus moisture wicking.
@@ -77,7 +77,7 @@ That is the actual charge against going unsuited, and it is a cultural one rathe
 
 The suits are alive and must be fed. Water, which can be dirty, and which rain or a river crossing often supplies. Sugars every couple of days, more often if the biofilm is repairing damage, usually from fruit. Occasionally the suit signals for something else. This is a campfire ritual and a source of ordinary domestic texture, and it is also a clock: a suit that goes unfed degrades.
 
-**The suit cannot digest anything.** <!-- @WF-suit.feeding.form: juice --> The living layer is human cells, which take up only sugar already dissolved, so what goes in is water or juice: fruit pulp squeezed in the fist, or mashed with a little water. **It goes in at one place, the feeding well** <!-- @WF-suit.feeding.site: belly-well --> — a palm-sized patch on the belly just under the ribs, where the film is thick and spongy and gives under the thumb like moss. The wearer bends over it to keep rain out, and it drinks each mouthful before the next goes in, darkening where it has drunk. From the well, fine channels in the film carry it outward, pulled by evaporation off the whole surface the way a plant draws water to its leaves; diffusion alone would take months to cross a meter of film. **Two consequences.** A sticky well draws ants and flies. And damage far from the well is fed last, so a repairing patch at an extremity competes for sugar at the end of the line.
+**The suit cannot digest anything.** <!-- @WF-suit.feeding.form: juice --> The living layer is animal cells, which take up only sugar already dissolved, so what goes in is water or juice: fruit pulp squeezed in the fist, or mashed with a little water. **It goes in at one place, the feeding well** <!-- @WF-suit.feeding.site: belly-well --> — a palm-sized patch on the belly just under the ribs, where the film is thick and spongy and gives under the thumb like moss. The wearer bends over it to keep rain out, and it drinks each mouthful before the next goes in, darkening where it has drunk. From the well, fine channels in the film carry it outward, pulled by evaporation off the whole surface the way a plant draws water to its leaves; diffusion alone would take months to cross a meter of film. **Two consequences.** A sticky well draws ants and flies. And damage far from the well is fed last, so a repairing patch at an extremity competes for sugar at the end of the line.
 
 ### What the suit does NOT do
 
