@@ -1,5 +1,5 @@
 ---
-approval: approved 46bb41ee
+approval: approved ef07d7ac
 ---
 
 # Character arcs and intimacy
@@ -203,7 +203,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D14.2.** As the fieldpack and his mathematics go, Benal hears Marek's *do something real*, his one tie home at the moment of loss.
 - **D15.2.** At Teva's lowest, *we'll be fine*, the trio's line since Day 2, is said by Teva, flat, and it breaks as she says it.
 - **D15.3.** The hours of wet dark are got through on home stories: Topo, Teva's two friends, Omya. It warms them toward the night.
-- **D15.4.** Teva tells Benal that, years ago, Keo made the boy who startled him stop (K26, T27): Benal learns he has been protected longer than either knew, and that is what takes Keo↔Benal to 9. Keo, edging toward the crush without saying it, asks Teva whether she remembers chasing him to kiss him when they were small, and she does not (K22, T30); he laughs it off, and the reader knows what it cost. It is the scene list's *someone says the wrong thing first*, and the romance stays unresolved (Rule 1).
+- **D15.4.** Teva tells Benal that, years ago, Keo made the boy who startled him stop (K26, T27): Benal learns he has been protected longer than either knew, and that is what takes Keo↔Benal to 9. Keo, edging toward the crush without saying it, asks Teva whether she remembers chasing him to kiss him when they were small, and she does not (K22, T30); he laughs it off, and the reader knows what it cost. It is the wrong thing that ends the night's closeness, said late, after her hand; the scene list's *someone says the wrong thing first* is Benal's exact, useless arithmetic answering Keo's guilt (Q-SGMB). The romance stays unresolved (Rule 1).
 
 **Days 16–18: Genesis, and the register pays.**
 
