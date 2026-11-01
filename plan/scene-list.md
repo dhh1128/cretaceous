@@ -811,12 +811,12 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D18.2 — [LONG, ~2000] [Day 18, afternoon] [KEO] [The far end of the site] — **NEW**
 **Ladders:** EM7 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** RESOLVE
-**The machine becomes the way home.** The rest of the work: the training, the weight, finding and checking the stored rotors that D19.1 fits `[-]`, and a charge that will not be full in time.
+**The machine becomes the way home.** The rest of the work: the training, the weight, finding and checking the stored rotors that D19.1 fits `[-]`, and a charge racing the water.
 **Must carry:**
 - **Keo finds the dry hull's lift rotor units in dry storage with the cells, and checks them**, under the training system's instructions; D19.1 fits them `[-]`. The side that lost the argument about leaving took them off and stored them dry so the way back stayed open; two centuries in seawater left nothing usable on the wet hull, which stays a wreck. `kb/worldbuilding/the-wig.md` §4.
 - **Keo's training begins**, because the training system trains him, and it would much prefer a qualified pilot.
 - **Keo strips it for weight.** Four seats and three fly, so the fourth seat goes, and anything else not needed to get home.
-- **The charge will not be full by noon on Day 19.** A full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate, and that is why they will leave undercharged.
+- **The charge comes full around noon on Day 19, the day the water runs out.** A full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate. The training system tells them a partial charge will not reach the Enclave, and from here they watch it climb, ration the water and argue about leaving early.
 **Hazard:** a repeat of D16.4. The meeting has happened; this is work, and the AI is the instruction manual it was built to be.
 **Ends on:** `[?]` the charge indicator, short of full, and the light going.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved b8730f26
+approval: approved 51dadcdc
 ---
 
 # The wig
@@ -100,7 +100,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **It flies by day**, and the deadline is the battery rather than the clock. The range is a full charge and not a meter more, so what makes the flight possible at all is the days it spent on the generators at Genesis. They lift at noon with everything it will hold and put eighty kilometers <!-- @WF-route.overland: 80km --> behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
 
-**They leave undercharged**, because a full charge takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate, `[?]` the charge Keo began with the first cells on the evening of Day 16 is not full by noon on Day 19, and they cannot make themselves wait. Every decision afterward is spent out of margin they chose not to have.
+**They leave undercharged, by a little.** The charge Keo began on the evening of Day 16 takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate and comes full around noon on Day 19, which is the day the crown's water runs out. The training system tells them plainly that a partial charge will not reach the Enclave. They watch it climb, ration the water, and argue about leaving early, and at noon `[-]` the thirst wins the last of it and they lift a little short of full. Every decision afterward is spent out of margin they chose not to have.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
 
