@@ -39,9 +39,10 @@ WITHHELD = re.compile(r"\b(?:nobody|no one|none of them|neither of them)\b[^.]{0
 ASIF = re.compile(r"\bas (?:if|though)\b", re.I)
 # Sensory diction (Q-TMGK). PLAIN is the category word a drafter reaches for; SPECIFIC is
 # a word that names what the sense actually met. Both lists are crude, and the figures
-# are a direction, not a target: the passages quoted in `prompts/style-canon.md` run
-# about 2.9 plain and 1.6 specific per thousand words, and Days 11-14 ran 7.9 and 1.2.
-PLAIN = re.compile(r"\b(?:gray|grey|wet|dark|cold|warm|loud|quiet|bright|smell|sound|noise)\b", re.I)
+# are a direction, not a target. With the color words added on 2026-11-03 (Daniel, of
+# D12.1: "a lot of boring adjectives here: gray, flat, brown, dark"), the passages quoted in
+# `prompts/style-canon.md` run about 3.7 plain per thousand words; specific about 1.6.
+PLAIN = re.compile(r"\b(?:gray|grey|wet|dark|cold|warm|loud|quiet|bright|smell|sound|noise|flat|brown|pale|dull|black|white)\b", re.I)
 SPECIFIC = re.compile(r"\b(?:croak\w*|hiss\w*|zing\w*|whir\w*|thrum\w*|rasp\w*|crackl\w*|drone\w*|chirr\w*|clatter\w*|creak\w*|slap\w*|gurgl\w*|reek\w*|stink\w*|musk\w*|tang\w*|acrid|brin\w*|rank|sour\w*|buzz\w*|whine\w*|boom\w*|groan\w*|rattl\w*)\b", re.I)
 ATTRIB = re.compile(r"^(?:\w+\s+)?(?:said|asked|whispered|breathed|called|shouted|answered)\b[^.!?]*[.!?]?$", re.I)
 
@@ -93,7 +94,7 @@ def main(argv: list[str]) -> int:
               f"({len(m['short'])}/{m['narration']}); comma-and chains {len(m['chains'])}; nobody {m['nobody']}; "
               f"the-way similes {len(m['manner'])} (max 1); as-if {m['asif']}; "
               f"withheld {len(m['withheld'])} (max 1); spoken {1000*m['spoken']/max(1,m['words']):.1f}/kw (his ~19); dialogue {100*m['dialogue']/max(1,m['words']):.0f}% (viking 28-30); longest exchange {m['exchange']} paras (viking ~7); "
-              f"plain sense words {1000*m['plain']/max(1,m['words']):.1f}/kw (his ~2.9); specific {1000*m['specific']/max(1,m['words']):.1f}/kw (his ~1.6)")
+              f"plain sense and color words {1000*m['plain']/max(1,m['words']):.1f}/kw (his ~3.7); specific {1000*m['specific']/max(1,m['words']):.1f}/kw (his ~1.6)")
         for c in m["chains"]:
             print(f"    chain: {c[:110]}")
         for s in m["manner"]:
