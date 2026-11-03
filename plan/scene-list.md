@@ -545,7 +545,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D11.6 — [SHORT, ~700] [Day 11, night] [KEO] [Camp, feverish]
 **Ladders:** EM6 P8 S7 SP5
 **Purpose:** DISCOVER · **Ending:** BLACKOUT
-**The first temporal flash, and he files it under fever.** A bright sharp-edged mark, a ring with a straight line struck through it <!-- @WF-flash.symbol: ring-and-line -->, and ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*.
+**The first temporal flash, and he files it under fever.** A bright sharp-edged mark, a ring with a straight line struck through it <!-- @WF-flash.symbol: ring-and-line -->, and ozone and salt, under the bitter herbal smell of the salve *(R26: only Keo's own words; he has never seen the sea)*, with his skin prickling as before lightning and the rain's sound gone while it lasts *(R26 signature, Q-A6KA)*.
 **Must carry:**
 - **Fact I enters the book here and means nothing to anyone in it.** `knowledge-ledger.md` — the reader receives the signal symbol at this scene, the trio receives it as noise, and it is the second of the two overt guns (`foreshadow-and-motif.md` **R14**). It pays at D17.2. @D17.2
 - **Fact K, in the same move.** He dismisses it as fever, and one flash is still dismissible; certainty comes with the later flashes (`plan/knowledge-ledger.md`).
@@ -687,7 +687,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
-- `[?]` The disorientation is stronger here than anywhere, and he is the one who has been having flashes since Day 11.
+- `[?]` The disorientation is stronger here than anywhere, and he is the one who has been having flashes since Day 11. Each carries the signature, glancingly: ozone, a prickle, the sound gone *(R26 signature, Q-A6KA)*.
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
@@ -698,8 +698,8 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **The despair comes first, and it is about Genesis**: they came eighty kilometers <!-- @WF-route.overland: 80km --> and found almost nothing useful, and each of them says so in their own register. Not silence.
 - **Keo's guilt** — *I destroyed my family's lives for nothing.* **Benal's shame** — his parents pity him, and his work is useless. **Keo's connection** — *mine don't pity me, they don't trust me; we're fighting the same battle.* **Teva's bridge** — *I left her while she's disappearing.* Exact material in `plan/outline.md`.
-- **Teva's flash: the original argument inside Genesis**, and the faces are not malicious. Terror, grief, stubborn paralysis. This is the first seed of the nuance arc, and per `kb/worldbuilding/the-second-jump.md` it is a real event she is perceiving, not a symbol.
-- **Benal's flash: a corrupted fragment of the second-jump equation.** He dismisses it as a nightmare and it is the thing he will need in two days.
+- **Teva's flash: the original argument inside Genesis**, and the faces are not malicious. Terror, grief, stubborn paralysis. This is the first seed of the nuance arc, and per `kb/worldbuilding/the-second-jump.md` it is a real event she is perceiving, not a symbol. It comes with the prickle, the smell of lightning and no sound from any of it *(R26 signature, Q-A6KA)*.
+- **Benal's flash: a corrupted fragment of the second-jump equation.** He dismisses it as a nightmare and it is the thing he will need in two days. He wakes with the smell of lightning and his skin crawling *(R26 signature, Q-A6KA)*.
 - **Before morning they talk it over and agree that this cannot be all of Genesis**: the founders lived here three years <!-- @WF-genesis.occupancy: 3y -->, the archive is somewhere, and the plant house was only the water works. In the morning they will go and look.
 **Hazard:** the therapy circle, which is a live risk because the outline supplies the lines. Someone should resist, someone should say the wrong thing first, and Teva's bridge should cost her more than it comforts them.
 **Ends on:** the three of them, none of it having changed the situation at all, and a decision to go and look in the morning.
@@ -824,7 +824,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [A rock above the anchor cleft] — **NEW**
 **Ladders:** EM8 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** HELD
-**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock — **and there is no Genesis on the land behind him.**
+**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock — **and there is no Genesis on the land behind him.** His skin prickles, the air smells of lightning, and the world's sound is gone while it lasts *(R26 signature, Q-A6KA)*.
 **Must carry:**
 - **The inference chain, in four steps the reader can follow.** He is old, so this is long after arrival. There is no Genesis, and Genesis went up in the first months and is still standing, so this cannot be after arrival. He can only have aged after arrival. Therefore he went backward, alive and working.
 - **Benal recognizes the specific cleft because he was lying face-down on that rock yesterday.**
