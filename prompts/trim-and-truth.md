@@ -26,6 +26,7 @@ Go sentence by sentence and line by line. Apply every change as an edit, not a s
 - Friends answer rather than dodge. A line that deflects where a friend in this situation would simply answer is changed to the answer, or cut.
 - Dialogue is checked against what each speaker knows at this moment (canon, and the scenes before) and what they would say aloud in this state (their state in the map's BODY and RELATIONS lines).
 - An action needs its purpose on the page. If a character stops to do something (gather, build, pick up, take apart), the reader must know why from the POV before or as it happens. Daniel, of D13.2's beetles: "why would Benal stop to pick up beetles? For his collection? Makes no sense at all." They were food, and nothing said so.
+- The last line (`prompts/ai-tells-blacklist.md` §36): if the scene ends on danger, a question or a loss, cut any closing line that reassures, answers, or lets the reader stop comfortably.
 - Watch word echoes: the same noticeable word twice within a few lines, unless the repetition is deliberate.
 - Protect repeated images that pay off. Before cutting a second mention of something, check whether the scene or a later one builds on it. The author restored "empty hands" after an earlier pass cut it.
 

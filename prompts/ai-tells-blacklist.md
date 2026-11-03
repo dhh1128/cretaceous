@@ -1,5 +1,5 @@
 ---
-approval: approved 39b2eeef
+approval: approved 4d8810ad
 ---
 
 # AI tells — the blacklist
@@ -284,3 +284,9 @@ The same edit made smaller changes everywhere else:
 > D12.1: *It knew the smells of things that hunted, and it knew the gel, and it knew nothing else.* "this construction is an AI tick, and I'm frustrated to keep seeing it: <clause>, and <clause>, and <negation clause>. Here ", and it knew nothing else" is the embodiment of it. Fix this tic. I'd fix this one by changing to "it knew..., and it knew.... Did it know anything else?"
 
 **Rule.** Do not close a run of *, and* clauses with a clause that negates the rest (*, and nothing else*, *, and none of it*, *, and no one came*). It is a §30 chain with a cadence-ending flourish bolted on. His fix keeps the list and turns the closer into the POV character's question. A full stop before a plain negative sentence also works. Count them before he reads.
+
+## 36. The comfortable last line
+
+> D14.2 ended: *…and the sea poured down his throat into his chest, and he went out. / The suit kept him up.* "Line 123 is a classic mistake. We diminish the power of the scene by saying too much. Cut that line and the reader has to turn the page; leave it, and the reader can stop comfortably. We need to look for this mistake and eliminate it everywhere."
+
+**Rule.** A scene that ends on danger, a question or a loss ends there. Do not add a last line (`prompts/ai-tells-blacklist.md` §36, his D14.2 ruling above) that answers the question the ending raises, reassures the reader that someone survived, or settles a feeling the next scene should settle. The test: if the last line were cut, would the reader have more reason to turn the page? Then cut it. Scenes whose map ending is SETTLED or RESOLVE may close; THREAT, QUESTION, REVEAL and HELD endings stop on the open thing.
