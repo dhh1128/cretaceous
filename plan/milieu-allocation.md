@@ -1,5 +1,5 @@
 ---
-approval: approved 6544d551
+approval: approved 6fe787d3
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -167,7 +167,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 |---|---|---|---|
 | rust | Enclave word | the archaea failsafe turns neglected old-tech to rust in hours (`plan/milieu-brief.md` §6); at Genesis it took two centuries with nothing helping it, worth one sentence once | D14.1 on; one sentence D15.2 |
 | metal, machine, old-tech, door, glass, stone | Enclave words | plain, sparingly | throughout |
-| concrete | Enclave word, source pending Daniel | see the open question below this table | D15.2 on |
+| concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the plant house as the forbidden thing | D15.2 on |
 | wig | Enclave word with no referent (`kb/worldbuilding/lingo.md`) | Benal says it when he sees one; Keo has called it "a boat with wings" first, in dialogue | D16.4, D18.2 |
 | the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
 | the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
