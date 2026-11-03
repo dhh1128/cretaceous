@@ -683,7 +683,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.3 — [MEDIUM, ~1,400] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised gallery of the desalination plant house, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
+**Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised walkway of the desalination plant house, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
@@ -691,7 +691,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
-### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The plant house gallery, above the flooded floor]
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The plant house walkway, above the flooded floor]
 **Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.
