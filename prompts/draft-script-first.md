@@ -16,6 +16,8 @@ The map's band is a floor for the map's material, never for the prose. Do not pa
 
 **The opening sentence after a time jump** (Q-NP03): when time has passed since the previous scene, the first sentence carries the jump through something the POV perceives (light, heat, a meal, a task finished), never a clock or "hours later", and never opens on an action that echoes the previous scene's last one; Daniel read D13.2's opening as the next second of D13.1 because it did both.
 
+**Anchor the POV in the first lines.** By the second sentence the reader has the POV character's own body or perception from inside, and anyone else's speech or action in the opening reaches the reader through the POV's eyes. Daniel read D13.2 for twenty or thirty lines without knowing it was Keo's, because it opened on what everyone did, seen from outside, and on Benal's talk.
+
 ## Method
 
 **Stage 1, the script.** The scene as dialogue only, every spoken line in order as `NAME: …`, with bare `[move N]` header lines and nothing else. The characters carry the scene through talk where the map gives them talk: each line answers the one before, friends answer rather than dodge, nobody hedges what they know exactly, a joke must be true in the world, every evaluation's referent is plain, and each line is checked against what that speaker knows then. If the scene is mostly wordless, the script is short; do not invent talk the map's situation would not produce. Save as *SCENE-script.md*.
