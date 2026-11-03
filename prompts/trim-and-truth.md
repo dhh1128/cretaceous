@@ -25,6 +25,7 @@ Go sentence by sentence and line by line. Apply every change as an edit, not a s
 - A claim needs a source. If a character asserts something, they must be able to know it. They carry a pedometer and suit sensors; "you can't trust distances out here" would be false.
 - Friends answer rather than dodge. A line that deflects where a friend in this situation would simply answer is changed to the answer, or cut.
 - Dialogue is checked against what each speaker knows at this moment (canon, and the scenes before) and what they would say aloud in this state (their state in the map's BODY and RELATIONS lines).
+- An action needs its purpose on the page. If a character stops to do something (gather, build, pick up, take apart), the reader must know why from the POV before or as it happens. Daniel, of D13.2's beetles: "why would Benal stop to pick up beetles? For his collection? Makes no sense at all." They were food, and nothing said so.
 - Watch word echoes: the same noticeable word twice within a few lines, unless the repetition is deliberate.
 - Protect repeated images that pay off. Before cutting a second mention of something, check whether the scene or a later one builds on it. The author restored "empty hands" after an earlier pass cut it.
 
