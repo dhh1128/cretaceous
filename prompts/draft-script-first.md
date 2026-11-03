@@ -20,6 +20,8 @@ The map's band is a floor for the map's material, never for the prose. Do not pa
 
 **Signal every memory.** A memory or flashback opens on a plain signal that it is one and what brings it on ("The name took Keo back to the night they left"), and its subject is named, not "the shape up there". Daniel read D13.2's memory of Liaso on the watch platform as the rex walking away humming, and called it "too cryptic"; D11.6's first flash failed the same way.
 
+**A simile comes from the POV character's own experience, or it goes.** Teeth, bark, mud, nests, the river, the tangle, the things of the Enclave; never an object they may not know. Daniel, editing D15.1, changed shell edges "like the lip of a broken pot" to "like a tooth": "I'm just leery of using similes with things outside their experience."
+
 **Name founder things only by what the POV can see.** The three have never seen a float, a motor or a bolt; a founder object is described by its look until someone has a word for it. Daniel, editing D14.1, turned "a motor hung off the frame… where its bolts had been" into "a hunk of rusty metal hung off the frame by one corner, and where some kind of fastener had once held it, there was another pile of rust".
 
 ## Method
