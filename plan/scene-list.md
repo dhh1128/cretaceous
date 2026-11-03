@@ -666,7 +666,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - The bank is **razor-sharp fossilized rudist bivalves and platform limestone** — not volcanic rock; `kb/research/geo-flora-fauna.md` §1.2. Small iridescent crabs scatter.
 - **The fieldpack is gone**, and with it his mathematics and the last of the food.
 - `[?]` **Benal finds Keo on the coral still wrapped around the piece of boat that kept him up** — the one of them with no suit, alive because he held on.
-**Hazard:** the reunion played as relief. They are three people who have arrived somewhere and lost everything on the way, and none of them has the energy to be glad.
+**Hazard:** the reunion played deadpan. They have each believed the other two dead, and finding them alive breaks something open in all three: voices crack, Teva weeps, and they hold on to each other. What they do not have is the energy for a speech about it.
 **Ends on:** the station along the bank, standing and silent, and nobody there.
 
 ### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [The plant house] — **NEW**
