@@ -1,5 +1,5 @@
 ---
-approval: approved 132a417b
+approval: approved 6544d551
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -158,6 +158,27 @@ Each of these is owned once. The number is the day.
 **Sight** — bioluminescent lightmold (1–2) · ground fog to three meters (3) · hand-sized iridescent day-flying moths (4) · **the sky, visible and useless, all through the woodland days** · a saropo herd from a ridge (6) · heat shimmer (10) · a single blood-spattered feather (11) · the wall of black on the horizon (14) · the first clear morning since the storm (16).
 
 ---
+
+## 5b. Words at Genesis `[-]`
+
+The three have never seen most of what Genesis holds, and the trio's narration may use only words they have. Three tiers (Q-CX8A), chosen deliberately per thing, and the things the book must name again and again get a word the Enclave already owns:
+
+| thing | tier | how it is named | where |
+|---|---|---|---|
+| rust | Enclave word | the archaea failsafe turns neglected old-tech to rust in hours (`plan/milieu-brief.md` §6); at Genesis it took two centuries with nothing helping it, worth one sentence once | D14.1 on; one sentence D15.2 |
+| metal, machine, old-tech, door, glass, stone | Enclave words | plain, sparingly | throughout |
+| concrete | Enclave word, source pending Daniel | see the open question below this table | D15.2 on |
+| wig | Enclave word with no referent (`kb/worldbuilding/lingo.md`) | Benal says it when he sees one; Keo has called it "a boat with wings" first, in dialogue | D16.4, D18.2 |
+| the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
+| the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
+| the generators | read, never seen | Benal names them from the records, once, unsure: "the power"; the AI later says "generators" to Keo | D16.1, D16.4 |
+| the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
+| the cells and drums | read, never seen; the AI names them | the AI says "cells"; Keo calls them "jars" once, the AI corrects him, and he goes on saying jars to the others | D16.4, D17.3, D18.2 |
+| a padded seat, artificial light, a dry room | nobody's word | described by the body ("it gave under him"; "light with no flame in it") | D16.2, D16.4 |
+| the arch frames, the wet hull | nobody's word | described once by what they resemble in the POV's own experience (ribs of a carcass; a hull sunk to its rails) | D16.1, D16.4 |
+| lab things in D16–D17 | the Vitarium's words | Teva names what the Vitarium still names in founder words (vessel, culture, seal) | D16.3, D17.1 |
+
+A wrong everyday name is allowed in dialogue and is where the humor lives; the narration never coins a word (`kb/worldbuilding/lingo.md` is closed; `AGENTS.md` §5).
 
 ## 6. Rules
 
