@@ -1,5 +1,5 @@
 ---
-approval: approved 60c70523
+approval: approved 3b35e228
 ---
 
 # Benal's equation
@@ -56,7 +56,7 @@ And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y -->
 
 **Backward is unrestricted.** You can go, in person, to any time you like. Nothing has to be true of you first.
 
-**Forward is not.** Occupying a time entangles you with it, and **you can only travel forward to an interval you are entangled with — one you have physically lived through.** <!-- @WF-return.rule: own-worldline --> That is the whole of FG. Two hundred people <!-- @WF-founders.count: 200 --> had to make the trip in person because a cure cannot be entangled with anything; only a traveler can.
+**Forward is not.** Occupying a time entangles you with it, and **you can only travel forward to an interval you are entangled with — one you have physically lived through.** <!-- @WF-return.rule: own-worldline --> That is the whole of FG. Some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> had to make the trip in person because a cure cannot be entangled with anything; only a traveler can.
 
 **And it means the colony's children are not stranded by rule but by biography.** Everyone born here has occupied exactly one interval in the whole of time. There is nowhere forward for them to go, because there is nowhere forward they have been.
 

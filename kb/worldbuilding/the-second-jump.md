@@ -14,7 +14,7 @@ Marked `[?]` items are proposals from a session, not rulings. Everything unmarke
 
 ## 1. The three years at Genesis
 
-Two hundred people <!-- @WF-founders.count: 200 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because an island of coral and limestone has none and the rain drains through porous rock within the hour.
+Some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> arrive at the Chicxulub site with a charge: solve the pandemic, learn forward travel, carry the answer home. They put up a research station, because laboratory work is the entire purpose of the expedition — Genesis is built to be worked in, and enough of it is standing 206 years later to shelter three children, hold an archive, and power a machine that still answers when spoken to. Fresh water comes from solar desalination, because an island of coral and limestone has none and the rain drains through porous rock within the hour.
 
 Three things happen across those three years <!-- @WF-genesis.occupancy: 3y -->, and they interlock.
 
@@ -43,13 +43,15 @@ They have no satellites and no large telescope, and every method needs a longer 
 
 ## 4. The water fails, and the colony splits for the first time
 
-**The desalination begins to fail in the third year.** The radioisotope generators have no moving parts and outlive everything (`plan/milieu-brief.md` §3); a desalination plant for two hundred people <!-- @WF-founders.count: 200 --> is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
+**The desalination begins to fail in the third year.** The radioisotope generators have no moving parts and outlive everything (`plan/milieu-brief.md` §3); a desalination plant for some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> is membranes, pumps, pressure vessels and consumables nobody on this planet can manufacture.
 
 **The argument that follows is the first appearance of the schism**, and it does not sound like the modern one. Some hold that leaving is an unacceptable risk: the prime directive is to leave no evidence, the plan was to sit at ground zero for months and be erased, and eighty kilometers <!-- @WF-route.overland: 80km --> of living in the world is not what anyone agreed to. Those who argue for going **accept every restriction that comes with it as the price of permission** — see `plan/milieu-brief.md` §6, because that bargain is the origin of every taboo the colony now keeps.
 
 **Cecilia accepts the decision and volunteers to lead the party inland to solve the water problem.** She has a second reason and does not state it: at the Enclave she will be out from under the leadership's supervision.
 
-**Those who stay see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left, suited <!-- @WF-firstwalk.suited: true -->; ninety-four arrived.
+About two hundred and seventy-five came through the transit, and two hundred of them joined the coalition that left Genesis <!-- @WF-firstwalk.departed: 200 -->. Leaving is not a single event but a process: they have to research the topography, work out how to cope with predators, plan the Enclave once they find a suitable location, and then move everyone, and they lose people partly during the surveys and more during the major moving efforts, so fewer than a hundred settle at the Enclave.
+
+**Those who stay, about seventy-five <!-- @WF-genesis.stayed: 75 -->, see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left, suited <!-- @WF-firstwalk.suited: true -->; ninety-four arrived.
 
 **All of that happens inside the third year.** The failure, the argument, the preparation, and then a walk of a week to a month <!-- @WF-firstwalk.duration: weeks --> — `plan/milieu-brief.md` §3 owns the timing and it is not three years <!-- @WF-genesis.occupancy: 3y --> of marching. The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy at Genesis, and the party is at the Enclave by the end of them.
 

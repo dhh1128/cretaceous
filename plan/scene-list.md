@@ -763,7 +763,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D17.1 — [MEDIUM] [Day 17, morning] [TEVA] [The archive] — **NEW**
 **Ladders:** EM8 P4 S8 SP8
 **Purpose:** DISCOVER · **Ending:** REVEAL
-**The logs of the arrival.** Two hundred people <!-- @WF-founders.count: 200 -->, named, with faces, on the day they got here.
+**The logs of the arrival.** Some two hundred and seventy-five people <!-- @WF-founders.count: 275 -->, named, with faces, on the day they got here.
 **Must carry:**
 - **This is where the Traditionalists get their documentary basis** — there really was a mission, real instructions, a real paradox concern. `plan/knowledge-ledger.md`. They are evidenced, not merely pitied.
 - **Teva saw these faces two nights ago** in the flash and did not know they were real.

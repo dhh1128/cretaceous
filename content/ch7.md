@@ -1,5 +1,5 @@
 ---
-approval: approved 7c5c8af6
+approval: approved ae4fcbf5
 ---
 
 *the Council ~ Keo, Day 2*
@@ -11,7 +11,7 @@ approval: approved 7c5c8af6
 >
 > CHICXULUB SOLUTION is authorized. Site selection is final and is not open to further review. The impact will erase every trace of our presence. No other site can promise that, and we are not in a position to gamble with the past as well as the future.
 >
-> Two hundred personnel. Selection closes at 0800.
+> Two hundred and seventy-five personnel. Selection closes at 0800.
 >
 > They are not being sent to survive. They are being sent to work.
 
