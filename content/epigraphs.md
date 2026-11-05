@@ -24,8 +24,8 @@ approval: unapproved
 
 Everything here is **in the Genesis archive**, and it comes from two eras:
 
-- **The 21st century**, stamped `T−` (time before departure). Bulletins, memos, targeting data, Cecilia's messages. All of it was written before anyone left, carried back on the jump, and has sat at Genesis ever since.
-- **The colony's own records**, stamped `A+` (years after arrival). Only one appears in book 1.
+- **The 21st century**, stamped `JUMP −` (time before the jump, in plain units). Bulletins, memos, targeting data, Cecilia's messages. All of it was written before anyone left, carried back on the jump, and has sat at Genesis ever since.
+- **The colony's own records**, stamped `JUMP +` (time after the jump). Only one appears in book 1.
 
 **The archive is much larger than what book 1 shows.** That is deliberate — see "The corpus across three books" at the end.
 
@@ -47,7 +47,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP1 — before D1.1
 
-> **[HEALTH BULLETIN — REGIONS 2, 4, 11 · T−26 mo]**
+> **[HEALTH BULLETIN — REGIONS 2, 4, 11 · JUMP −26 MONTHS]**
 >
 > A novel pathogen designated L-9 ("Lethe") is confirmed in three bio-regions.
 >
@@ -59,7 +59,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP2 — Act 1, early
 
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · T−24 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · JUMP −24 MONTHS]**
 >
 > Mari —
 >
@@ -77,7 +77,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP3 — Act 1, before the debate
 
-> **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · T−19 mo]**
+> **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · JUMP −19 MONTHS]**
 >
 > The prion and nanobot programs have both failed. Temporal displacement is the only remaining path.
 >
@@ -91,7 +91,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP4 — Act 1, mid
 
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · T−18 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · JUMP −18 MONTHS]**
 >
 > So now you know, and you have had three weeks to be furious about it, and I think that is enough.
 >
@@ -107,7 +107,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP5 — end of Act 1, immediately before the theft
 
-> **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · T−11 mo]**
+> **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · JUMP −11 MONTHS]**
 >
 > To restate, because it continues to be misunderstood in briefings:
 >
@@ -121,7 +121,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP6 — Act 2, early
 
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 14d · T−7 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 14d · JUMP −7 MONTHS]**
 >
 > Don't do the thing where you don't tell me.
 >
@@ -139,7 +139,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP7 — Act 2, middle
 
-> **[TARGETING — CONFIDENCE SUMMARY · T−5 mo]**
+> **[TARGETING — CONFIDENCE SUMMARY · JUMP −5 MONTHS]**
 >
 > Spatial: high confidence. Landfall within 40 km of the designated coordinate.
 >
@@ -151,7 +151,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP8 — Act 2, middle. **The clue nobody in the 21st century understood.**
 
-> **[INSTRUMENTATION — ANOMALY LOG · T−5 mo · FILED, NO ACTION]**
+> **[INSTRUMENTATION — ANOMALY LOG · JUMP −5 MONTHS · FILED, NO ACTION]**
 >
 > Recurrent artifact in deep-window returns, centered approximately **1.0 My prior** to the designated arrival epoch.
 >
@@ -165,7 +165,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP9 — Act 2, late. **The floor drops out.**
 
-> **[GLOBAL ALERT — ALL REGIONS · T−4 mo]**
+> **[GLOBAL ALERT — ALL REGIONS · JUMP −4 MONTHS]**
 >
 > Containment has failed in every bio-region. Inter-regional transit is suspended indefinitely.
 >
@@ -179,7 +179,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP10 — Act 3, early
 
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 31d · UNDELIVERED — NO ROUTE · T−2 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 31d · UNDELIVERED — NO ROUTE · JUMP −2 MONTHS]**
 >
 > Nothing from you in five weeks.
 >
@@ -195,7 +195,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP11 — Act 3, at Genesis. **The fragment they find.**
 
-> **[RECORDS DISPOSITION — PERMANENT ARCHIVE · T−6 wk]**
+> **[RECORDS DISPOSITION — PERMANENT ARCHIVE · JUMP −6 WEEKS]**
 >
 > Ruling on the question raised at Tuesday's session:
 >
@@ -209,7 +209,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP12 — Act 3, during Genesis
 
-> **[LOG FRAGMENT — COLONY RECORD, RECOVERED, DEGRADED · A+31 y]**
+> **[LOG FRAGMENT — COLONY RECORD, RECOVERED, DEGRADED · JUMP +31 MONTHS]**
 >
 > — schism is complete. They have taken the second — [static] — and will not be — [static] —
 >
@@ -221,7 +221,7 @@ And the return is worse than that: **you can only travel forward along a worldli
 
 ### EP13 — the coda, after D19.8. **The fragment they leave behind.**
 
-> **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · T−3 d]**
+> **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · JUMP −3 DAYS]**
 >
 > Mari —
 >
@@ -261,8 +261,8 @@ The channel has to keep working for two more novels, so it needs a rule that gen
 
 | | stratum | stamped | what it is |
 |---|---|---|---|
-| **Book 1** | the 21st century | `T−` | a world that is dying. Bulletins, memos, targeting, and one woman's sent folder. Plus **one** colony record, at the very end, to prove there is more. |
-| **Book 2** | the colony's own 206 years | `A+` | the world they are standing in. Founders' logs, the First Walk, the schism argued out at length, the moment doctrine hardened, the first Keeper to lose a protocol. **This is where the drift becomes visible as it happens**, and where Cecilia's descendants start misquoting her. |
+| **Book 1** | the 21st century | `JUMP −` | a world that is dying. Bulletins, memos, targeting, and one woman's sent folder. Plus **one** colony record, at the very end, to prove there is more. |
+| **Book 2** | the colony's own 206 years | `JUMP +` | the world they are standing in. Founders' logs, the First Walk, the schism argued out at length, the moment doctrine hardened, the first Keeper to lose a protocol. **This is where the drift becomes visible as it happens**, and where Cecilia's descendants start misquoting her. |
 | **Book 3** | the deep past | ? | a world that may still exist. Whatever the Lost Colonists left, if anything, and it should not be in any format the reader recognizes. **The Lost Colonists are a thousand years <!-- @WF-secondjump.distance: 1000y --> back, not a million;** 67 Mya is where the Enclave emigrates at the end of book 3. |
 
 **The escalation is built in:** book 1's fragments come from a world that is already dead, book 2's from the world under their feet, and book 3's from a world that might still be alive. The emotional temperature rises without anyone raising it.

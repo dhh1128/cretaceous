@@ -110,7 +110,7 @@ A figure before a discharge, jungle surround.
 
 `[?]` **Series word above, in letterspaced caps with an archival treatment.** It says there is a real Cretaceous in here without a dinosaur having to say it.
 
-`[?]` **The archive stamp, small and monospaced, somewhere quiet.** `A+206` on *Drift*, tying the covers to the epigraph channel's own notation (`content/epigraphs.md`). Books 2 and 3 take whatever year they land on.
+`[?]` **The archive stamp, small and monospaced, somewhere quiet.** `JUMP +206 YEARS` on *Drift*, tying the covers to the epigraph channel's own notation (`content/epigraphs.md`). Books 2 and 3 take whatever year they land on.
 
 `[?]` **The title goes into the environment's empty region** rather than competing with the two thirds: the canopy gap on *Drift*, the sky on *Watch*, the flat black beside the seam on *Return*. Type over dark negative space is not spending image budget.
 

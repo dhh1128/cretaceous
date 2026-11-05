@@ -1,11 +1,11 @@
 ---
-approval: approved ae4fcbf5
+approval: approved 9650f7ac
 ---
 
 *the Council ~ Keo, Day 2*
 
 <!-- epigraph: EP3 -->
-> **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · T−19 mo]**
+> **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · JUMP −19 MONTHS]**
 >
 > The prion and nanobot programs have both failed. Temporal displacement is the only remaining path.
 >

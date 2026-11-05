@@ -1,11 +1,11 @@
 ---
-approval: approved 3a008117
+approval: approved e04f3a00
 ---
 
 *outside the kiva ~ Benal, then Keo, Day 2*
 
 <!-- epigraph: EP4 -->
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · T−18 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · JUMP −18 MONTHS]**
 >
 > So now you know, and you have had three weeks to be furious about it, and I think that is enough.
 >

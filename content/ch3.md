@@ -1,11 +1,11 @@
 ---
-approval: approved 9cc7cb32
+approval: approved 0a0debb0
 ---
 
 *the Barrier ~ Keo, Day 2*
 
 <!-- epigraph: EP2 -->
-> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · T−24 mo]**
+> **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · JUMP −24 MONTHS]**
 >
 > Mari —
 >

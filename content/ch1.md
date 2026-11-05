@@ -1,11 +1,11 @@
 ---
-approval: approved 021a9611
+approval: approved cae6db0e
 ---
 
 *the gels ~ Teva, Day 1*
 
 <!-- epigraph: EP1 -->
-> **[HEALTH BULLETIN — REGIONS 2, 4, 11 · T−26 mo]**
+> **[HEALTH BULLETIN — REGIONS 2, 4, 11 · JUMP −26 MONTHS]**
 >
 > A novel pathogen designated L-9 ("Lethe") is confirmed in three bio-regions.
 >

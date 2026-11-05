@@ -1,11 +1,11 @@
 ---
-approval: approved d6f60e46
+approval: approved 926d26d1
 ---
 
 *the theft ~ Keo, Day 2*
 
 <!-- epigraph: EP5 -->
-> **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · T−11 mo]**
+> **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · JUMP −11 MONTHS]**
 >
 > To restate, because it continues to be misunderstood in briefings:
 >

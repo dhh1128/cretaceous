@@ -32,6 +32,17 @@ approval: unapproved
 | 195 cm | Benal's height | `plan/milieu-brief.md` §9 |
 | 65 kg | Benal's mass | `plan/milieu-brief.md` §9 |
 | 120 kg | the top of the First Walk boat's mass, 100–120 | `plan/milieu-brief.md` §3 |
+| 11 months | an epigraph stamp, JUMP −11 MONTHS; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 18 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 19 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 2 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 24 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 26 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 31 months | EP12's stamp, JUMP +31 MONTHS; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 4 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 5 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 6 weeks | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 7 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
 | 3 days | **`distinct`** — the founders' three years at Genesis, biome day-ranges, and leaching time all use the token. Not one proposition | `distinct` |
 | 2 days | **`distinct`** — suit feeding interval, forage day-ranges, days of food. Not one proposition | `distinct` |
 | 200 years | **`distinct`** — the near edge of EP7's arrival estimate, and Daniel's round figure for the colony's age in `plan/milieu-brief.md` §11. Not one proposition | `distinct` |
