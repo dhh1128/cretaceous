@@ -39,6 +39,7 @@ approval: unapproved
 | 24 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
 | 26 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
 | 31 months | EP12's stamp, JUMP +31 MONTHS; the ch*.md copies repeat it | `content/epigraphs.md` |
+| 33 months | `[-]` the stamp on the plates the stayers cut, JUMP +33 MONTHS | `plan/scene-maps/D16.3.md` |
 | 4 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
 | 5 months | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |
 | 6 weeks | an epigraph stamp; the ch*.md copies repeat it | `content/epigraphs.md` |

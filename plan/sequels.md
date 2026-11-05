@@ -27,7 +27,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **And it lets him make sense of what the Watch is for.** With the link open, **Omya can pass along a perfect copy of the founders' table, with Teva's help** — the moon's calendar as the founders predicted it, held unchanged for two hundred years in the memory of a woman who cannot retain a protein fold and can still recite the stars; checked against observed coverings, it dates them *(`plan/milieu-brief.md` §5)*. The knowledge nobody valued turns out to be the instrument.
 
-`[?]` **Keo's thread is not settled.** He has graduated to the Explorers. There should be romantic tension with Teva and possibly a second interest, so confusion. One candidate occupation: searching for things the original colonists lost on the walk from Genesis to the Enclave — which would give him a reason to be out in the world, keep him on the route the first book crossed, and let him find physical evidence the others cannot.
+`[?]` **Keo's thread is not settled.** He has graduated to the Explorers. There should be romantic tension with Teva and possibly a second interest, so confusion. One candidate occupation: searching for things the original colonists lost on the surveys and moves between Genesis and the Enclave — which would give him a reason to be out in the world, keep him on the route the first book crossed, and let him find physical evidence the others cannot.
 
 ### Book 2 ends on two things
 

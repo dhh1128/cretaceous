@@ -142,7 +142,7 @@ Every answer goes into the appropriate canon file immediately. **This is what ma
 **Then annotate it, in the same edit.** `claims_agree` is the only instrument that can catch two well-formed assertions that are jointly false, and it is inert until somebody declares the claim — so the annotation goes on at mint time, on every site, not in a later sweep:
 
 ```
-**a week to a month, and not three years.** <!-- @WF-firstwalk.duration: weeks -->
+**most of year three, and not three years.** <!-- @WF-firstwalk.duration: most-of-year-three -->
 ```
 
 `WF-` for world fact, then `<subject>.<attribute>: <value>`, lowercase and dotted. **The check fires when one key carries two values anywhere in the corpus**, so the value is worth nothing on a single site and worth a great deal on the third one. **Annotate what a later session would plausibly re-invent**: figures, colors, durations, who is alive, which room has which property. Not prose judgments and not scene decisions, which belong in the map.

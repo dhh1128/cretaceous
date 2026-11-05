@@ -53,7 +53,7 @@ About two hundred and seventy-five came through the transit, and two hundred of 
 
 **Those who stay, about seventy-five <!-- @WF-genesis.stayed: 75 -->, see the others off and vow to continue the work.** The Enclave never hears from them again and has assumed for two hundred years that they died. Two hundred left, suited <!-- @WF-firstwalk.suited: true -->; ninety-four arrived.
 
-**All of that happens inside the third year.** The failure, the argument, the preparation, and then a walk of a week to a month <!-- @WF-firstwalk.duration: weeks --> — `plan/milieu-brief.md` §3 owns the timing and it is not three years <!-- @WF-genesis.occupancy: 3y --> of marching. The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy at Genesis, and the party is at the Enclave by the end of them.
+**All of that happens inside the third year.** The failure, the argument, and then the leaving, which fills most of the year <!-- @WF-firstwalk.duration: most-of-year-three -->: the surveys, learning to cope with predators, the site found and planned, and the moves, with the hundred and six lost across them — `plan/milieu-brief.md` §3 owns the timing, and it is neither one walk of weeks nor three years <!-- @WF-genesis.occupancy: 3y --> of marching. The three years <!-- @WF-genesis.occupancy: 3y --> are the occupancy at Genesis, and the party is at the Enclave by the end of them.
 
 ## 5. What Cecilia does at the Enclave
 

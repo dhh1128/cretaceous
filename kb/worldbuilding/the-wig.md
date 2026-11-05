@@ -1,5 +1,5 @@
 ---
-approval: approved 313b2f40
+approval: approved f7eb7ac2
 ---
 
 # The wig
@@ -35,7 +35,7 @@ Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** —
 
 ## 3. The founder history, and why the wigs did not save them
 
-The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 200 --> walked eighty kilometers <!-- @WF-route.overland: 80km -->, lost a hundred and six, and left aircraft behind. The answer is not that the aircraft were useless. **The aircraft worked, and were used, and could not solve the problem that killed them.**
+The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 200 --> spent most of a year surveying and then moving eighty kilometers <!-- @WF-route.overland: 80km --> on foot, lost a hundred and six across the surveys and the moves, and left aircraft behind. The answer is not that the aircraft were useless. **The aircraft worked, and were used, and could not solve the problem that killed them.**
 
 **Four wigs came through.** Two survive at Genesis today.
 
@@ -47,7 +47,7 @@ The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 2
 
 *This is worth having in the records, because it makes the Day 19 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
 
-**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people <!-- @WF-firstwalk.departed: 200 -->, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, and it cost them a hundred and six.
+**Phase 4 — The decision, and then the walk.** Having found the site, they had to *move to it* — and this is the whole answer. **A four-seat craft cannot relocate a colony.** Two hundred people <!-- @WF-firstwalk.departed: 200 -->, the cultures, the equipment, the suits, everything they owned. You could in principle shuttle it in four-seat hops over months, with two degrading airframes, an 80 km range, a charge cycle, and predators learning the route — while everyone left behind waits at a site with no fresh water. They walked instead, in moves across most of the year, and with the surveys it cost them a hundred and six.
 
 **So: the wigs solved the finding problem and could not solve the moving problem.** Survey is not transport.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 5a751956
+approval: approved 39c55c53
 ---
 
 # Character register
@@ -68,7 +68,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **So the misjudgment ledger is a three-rung ladder, not a binary:** four adults deserve better than they got; **Hesh** is right and must be opposed anyway; **Sila** is right about the danger and her answer is still unforgivable.
 
-**Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: the First Walk left Genesis with two hundred and reached the Enclave with ninety-four, **every one of them suited** <!-- @WF-firstwalk.suited: true -->, with rifles and plasma cutters. **The walk took weeks, not years** <!-- @WF-firstwalk.duration: weeks --> — see `plan/milieu-brief.md` §3, which owns the timing — and he need not state it for the case to land. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
+**Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: two hundred set out from Genesis over year three and ninety-four reached the Enclave, **every one of them suited** <!-- @WF-firstwalk.suited: true -->, with rifles and plasma cutters. **The leaving took most of year three, in surveys and moves, and the hundred and six were lost across it** <!-- @WF-firstwalk.duration: most-of-year-three --> — see `plan/milieu-brief.md` §3, which owns the timing — and he need not state it for the case to land. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
 
 **He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has twenty years <!-- @WF-impact.deadline: 20y --> and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `plan/knowledge-ledger.md`, rows N–S.
 
