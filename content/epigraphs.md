@@ -37,7 +37,7 @@ This must be unambiguous, because a reader will ask.
 
 **Cecilia never receives anything after departure, and never sends anything forward.** Not because the targeting is fuzzy — because **transmission is not a thing that exists.** You cannot send matter or information through time. <!-- @WF-timecrossing.possible: false --> You can only *go*, in person, backward.
 
-And the return is worse than that: **you can only travel forward along a worldline you personally traveled outbound.** <!-- @WF-return.rule: own-worldline --> That is FG, the novel's largest surprise, and it is the reason some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> had to physically make the trip. If anything could be *sent*, nobody needed to leave.
+And the return is worse than that: **you can only travel forward to a time you have physically lived through.** <!-- @WF-return.rule: own-worldline --> That is FG, the novel's largest surprise, and it is the reason some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> had to physically make the trip. If anything could be *sent*, nobody needed to leave.
 
 **This is what makes fragment 12's line the load-bearing sentence in the suite** — *"We are carrying it, and we are bringing it back ourselves"* — and it is exactly the sentence the colony lost.
 

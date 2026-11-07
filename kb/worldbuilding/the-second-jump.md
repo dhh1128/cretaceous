@@ -85,10 +85,10 @@ They go **before Cecilia can reach them with what she has proved.**
 
 They never prove the cure. They never build the equipment. A thousand years <!-- @WF-secondjump.distance: 1000y --> bought them nothing they could use, which is the tragedy of it: time was the constraint they thought they had.
 
-**But they solve the physics**, and it is the physics this novel turns on:
+**But they finish the physics**, and it is the physics this novel turns on. The return rule they already had at Genesis, cut on the plate at +33 months (`kb/worldbuilding/benals-equation.md`, the return anchor); the deep past adds the rest:
 
 - **You cannot send matter or information through time. You can only go, in person, backward.**
-- **You can only travel forward along a worldline you personally traveled outbound.** Only the original crew could ever go home. Everyone born here is stranded by birth.
+- **You can only travel forward to a time you have physically lived through.** Only the original crew could ever go home. Everyone born here is stranded by birth.
 - **Their own second jump is what causes the temporal anomalies**, and it caused them at the moment of the first arrival, a thousand years <!-- @WF-secondjump.distance: 1000y --> before the jump was made.
 
 **So they leave a time capsule**, buried beside the cleft where the anchor shaft of a Genesis solar array will one day be drilled. They know the site's layout because they lived in it. They place it where somebody who has had the flash will think to look, and not where a survey would turn it up by accident. It is addressed to whoever comes back.
