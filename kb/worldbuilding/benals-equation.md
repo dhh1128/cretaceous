@@ -1,5 +1,5 @@
 ---
-approval: approved 3b35e228
+approval: approved 4ef80caa
 ---
 
 # Benal's equation
@@ -11,6 +11,18 @@ approval: approved 3b35e228
 $$T_d = T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot f_{drift}(?)$$
 
 It appears in the text as a written artifact — on Benal's board, in gypsum chalk <!-- @WF-benal.writing.surface: board -->, later etched at Genesis. **The narration never explains it.** The reader is meant to grasp its *shape*: a known part, and a part with a question mark on it.
+
+**It is one line of a system.** The founders' full transit equation is a system of lines: **three lines for place**, which locate the destination in space, and **one line for time**, the one above. The place lines came out right: they put the founders on the right spot on the right world, which is why the error has to be about *when* (below). Benal's board has only ever carried the time line, because it is the only one that does not agree. **The page never shows the place lines.** Benal talks about them as part of a system ("the place lines came out", "it's only the time line that won't agree"), and at Genesis the narration gives them a glance, never a transcription. Their details are recorded here anyway, because a sequel may need them; see *The place lines*.
+
+**The founders' version adds one more term, under the whole system: the return anchor, $\langle R \mid T_d \rangle$** (Q-D5E8, Q-TFTM). At Genesis the time line reads
+
+$$T_d = \frac{T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot f_{drift}(?)}{\langle R \mid T_d \rangle}$$
+
+and the same divisor stands under the place lines, so that where it is zero there is no *where* as well as no *when*. In plain words: where you land is the origin time, corrected for the transit, corrected for not knowing when we are, **divided by whether you have already been where you are going.** $R$ is the traveler's record: everything earlier than the point they depart from, plus every moment they have lived through. The bracket is 1 when the destination is in that record and 0 when it is not; divided by 1 the equation gives a day, divided by 0 there is no answer and nowhere to land. $f_{drift}$ is a different term and stays unsolved, on the plate as on his board. `[-]` Benal never calls the new term anything but **the return anchor**, because *the anchor* already names the drift problem in D2.2. The bracket notation is not derived from quantum mechanics; it is the book's one postulate about time, stated as a rule the founders found, and the page never explains it.
+
+## The place lines
+
+`[?]` Recorded although the page never shows them, because a sequel may need them; what they take as inputs is still open. Three lines, one per dimension of space, solving for where the target spot on Earth is at the destination time. They have to, because nothing holds still across a jump: in 66 million years the solar system travels something like a quarter of an orbit around the galactic center. They are the part of the founders' work that worked.
 
 ## The terms
 
@@ -55,6 +67,8 @@ And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y -->
 **Travel is asymmetric, and the asymmetry is entanglement.**
 
 **Backward is unrestricted.** You can go, in person, to any time you like. Nothing has to be true of you first.
+
+**Backward is anchored to where you leave from.** Everything earlier than the point you depart from has already happened, and you came out of it, so it is already in your record. The founders lived in a timeline derived from the point they jumped back to; they inherited their entanglement, and jumping back is never a problem. It is *earlier than the departure point*, not *everything the traveler descends from*: a founder at 66 Mya cannot go forward to 1950, which is neither behind them nor lived.
 
 **Forward is not.** Occupying a time entangles you with it, and **you can only travel forward to an interval you are entangled with — one you have physically lived through.** <!-- @WF-return.rule: own-worldline --> That is the whole of FG. Some two hundred and seventy-five people <!-- @WF-founders.count: 275 --> had to make the trip in person because a cure cannot be entangled with anything; only a traveler can.
 
