@@ -77,7 +77,7 @@ The protocol is hers alone and it is not reckless. A blood test detects progress
 
 Every day at Genesis is now a day that might be the last one. They are no closer to testing the cure, no closer to building the equipment, and they have just learned that the deadline may be inside their own lifetimes.
 
-**So they jump again.** They still have the apparatus that was to carry them home. They reorient it to go further back instead of forward, and they go **one thousand years**, to the same spot.
+**So they jump again.** They still have the apparatus that was to carry them home, and the energy the generators banked for that trip, enough for all two hundred and seventy-five <!-- @WF-founders.count: 275 -->. A jump's cost is per person and barely depends on depth (`kb/worldbuilding/benals-equation.md`, *What a jump costs*), so seventy-five going back a thousand years <!-- @WF-secondjump.distance: 1000y --> spend something like a quarter of it. They reorient the apparatus to go further back instead of forward, and they go **one thousand years**, to the same spot.
 
 They go **before Cecilia can reach them with what she has proved.**
 

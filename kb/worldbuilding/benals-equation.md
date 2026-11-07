@@ -1,5 +1,5 @@
 ---
-approval: approved 4ef80caa
+approval: approved b505b070
 ---
 
 # Benal's equation
@@ -22,7 +22,15 @@ and the same divisor stands under the place lines, so that where it is zero ther
 
 ## The place lines
 
-`[?]` Recorded although the page never shows them, because a sequel may need them; what they take as inputs is still open. Three lines, one per dimension of space, solving for where the target spot on Earth is at the destination time. They have to, because nothing holds still across a jump: in 66 million years the solar system travels something like a quarter of an orbit around the galactic center. They are the part of the founders' work that worked.
+Recorded although the page never shows them, because a sequel may need them. Three lines, one per dimension of space, solving for where the target spot on Earth is at the destination time. They have to, because nothing holds still across a jump: in 66 million years the solar system travels something like a quarter of an orbit around the galactic center. They are the part of the founders' work that worked. `[-]` Their inputs are the target spot on Earth's surface, the transit's setting (the same one that sets the time line), and Earth's motion through the depth of the jump: its spin, its orbit, and the sun's path around the galaxy. That motion is the long, hard part of the system, and the founders got it right.
+
+## What a jump costs
+
+**The equation says where you land for a given setting of the transit. It does not contain the energy, any more than a trajectory contains its fuel.** The cost is a separate rule, and the page never states it.
+
+**The transit runs through a hidden, curled-up dimension in which every moment of time lies close to every other.** <!-- @WF-transit.route: hidden-dimension --> Its size is never stated, and it is never called Planck-sized: in real physics the smallest scales are the most expensive to reach, and a physics-literate reader would catch the claim that small means cheap. **So depth costs almost nothing.** A thousand years <!-- @WF-secondjump.distance: 1000y --> and sixty-six million <!-- @WF-transit.depth: 66Mya --> cost nearly the same, because in that dimension they are neighbors. **Nearly all the energy is a cost per person of opening the way in**, `[-]` on the order of a hundred kilowatt-hours each, so about twenty-five megawatt-hours for all two hundred and seventy-five <!-- @WF-founders.count: 275 -->. That is shockingly little for sixty-six million years, about what a small town uses in a day, and still some six times the wig's whole charge per traveler, so a jump is never cheap and a short hop is not free. **Short hops cost what long ones do**, which is why nobody can casually go back a week.
+
+**Energy cannot be sent through time either, so every leg is paid for where it starts.** The first jump was powered from home. The way home had to be carried: banking it was the americium generators' other job, about a kilowatt across the planned stay (`plan/milieu-brief.md` §3), roughly twenty-five megawatt-hours in three years <!-- @WF-genesis.occupancy: 3y -->. `[?]` The bank's store, whatever it was, has long since leaked away; what remains is the generators, at about half their old output. What the sequels must reckon with is in `plan/sequels.md`, *What a jump costs*.
 
 ## The terms
 
