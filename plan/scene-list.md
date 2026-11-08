@@ -895,9 +895,9 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **The rotors, spent here.** Established at launch and hoarded the whole way; this is what they were for. Most of the climb is a hop, speed traded for height, and one full reserve, roughly ten seconds of the rotors, carries them the rest. `kb/worldbuilding/the-wig.md` §2, §7. They clear it by almost nothing, fronds on the hull, everyone inside hearing it.
 - **He puts down on the river**, which is the one water everyone in this culture fears — and does it because a machine his people call an abomination told him to, since the channel is the only water still there when the flood goes down. **Choosing to believe it is the heresy completed in one act.**
 - **Teva holds this and that is the point.** She ran the yazhi drill; *water is death* is a rule she has taught to four-year-olds. She watches him aim for the river and does not stop him.
-- It settles onto its own boat hull on the inside reach, between the two barriers, and runs out against the near bank. **Substantially intact. It will fly again**, which is book 2's whole argument.
+- It settles onto its own boat hull on the inside reach, between the two barriers, heading upstream; with the charge nearly gone it cannot hold against the current, which carries it back onto the downstream barrier, pinned against the grating. They climb the grating onto the walkway and come ashore without touching the water. **Substantially intact. It will fly again**, which is book 2's whole argument.
 **Hazard:** triumph. They have arrived in front of everybody in hard afternoon light with no weather to hide behind, which was always the price of the heresy, and the first faces they see are not glad.
-**Ends on:** the hull grounding, and the sound of the Enclave coming.
+**Ends on:** the three of them on the barrier's walkway, and the sound of the Enclave coming.
 
 ### D19.6 — [SHORT, ~800] [Day 19, late afternoon] [BENAL] [The Vitarium] — **NEW**
 **Ladders:** EM7 P5 S9 SP8
