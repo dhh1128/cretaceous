@@ -1,5 +1,5 @@
 ---
-approval: approved e4aa3f7e
+approval: approved ad6277cd
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -174,7 +174,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | the leaves of the records | nobody's word; *metal* and *leaf* are Enclave words | `[-]` named by what the POV sees, thin metal leaves that bend, then plain "leaves"; never *paper* or *page*, and no colony word for them | D16.3, D17.1 on |
 | the paper, the working files | `[?]` open: whether *paper* is an Enclave word, since the Enclave's own records rot by design on a substrate no file names (`plan/milieu-brief.md` §6) | until that is settled, named by what the POV sees: soft sheets, stained, stuck together in blocks, that come apart in the hand | D16.2 on |
 | the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
-| the generators | read, never seen | Benal names them from the records, once, unsure: "the power"; the AI later says "generators" to Keo | D16.1, D16.4 |
+| the generators | read, never seen | `[-]` Teva reads the lit panel as power at D16.1; the AI says "generators" to Keo at D16.4 | D16.1, D16.4 |
 | the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
 | the cells and drums | read, never seen; the AI names them | the AI says "cells"; Keo calls them "jars" once, the AI corrects him, and he goes on saying jars to the others | D16.4, D17.3, D18.2 |
 | a padded seat, artificial light, a dry room | nobody's word | described by the body ("it gave under him"; "light with no flame in it") | D16.2, D16.4 |

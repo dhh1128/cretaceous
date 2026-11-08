@@ -1,5 +1,5 @@
 ---
-approval: approved 930616ac
+approval: approved d34c5b00
 ---
 
 # The wig
@@ -70,7 +70,7 @@ They find **two** wigs, and neither flies.
 
 **The rotors come from dry storage.** The side that lost the argument about leaving took the dry hull's rotor units off and stored them dry with the nickel-iron cells, as they cut the plates and stowed the boats, so that the way back stayed open (`plan/milieu-brief.md` §3). **The job is a refit, not a fabrication**, which is what makes three untrained teenagers believable: the stored units fitted back onto the dry hull, under the training system's instructions. No machining, no electronics, no expertise — just instructions, leverage, and hours. Heavy and awkward, and it gives all three of them different work.
 
-**The charge comes first, and it is Keo's alone.** On the evening of Day 16 (D16.4) the training system tells him it cannot fly without power, tells him about the cells and the drums and how long a charge takes, and talks him through filling the cells, some seventy or eighty of them, by hand with the caustic electrolyte, wiring them in series, and starting the charge on the whole bank, the first hours of which only form the dry-stored cells. By D18.1 it has been charging for two days, and at D18.2 it becomes the way home: his training, the weight, and finding and checking the stored rotors, which D19.1 fits `[-]`. **Keo strips the wig to save weight.** It has four seats and three fly, so the fourth seat goes, and so does anything else not needed to get home: `[-]` the cabin's lining panels, `[-]` the fourth seat's harness and stowage locker. The charge still will not be full by noon on Day 19.
+**The charge comes first, and it is Keo's alone.** On the evening of Day 16 (D16.4) the training system tells him it cannot fly without power, tells him about the cells and the drums and how long a charge takes, and talks him through filling the cells, some seventy or eighty of them, by hand with the caustic electrolyte, wiring them in series, and starting the charge on the whole bank, the first hours of which only form the dry-stored cells. `[-]` By D18.1 it has been charging for about a day and a half, and at D18.2 it becomes the way home: his training, the weight, and finding and checking the stored rotors, which D19.1 fits `[-]`. **Keo strips the wig to save weight.** It has four seats and three fly, so the fourth seat goes, and so does anything else not needed to get home: `[-]` the cabin's lining panels, `[-]` the fourth seat's harness and stowage locker. The charge still will not be full by noon on Day 19.
 
 ## 5. The AI, and it should be Keo
 
