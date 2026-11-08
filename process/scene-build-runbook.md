@@ -81,6 +81,8 @@ Run the four invariants from `methodology-theory.md` §5 **against the map itsel
 
 Then re-read the scene-list entry and confirm every "must carry" item has a move.
 
+**Then read the map for crisp judgments.** A figure, a distance or a habit stated as exact ("precisely the distance home and not one kilometer more", now `[retired]`) usually wants to be an approximation, and it is the ones a later scene leans on that do harm. Daniel, of that wig line: *"an example of a common AI failure mode, which is seeking to give extremely crisp judgments. Life is fuzzier than that. People have to operate on approximations, and they're not perfectly consistent."* Prefer *about*, *usually*, *rarely* unless a physical fact makes the thing exact.
+
 **`git add` the map before you run anything against it.** The suite reads `git ls-files`, so an untracked map is invisible to every check and the run comes back clean because **it never looked.** That happened on the first map written after the checks existed: `scene_map_in_complete` and `scene_map_backward_closure` both passed, and both had examined two files rather than four. A green run on a file the corpus cannot see is worse than a red one.
 
 **And run the mechanical checks here, not only at phase 7.** `uv run --with pytest pytest tools/ -q` against the map itself. On the first two maps this caught a citation to a section that does not exist and an instance of the eliminated unit word, three phases before the runbook had been putting the gate. It costs five seconds and it is defects Daniel would otherwise have read.

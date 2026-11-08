@@ -28,6 +28,7 @@ Go sentence by sentence and line by line. Apply every change as an edit, not a s
 - An action needs its purpose on the page. If a character stops to do something (gather, build, pick up, take apart), the reader must know why from the POV before or as it happens. Daniel, of D13.2's beetles: "why would Benal stop to pick up beetles? For his collection? Makes no sense at all." They were food, and nothing said so.
 - A simile must come from what the POV character has lived with; replace or cut one that reaches outside it (Daniel: "I'm just leery of using similes with things outside their experience").
 - The last line (`prompts/ai-tells-blacklist.md` §36): if the scene ends on danger, a question or a loss, cut any closing line that reassures, answers, or lets the reader stop comfortably.
+- A crisp judgment is usually false. A character, or the narrator, who states a figure or a habit as exact ("never", "not once", "precisely") is stating something people only ever know roughly; soften it to what the speaker could know, unless the absolute is the character exaggerating on purpose. Daniel: "Life is fuzzier than that. People have to operate on approximations."
 - Watch word echoes: the same noticeable word twice within a few lines, unless the repetition is deliberate.
 - Protect repeated images that pay off. Before cutting a second mention of something, check whether the scene or a later one builds on it. The author restored "empty hands" after an earlier pass cut it.
 
