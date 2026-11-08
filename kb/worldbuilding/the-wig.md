@@ -1,5 +1,5 @@
 ---
-approval: approved 1985d378
+approval: approved 13ab980b
 ---
 
 # The wig
@@ -29,7 +29,7 @@ Real technology, and lookupable: a **ground-effect vehicle**, IMO **Type 2** —
 **Two propulsion systems, and the difference between them is the whole climax.**
 
 - **Cruise:** a main propulsor at the back. Efficient in ground effect, roughly a meter up, where the compressed air beneath does most of the lifting for free.
-- **Lift rotors:** drone-derived units for vertical thrust. They allow a controlled lift off the bank instead of a long, rough planing run — which a 206-year-old hull would not survive. **They also drain the charge ruinously fast.**
+- **Lift rotors:** drone-derived units for vertical thrust. They allow a controlled lift off the bank instead of a long, rough planing run — which a 206-year-old hull would not survive. **They also drain the charge ruinously fast.** **They run off a founder buffer bank of supercapacitors, not off the cells.** The nickel-iron cells can deliver power only slowly, tens of kilowatts at most, and the four rotors need several hundred to hold a craft of roughly a tonne and a half up. So the cells refill the buffer slowly, minutes for each fill, and every fill costs range; the buffer empties in a burst, roughly ten seconds of full rotor thrust a fill. `[-]` On the page it is *the reserve*, the training system's word, never *the buffer*, which is the Enclave's patrolled grazing ground that D19.5 flies over (`plan/milieu-allocation.md` §5b).
 
 **Ceiling: about fifty feet.** Above most of the canopy. **Not above the conifer emergents**, which stand at thirty meters — twice its limit. So the flight home is not "fly over the forest." It is threading **virtual canyons between the conifers**, hopping the low canopy, and going *around* anything tall.
 
@@ -104,7 +104,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **In the air the charge falls faster than the kilometers.** The old cells give less than the training system's figure, the climbs cost more than anyone planned, in the chase and on the rotors at the tangle, and Keo's arithmetic under the flybeak is done against a number that keeps coming out worse. This is the training system's last and worst way of being slightly wrong (§5). They reach the river with almost nothing left.
 
-**Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**.
+**Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**. **Most of any climb is made the way real ground-effect craft make it**, trading speed for height in a short hop, with the rotors adding a burst at the top, and a burst is one fill of the buffer (§2). The lift off the hard is one burst. In the chase Keo cannot climb twice in quick succession, because the buffer is minutes from full again, and the flybeak can exploit that. Over the tangle at the Enclave he needs one full buffer, so he must have kept it full through the chase.
 
 **The flood is the runway.** The cyclone put eighty kilometers <!-- @WF-route.overland: 80km --> of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
 

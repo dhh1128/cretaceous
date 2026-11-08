@@ -862,6 +862,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** TRAVERSE · **Ending:** RESOLVE
 **The launch, a little short of full.**
 **Must carry:**
+- **The lift off the hard is one burst of the rotors**, one fill of the reserve, and refilling the reserve from the cells, over minutes, costs range. `kb/worldbuilding/the-wig.md` §2, §7.
 - **They lift at about 90%, believing they have about 108 km for a flight of about 88.** The training system's figure of about 120 km <!-- @WF-wig.range.claimed: 120km --> for a full charge comes from the cells' rating as if they were new; the cells are 206 years old and hold less, and nobody knows it until they are in the air. They still say *eighty*, because that is the walk. They leave before the charge is full because the water is gone, and leaving feels a little generous, not much. `kb/worldbuilding/the-wig.md` §2, §7.
 - **Three jobs, three people, nobody a passenger.** Keo flies because the training system trains him. Teva navigates and gets back, in a form that matters more, what she lost offshore. Benal is behind with the salvage doing arithmetic on charge, distance and daylight, and saying numbers nobody wants.
 - **Clear and hot, high hard light all the way home.** No weather to hide behind, and that is the price of the heresy.
@@ -877,7 +878,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **The storm that closed the walking route opened the flying one.** Eighty kilometers <!-- @WF-route.overland: 80km --> of shallow standing water on a low-relief plain is precisely the surface this machine wants, and it is a sheet rather than a lake — woodland stands out of it, conifers stand far above it, herds move through it.
 - **Ground effect is cheap, altitude is expensive, the lift rotors are ruinous**, so the rotors are hoarded from the moment they launch. `kb/worldbuilding/the-wig.md` §7.
-- **The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it.** Charge, altitude and airspeed are one number being spent three ways, and every evasion makes the next one harder. **This is the flybeak's second and last appearance** and its only allocated day besides 11.
+- **The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it.** Charge, altitude and airspeed are one number being spent three ways, and every evasion makes the next one harder. The rotors run off the reserve, roughly ten seconds of thrust a fill and minutes to refill, so Keo cannot climb twice in quick succession, which the flybeak can exploit, and he has to come out of the chase with the reserve full for the wall. `kb/worldbuilding/the-wig.md` §2, §7. **This is the flybeak's second and last appearance** and its only allocated day besides 11.
 - **The charge falls faster than the kilometers.** The old cells give less than the training system's figure and the climbs cost more than planned, so the margin they lifted with drains away, and they reach the river with almost nothing left. `kb/worldbuilding/the-wig.md` §7.
 - **Keo's redemption is arithmetic under pressure, not courage.** He is not braver than he was at the midpoint. He is thinking, with a machine, about a problem mental projection cannot touch.
 - Thirty-meter conifer emergents cannot be cleared and have to be gone around, at speed, on Teva's reading of the line.
@@ -889,7 +890,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** TRAVERSE · **Ending:** THREAT
 **The border-tangle is fifteen meters and the wig's ceiling is fifteen meters.** The last barrier in the novel is exactly as tall as their maximum and it is a wall their own people built to keep the world out.
 **Must carry:**
-- **The rotors, spent here.** Established at launch and hoarded the whole way; this is what they were for. They clear it by almost nothing, fronds on the hull, everyone inside hearing it.
+- **The rotors, spent here.** Established at launch and hoarded the whole way; this is what they were for. Most of the climb is a hop, speed traded for height, and one full reserve, roughly ten seconds of the rotors, carries them the rest. `kb/worldbuilding/the-wig.md` §2, §7. They clear it by almost nothing, fronds on the hull, everyone inside hearing it.
 - **He puts down on the river**, which is the one water everyone in this culture fears — and does it because a machine his people call an abomination told him to, since the channel is the only water still there when the flood goes down. **Choosing to believe it is the heresy completed in one act.**
 - **Teva holds this and that is the point.** She ran the yazhi drill; *water is death* is a rule she has taught to four-year-olds. She watches him aim for the river and does not stop him.
 - It settles onto its own boat hull on the inside reach, between the two barriers, and runs out against the near bank. **Substantially intact. It will fly again**, which is book 2's whole argument.
