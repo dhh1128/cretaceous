@@ -1,5 +1,5 @@
 ---
-approval: approved 402830dd
+approval: approved e4aa3f7e
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -45,7 +45,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **Coastal plain and wetland** | 13–14 | *nypa*-type palms, *weichselia* ferns, salt-tolerant scrub. **Not mangrove** — true mangroves are 50 My away. <!-- @WF-mangroves.exist: false --> Then mudflats that read as ground and are not. |
 | **Open water** | 14–15 | the boat, the storm, the bank. |
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
-| **The run home** | 19 | the whole route in reverse, at speed, from above the ground. Everything they crawled through, seen at once. |
+| **The run home** | 19 | the whole route in reverse, at speed, from above the ground, up their own river flooded to a sheet kilometers wide, with zags onto land round what blocks it. Everything they crawled through, seen at once. |
 
 **One scene has a budget of its own, and it is not a band.** **D2.3, the family nest:** **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. @D2.3
 
@@ -73,6 +73,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *palaeosaniwa* | 13 | 3 m monitor lizard, an active hunter. **Unused, and the best mid-tier land threat in the inventory.** |
 | *hesperornis* | 14 | toothed diving bird, coast. |
 | *muzquizopteryx* | 14 | small coastal pterosaur, soaring. Contrast with the flybeak — most things in the sky are harmless. |
+| *torosaurus* | 19 | **used once, at the chase's end.** A big horned dinosaur with a huge frill, of the same fauna as the saropo; a mother with her calf, belly-deep in the flood and furious at the noise, rears with her horns raised at the flybeak's last dive, and it pulls out and gives up. |
 | sea turtles, nesting | 14 | already allocated to D14.1 as the croc distraction. | @D14.1
 | *mosasaurus* | 14 | night, the boat. |
 | ***tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9

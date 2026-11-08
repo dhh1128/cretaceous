@@ -1,5 +1,5 @@
 ---
-approval: approved 5ed8bfd4
+approval: approved dd494848
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -52,7 +52,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **Day 7 is a full stop, and it is the best day in the middle of the book.** They reach the water and cannot make themselves enter it. A day of standing on a bank and arguing: build a raft, **ride a saropo across if a herd is headed that way** — discarded because nobody can steer one, and being shaken off or left standing in the middle of the channel is worse than swimming — follow the bank upstream and hope, go around, go home. Counting what they have. Nobody sleeping. It is three teenagers exhausting every alternative to getting wet, and running out of them — which is what makes Day 8 an act of courage rather than an obstacle.
 
-**And the geology agrees with the placement.** This is a low-relief plain and rivers gather as they approach the sea, so the one genuine channel is more plausible at 40 km than at 8 — where it would likely be their own river, whose bend runs through the Enclave.
+**And the geology agrees with the placement.** This is a low-relief plain and rivers gather as they approach the sea, so the one genuine channel is more plausible at 40 km than at 8. **It is their own river**, whose bend runs through the Enclave: it runs from the Enclave past the narrows to the sea, and reaches the coast somewhere along from where they come out on Days 13–14.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 68de53aa
+approval: approved 3ac7c69a
 ---
 
 # The wig
@@ -106,18 +106,21 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **Ground effect is cheap; altitude is expensive; hovering is ruinous.** Cruise a meter off the flood and the air does the work. Climb and it costs. Use the lift rotors and it costs enormously — so the rotors are **hoarded from the moment they launch**. **Most of any climb is made the way real ground-effect craft make it**, trading speed for height in a short hop, with the rotors adding a burst at the top, and a burst is one fill of the buffer (§2). The lift off the hard is one burst. In the chase Keo cannot climb twice in quick succession, because the buffer is minutes from full again, and the flybeak can exploit that. Over the tangle at the Enclave he needs one full buffer, so he must have kept it full through the chase.
 
-**The flood is the runway.** The cyclone put eighty kilometers <!-- @WF-route.overland: 80km --> of shallow standing water across a low-relief plain — see `plan/journey-calendar.md` §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** But it is a sheet, not a lake: woodland stands out of it, conifers stand far above it, and saropo herds move through it.
+**The river is the runway.** The cyclone left broad water only in the lows, and their own river, the one they crossed at the narrows on Day 8 and whose bend runs through the Enclave, has spread to a sheet of water a few kilometers wide all the way from home to the sea — see `plan/journey-calendar.md` §1, §2 — and that is precisely the surface this machine wants. **The storm that closed the walking route opened the flying one.** Teva's heading from Genesis brings them to the river's mouth, and they fly home up it: Keo takes the flood's middle and cuts the bends over water, and zags onto land only round an obstacle. Ground effect is strong over water, weaker over wet flat ground, and gone over fern and scrub, so a land leg is a hop that trades speed for height and may cost the reserve. The river line is longer than the straight line of about 88 km, even with the bends cut, and the training system's figure never counted that. The flood is not a lake: woodland stands out of it, conifers stand far above it, and saropo herds stand in it.
 
 **Obstacles, in order of how they must be handled:**
 
 | obstacle | height | answer |
 |---|---|---|
-| flooded fern savanna | — | cruise, a meter up, cheap |
+| the river's spread, and broad water in the lows | — | cruise, a meter up, cheap |
+| wet flat ground | — | cruise, dearer, the cushion weaker |
 | low canopy | ~10 m | hop it, and pay in speed |
 | **saropo herd** | 8–10 m and moving | clearable, barely — but a herd is a wall that shifts, and a startled one rears |
 | **conifer emergents** | **30 m** | **cannot be cleared. Go around.** This is the canyon system Teva has to read at speed |
+| land, at a zag | — | a hop, out of ground effect; where the flybeak gains, since it soars on the warm air over land and must flap over water |
+| **torosaurus**, a mother and calf belly-deep | — | not an obstacle to the wig: at the last zag she rears at the flybeak's dive, and it pulls out and gives up the chase |
 
-**The chase is a resource crisis, not a stunt.** The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it. Every evasion makes the next one harder, and the charge, the altitude and the airspeed are one number being spent three ways. **Keo's redemption is arithmetic under pressure rather than courage** — he is not braver than he was at the midpoint, he is *thinking*, with a machine, about a problem mental projection cannot touch.
+**The chase is a resource crisis, not a stunt.** The flybeak forces them to climb; climbing bleeds speed; bleeding speed means sinking; below is water with things in it. Every evasion makes the next one harder, and the charge, the altitude and the airspeed are one number being spent three ways. **Keo's redemption is arithmetic under pressure rather than courage** — he is not braver than he was at the midpoint, he is *thinking*, with a machine, about a problem mental projection cannot touch. **He outlasts it, and nobody fights it**: he keeps to the water, where it must flap, until it is tired, and its last dive is turned by a torosaurus rearing over her calf.
 
 ### The last obstacle is the best one
 
