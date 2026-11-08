@@ -1,5 +1,5 @@
 ---
-approval: approved 6fe787d3
+approval: approved d6f6b105
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -170,6 +170,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the plant house as the forbidden thing | D15.2 on |
 | wig | Enclave word with no referent (`kb/worldbuilding/lingo.md`) | Benal says it when he sees one; Keo has called it "a boat with wings" first, in dialogue | D16.4, D18.2 |
 | the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
+| the leaves of the records | nobody's word; *metal* and *leaf* are Enclave words | `[-]` named by what the POV sees, thin metal leaves that bend, then plain "leaves"; never *paper* or *page*, and no colony word for them | D16.3, D17.1 on |
 | the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
 | the generators | read, never seen | Benal names them from the records, once, unsure: "the power"; the AI later says "generators" to Keo | D16.1, D16.4 |
 | the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
