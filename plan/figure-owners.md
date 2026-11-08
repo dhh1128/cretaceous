@@ -23,6 +23,10 @@ approval: unapproved
 | 66 million | the same figure spelled out | `spelling` — see 66 Mya |
 | 67 Mya | where the Enclave emigrates at the end of book 3. **Not the second jump, which is a thousand years** | `plan/sequels.md` |
 | 80 km | the Enclave to the coast, overland | `plan/journey-calendar.md` §1 |
+| 120 km | the training system's range for the wig on a full charge, from the cells' rating as if new | `kb/worldbuilding/the-wig.md` §2 |
+| 88 km | the flight home, the eighty overland plus the sea to Genesis | `kb/worldbuilding/the-wig.md` §2 |
+| 108 km | what they believe they have at launch, at about 90% on the training system's figure | `kb/worldbuilding/the-wig.md` §7 |
+| 95 km | `[-]` the training system's figure for the charge at first light on Day 19 | `plan/scene-maps/D18.2.md` `CLOCK` |
 | 8 km | Day 3's distance | `plan/journey-calendar.md` §1 |
 | 5 km | `[?]` **`distinct`** — Day 13's morning leg (D13.1) and afternoon leg (D13.2), each half of the day's 10. Two propositions, one number | `distinct` |
 | 40 km | **`distinct`** — the river's distance along the route in the calendar, and the transit's spatial targeting accuracy in EP7. Two propositions, one number | `distinct` |
