@@ -1,5 +1,5 @@
 ---
-approval: approved 3ac7c69a
+approval: approved 930616ac
 ---
 
 # The wig
@@ -138,7 +138,7 @@ They arrive low on charge, in hard afternoon light, and they have been hoarding 
 
 ### Why he aims for the river specifically, and why it is the last turn of his arc
 
-On Day 19 there is floodwater everywhere, and almost all of it is easy. **The river channel is the hard target — narrow, fast, and full of the animals his culture is most afraid of.** It is also the only water that will still be there when the flood goes down. Everything else strands the machine on mud within a week.
+On Day 19 there is floodwater on either side of the channel and in every low, and most of it is easy. **The river channel is the hard target — narrow, fast, and full of the animals his culture is most afraid of.** It is also the only water that will still be there when the flood goes down. Everything else strands the machine on mud within a week.
 
 **The AI tells him this, and he has to decide whether to believe it.** A machine his people call an abomination, telling him to put down in the water his people call death. Choosing to trust it is the heresy completed in a single act, and it is Keo doing arithmetic about three months from now while something is chasing him — which is exactly the competence his arc has been building toward, and the opposite of the boy who took no suit because he wanted to prove a point.
 
