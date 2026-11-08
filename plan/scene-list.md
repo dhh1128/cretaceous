@@ -821,14 +821,14 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** a repeat of D16.4. The meeting has happened; this is work, and the AI is the instruction manual it was built to be.
 **Ends on:** `[?]` the charge indicator, short of full, and the light going.
 
-### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [A rock above the anchor cleft] — **NEW**
+### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [The crown's seaward brow, at the anchor cleft] — **NEW**
 **Ladders:** EM8 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** HELD
-**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock — **and there is no Genesis on the land behind him.** His skin prickles, the air smells of lightning, and the world's sound is gone while it lasts *(R26 signature, Q-A6KA)*.
+**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock on the crown's seaward brow, at the drilled anchor of a dead array frame — **and there is no Genesis on the crown behind him: no modules, no arches.** His skin prickles, the air smells of lightning, and the world's sound is gone while it lasts *(R26 signature, Q-A6KA)*.
 **Must carry:**
-- **The inference chain, in four steps the reader can follow.** He is old, so this is long after arrival. There is no Genesis, and Genesis went up in the first months and is still standing, so this cannot be after arrival. He can only have aged after arrival. Therefore he went backward, alive and working.
-- **Benal recognizes the specific cleft because he was lying face-down on that rock yesterday.**
-- **He does not dig tonight.** `[?]` It is nearly dark, the tide is up, or he simply cannot make himself, and the delay is what puts the capsule in the last hour of Day 19 where the surprise budget wants it.
+- **The inference chain, in four steps the reader can follow.** He is old, so this is long after arrival. There is no Genesis, and Genesis went up in the founders' years and is still standing, so this cannot be after arrival. He can only have aged after arrival. Therefore he went backward, alive and working.
+- **Benal recognizes the specific cleft because the brow is where he goes for quiet**, and he has seen the drilled hole there before.
+- **He does not dig tonight.** `[?]` It is dark, he has nothing to dig with, or he simply cannot make himself, and the delay is what puts the capsule in the last hour of Day 19 where the surprise budget wants it.
 **Hazard:** the flash as a vision sequence. It is a perception of a real moment at that place, and it should be as flat and physical as watching a man work.
 **Ends on:** him saying nothing to the others.
 
