@@ -806,6 +806,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **This pays foreshadow **R16** at full signal** — the river they crossed in low water is not in flood, it is *spread*, and a spread river is kilometers of shallow water and not a crossing at all. The way home is not the way out.
 - The boat is gone, the mudflats are under the surge, and eighty kilometers <!-- @WF-route.overland: 80km --> of walking is a route that no longer exists.
 - **They have the cure and cannot deliver it**, which is worse than not having it.
+- **Teva has read Cecilia's messages in the night** (Q-Y8KD): paper among Cecilia's own things, read by the panel light where they could be read, and left because they came apart in her hands. The scene opens on one sign of it in her body and none of the words; she tells the others only that she found them, if anything. EP13 stays the reader's alone.
 **Hazard:** despair as a repeat of Day 15. That was grief; this is arithmetic, and it should be dry and quick and much colder.
 **Ends on:** Keo saying there is one way left, and it has been charging for two days.
 
@@ -843,6 +844,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Heavy and awkward**, and all three have different work.
 - `[?]` **Nobody argues about the heresy.** They have all crossed that line separately by now; **they talk about what to do next as if it were already settled**, which is how the reader learns it is.
 - **They cannot carry it all, and that is Benal's job.** A four-seat machine, a charge that will not stretch, and an archive with more in it than they can lift. **Three exhausted teenagers choose which records come home, and the choice shapes their society permanently** — `plan/knowledge-ledger.md`. He is the only one who can compute the trade and the only one who understands what is being left, and nobody has time to argue with him.
+- **What comes home** (Q-K3K7): every protocol plate, the dating-fix tablet, Benal's equation plate, Keo's membrane kit, the register, and the first few leaves of the arrival log, the landing and the duty set down with its reason, which are Teva's evidence for the Council. Everything else stays, book 2's contested cache. Benal prices the plates and the log in distance; nobody prices a few leaves.
 **Hazard:** a competence montage. It should be slow, wrong twice, and cost skin.
 **Ends on:** the rotors seated, and the charge indicator being the new problem.
 
