@@ -897,7 +897,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Teva holds this and that is the point.** She ran the yazhi drill; *water is death* is a rule she has taught to four-year-olds. She watches him aim for the river and does not stop him.
 - It settles onto its own boat hull on the inside reach, between the two barriers, heading upstream; with the charge nearly gone it cannot hold against the current, which carries it back onto the downstream barrier, pinned against the grating. They climb the grating onto the top of the barrier and come ashore without touching the water. **Substantially intact. It will fly again**, which is book 2's whole argument.
 **Hazard:** triumph. They have arrived in front of everybody in hard afternoon light with no weather to hide behind, which was always the price of the heresy, and the first faces they see are not glad.
-**Ends on:** the three of them on the top of the barrier, and the sound of the Enclave coming.
+**Ends on:** the climb, Teva last onto the top of the barrier above the heeled wig (Q-HBSC).
 
 ### D19.6 — [SHORT, ~800] [Day 19, late afternoon] [BENAL] [The Vitarium] — **NEW**
 **Ladders:** EM7 P5 S9 SP8
