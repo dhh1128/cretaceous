@@ -783,17 +783,17 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** Benal explaining. The reader should reach it a half-step behind him and not be walked through it; and the frustrated comment must be *frustrated*, not a prompt disguised as dialogue.
 **Ends on:** him saying it out loud, and it being much worse than a lie.
 
-### D17.3 — [MEDIUM] [Day 17, afternoon] [TEVA] [The dry section] — **NEW**
+### D17.3 — [LONG] [Day 17, afternoon] [TEVA] [The dry section] — **NEW**
 **Ladders:** EM10 P4 S9 SP9
 **Purpose:** BOND · **Ending:** RESOLVE
 **What it does to six generations <!-- @WF-drift.generations: 6 -->**, in the head of the one who came here angry.
 **Must carry:**
-- `[?]` **The first fire on Genesis** (Q-DREY): in the hard sun Benal lights driftwood dried on the rock with the reading glass from the lab, found by the warmth it puts on his hand and an experiment (planted by a water drop magnifying his arm at D14.1, used to read the plate at D17.2; Q-PMW5), and Keo roasts a crab on the coals as a sea crayfish: no tail, so he has to find the meat in the legs and the body and leave the gills. The first cooked food since Noli's grounder on Day 10. Which Day 17 scene carries it is open.
+- **The first fire on Genesis** (Q-DREY, Q-PMW5): in the hard sun Benal lights driftwood dried on the rock with the reading glass from the lab, found by the warmth it puts on his hand and an experiment (planted by a water drop magnifying his arm at D14.1, used to read the plate at D17.2; Q-PMW5), and Keo roasts a crab on the coals as a sea crayfish: no tail, so he has to find the meat in the legs and the body and leave the gills. The first cooked food since Noli's grounder on Day 10.
 - **Her reaction is *they lied to us*, and it is the emotional truth and it is wrong** — the corruption was drift, not deceit. The nuance arc is the distance between this scene and the confrontation. `plan/outline.md` and `plan/character-arcs.md`.
 - **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
 - Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
 **Hazard:** an argument that resolves. Nothing is settled here; the accusation stands unrefuted until Act 3's confrontation, and a scene that answers it now spends the arc.
-- **Keo tells the others about the wigs and the charge, and neither takes it seriously.** Benal is deep in the lab and Teva is in *they lied to us*; a talking machine and a charging battery are nothing beside either. `[?]` Which Day 17 scene carries the telling is open; this one is the likeliest, since Teva's reaction is the one named.
+- **Keo tells the others about the wigs and the charge, and neither takes it seriously.** Benal is deep in the lab and Teva is in *they lied to us*; a talking machine and a charging battery are nothing beside either. It is told at the lens fire, while they eat the crabs (Q-KXN4).
 **Ends on:** her deciding what she is going to say to the Council, which is the wrong speech and she will not give it.
 
 ---
