@@ -788,7 +788,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** BOND · **Ending:** RESOLVE
 **What it does to six generations <!-- @WF-drift.generations: 6 -->**, in the head of the one who came here angry.
 **Must carry:**
-- `[?]` **The first fire on Genesis** (Q-DREY): in the hard sun Benal lights driftwood dried on the rock with a glass lens from the lab, which he knows from the records, and Keo roasts a crab on the coals as a sea crayfish: no tail, so he has to find the meat in the legs and the body and leave the gills. The first cooked food since Noli's grounder on Day 10. Which Day 17 scene carries it is open.
+- `[?]` **The first fire on Genesis** (Q-DREY): in the hard sun Benal lights driftwood dried on the rock with the reading glass from the lab, found by the warmth it puts on his hand and an experiment (planted by a water drop magnifying his arm at D14.1, used to read the plate at D17.2; Q-PMW5), and Keo roasts a crab on the coals as a sea crayfish: no tail, so he has to find the meat in the legs and the body and leave the gills. The first cooked food since Noli's grounder on Day 10. Which Day 17 scene carries it is open.
 - **Her reaction is *they lied to us*, and it is the emotional truth and it is wrong** — the corruption was drift, not deceit. The nuance arc is the distance between this scene and the confrontation. `plan/outline.md` and `plan/character-arcs.md`.
 - **Keo and Teva see a lie. Benal sees an impossible new mission.** They are not having the same experience and the scene should let them fail to notice.
 - Omya has been guarding a protocol for a journey home that was never available to her. Teva should get there and stop, because it is unbearable.
