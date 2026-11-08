@@ -1,5 +1,5 @@
 ---
-approval: approved 87f7703e
+approval: approved 68de53aa
 ---
 
 # The wig
@@ -143,7 +143,7 @@ On Day 19 there is floodwater everywhere, and almost all of it is easy. **The ri
 
 **A bend of the river runs through the Enclave** — see `plan/milieu-brief.md` §4. That is why there is a tangle to clear on the way in, and it is why there is water on the far side of it.
 
-The reach inside the perimeter is barred at both ends: log pylons driven between boulders, a droppable pole grating, weirs, netting. **The wig comes over the tangle by almost nothing and settles onto the inside reach**, between the two barriers, heading upstream into the current. With the charge nearly gone it cannot hold there, and the current carries it back down the reach onto the downstream barrier, where it fetches up against the grating as flood debris does and heels for a few seconds as the water piles against it. The three climb the grating's poles onto the walkway along its top, where the nets are worked from above, and walk along it to the bank without touching the water. **The wig stays pinned against the grating, substantially intact**, and getting it off is the colony's problem.
+The reach inside the perimeter is barred at both ends: log pylons driven between boulders, a droppable pole grating, weirs, netting. **The wig comes over the tangle by almost nothing and settles onto the inside reach**, between the two barriers, heading upstream into the current. With the charge nearly gone it cannot hold there, and the current carries it back down the reach onto the downstream barrier, where it fetches up against the grating as flood debris does and heels for a few seconds as the water piles against it. The three climb the grating's poles onto the top of the barrier along its top, where the nets are worked from above, and walk along it to the bank without touching the water. **The wig stays pinned against the grating, substantially intact**, and getting it off is the colony's problem.
 
 **The reach is one to two kilometers of water**, which is barely enough to launch from and never comfortable. **Every future flight starts as a nail-biter**, and that is correct — an aircraft with an easy margin is an aircraft that stops being frightening.
 
