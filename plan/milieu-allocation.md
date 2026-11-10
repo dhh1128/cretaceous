@@ -1,5 +1,5 @@
 ---
-approval: approved 21ab001a
+approval: approved 8b2f1382
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -176,6 +176,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
 | the generators | read, never seen | `[-]` Teva reads the lit panel as power at D16.1; the AI says "generators" to Keo at D16.4 | D16.1, D16.4 |
 | the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
+| artificial intelligence | the voice's words for itself, not taken up | `[-]` the voice says it is an artificial intelligence, a training system, not a person, with nobody in it (Q-KTY4); Keo asks how it can talk with nobody in it, is not satisfied, and goes on calling it *the voice* | D16.4 on |
 | the cells and drums | read, never seen; the AI names them | the AI says "cells"; Keo calls them "jars" once, the AI corrects him, and he goes on saying jars to the others | D16.4, D17.3, D18.2 |
 | a padded seat, artificial light, a dry room | nobody's word | described by the body ("it gave under him"; "light with no flame in it") | D16.2, D16.4 |
 | the arch frames, the wet hull | nobody's word | described once by what they resemble in the POV's own experience (ribs of a carcass; a hull sunk to its rails) | D16.1, D16.4 |

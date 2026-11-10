@@ -750,7 +750,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Must carry:**
 - **He is here because he has nothing to do**, and has had nothing since Day 11 — useless, a burden, waiting. That is why it is him and not Benal, who is in the archive. `kb/worldbuilding/the-wig.md` §5.
 - **The boy who talks to minds meets a mind that is not alive, and it answers.** He lost Noli at the midpoint and has been alone in his own head since.
-- **The AI knows the machines and nothing else** — not the mission, not the timeline, not the cure. It is degraded and should be slightly wrong about some things.
+- **The AI knows what an assistant aboard would, bounded by clearance and by sleep** — it logs Keo as an unqualified operator and refuses mission briefings (why they came, what the upgrades are for), and it was powered down after its last flight, the river survey, so it knows nothing after (`kb/worldbuilding/the-wig.md` §5, Q-DWRJ). It is degraded and should be slightly wrong about some things.
 - **Two hulls, neither flyable**: the dry one with its membrane dead and no rotors, the wet one level in shallow water off the bank.
 - **It tells him it cannot fly without power**: the founders' membrane is long dead, so it needs the dry-stored nickel-iron cells, the electrolyte in its sealed drums, and two to three days <!-- @WF-wig.charge.days: 2-3 --> on the generators for a full charge. `kb/worldbuilding/the-wig.md` §2.
 - **With its instructions he fills the cells, wires them in series and starts the charge on the whole bank**: hours of pouring caustic electrolyte by hand into the night, and it burns skin. **It is the first useful thing his hands have done since Day 11.**

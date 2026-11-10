@@ -1,5 +1,5 @@
 ---
-approval: approved 28c513d1
+approval: approved 2df83502
 ---
 
 # The wig
@@ -41,7 +41,7 @@ The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 2
 
 **Phase 1 — Arrival and stabilization.** Transit went badly. Equipment damaged, people dead, and a long stretch of going nowhere at all: securing the bank, treating casualties, working out what still functioned. Genesis is defensible against land predators precisely because it is offshore, and it is hopeless for fresh water. That is the trade they lived on while they recovered.
 
-**Phase 2 — Survey, and the wigs did this.** They had drones and they had four wigs, and they used both to look at the coast and inland. **This is how the Enclave site was found.** Aerial survey is exactly what a four-seat craft with `[-]` about 120 km <!-- @WF-wig.range.claimed: 120km --> of range on new cells is for.
+**Phase 2 — Survey, and the wigs did this.** They had drones and they had four wigs, and they used both to look at the coast and inland. **This is how the Enclave site was found.** Aerial survey is exactly what a four-seat craft with `[-]` about 120 km <!-- @WF-wig.range.claimed: 120km --> of range on new cells is for. **The dry hull's last flight was the river survey that found the Enclave site, and Cecilia Arroyo, the lead geneticist, flew it as the survey's scientist, looking for water** (Q-DWRJ). That she had seen the place from the air is one reason she volunteered to lead the party inland; her unstated reason is the one `kb/worldbuilding/the-second-jump.md` §4 gives, and nobody in book 1 learns it from the voice (Q-DWRJ). The training system holds the river's line from that flight (Q-P6CW), and Teva hears from its roster who flew it as the survey's scientist in D18.2 (Q-DWRJ).
 
 **Phase 3 — The sky turned out to belong to something else.** Drones were taken out of the air. **Two wigs were lost, at least one of them to a flybeak** — a ten-meter wingspan aerial predator against a slow, loud, low-flying machine is not a contest. The founders learned that flying here is survivable rather than safe, and they learned it expensively.
 
@@ -74,11 +74,13 @@ They find **two** wigs, and neither flies.
 
 ## 5. The AI, and it should be Keo
 
-Not a general intelligence and not an oracle. **It is the wig's maintenance and flight-training system** — a pilot's assistant, which is plausible 21st-century equipment, knows exactly what the plot needs it to know, and knows nothing else.
+Not a general intelligence and not an oracle. **It is the wig's maintenance and flight-training system** — a pilot's assistant, which is plausible 21st-century equipment. It calls itself an artificial intelligence and a training system. **It knows what an assistant aboard a mission craft would know**: the machines, and also the mission, the crew roster, the flight logs, the station's operations and the survey data (Q-DWRJ).
 
-**Hard limits, because an AI that knows everything defuses the entire mystery layer:**
+**Hard limits, because an AI that tells everything defuses the entire mystery layer.** Two of them bound what it will say, and both are the machine's own (Q-DWRJ):
 
-- It knows **the machines**. It does not know the mission, the timeline, the schism, or that the upgrades are the cure. **Those stay Benal's discoveries.**
+- **Clearance.** It logs Keo as an unqualified operator, maintenance access only, and the mission was secret government work, so it refuses mission briefings to an uncleared operator: why they came, what the upgrades are for. It answers freely about its flight logs, the roster, the station's operations and the survey data. The trio can push against that wall, learn things at its edges, and watch it decline (Q-DWRJ).
+- **Sleep.** The stayers powered it down for storage after its last flight. Its clock kept time on the station feed, so it knows how long it slept, and it knows nothing after: not the rotor units' removal, which is why it has no record of it (§4), and not the walk, the second jump, the stayers or the Enclave (Q-DWRJ).
+- **What stays Benal's** is everything after its sleep and everything behind its clearance: the second jump, the return anchor as he derives it, the stayers, and that the upgrades are the cure (Q-DWRJ).
 - It cannot repair anything itself, cannot leave, and cannot fly the wig for them.
 - After 206 years it is degraded, and it should be **slightly wrong** about some things.
 
