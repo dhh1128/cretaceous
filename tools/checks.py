@@ -334,20 +334,39 @@ def check_frontmatter() -> list[Violation]:
     return out
 
 
+def cited_paths() -> set[str]:
+    """Approved files that changed only under commits citing a ruling's tag.
+
+    `tools/approval_cited.py`, vendored from novel-method edition 1 (runbook B1,
+    Q-QFMG): keep the hash, automate the stamp. Approval bookkeeping was the largest
+    family of suite failures across the novels, and most of it was restamping files
+    whose change enacted a ruling Daniel had just given. A change whose commit names
+    the ruling is auditable, so it passes; an uncommitted change, or one under a
+    commit naming no ruling, still fails, because that is what the hash is for.
+    `python3 tools/approval_cited.py --write` restamps the accepted ones."""
+    import approval_cited
+    return {path for path, ok, _ in approval_cited.check(ROOT) if ok}
+
+
 def check_approval_not_stale() -> list[Violation]:
     """A file whose body no longer hashes to what its marker records has changed
-    since Daniel read it. No git, no dates, and uncommitted edits are visible."""
-    out = []
+    since Daniel read it. No dates, and uncommitted edits are visible. An approved
+    file passes when every commit that changed it since names a ruling's tag
+    (`cited_paths`); provisional files have no such exemption."""
+    stale = []
     for path, lines in corpus().items():
         if len(lines) < 2:
             continue
-        m = re.match(r"^approval: (?:approved|provisional) ([0-9a-f]{8})$", lines[1])
+        m = re.match(r"^approval: (approved|provisional) ([0-9a-f]{8})$", lines[1])
         if not m:
             continue
         now = body_hash((ROOT / path).read_text(encoding="utf-8"))
-        if now != m.group(1):
-            out.append(Violation(path, 2, f"body is {now}; the marker records {m.group(1)}"))
-    return out
+        if now != m.group(2):
+            stale.append((path, m.group(1), now, m.group(2)))
+    cited = cited_paths() if any(kind == "approved" for _, kind, _, _ in stale) else set()
+    return [Violation(path, 2, f"body is {now}; the marker records {was}")
+            for path, kind, now, was in stale
+            if not (kind == "approved" and path in cited)]
 
 
 # A claim phrase, not the bare word: "is approved", "are recent and unapproved",
@@ -395,7 +414,7 @@ def check_us_english() -> list[Violation]:
         # passages of Daniel's own novels. Correcting one would falsify the source.
         if line.lstrip().startswith(">"):
             continue
-        for m in pattern.finditer(line):
+        for m in pattern.finditer(unquoted(path, line)):
             out.append(Violation(path, n, f"{m.group(0)!r} → {spellings[m.group(0).lower()]!r}"))
     return out
 
@@ -436,9 +455,43 @@ def check_reserved_species_unspent() -> list[Violation]:
     return out
 
 
+# A quoted span: straight or curly double quotes on one line. Single quotes are left
+# alone, because an apostrophe would open a span that never closes properly.
+QUOTED = re.compile(r'"[^"\n]*"|\u201c[^\u201d\n]*\u201d')
+# A date that opens an event record: the leading field of a list item, a numbered
+# item, a table row or a heading, optionally bold, italic or in backticks.
+EVENT_DATE = re.compile(r"^\s*(?:[-*+]\s+|\d+\.\s+|\|\s*|#{1,6}\s+)?(?:\*\*|\*|`)?(20\d{2}-\d{2}-\d{2})\b")
+
+
+def unquoted(path: str, line: str) -> str:
+    """The line with verbatim quotations blanked out, positions preserved.
+
+    novel-method edition 1, runbook B3 (Q-QFMG, tick ~6qn4): the spelling check made
+    The Clanless paraphrase Daniel's own "likeable" out of a quoted line, and
+    correcting a quotation falsifies its source (AGENTS.md section 5). Prose under
+    `content/` is exempt from the exemption: a quoted span there is a character's
+    dialogue, which is this book's own writing, not a quotation of anyone."""
+    if path.startswith("content/"):
+        return line
+    return QUOTED.sub(lambda m: " " * len(m.group(0)), line)
+
+
+def event_date_span(line: str) -> tuple[int, int] | None:
+    """Where the date that opens an event record sits on the line, if one does.
+
+    novel-method edition 1, runbook B3 (Q-QFMG): a dated entry in a log or a table
+    of events records when something happened, which is what the line is for, not
+    approval history smuggled into a knowledge file. Only that leading date is
+    exempt; a second date, or "approved on 2026", later on the line is still read."""
+    m = EVENT_DATE.match(line)
+    return m.span(1) if m else None
+
+
 def check_dated_provenance() -> list[Violation]:
     """AGENTS.md section 2: approval history does not go in knowledge files -- no dates,
-    no 'Daniel said', no 'struck on'. Instruction that merely names him is fine."""
+    no 'Daniel said', no 'struck on'. Instruction that merely names him is fine, and
+    so are verbatim quotations and the date that opens an event record (`unquoted`,
+    `event_date_span`)."""
     pattern = re.compile(
         r"\b(20\d{2}-\d{2}-\d{2}"
         r"|Daniel(?:'s)?\s+(?:ruling|approval|correction|decision)"
@@ -449,7 +502,10 @@ def check_dated_provenance() -> list[Violation]:
             continue
         if n <= 3:
             continue              # the frontmatter fence
-        for m in pattern.finditer(line):
+        event = event_date_span(line)
+        for m in pattern.finditer(unquoted(path, line)):
+            if event and m.span(1) == event:
+                continue
             out.append(Violation(path, n, f"dated provenance in a knowledge file: {m.group(0)!r}"))
     return out
 
