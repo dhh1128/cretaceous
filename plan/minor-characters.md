@@ -1,5 +1,5 @@
 ---
-approval: approved 39c55c53
+approval: approved 83e9584d
 ---
 
 # Character register
@@ -38,7 +38,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years <!-- @WF-omya.watch.years: 60 -->. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:53`) because Teva was being trained for this.
 
-**Lumea** — mother. Dead two years. **[provisional name]** *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
+**Lumea** — mother. Dead two years. *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
 **Daven** — father. Dead, earlier than Lumea. <!-- @WF-teva.father.status: dead --> *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
 
