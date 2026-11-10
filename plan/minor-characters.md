@@ -1,5 +1,5 @@
 ---
-approval: approved c9aae771
+approval: approved 9298cc2c
 ---
 
 # Character register
@@ -7,6 +7,8 @@ approval: approved c9aae771
 Everyone but the three protagonists and Noli, who are in `plan/milieu-brief.md` §9. Names are drawn from `kb/worldbuilding/names.md`; a name used here is spent.
 
 Entries marked `[?]` were invented to close a gap and are cheap to change. They are not approved.
+
+**Who is alive.** At the book's end Keo, Teva, Benal, Noli, Joram, Riel, Omya, Marek, Lunet, Liaso, Rano, Sila, Hesh and Elana are alive. Alira dies in D1.1. Yara, Lumea and Daven are dead before the book opens. Everyone else is unstated: the yazhi, Topo, Sila's daughter, the stayers and Cecilia.
 
 ## How the parents miss their children
 
