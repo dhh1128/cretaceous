@@ -1,5 +1,5 @@
 ---
-approval: approved 8b2f1382
+approval: approved f7d38677
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -169,7 +169,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | rust | Enclave word | the archaea failsafe turns neglected old-tech to rust in hours (`plan/milieu-brief.md` §6); at Genesis it took two centuries with nothing helping it, worth one sentence once | D14.1 on; one sentence D15.2 |
 | metal, machine, old-tech, door, glass, stone | Enclave words | plain, sparingly | throughout |
 | concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the plant house as the forbidden thing | D15.2 on |
-| wig | Enclave word with no referent (`kb/worldbuilding/lingo.md`) | Benal says it when he sees one; Keo has called it "a boat with wings" first, in dialogue | D16.4, D18.2 |
+| wig | the voice's word; not an Enclave word, and nobody in the Enclave could know it (Q-T8ZQ) | Keo calls it "a boat with wings" first, in dialogue; Benal reads *wigs* in the station log at D17.2 without knowing what it names; the voice names the craft at D18.2 and all three are mystified by the word, then take it up | D16.4, D17.2, D18.2 |
 | the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
 | the leaves of the records | nobody's word; *metal* and *leaf* are Enclave words | `[-]` named by what the POV sees, thin metal leaves that bend, then plain "leaves"; never *paper* or *page*, and no colony word for them | D16.3, D17.1 on |
 | the paper, the working files | `[?]` open: whether *paper* is an Enclave word, since the Enclave's own records rot by design on a substrate no file names (`plan/milieu-brief.md` §6) | until that is settled, named by what the POV sees: soft sheets, stained, stuck together in blocks, that come apart in the hand | D16.2 on |
@@ -178,7 +178,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
 | artificial intelligence | the voice's words for itself, not taken up | `[-]` the voice says it is an artificial intelligence, a training system, not a person, with nobody in it (Q-KTY4); Keo asks how it can talk with nobody in it, is not satisfied, and goes on calling it *the voice* | D16.4 on |
 | the cells and drums | read, never seen; the AI names them | the AI says "cells"; Keo calls them "jars" once, the AI corrects him, and he goes on saying jars to the others | D16.4, D17.3, D18.2 |
-| a padded seat, artificial light, a dry room | nobody's word | described by the body ("it gave under him"; "light with no flame in it") | D16.2, D16.4 |
+| a seat whose padding has gone to grit, artificial light, a dry room | nobody's word | described by the body ("what was under it crunched to grit"; "light with no flame in it") | D16.2, D16.4 |
 | the arch frames, the wet hull | nobody's word | described once by what they resemble in the POV's own experience (ribs of a carcass; a hull sunk to its rails) | D16.1, D16.4 |
 | lab things in D16–D17 | the Vitarium's words | Teva names what the Vitarium still names in founder words (vessel, culture, seal) | D16.3, D17.1 |
 | bolts and nuts | nobody's word: the Enclave lashes and binds, and has no metal fastenings (`plan/milieu-brief.md` §6) | the first time Keo handles them, linking the cells, he describes them to the voice in his own words in dialogue, round things with a hole in them and a long straight thing like a pin with grooves running round it, and the voice gives him *nut* and *bolt*; after that the words are his and he uses them, and Benal and Teva use them only after hearing them from Keo, or describe; before D16.4 no POV says *bolt*, *bolted* or *nut* for hardware, so D16.1's modules "bolted to the rock" is a planning phrase (Daniel, Q-MMMM). `[-]` The grooves stay *the grooves* in Keo's mouth, whatever the voice calls a thread; *nut* he has only for food (`content/D6.1.md:21`), and may say so once | D16.4; D18.2, D19.1 |

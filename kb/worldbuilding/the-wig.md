@@ -1,5 +1,5 @@
 ---
-approval: approved 0fd6e9ea
+approval: approved aa53c62b
 ---
 
 # The wig
@@ -12,7 +12,7 @@ approval: approved 0fd6e9ea
 
 **WIG** — wing-in-ground-effect. A 21st-century acronym worn down into an ordinary noun across 206 years, exactly the way *saropo* wore down from *sauropod*. On the closed list in `lingo.md`.
 
-**Nobody in the Enclave has seen one.** They have the word because their ancestors had it, and it survives as a term with no referent — a word for a thing that is not there. When Benal says it at Genesis he is naming something he has only ever read about.
+**Nobody in the Enclave has seen one, and nobody there has the word.** The voice in the craft names it at D18.2, and the three are mystified by the name before they take it up; Benal has met it once already, in the station log's line about two wigs lost to the sky, without knowing what it named (Q-T8ZQ).
 
 ## 2. What it is
 
@@ -41,7 +41,7 @@ The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 2
 
 **Phase 1 — Arrival and stabilization.** Transit went badly. Equipment damaged, people dead, and a long stretch of going nowhere at all: securing the bank, treating casualties, working out what still functioned. Genesis is defensible against land predators precisely because it is offshore, and it is hopeless for fresh water. That is the trade they lived on while they recovered.
 
-**Phase 2 — Survey, and the wigs did this.** They had drones and they had four wigs, and they used both to look at the coast and inland. **This is how the Enclave site was found.** Aerial survey is exactly what a four-seat craft with `[-]` about 120 km <!-- @WF-wig.range.claimed: 120km --> of range on new cells is for. **The dry hull's last flight was the river survey that found the Enclave site, and Cecilia Arroyo, the lead geneticist, flew it as the survey's scientist, looking for water** (Q-DWRJ). That she had seen the place from the air is one reason she volunteered to lead the party inland; her unstated reason is the one `kb/worldbuilding/the-second-jump.md` §4 gives, and nobody in book 1 learns it from the voice (Q-DWRJ). The training system holds the river's line from that flight (Q-P6CW), and Teva hears from its roster who flew it as the survey's scientist in D18.2 (Q-DWRJ).
+**Phase 2 — Survey, and the wigs did this.** They had drones and they had four wigs, and they used both to look at the coast and inland. **This is how the Enclave site was found.** Aerial survey is exactly what a four-seat craft with `[-]` about 120 km <!-- @WF-wig.range.claimed: 120km --> of range on new cells is for. **The dry hull's last flight was the river survey that found the Enclave site, and Cecilia Arroyo, the lead geneticist, flew it as the survey's scientist, looking for water** (Q-DWRJ). That she had seen the place from the air is one reason she volunteered to lead the party inland; her unstated reason is the one `kb/worldbuilding/the-second-jump.md` §4 gives, and nobody in book 1 learns it from the voice (Q-DWRJ). The training system holds the river's line from that flight (Q-P6CW), and the few sites the survey marked along it as candidates for settlement; it knows nothing called home, but from Teva's description of the Enclave it settles on one of them (Q-T8ZQ), and Teva hears from its roster who flew it as the survey's scientist in D18.2 (Q-DWRJ).
 
 **Phase 3 — The sky turned out to belong to something else.** Drones were taken out of the air. **Two wigs were lost, at least one of them to a flybeak** `[-]` (both during the survey season, before the dry hull's last flight, which is why its records hold them: Q-DWRJ's sleep bound) — a ten-meter wingspan aerial predator against a slow, loud, low-flying machine is not a contest. The founders learned that flying here is survivable rather than safe, and they learned it expensively.
 
