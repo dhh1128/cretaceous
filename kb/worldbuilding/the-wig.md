@@ -1,5 +1,5 @@
 ---
-approval: approved 3f8ab3f4
+approval: approved 28c513d1
 ---
 
 # The wig
@@ -100,7 +100,7 @@ Three jobs, three people, one machine. Nobody is a passenger.
 
 **It flies by day**, and the deadline is the battery rather than the clock. The range is whatever the old cells will give, which is less than the training system says and more than nothing, so what makes the flight possible at all is the days it spent on the generators at Genesis. They lift at noon and put eighty kilometers <!-- @WF-route.overland: 80km --> behind them in about two hours. They cannot fly at night, and a wig that runs out short is down in a flooded plain.
 
-**They leave a little short of full, believing they have margin.** The charge Keo began on the evening of Day 16 takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate and comes full around noon on Day 19, which is the day the crown's water runs out. On the training system's figure of about 120 km for a full charge, Benal's arithmetic gives them about a quarter to spare over the flight home, so the argument on Days 18 and 19 is not whether a partial charge will reach but how much margin is enough. They watch it climb, ration the water, and at noon `[-]` the thirst settles it: they lift at about 90%, believing they have about 108 km, and leaving feels a little generous, not much.
+**They leave a little short of full, believing they have margin.** The charge Keo began on the evening of Day 16 takes two to three days <!-- @WF-wig.charge.days: 2-3 --> at the generators' rate and `[-]` would come full in the afternoon of Day 19, which is the day the crown's water runs out. On the training system's figure of about 120 km for a full charge, Benal's arithmetic gives them about a quarter to spare over the flight home, so the argument on Days 18 and 19 is not whether a partial charge will reach but how much margin is enough. They watch it climb, ration the water, and at noon `[-]` the thirst settles it: they lift at about 90%, believing they have about 108 km, and leaving feels a little generous, not much.
 
 **In the air the charge falls faster than the kilometers.** The old cells give less than the training system's figure, the climbs cost more than anyone planned, in the chase and on the rotors at the tangle, and Keo's arithmetic under the flybeak is done against a number that keeps coming out worse. This is the training system's last and worst way of being slightly wrong (§5). They reach the river with almost nothing left.
 
