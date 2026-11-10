@@ -14,6 +14,8 @@ Daniel is the author. You are not. Everything below follows from that.
 
 **Cretaceous follows novel-method `edition-1`.** That edition's Part C, the per-scene procedure, is this repo's `process/scene-build-runbook.md` as it stood at commit `23a2199`, plus the additions listed in `~/code/me/novel-method/runbook.md` Part C: the map's SENSES field, additive passes each followed by a canon check, and a close reading of his hand edits at the retro. This repo's live `process/scene-build-runbook.md` already carries those additions and the rulings made since `23a2199`, so it stays the operative procedure here, and `process/methodology-theory.md` stays the reasoning behind it until a later edition absorbs it. What changed between editions is in `~/code/me/novel-method/log.md`, and a SessionStart hook prints it whenever a newer edition is tagged.
 
+**Edition 1's working practice applies here** (`~/code/me/novel-method/runbook.md` B7 and D2): run `python3 ~/code/me/novel-method/tools/categorical.py --diff <rev>` on a change to canon, plan or prompt files before it goes to Daniel, and carry the event trace as a section of each map.
+
 **At every phase-9 retro, each correction from Daniel that is not canon becomes a tick in `~/code/me/novel-method`**, as `~/code/me/novel-method/adopt.md` *The flywheel* describes: his exact words, the session id and the timestamp, classed as method, craft, tool or friction. A message he types while a session is busy is a correction too. Canon corrections stay in this repo.
 
 **The per-scene flywheel numbers and the §10 log stay here**, because they are Cretaceous's own evidence; `~/code/me/novel-method/log.md` records only editions.
