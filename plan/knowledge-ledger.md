@@ -197,13 +197,13 @@ Mechanical, and cheap to check:
 
 ## How FB fails to reach the Enclave at D19.7 @D19.7
 
-The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *twenty years <!-- @WF-impact.deadline: 20y -->, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
+The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *`[-]` at most seventeen years <!-- @WF-impact.window.max: 17y -->, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
 
 But the trio must not **choose** to withhold it, because then they become unlikeable in their moment of vindication. So the failure is **epistemic, not medical.** No injury, no interruption, no fainting — the interrupted revelation is a recognizable cheat and it would waste Benal's public vindication, which is the payoff of his entire arc. Three mechanisms stack instead:
 
 1. **It cannot be demonstrated.** The timeline revelation arrives with proof — records, the wig, the protocols. The cure claim is *inferential*, resting on Benal's reading of the equation and the logs. He can assert it; he cannot show it. The room accepts what he demonstrates and declines what he merely argues, which is epistemically correct behavior and therefore devastating. **And it is thematically exact: the colony fails to believe the cure for the same reason it forgot the cure.** The link between the upgrades and the mission was always an inference, and inferences don't survive transmission. The drift mechanism and the disbelief mechanism are one mechanism.
 
-2. **Nobody has bandwidth.** In a room that has just learned it will die in twenty years <!-- @WF-impact.deadline: 20y -->, what the upgrades are *for* is not the urgent question. Not rejection — triage.
+2. **Nobody has bandwidth.** In a room that has just learned it will die in `[-]` at most seventeen years <!-- @WF-impact.window.max: 17y -->, what the upgrades are *for* is not the urgent question. Not rejection — triage.
 
 3. **Sila agrees with him.** He says it a second time, and she takes it up, enthusiastically, as confirmation of everything she has always said: the upgrades are sacred, the Mission is vindicated, the ancestors were right. She has understood nothing. **Benal is not disbelieved; he is absorbed.** Truth failing by assimilation is worse than being called a liar, and it makes Sila's non-change concrete rather than asserted.
 
