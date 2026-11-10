@@ -1,5 +1,5 @@
 ---
-approval: approved 2df83502
+approval: approved 0fd6e9ea
 ---
 
 # The wig
@@ -43,7 +43,7 @@ The problem this has to solve: two hundred people <!-- @WF-firstwalk.departed: 2
 
 **Phase 2 — Survey, and the wigs did this.** They had drones and they had four wigs, and they used both to look at the coast and inland. **This is how the Enclave site was found.** Aerial survey is exactly what a four-seat craft with `[-]` about 120 km <!-- @WF-wig.range.claimed: 120km --> of range on new cells is for. **The dry hull's last flight was the river survey that found the Enclave site, and Cecilia Arroyo, the lead geneticist, flew it as the survey's scientist, looking for water** (Q-DWRJ). That she had seen the place from the air is one reason she volunteered to lead the party inland; her unstated reason is the one `kb/worldbuilding/the-second-jump.md` §4 gives, and nobody in book 1 learns it from the voice (Q-DWRJ). The training system holds the river's line from that flight (Q-P6CW), and Teva hears from its roster who flew it as the survey's scientist in D18.2 (Q-DWRJ).
 
-**Phase 3 — The sky turned out to belong to something else.** Drones were taken out of the air. **Two wigs were lost, at least one of them to a flybeak** — a ten-meter wingspan aerial predator against a slow, loud, low-flying machine is not a contest. The founders learned that flying here is survivable rather than safe, and they learned it expensively.
+**Phase 3 — The sky turned out to belong to something else.** Drones were taken out of the air. **Two wigs were lost, at least one of them to a flybeak** `[-]` (both during the survey season, before the dry hull's last flight, which is why its records hold them: Q-DWRJ's sleep bound) — a ten-meter wingspan aerial predator against a slow, loud, low-flying machine is not a contest. The founders learned that flying here is survivable rather than safe, and they learned it expensively.
 
 *This is worth having in the records, because it makes the Day 19 chase a repetition of a founder-era disaster rather than a novel threat. Benal or the AI can know that flying kills people here, because it already has.*
 
