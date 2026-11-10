@@ -1,5 +1,5 @@
 ---
-approval: approved dc8481c8
+approval: approved da45c1a6
 ---
 
 # Cretaceous — Milieu Brief
@@ -31,7 +31,7 @@ Near-future humanity discovers time travel at almost the same moment it discover
 
 With no cure in reach, a desperate answer: send designated survivors — scientists, soldiers, specialists — 66 million years back, to the Yucatan, to the exact point where the Chicxulub impactor will land. The logic is that whatever they build there will be erased by the impact, so nothing they do can leave a trace and no paradox can occur. (At the time of the decision, it is still unclear to scientists whether a change in the past can alter the future, and this is the only way they can buy themselves enough time while still being highly confident that no trace of the intrusion will remain.) Their charge is to solve the pandemic, learn how to travel *forward*, and carry the solution home.
 
-The transit went wrong. Equipment was damaged, people died, and knowledge was lost. **206 years** have passed. The colony has been in survival mode ever since.
+The transit went wrong. Equipment was damaged, a handful of people died <!-- @WF-transit.dead: handful --> and `[-]` others were nearly lost, and knowledge was lost. The number is never stated on the page; it was small, and it shocked them (Q-ZE8H). **206 years** have passed. The colony has been in survival mode ever since.
 
 ## 2. Mission status — what is true, and what they believe
 

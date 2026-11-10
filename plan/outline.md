@@ -1,5 +1,5 @@
 ---
-approval: approved a9226f13
+approval: approved ff4016b7
 ---
 
 # Cretaceous — Outline
@@ -150,7 +150,7 @@ Ben's super-senses detect something: a hum, a smell. They find a functional, sea
 [POV: Benal] [Fear Level: Awe, then rising Intellectual Dread]
 They don't turn back. Benal is drawn to the temporal lab.
 
-Revelation (Part 1): They find the logs of the perfect arrival.
+Revelation (Part 1): They find the logs of the arrival, with the transit's few dead set down by name (Q-ZE8H).
 
 Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from the Dark Night. He realizes: "They couldn't go back. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
 
