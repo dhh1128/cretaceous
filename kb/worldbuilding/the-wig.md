@@ -1,5 +1,5 @@
 ---
-approval: approved aa53c62b
+approval: approved 10c0ded0
 ---
 
 # The wig
@@ -134,7 +134,7 @@ They arrive low on charge, in hard afternoon light, and they have been hoarding 
 
 ## 7b. The landing, and where the wig lives afterward
 
-**It clears the tangle by almost nothing** — fronds on the hull, everyone inside hearing it — and comes down **on the river**, settling onto its own boat hull and running out to a stop against the near shore. Substantially intact. It will fly again.
+**It clears the tangle by almost nothing** — fronds on the hull, everyone inside hearing it — and comes down **on the river**, settling onto its own boat hull and `[-]` carried back by the current against the downstream grating, where it holds (D19.5). Substantially intact. It will fly again.
 
 **That last part is deliberate and it is the point.** A wrecked wig is a story that ends. An intact, working wig is an object the colony now has to have an argument about, forever — and it is the centerpiece of book 2. **It cannot recharge or fly back to Genesis until it has been grown a new membrane**, from the cysts and the etched plate Keo carried home, and whether to grow it is the argument.
 

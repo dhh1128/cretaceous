@@ -49,7 +49,7 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | FD | The mission was to travel forward *with* the solution, not send it | seeded **EP3** and **EP5**, completed **EP13** | D17.2 | — | ironic | @D17.2
 | FE | Impact is ~2 decades out, not centuries | **EP9**, the global alert | D17.2 | D19.7 | ironic | @D17.2 @D19.7
 | FF | The colony does not know what year it is | **EP7** (targeting confidence), completed by Benal | D17.2 | D19.7 | shared confusion → shared | @D17.2 @D19.7
-| FG | Only original colonists could return | **hidden** | D17.2 | D19.7 | **hidden — SU3** | @D17.2 @D19.7
+| FG | Only original colonists could return | **hidden** | D17.2 | `[-]` not in book 1 (D19.7 delivers FE and FF only) | **hidden — SU3** | @D17.2 @D19.7
 | FH | The schism; a second jump, a thousand years <!-- @WF-secondjump.distance: 1000y --> back | D15.4 (Teva's flash) | D15.4 partial, D17.2 whole | — | shared confusion → shared | @D15.4 @D17.2
 | FI | The signal symbol | D11.6 (Keo's flash) | D11.6, meaningless | — | shared confusion | @D11.6
 | FJ | What became of the Lost Colonists | **never** | never | — | **hidden — SU4, stays dark** |
@@ -57,8 +57,8 @@ Reader / Trio / Enclave. "—" means still doesn't know at the end of book 1.
 | FL | Teva's mother died of what kills Alira | D1.1 | Keo & Benal at D15.4 | — | ironic *within the cast* | @D1.1 @D15.4
 | FM | **Keo's sister Yara, and his part in her death** — the colony knows a croc took her after rain; only his family knows he was beside her and his push did nothing | **Act 1** | Teva & Benal at D15.4 (his part; the death itself they already know) | the death, yes; his part, no | **ironic — see below** | @D15.4
 | FN | Joram and Riel's protectiveness is guilt, not distrust | Act 1, accumulating | Keo at D19.7 | — | ironic | @D19.7
-| FO | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | Benal at D19.7 | — | ironic | @D2.2 @D2.6 @D19.7
-| FP | The founders' corruption was drift, not deceit <!-- @WF-corruption.kind: drift --> | **EP13**, the coda | D19.7 | D19.7 | **the false solution — see below** | @D19.7
+| FO | Marek is right, and is the only adult demanding action | D2.2 against D2.6 | `[-]` Benal, in his own POV at D19.6 (D19.7 is Keo's) | — | ironic | @D2.2 @D2.6 @D19.7
+| FP | The founders' corruption was drift, not deceit <!-- @WF-corruption.kind: drift --> | **EP13**, the coda | `[-]` Teva at D19.8 | `[-]` withheld; Sila never learns it | **the false solution — see below** | @D19.7
 
 ## The reader-payment column
 
@@ -142,7 +142,7 @@ Twelve, plus a coda.
 | 5 | mid Act 2 | Targeting parameters | Confidence bounds. Seeds F and D — they will not know precisely when they land. |
 | 6 | late Act 2 | An internal decision about what to tell the colonists | **Plants the false solution.** Should read as a choice to withhold. |
 | 7 | Act 3 | Corrupted log | The schism. "…they're… jumping… [static]…" |
-| — | **coda, after D19.8** | The same voice as #4, or the source behind #6 | **Corrects the false solution in the channel that planted it.** What looked like deceit was terror, imperfectly transmitted. Delivered to the reader, never to the characters. |
+| — | **coda, after D19.9** `[-]` | The same voice as #4, or the source behind #6 | **Corrects the false solution in the channel that planted it.** What looked like deceit was terror, imperfectly transmitted. Delivered to the reader, never to the characters. |
 
 The suite is reviewed on its own for chronological coherence, scientific plausibility, voice variety, and pathos — and above all for whether a reader can assemble the truth from it *before Benal does*. If they can, Act 3 stops being a reveal and becomes a payoff.
 

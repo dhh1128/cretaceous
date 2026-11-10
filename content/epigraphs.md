@@ -219,7 +219,7 @@ And the return is worse than that: **you can only travel forward to a time you h
 
 ---
 
-### EP13 — the coda, after D19.8. **The fragment they leave behind.**
+### EP13 — the coda, after D19.9. **The fragment they leave behind.**
 
 > **[MSG · C.ARROYO → M.ARROYO · NO ROUTE · NOT SENT · JUMP −3 DAYS]**
 >
