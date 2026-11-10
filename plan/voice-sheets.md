@@ -1,5 +1,5 @@
 ---
-approval: approved a7c5d1d5
+approval: approved e6b36f91
 ---
 
 # Voice sheets
@@ -21,7 +21,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 | | speech is for | shape |
 |---|---|---|
 | **Keo** | moving people | asks, protests, instructs. He keeps an exchange alive |
-| **Teva** | closing exchanges, and opening other people | two words, or a marshaled paragraph. Nothing between |
+| **Teva** | closing exchanges, and opening other people | two words, or a marshaled paragraph, through Day 13; from Day 14 she also talks in between, in real conversation, asking what she does not need to know (Q-NM73) |
 | **Benal** | explaining | the longest sentences and the only subordinate clauses |
 
 ---
@@ -68,7 +68,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 - **Days 1–6, defended.** Assertions to the bone. Questions only when she needs something from you.
 - **Days 10–13, cracking.** Day 12 she decides and is wrong, and Day 13 puts her down. Being carried is a thing she cannot conceal, and concealment was the whole apparatus.
-- **Days 14–19, changed.** She asks questions she does not need the answer to. That is the whole shift and it should be almost invisible.
+- **Days 14–19, changed.** She asks questions she does not need the answer to, and she carries a conversation: she answers, follows up, argues, and says what she is looking for. Daniel, of a Day 17 drafted to the old rule: "She's becoming cardboard… Can't she carry on conversations?" (Q-NM73).
 
 **What does not change.** She still says less than she means. What she loses is the belief that saying more is dangerous.
 
