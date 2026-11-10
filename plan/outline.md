@@ -1,5 +1,5 @@
 ---
-approval: approved ff4016b7
+approval: approved bc61eb96
 ---
 
 # Cretaceous — Outline
@@ -191,8 +191,8 @@ Rationale (Teva's Nuance Arc): As Teva makes the accusation (which we first see 
 Rationale (Benal's Vindication Arc): Ben stands with his friends, his "useless" work now vindicated as the most important knowledge in their world.
 
 15. Final Image:
-[POV: Keo] [Fear Level: Low (Replaced by Determination)]
-The stunned, furious, terrified faces of the Council. Keo's parents, standing under guard, lock eyes with their son with a look of terrifying, vindicated pride. Benal's parents look at their fragile son with new, shocked respect. Keo, Teva, and Ben stand together, no longer children, having saved their people only to challenge their entire existence.
+[POV: Teva] [Fear Level: Low (Replaced by Determination)]
+The parents' moment comes at the end of the confrontation, in D19.8, in Teva's POV. Keo crosses to his parents under guard; Joram's face is working, and Riel weeps against him. Benal turns and meets Marek's eyes. Teva's own first tears come, standing between two families, while the Council sits on in the lightmold. The book's last image comes after that, in D19.9: later that night the three of them are on the rock above the kiva, keeping the Watch together, no longer children, having saved their people only to challenge their entire existence.
 
 ## The sequels
 
