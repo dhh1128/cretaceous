@@ -1,5 +1,5 @@
 ---
-approval: approved d34c5b00
+approval: approved 3f8ab3f4
 ---
 
 # The wig
@@ -65,8 +65,8 @@ The trio do not need to move a colony. They need to move **three people and a sa
 
 They find **two** wigs, and neither flies.
 
-- **The dry one** — hull sound, structure intact, sitting where it was left. Its membrane is dead, as both are, and its lift rotor units are not on it: they are in dry storage with the nickel-iron cells.
-- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. It went down level, so part of it stands above the waterline. **Two centuries in seawater leave nothing on it usable, and it stays a wreck.**
+- **The dry one** — hull sound, structure intact, sitting where it was left: sealed for two centuries in a hangar on the hard, the same aluminum-skinned rigid-wall kit as the lab modules but long and high enough for a hull, banked to the eaves and sealed, its doors facing the ramp and opened by the same covered manual release as the hatch. From outside it is one more banked mound. The hull rests inside on a wheeled launch cradle that still rolls, and in D19.1 they push it out onto the level concrete before the lift-off (Q-CTEM). Its membrane is dead, as both are, and its lift rotor units are not on it: they are in dry storage with the nickel-iron cells.
+- **The wet one** — settled in shallow water off the bank, hull ruined by two centuries of sea. It went down level, so part of it stands above the waterline. Its tall tail, crusted white, is the only fin anyone can see, from the crown's top, and it is what Keo walks to at dusk on Day 16 (Q-CTEM). **Two centuries in seawater leave nothing on it usable, and it stays a wreck.**
 
 **The rotors come from dry storage.** The side that lost the argument about leaving took the dry hull's rotor units off and stored them dry with the nickel-iron cells, as they cut the plates and stowed the boats, so that the way back stayed open (`plan/milieu-brief.md` §3). **The job is a refit, not a fabrication**, which is what makes three untrained teenagers believable: the stored units fitted back onto the dry hull, under the training system's instructions. No machining, no electronics, no expertise — just instructions, leverage, and hours. Heavy and awkward, and it gives all three of them different work.
 
