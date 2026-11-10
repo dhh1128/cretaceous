@@ -1,5 +1,5 @@
 ---
-approval: approved 874b919d
+approval: approved 30de77ed
 ---
 
 # Benal's equation
@@ -68,7 +68,7 @@ Everything follows from that. Nobody can date the impact closer than *about two 
 
 The equation is the mechanism behind the revelation at Genesis. The founders' plate carries the *return anchor* (above): travel is not symmetrical, forward and backward are not the same operation, and forward goes only to where the traveler has already been. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
 
-And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, to the same spot — was launched on a signal the heretics received: the symbol Keo sees in his first temporal flash. *(Not 67 Mya. That is book 3's emigration, a different jump a million years deep; see `plan/sequels.md`.)*
+And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, to the same spot — [~] was the heretics' own, and they marked it with the symbol Keo sees in his first temporal flash; where the mark came from is left open (`kb/worldbuilding/the-second-jump.md` §11). *(Not 67 Mya. That is book 3's emigration, a different jump a million years deep; see `plan/sequels.md`.)*
 
 ## Why you can only return where you have been — the mechanism
 

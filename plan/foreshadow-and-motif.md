@@ -1,5 +1,5 @@
 ---
-approval: approved d7d84571
+approval: approved 8ee8dc44
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -40,7 +40,7 @@ Planning layers B8 and B9, book-wide. Every plant paired with its payoff in both
 | R12 | "We'll be fine" | D2.1 | after the midpoint nobody can say it, and someone tries | D11.5 | faint @D2.1 @D11.5 |
 | R13 | Liaso's story: a T. rex watched him for an hour | D2.9 | the single distant sighting | Day 13 | none @D2.9 |
 | R13b | **The founders lost two wigs and their drones to the sky** | Genesis records, D17.2 | the Day 19 chase is a repetition of a founder-era disaster, not a novel threat | D19.4 | faint @D17.2 |
-| R14 | The temporal flash symbol: **a ring with a straight line struck through it** <!-- @WF-flash.symbol: ring-and-line --> | D11.6 | the signal the heretics received | D17.2 | **overt** @D11.6 @D17.2 |
+| R14 | The temporal flash symbol: **a ring with a straight line struck through it** <!-- @WF-flash.symbol: ring-and-line --> | D11.6 | [~] the stayers' own mark for their jump, heading the equation plate and their last leaves; nothing in the lab says where it came from | D17.2 | **overt** @D11.6 @D17.2 |
 | R15 | Marek dismissive at home / fighting in the chamber | D2.2 / D2.6 | **Marek's regard, made overt** — he defends Benal in public and stands beside him (D19.7, seen by Keo), and Benal turns, meets his look and hands back his words while Marek listens (D19.8, seen by Teva) | D19.7 / D19.8 | none @D2.2 @D2.6 @D19.7 |
 | R15b | **Marek's dismissal is contempt-shaped and is actually pity** | D2.2 / D2.6 | **D19.7: he says aloud that he was wrong and stands beside his son — the down payment on the repair; book 2: he delivers on it by campaigning for and backing Benal's return to Genesis** | D19.7, B2 | none @D2.2 @D2.6 |
 | R16 | **The river crossed easily in low water** | Day 8 | **not in flood — spread.** The channel becomes kilometers of shallow water and stops being a crossing at all; the way home is not the way out | Days 16–18 | faint |
