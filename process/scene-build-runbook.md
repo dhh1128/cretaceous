@@ -196,4 +196,5 @@ Not optional, and not long. Budget it before you start so the session does not e
 2. **Update this runbook**: whatever you had to work out that was not written down.
 3. **Update `ai-tells-blacklist.md`**: new tells from Daniel's critique; and check whether the old ones recurred.
 4. **Record the three flywheel numbers** (`methodology-theory.md` §11): invention-ledger items asked, author words read, author words written. They should fall from scene to scene. If they do not, the flywheel is not turning and something in this procedure is wrong.
+5. **At a handoff, follow `process/handoff.md`**: write the handoff, point the tracked pointer at it, and run novel-method's `capture.py`, whose output the retro classifies (novel-method edition 1, runbook D9).
 
