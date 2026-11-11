@@ -1,5 +1,5 @@
 ---
-approval: approved ee079824
+approval: approved 7f3a3433
 ---
 
 # Voice sheets
@@ -38,7 +38,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What does not change.** The practical care. He still expresses affection by handing you something or telling you to drink. What he loses is the certainty that he is the one who knows.
 
-**Tics.** Calls him **Ben**, as everyone their age does; **Benal** only in anger. His parents and the elders say *Benal*, with one exception: Marek's remark that Benal hands back at D19.8, *It isn't anywhere yet, Ben*, which is why it stayed with him (Q-VPHA). Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
+**Tics.** Calls him **Ben**, as everyone their age does; **Benal** only in anger. His parents and the elders say *Benal*, with one exception: Marek's remark that Benal hands back at D19.8, *Spend some time with something that you actually live*, which is why it stayed with him (Q-VPHA, Q-PR24). Trails into ellipsis when emotional and abandons the sentence rather than finishing it — *"That's… no. You heard Hesh. It's eighty kilometers <!-- @WF-route.overland: 80km -->. It's a swamp. It's…"* **[drafted]**
 
 **Does not say** — each with its trigger and what holds after it:
 
