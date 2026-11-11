@@ -1,6 +1,7 @@
 """Assemble the book from the chapter files.
 
     python3 tools/build_book.py [out.md]      # default: .ignored/book.md
+    python3 tools/build_book.py --ids [out.md]  # reading copy: each scene headed by its id
 
 Each `content/chN.md` holds a chapter's label, its epigraph if it has one, and one
 `<!-- scene: D<day>.<n> -->` line per scene, with `§` between scenes. The prose lives
@@ -40,7 +41,7 @@ def chapters() -> list[Path]:
     return [p for p in found if re.fullmatch(r"ch\d+", p.stem)]
 
 
-def build() -> str:
+def build(ids: bool = False) -> str:
     source = (CONTENT / "epigraphs.md").read_text()
     out = []
     for n, path in enumerate(chapters(), 1):
@@ -51,7 +52,10 @@ def build() -> str:
 
         def scene(m: re.Match) -> str:
             f = CONTENT / f"{m.group(1)}.md"
-            return COMMENT.sub("", body(f)).strip() if f.exists() else f"[{m.group(1)} not yet drafted]"
+            if not f.exists():
+                return f"[{m.group(1)} not yet drafted]"
+            head = f"<!-- -->\n\n*[{m.group(1)}]*\n\n" if ids else ""
+            return head + COMMENT.sub("", body(f)).strip()
 
         text = re.sub(r"<!-- scene: (D\d+\.\d+) -->", scene, text)
         out.append(f"## {n}\n\n" + COMMENT.sub("", text).strip())
@@ -59,9 +63,11 @@ def build() -> str:
 
 
 def main(argv: list[str]) -> int:
+    ids = "--ids" in argv
+    argv = [a for a in argv if a != "--ids"]
     dest = Path(argv[0]) if argv else ROOT / ".ignored" / "book.md"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    text = build()
+    text = build(ids)
     dest.write_text(text)
     print(f"{dest}: {len(chapters())} chapters, {len(text.split()):,} words")
     return 0
