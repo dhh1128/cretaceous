@@ -1,5 +1,5 @@
 ---
-approval: approved ef5bceb6
+approval: approved 42dd15ff
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -152,8 +152,8 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 | 11 | unshelled since Day 10; she carries it all day, and the rain is the only reason she can walk at all. **She puts it back on during Night 11**, the reservoirs discharged by a night of cool rain, and wears it from then on; it works patchily and she stops trusting its camouflage | shoulder capacitor finally goes. **No shock grid, no UV flash** — his defenses are gone and only he knows. **The passive joint assist keeps working**, because it is a spring and draws nothing from the capacitors, so what he loses is the ability to defend himself and not the ability to keep walking |
 | 12–13 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
 | 14 | mudflat silt `[?]` | `[?]` the open elbow, battered on the boat |
-| 15 | **immersion.** `[?]` Biofilm dying in sheets, from starvation — no feed since Day 6 — and the night's battering on the boat and the coral, not from the salt. **She is wearing it, so it floats her** (`kb/worldbuilding/safety-suits.md`); what the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
-| 16 | a dead gray skin she is still wearing because taking it off is worse | the same |
+| 15 | **immersion.** `[?]` Biofilm failing in sheets, from starvation — no feed since Day 6 — and the night's battering on the boat and the coral, not from the salt. **She is wearing it, so it floats her** (`kb/worldbuilding/safety-suits.md`); what the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
+| 16 | a starved gray skin she is still wearing because taking it off is worse. **Starving and damaged, not dead**: the outer film gray and flaking, no glow, no color-matching, no cooling; whether it can be brought all the way back is not known. What it still gives is passive: the plating against punctures and the foam that floats her | the same |
 
 **Two moments worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved d060b7ca
+approval: approved 3a46b1dc
 ---
 
 # Day 19: what every scene must pay
@@ -30,7 +30,7 @@ Nobody here is articulate about their feelings (`plan/voice-sheets.md`, rule 5),
 
 **The Enclave's coming-of-age begins**, in parallel to theirs: Rano's breath and then his hands on the metal (D19.6); Hesh the first to accept, and the schism opening (D19.7); the wig in the river as an argument nobody has had yet (D19.8). Begun, never finished.
 
-**The suits.** The founders' gift, dead gray skins worn home because taking them off is worse. They are the image of doctrine treated as sacred and founders as all-knowing, and of children who lived anyway. Show them (Teva's flaking at the Watch, Riel's *That is what the suits are for*); never explain them.
+**The suits.** The founders' gift, starved gray skins worn home because taking them off is worse. They are the image of doctrine treated as sacred and founders as all-knowing, and of children who lived anyway. Show them (Teva's flaking at the Watch, Riel's *That is what the suits are for*); never explain them.
 
 **Cecilia.** None of her words surface (Q-B7ET). Her heartache is softened by what the reader can see and she could not: the cure she built lives in every child, and three of them carried the rest of it home, which is what EP13 asks of whoever is still standing. Teva or Benal may hold that in a thought: her work arrived. Her motive stays unrevealed.
 
