@@ -142,6 +142,16 @@ Plus the physics that Benal earns: only the original crew could ever have gone h
 - **No fragment and no character may imply two-way contact.** The capsule is an object somebody buried and somebody else dug up. It traveled by sitting still.
 - **The capsule must not do Benal's work for him.** `plan/outline.md` has him earning FG from the equation, the flash, and an offhand remark. If a document simply explains the physics, his epiphany becomes a retrieval. **Settled: he deduces it first.** He earns the physics from the equation, the flash and the offhand remark; the D18.3 flash shows the burial; at D19.2 he digs the capsule out and does not open it, so in book 1 it proves a second jump happened by existing and explains nothing. What it holds opens book 2.
 
+## 10b. What a flash carries
+
+**Every flash has the same signature**: the skin prickles, the hairs lift on the arms and the back of the neck, the air smells of lightning, and the present's sound drops out for the flash's length (`plan/foreshadow-and-motif.md` R26).
+
+**Beyond the signature, the other time comes through on one channel only, sight or hearing, never both.** A hearing flash leaves the present in view: at D14.1 Benal watches the swell break without a sound while he hears a sound from the other time. A sight flash replaces what the person sees and brings no sound with it, which is why Teva's flash of the founders' argument at D15.4 is silent. **Smell can come with either** (Keo's salt with the symbol at D11.6). **Some flashes carry no channel at all and only take time**: lost steps (D13.2), a walk to the edge (D15.3), a skipped count (D16.3).
+
+**The channel is not tied to the person and varies from flash to flash.** Benal has heard (D14.1, D15.1) and seen (D15.4, D18.3); Keo has seen (D11.6, D16.2) and lost time (D13.2, D15.3).
+
+**Why, for the author:** sight and hearing both pass through one relay in the brain before they reach awareness, and a flash takes that relay, which can hold one sense at a time. Smell is the one sense that bypasses the relay, which is why the smell of lightning always gets through. None of the trio has these words. In book 2 they pool what their flashes carried, methodically, and Benal can reach the pattern from the evidence without the anatomy.
+
 ## 11. Still open
 
 - The arithmetic reconciliation in §9.
