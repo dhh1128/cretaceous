@@ -1,5 +1,5 @@
 ---
-approval: approved b807ebc3
+approval: approved 793e1fcd
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -168,7 +168,7 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 |---|---|---|---|
 | rust | Enclave word | the archaea failsafe turns neglected old-tech to rust in hours (`plan/milieu-brief.md` §6); at Genesis it took two centuries with nothing helping it, worth one sentence once | D14.1 on; one sentence D15.2 |
 | metal, machine, old-tech, door, glass, stone | Enclave words | plain, sparingly | throughout |
-| concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the water plant as the forbidden thing | D15.2 on |
+| concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the water building as the forbidden thing | D15.2 on |
 | wig | the voice's word; not an Enclave word, and nobody in the Enclave could know it (Q-T8ZQ) | Keo calls it "a boat with wings" first, in dialogue; Benal reads *wigs* in the station log at D17.2 without knowing what it names; the voice names the craft at D18.2 and all three are mystified by the word, then take it up | D16.4, D17.2, D18.2 |
 | the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
 | the leaves of the records | nobody's word; *metal* and *leaf* are Enclave words | `[-]` named by what the POV sees, thin metal leaves that bend, then plain "leaves"; never *paper* or *page*, and no colony word for them | D16.3, D17.1 on |
