@@ -669,10 +669,10 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** the reunion played deadpan. They have each believed the other two dead, and finding them alive breaks something open in all three: voices crack, Teva weeps, and they hold on to each other. What they do not have is the energy for a speech about it.
 **Ends on:** the station along the bank, standing and silent, and nobody there.
 
-### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [The plant house] — **NEW**
+### D15.2 — [MEDIUM] [Day 15, morning] [TEVA] [The water plant] — **NEW**
 **Ladders:** EM10 P7 S7 SP6
 **Purpose:** PRESSURE · **Ending:** THREAT
-**They reach Genesis and find almost nothing.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the one building they can reach stands open with nothing in it: the desalination plant house, a ruin, with the flood between it and the crown.
+**They reach Genesis and find almost nothing.** Eighty kilometers <!-- @WF-route.overland: 80km -->, nineteen days <!-- @WF-story.span: 19d -->, everything it cost, and the one building they can reach stands open with nothing in it: the desalination water plant, a ruin, with the flood between it and the crown.
 **Must carry:**
 - `[?]` **This is Teva's lowest point and it is specifically hers.** She navigated. She is the reason they are standing here, and being right about the destination turns out to buy nothing.
 - The headache that cost them the gap in the reef is still on her, and it is her own decision that left it there (`plan/milieu-brief.md` §4, assumption 6).
@@ -683,7 +683,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D15.3 — [MEDIUM, ~1,400] [Day 15, evening] [KEO] [The flooded section] — **NEW**
 **Ladders:** EM10 P9 S7 SP6
 **Purpose:** TRAVERSE · **Ending:** THREAT
-**Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised walkway of the desalination plant house, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
+**Night coming, and the only way in.** They shelter in the only part of Genesis that is open, which is the part that is under water: the raised walkway of the desalination water plant, roofed by the part of its vault that still stands, above a floor where the surge still stands round the rust of the machinery, off the ground for the night.
 **Must carry:**
 - **The one genuine chill in the book, and it is evaporative rather than the sea** — wet skin in the wind the storm left, and no fire, the kindler gone with the fieldpack. `body-and-resources.md`: write the symptom, never the climate.
 - **Keo has no suit and never has had one.** Everything the suits were for is now happening directly to his skin.
@@ -691,7 +691,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Hazard:** describing the place. Three people in a wet dark room is the subject.
 **Ends on:** full dark, and the night all ahead of them.
 
-### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The plant house walkway, above the flooded floor]
+### D15.4 — [LONG, ~2200] [Day 15, night] [TEVA] [The water plant walkway, above the flooded floor]
 **Ladders:** EM10 P7 S9 SP7
 **Purpose:** BOND · **Ending:** SETTLED
 **The Dark Night, and the confessions.** The B-story climax: chosen family forged.
@@ -700,7 +700,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 - **Keo's guilt** — *I destroyed my family's lives for nothing.* **Benal's shame** — his parents pity him, and his work is useless. **Keo's connection** — *mine don't pity me, they don't trust me; we're fighting the same battle.* **Teva's bridge** — *I left her while she's disappearing.* Exact material in `plan/outline.md`.
 - **Teva's flash: the original argument inside Genesis**, and the faces are not malicious. Terror, grief, stubborn paralysis. This is the first seed of the nuance arc, and per `kb/worldbuilding/the-second-jump.md` it is a real event she is perceiving, not a symbol. It comes with the prickle, the smell of lightning and no sound from any of it *(R26 signature, Q-A6KA)*.
 - **Benal's flash: a corrupted fragment of the second-jump equation.** He dismisses it as a nightmare and it is the thing he will need in two days. He wakes with the smell of lightning and his skin crawling *(R26 signature, Q-A6KA)*.
-- **Before morning they talk it over and agree that this cannot be all of Genesis**: the founders lived here three years <!-- @WF-genesis.occupancy: 3y -->, the archive is somewhere, and the plant house was only the water works. In the morning they will go and look.
+- **Before morning they talk it over and agree that this cannot be all of Genesis**: the founders lived here three years <!-- @WF-genesis.occupancy: 3y -->, the archive is somewhere, and the water plant was only the water works. In the morning they will go and look.
 **Hazard:** the therapy circle, which is a live risk because the outline supplies the lines. Someone should resist, someone should say the wrong thing first, and Teva's bridge should cost her more than it comforts them.
 **Ends on:** the three of them, none of it having changed the situation at all, and a decision to go and look in the morning.
 
@@ -714,7 +714,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Getting in.** Benal's senses find what nobody can see — a hum, and a smell that does not belong to a wet ruin.
 **Must carry:**
 - **The sense that has been an assault on him for thirteen days is the reason they get inside.** Third and last time the book pays that: the honey on Day 6, the rock heard through the haze on Day 14, the hatch here.
-- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm. **It lifts them before anything is found**: the flood gone off the low ground, and, as they come over the brow of the crown's slope, more of Genesis than Day 15 could show them — the arches on its top standing as bare alloy frames, the long banked shapes beyond — so much built here that the plant house was plainly not the whole of it.
+- **The world after the storm** — blown out, washed, scoured, brilliant, and the first clear morning since the storm. **It lifts them before anything is found**: the flood gone off the low ground, and, as they come over the brow of the crown's slope, more of Genesis than Day 15 could show them — the arches on its top standing as bare alloy frames, the long banked shapes beyond — so much built here that the water plant was plainly not the whole of it.
 - A functional sealed hatch, which means power, which means something has been running here for two hundred and six years <!-- @WF-transit.elapsed: 206y -->.
 **Hazard:** Benal solving it cleverly. He does not deduce the hatch; he *smells* it, and cannot at first say what he is reacting to.
 **Ends on:** the hatch giving, and the air that comes out of it being dry.
