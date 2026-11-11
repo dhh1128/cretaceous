@@ -1,5 +1,5 @@
 ---
-approval: approved 42dd15ff
+approval: approved 71ce89f7
 ---
 
 # Body and resources — food, water, injury, fatigue, morale, pace
@@ -153,7 +153,7 @@ Starting condition, per §0: **Teva's** biofilm is already scarred and patchy, t
 | 12–13 | camouflage patchy enough to be a liability; she stops trusting it | elbow half-repaired, arm weak, hiding it |
 | 14 | mudflat silt `[?]` | `[?]` the open elbow, battered on the boat |
 | 15 | **immersion.** `[?]` Biofilm failing in sheets, from starvation — no feed since Day 6 — and the night's battering on the boat and the coral, not from the salt. **She is wearing it, so it floats her** (`kb/worldbuilding/safety-suits.md`); what the sea takes is the last of the camouflage | the same, plus the sea took the fieldpack and his mathematics with it |
-| 16 | a starved gray skin she is still wearing because taking it off is worse. **Starving and damaged, not dead**: the outer film gray and flaking, no glow, no color-matching, no cooling; whether it can be brought all the way back is not known. What it still gives is passive: the plating against punctures and the foam that floats her | the same |
+| 16 | a starved gray skin she is still wearing because taking it off is worse. **Starving and damaged, not dead**: the outer film gray and flaking, no glow, no color-matching, no cooling; whether it can be brought all the way back is not known. What it still gives is passive: the plating against punctures and the foam that floats her. **Fed once**, in D16.2, with the jelly of four drifted palm-fruit heads from the coastal plain, before anyone eats: enough to stop the film failing where it went in, nothing visible comes back, and there is no more (Q-HNT6) | the same |
 
 **Two moments worth planting.** Somebody should feed a suit before feeding themselves, once, without comment. And on Day 11, when Benal's capacitor dies, **he should not tell them** — the boy whose only value is what he detects loses his defenses and hides it, which is the whole shape of his arc in one concealed fact.
 
