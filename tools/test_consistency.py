@@ -313,3 +313,16 @@ def test_no_claim_key_is_asserted_two_ways():
 def test_every_map_cites_the_approved_files_that_owe_it():
     """A map that never names an approved file tagging its scene did not consult it."""
     holds("scene_map_cites_obligations")
+
+
+def test_every_drafted_scene_is_in_a_chapter():
+    """A scene no chapter points at is silently left out of the assembled book (D16.4, found 2026-11-11)."""
+    import re
+    from pathlib import Path
+    content = Path(__file__).resolve().parents[1] / "content"
+    scenes = {p.stem for p in content.glob("D*.md")}
+    pointed = set()
+    for ch in content.glob("ch*.md"):
+        pointed |= set(re.findall(r"<!-- scene: (D\d+\.\d+) -->", ch.read_text()))
+    missing = sorted(scenes - pointed)
+    assert not missing, f"drafted but in no chapter: {missing}"
