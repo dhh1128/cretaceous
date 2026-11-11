@@ -1,5 +1,5 @@
 ---
-approval: approved b52408a7
+approval: approved be029370
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -132,7 +132,7 @@ Star lore, checked nightly, intact after 206 years. The mission instructions, ch
 
 Per the cordimancy standard, where the title concept is said aloud exactly twice across 124,000 words. Here:
 
-1. **Teva at D19.8**, aloud, in her own POV — *they're not liars, they're believers.* @D19.8
+1. **Teva at D19.8**, aloud, in her own POV, as an explanation to the Council and not a murmur — *they weren't lying to anyone; they were frightened, and they did the best they could with what they knew* — said of the founders who stayed and of the Council, and then of the three and of Keo's parents. @D19.8
 2. **One earlier statement, in a different key**, that the reader will not recognize as the thesis until D19.8 recontextualizes it. Best candidate: Riel or Joram in D2.3, about the founders or about the Council, said in passing, about something small. @D2.3
 
 Nothing else in the novel states it. Not the narration, not the epigraphs, not Benal.
