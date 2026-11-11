@@ -1,5 +1,5 @@
 ---
-approval: approved 5f0fbab6
+approval: approved 8b0bb7fa
 ---
 
 # Environmental suits
@@ -63,7 +63,7 @@ An electric shock grid through the conductive fibers, ruptureable chemical deter
 
 ### The failsafe — a suit is also a body bag
 
-**Every suit carries the same dormant archaea as the taboo old-tech in the Repository**, and for the same reason. **The trigger is read from inside the suit.** Warmth inside it, or nobody inside it, keeps the countdown from starting; a body inside that has gone cold starts it. So a suit starving on a living wearer never dissolves, however far gone its film is. `[?]` An empty suit sleeps the way the Repository's old tech does, balmed in the custodians' chamber and woken by sustained wetting, as the treated gear is (`plan/body-and-resources.md` §3c), so a suit left lying out in the rain for days goes.
+**Every suit carries the same dormant archaea as the taboo old-tech in the Repository**, and for the same reason. **The trigger is read from inside the suit.** Warmth inside it, or nobody inside it, keeps the countdown from starting; a body inside that has gone cold starts it. So a suit starving on a living wearer never dissolves, however far gone its film is. An empty suit sleeps the way the Repository's old tech does, balmed in the custodians' chamber and woken by sustained wetting, as the treated gear is (`plan/body-and-resources.md` §3c), so a suit left lying out in the rain for days goes.
 
 When the countdown starts, it wakes them. The suit is reduced to sterile sludge within a few hours, **and it consumes whatever is inside it first**, before the culture exhausts itself and dies.
 
