@@ -57,6 +57,8 @@ def build(ids: bool = False) -> str:
             head = f"<!-- -->\n\n*[{m.group(1)}]*\n\n" if ids else ""
             return head + COMMENT.sub("", body(f)).strip()
 
+        # The epigraph comes first, then the label (day, POV, place), then the prose (Daniel, 2026-11-11).
+        text = re.sub(r"\A(\*[^*\n]+\*)\n\n(<!-- epigraph: EP\d+ -->\n(?:>.*\n?)+)", r"\2\n\1\n", text)
         text = re.sub(r"<!-- scene: (D\d+\.\d+) -->", scene, text)
         out.append(f"## {n}\n\n" + COMMENT.sub("", text).strip())
     return "\n\n".join(out) + "\n"
