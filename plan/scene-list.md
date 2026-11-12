@@ -304,11 +304,9 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Purpose:** TRAVERSE · **Ending:** SETTLED
 **Most of the day's twelve kilometers are in this walk**, and it is easy ground in good light. **Keo's ladder moves:** *maybe he can do this*, which is the confidence Day 7 destroys and Day 10 punishes.
 **Must carry:**
-- **The midges are at their worst on Day 6 evening** until the breeze returns, so the day's one hour of misery sits here and the wind is the relief. Both allocated.
 - **The ground moves before anything is visible** — the sense that has always meant danger — and the fear resolves into nothing.
 - **The saropo herd, from a ridge, wading.** That is where tomorrow's riding idea comes from.
 - **Keo pushes at one with his mind and it is like pushing a wall.** His projection nudges natural inclination and cannot override a committed animal (`tech-rules.md`), so the idea and its refutation are planted in the same minute — and he learns the scale limit that tells him on Day 8 that two tonnes <!-- @WF-decoy.mass: 2t --> is inside his reach.
-- **An armored thing, indifferent, unbothered by them** — *ankylosaurus* or *nodosaurus*, allocated here and nowhere else. The colony has no word for it, so the prose will not name it; the genus is here because the planning layer is where allocations are tracked.
 - **Bioluminescence** at full dark.
 - `[?]` **He almost says it to Teva, and doesn't.** `character-arcs.md:117` — declarations are the wrong instrument here, and the closest anyone comes is the good day, and he doesn't.
 **Hazard:** the gawp. These three were born here and `kb/worldbuilding/lingo.md` says a saropo is the largest thing in the world and no use to anyone — too big to work, too big to eat, too big to fear. **They are not impressed by a big dinosaur**, and if the prose stops to be impressed on their behalf it has left the POV. What is new is that they are standing somewhere nobody they know has stood. Second hazard: the almost-declaration written as a near-miss, with an interruption. Nothing interrupts him. He decides not to.

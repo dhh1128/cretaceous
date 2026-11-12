@@ -1,5 +1,5 @@
 ---
-approval: approved e88a0c5f
+approval: approved 85cab4a9
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -63,7 +63,6 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *madtsoiidae* constrictor | 5 | the ambush. Color of dead leaves. |
 | *alamosaurus* — **saropo**, wild herd | 6 | seen at distance on the good day. The ground moving. **Give the reader one moment of pure awe with nothing at stake.** |
 | *borealosuchus*, juvenile | 6 | **a meter and a half, and young.** Establishes that "croc" is a range and not one animal — and anything larger is not harmless to a sixteen-year-old, so a bigger one would make the good day a lie. |
-| *ankylosaurus* or *nodosaurus* | 6 | armored, indifferent, unbothered by them. |
 | *kritosaurus* / *velafrons* herd | 10 | the savanna. Calls like low mournful horns — already allocated. |
 | *ornithomimus* | 10 | fast, harmless, beautiful. The one animal that is simply a pleasure to watch. |
 | *quetzalcoatlus* — **flybeak** | 11, 19 | takes Noli out of a low sun. Returns as the chase on Day 19 and nowhere between — its shadow may pass, but the animal is not shown twice in Act 2. |
