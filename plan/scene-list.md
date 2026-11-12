@@ -252,8 +252,6 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Must carry:**
 - **Snails again, and the joke about snails stops being funny.** `body-and-resources.md` names this. The humor plan wants at least one joke that dies, and this is the cheapest one available.
 - **The silence before the constrictor starts thirty to forty-five minutes early**, not hours — silence sustained across kilometers of travel is unnatural and a reader will feel the cheat. It is an absence nobody can name, and Benal keeps stopping and cannot say why.
-- **Mushrooms**, allocated to Days 4 and 5 and unused.
-- **Parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he did not. Allocated here.
 **Hazard:** telegraphing. The reader should feel the ambush coming and the characters should have a reason not to — they are hungry, the light is bad, and Benal has cried wolf about his senses for two days.
 **Ends on:** Benal stopping again, and the others walking on.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 793e1fcd
+approval: approved c83a3faf
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -102,7 +102,7 @@ This is where two layers interact, and the interaction is the point.
 
 Note what this does to the cast. **Keo is unsuited, so he is the one being eaten** — the cost of his pride, delivered in a form no reader will resent. Teva and Benal watch him swell and scratch while their own skin is covered. And *stingburn* is the term for what it becomes when it goes wrong, which is what killed Alira, so every bite carries a small charge.
 
-Also present, allocated sparingly: **stinging ground ants flooded out of their nest** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he didn't (Day 5), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
+Also present, allocated sparingly: **stinging ground ants flooded out of their nest** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
 
 ### Beautiful things
 
@@ -127,13 +127,12 @@ Food is labor. Nothing here is picked.
 | **Grounders** — *alphadon*, *meniscoessus* | Days 6, 10 | Noli catches them. **After Day 11 nobody catches them.** That is how the reader feels her absence in the food. |
 | **Ovos** | Day 14, the turtle beach | Crocs |
 | **Pinyons** | anywhere with conifers | Nothing. The default. Which is why they are sick of them. |
-| **Mushrooms** | Days 4–5, wet days | Knowing which. Benal knows; this is a small competence that costs him nothing and reads as expertise |
+| **Mushrooms** | Day 4, wet | Knowing which. Benal knows; this is a small competence that costs him nothing and reads as expertise |
 | **Fish** | Day 3, Day 13 | Water |
 
 ### Poisonous look-alikes
 
 - **Stone-cycad cones** look like something you could eat and will poison you — which is the whole reason for the multi-day leaching process at home. **A yazhi in Act 1 should be corrected about this**, so the reader carries the rule out onto the mudwalk.
-- **A mushroom Benal is not certain about**, and the argument about whether hungry is hungry enough. Unresolved is better than resolved.
 - **Gnetophyte berries** — bright red, already canon at D11.4 as ground litter. Leave it ambiguous whether they are edible. Nobody finds out. @D11.4
 
 ### The cute and harmless
