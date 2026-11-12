@@ -31,12 +31,27 @@ Marked `[?]` items are session inference, not rulings.
 
 ### Book 2 ends on two things
 
-1. **Benal proves the Branchers are right.** A mathematical proof that there is no temporal paradox to fear. This voids the argument the entire society has been organized around for two hundred years, and voids the doctrine every taboo descends from.
+1. **Benal proves that paradox is impossible** — pinned history, `kb/worldbuilding/benals-equation.md`: what anyone has lived is fixed, the unlived can change, and a contradicting act forks its actor away. Not that the Branchers are right; both factions were half right. A mathematical proof that there is no temporal paradox to fear. This voids the argument the entire society has been organized around for two hundred years, and voids the doctrine every taboo descends from.
 2. **The Watch data dates the impact precisely: about four years away.**
 
 **These two are `[?]` in their placement.** Both could land at the end of book 2, or one could hold to the end of book 3, and the relative order is open.
 
 *(The arithmetic holds: book 1 leaves a window of nought to seventeen years <!-- @WF-impact.window.max: 17y -->, and four is inside it. The precision does not contradict anything — it collapses a range that was always this bad and nobody knew.)*
+
+
+### Benal's road to pinned history
+
+Benal discards theories before he settles on the true one. These are the candidates and why each falls; the order and the objections are session work, with outside models consulted on a neutral statement of the problem.
+
+- `[?]` **Theory 0: the Branchers are right.** Every backward jump makes a branch, so nothing done here touches home. His father's faith and his own. **Falls to the capsule:** a branch opened at −1000 has no cause to contain the founders' arrival at year 0, which came from outside, so nobody would be at year 206 to dig the capsule up.
+- `[?]` **Theory 1: one timeline, so the Traditionalists were right.** The capsule is an act at −1000 reaching year 206 on the same history (the morning he wakes sweating). **Falls to its consequence:** on one timeline the open emigration of book 3 is impossible unless its ruins were always in the rock, and the founders' fear would have been justified. It is despair, and he cannot make it agree with the twenty-first century's empty geology.
+- `[?]` **Theory 2: entanglement runs over the whole span between arrival and origin.** A founder who arrived at 66 Mya from 2050 could stop anywhere between, which would let Cecilia come to year 206. **Falls to the founders' own plate**, whose return rule is lived time only (`kb/worldbuilding/benals-equation.md`: a founder at 66 Mya cannot go forward to 1950), and it still leaves one timeline where clues reach home.
+- `[?]` **Theory 3: backward jumps select a consistent past.** Many possible pasts, and only the one consistent with the traveler's later appearance permits the jump. **Falls as fatalism:** it is Theory 1 in different words, and it forbids any act the record does not already hold.
+- `[?]` **Theory 4: Genesis is a nexus where time and place entanglement combine.** It fits the scar and the flashes. **Falls to symmetry:** if standing on the scar let Cecilia reach a time she never lived, it would let the descendants reach 2050, and book 1's stranding dies.
+- `[?]` **Considered and rejected, not necessarily Benal's:** contradiction-triggered branching with passengers riding a pilot's entanglement (breaks the stranding unless range-limited); branching that inherits outside arrivals (works, but needs ad hoc laws); a sealed exile history unconnected to home (works, but forbids the open emigration); Cecilia reaching 206 by stasis rather than a jump (a gimmick the reunion at −953 makes unnecessary).
+- **Pinned history**, the settled answer: what anyone has lived is fixed; the unlived is one history that can change; a contradicting act forks its actor away. It keeps every theory's true part: Theory 1's one history, Theory 0's safety, Theory 4's flashes as perception rather than passage.
+
+`[?]` **One consequence to plan for:** undoing a death the actor witnessed contradicts what they lived, so it forks them away and saves nobody in their own world. Going back to save Noli would leave Keo's Teva and Benal behind.
 
 ### Two plants book 2 must set
 
@@ -53,7 +68,7 @@ Marked `[?]` items are session inference, not rulings.
 
 **They find the thing that has been missing.** Benal or Keo locates the jump equipment the second jumpers took back with them, carefully buried — and **that is what the capsule was for.** Beyond the payload described in `kb/worldbuilding/the-second-jump.md`, its message was going to be: *dig this up and use it.*
 
-**Then Cecilia.** They already know none of them can travel forward. But a clue shows that **Cecilia took the backup equipment**, and they decide to go and get her. They do. **She comes back to this time alive, with working equipment she can take to the future** — because she is an original colonist and the worldline is hers.
+**Then Cecilia.** They already know none of them can travel forward. But a clue shows that **Cecilia took the backup equipment**, and they decide to go and get her. They do: Benal meets her at −953, among the old men, and she goes home along her own worldline, by way of year 22 to the twenty-first century, with working equipment and the cure — because she is an original colonist and the worldline is hers. **She never comes forward to the Enclave's own time**, which she never lived.
 
 **And the Enclave takes the other set and goes back a million years**, to 67 Mya, at Genesis. No paradox to fear now, so they can build openly and improve for a million years: solve the impact, or invent space travel and leave the planet.
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 30de77ed
+approval: approved 5a1ecf9e
 ---
 
 # Benal's equation
@@ -89,6 +89,22 @@ And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y -->
 The displacement is measured from the **arrival baseline** — the moment the expedition landed — rather than from the traveler's own departure year. That is the reading under which the figures close: the stayers go back a thousand years <!-- @WF-secondjump.distance: 1000y --> to year −1000, Cecilia intends a thousand and travels 975 to year −975, and she is collected at −953.
 
 **None of this is explained on the page in book 1.** Benal reaches *only original colonists could have gone back*, and the mechanism under it is book 2's and book 3's. See `plan/sequels.md`.
+
+## What a change in the past can do — pinned history
+
+**What anyone has lived is fixed. What nobody has lived is one history, and it can still change. An act that would contradict something someone has lived does not change it: it forks the actor off into a world of their own.** <!-- @WF-paradox.model: pinned-history --> *Lived* means observed by anyone, not only by travelers. The name is a coinage for this file; nobody in book 1 has it.
+
+**Neither faction is right, and both are half right.** The Traditionalists are right that the past can be changed: there is one history, not a branch per jump. The Branchers are right that nobody can be harmed by it: a change that would contradict what someone lived forks the changer away instead. So **paradox is impossible**, and that, not "the Branchers are right," is what Benal proves at the end of book 2 (`plan/sequels.md`).
+
+**What it settles.**
+
+- **The capsule.** Buried in rock at year −1000, seen by nobody between then and year 206, it contradicts nothing anyone lived, so it stays on the one shared history and the trio dig it up. Under strict branching nobody would be there to dig it: a branch opened at −1000 has no cause to contain the founders' arrival at year 0, which came from outside.
+- **Book 3's emigration.** A civilization built openly for a million years at 67 Mya contradicts what the founders lived at year 0, an empty island, so the emigrants fork into a world of their own. They start over free, and they can never come back to their own Enclave's history.
+- **Cecilia saving the twenty-first century.** She carries the cure forward along her own worldline into the 2050 she lived, arriving at or after the moment she left. That contradicts nothing anyone lived, so it is the same world, and the people she left are the people she saves.
+- **The return rule is untouched.** Forward still needs lived time (above), so everyone born at 66 Mya is still stranded by biography, and Cecilia goes home from −953 by way of year 22, never through year 206.
+- **The founders' fear was unnecessary.** The twenty-first century is pinned by everyone who lived it, so nothing done at 66 Mya could have reached it. The whole apparatus of wrapping and hiding guarded against a danger that could not happen, which completes book 1's *drift, not deceit*.
+
+**None of this is in book 1.** Book 1 shows the Branchers' belief and Benal's faith in it, and the capsule dug up and carried; the realization belongs to book 2 (`plan/sequels.md`, *Benal's road to pinned history*).
 
 ## Rules for the prose
 
