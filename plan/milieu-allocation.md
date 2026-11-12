@@ -1,5 +1,5 @@
 ---
-approval: approved c83a3faf
+approval: approved e88a0c5f
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -102,7 +102,7 @@ This is where two layers interact, and the interaction is the point.
 
 Note what this does to the cast. **Keo is unsuited, so he is the one being eaten** — the cost of his pride, delivered in a form no reader will resent. Teva and Benal watch him swell and scratch while their own skin is covered. And *stingburn* is the term for what it becomes when it goes wrong, which is what killed Alira, so every bite carries a small charge.
 
-Also present, allocated sparingly: **stinging ground ants flooded out of their nest** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
+Also present, allocated sparingly: **stinging ground ants flooded out of their nest** (Day 11, already assigned), **termites** — the reason nothing dead stays dead-looking for long, and a hazard when a rotten log gives way underfoot (Day 4) — **necrophagous beetles** working a carcass (Day 13), **parasitoid wasps** ovipositing into something still alive, which Benal understands and wishes he didn't (Day 5, D5.2), **spiders** with webs strung at face height across a game trail overnight (Day 6 dawn, and this is comic), and **scorpions**, which are ancient and unchanged and therefore the single most familiar thing in the entire book — worth one line of Keo noticing that this, at least, he has seen pictures of.
 
 ### Beautiful things
 
