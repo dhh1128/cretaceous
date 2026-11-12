@@ -1,5 +1,5 @@
 ---
-approval: approved 10c0ded0
+approval: approved ee50ccc4
 ---
 
 # The wig
@@ -80,7 +80,7 @@ Not a general intelligence and not an oracle. **It is the wig's maintenance and 
 
 - **Clearance.** It logs Keo as an unqualified operator, maintenance access only, and the mission was secret government work, so it refuses mission briefings to an uncleared operator: why they came, what the upgrades are for. It answers freely about its flight logs, the roster, the station's operations and the survey data. The trio can push against that wall, learn things at its edges, and watch it decline (Q-DWRJ).
 - **Sleep.** The stayers powered it down for storage after its last flight. Its clock kept time on the station feed, so it knows how long it slept, and it knows nothing after: not the rotor units' removal, which is why it has no record of it (§4), and not the walk, the second jump, the stayers or the Enclave (Q-DWRJ).
-- **What stays Benal's** is everything after its sleep and everything behind its clearance: the second jump, the return anchor as he derives it, the stayers, and that the upgrades are the cure (Q-DWRJ).
+- **What stays Benal's** is everything after its sleep and everything behind its clearance: the second jump, the return divisor as he derives it, the stayers, and that the upgrades are the cure (Q-DWRJ).
 - It cannot repair anything itself, cannot leave, and cannot fly the wig for them.
 - After 206 years it is degraded, and it should be **slightly wrong** about some things.
 

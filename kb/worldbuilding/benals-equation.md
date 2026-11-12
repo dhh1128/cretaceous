@@ -1,5 +1,5 @@
 ---
-approval: approved 5a1ecf9e
+approval: approved 1a427c65
 ---
 
 # Benal's equation
@@ -14,11 +14,11 @@ It appears in the text as a written artifact — on Benal's board, in gypsum cha
 
 **It is one line of a system.** The founders' full transit equation is a system of lines: **three lines for place**, which locate the destination in space, and **one line for time**, the one above. The place lines came out right: they put the founders on the right spot on the right world, which is why the error has to be about *when* (below). Benal's board has only ever carried the time line, because it is the only one that does not agree. **The page never shows the place lines.** Benal talks about them as part of a system ("the place lines came out", "it's only the time line that won't agree"), and at Genesis the narration gives them a glance, never a transcription. Their details are recorded here anyway, because a sequel may need them; see *The place lines*.
 
-**The founders' version adds one more term, under the whole system: the return anchor, $\langle R \mid T_d \rangle$** (Q-D5E8, Q-TFTM). At Genesis the time line reads
+**The founders' version adds one more term, under the whole system: the return divisor, $\langle R \mid T_d \rangle$** (Q-D5E8, Q-TFTM). At Genesis the time line reads
 
 $$T_d = \frac{T_o \cdot \sqrt{1 - \frac{v^2}{c^2}} \cdot f_{drift}(?)}{\langle R \mid T_d \rangle}$$
 
-and the same divisor stands under the place lines, so that where it is zero there is no *where* as well as no *when*. In plain words: where you land is the origin time, corrected for the transit, corrected for not knowing when we are, **divided by whether you have already been where you are going.** $R$ is the traveler's record: everything earlier than the point they depart from, plus every moment they have lived through. The bracket is 1 when the destination is in that record and 0 when it is not; divided by 1 the equation gives a day, divided by 0 there is no answer and nowhere to land. $f_{drift}$ is a different term and stays unsolved, on the plate as on his board. `[-]` Benal never calls the new term anything but **the return anchor**, because *the anchor* already names the drift problem in D2.2. The bracket notation is not derived from quantum mechanics; it is the book's one postulate about time, stated as a rule the founders found, and the page never explains it.
+and the same divisor stands under the place lines, so that where it is zero there is no *where* as well as no *when*. In plain words: where you land is the origin time, corrected for the transit, corrected for not knowing when we are, **divided by whether you have already been where you are going.** $R$ is the traveler's record: everything earlier than the point they depart from, plus every moment they have lived through. The bracket is 1 when the destination is in that record and 0 when it is not; divided by 1 the equation gives a day, divided by 0 there is no answer and nowhere to land. $f_{drift}$ is a different term and stays unsolved, on the plate as on his board. Benal calls the new term **the return divisor** and $f_{drift}$ **the drift factor**, and nothing else (Q-Z27S): a factor multiplies and a divisor divides, the two names share no word, and *the anchor* already names the drift problem in D2.2, so neither name may borrow it. The bracket notation is not derived from quantum mechanics; it is the book's one postulate about time, stated as a rule the founders found, and the page never explains it.
 
 ## The place lines
 
@@ -66,7 +66,7 @@ Everything follows from that. Nobody can date the impact closer than *about two 
 
 ## What it pays off
 
-The equation is the mechanism behind the revelation at Genesis. The founders' plate carries the *return anchor* (above): travel is not symmetrical, forward and backward are not the same operation, and forward goes only to where the traveler has already been. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
+The equation is the mechanism behind the revelation at Genesis. The founders' plate carries the *return divisor* (above): travel is not symmetrical, forward and backward are not the same operation, and forward goes only to where the traveler has already been. **Only the original colonists could ever have gone back. Everyone born here cannot.** Benal reaches this by connecting the equation to the temporal flash he dismissed as a nightmare, prompted by an offhand frustrated line from Keo or Teva — *"It's like they just left. Why couldn't they just go back?"*
 
 And the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, to the same spot — [~] was the heretics' own, and they marked it with the symbol Keo sees in his first temporal flash; where the mark came from is left open (`kb/worldbuilding/the-second-jump.md` §11). *(Not 67 Mya. That is book 3's emigration, a different jump a million years deep; see `plan/sequels.md`.)*
 

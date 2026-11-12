@@ -20,7 +20,7 @@ That also keeps *Cretaceous* — which is accurate, pronounceable, and does the 
 
 **Watch** is book 2's instrument. Omya recites a sky she has checked for sixty years <!-- @WF-omya.watch.years: 60 --> while losing the protein fold, and the duty nobody counted as a loss becomes the dataset that dates the impact (`plan/milieu-brief.md` §5, `plan/sequels.md`). Titling the book after the thing nobody valued is the book's argument.
 
-**Return** is book 3, three ways at once: the burial rite (`plan/milieu-brief.md` §4), the return anchor in the physics (`kb/worldbuilding/benals-equation.md`), and Cecilia coming home — the only return in the trilogy that works, while the Enclave's own answer is to go the other way and never come forward again (`plan/sequels.md`).
+**Return** is book 3, three ways at once: the burial rite (`plan/milieu-brief.md` §4), the return divisor in the physics (`kb/worldbuilding/benals-equation.md`), and Cecilia coming home — the only return in the trilogy that works, while the Enclave's own answer is to go the other way and never come forward again (`plan/sequels.md`).
 
 ## Systems considered and declined
 

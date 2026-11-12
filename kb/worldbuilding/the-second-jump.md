@@ -85,7 +85,7 @@ They go **before Cecilia can reach them with what she has proved.**
 
 They never prove the cure. They never build the equipment. A thousand years <!-- @WF-secondjump.distance: 1000y --> bought them nothing they could use, which is the tragedy of it: time was the constraint they thought they had.
 
-**But they finish the physics**, and it is the physics this novel turns on. The return rule they already had at Genesis, cut on the plate at +33 months (`kb/worldbuilding/benals-equation.md`, the return anchor); the deep past adds the rest:
+**But they finish the physics**, and it is the physics this novel turns on. The return rule they already had at Genesis, cut on the plate at +33 months (`kb/worldbuilding/benals-equation.md`, the return divisor); the deep past adds the rest:
 
 - **You cannot send matter or information through time. You can only go, in person, backward.**
 - **You can only travel forward to a time you have physically lived through.** Only the original crew could ever go home. Everyone born here is stranded by birth.

@@ -1,5 +1,5 @@
 ---
-approval: approved bc61eb96
+approval: approved 21a2d853
 ---
 
 # Cretaceous — Outline
@@ -152,7 +152,7 @@ They don't turn back. Benal is drawn to the temporal lab.
 
 Revelation (Part 1): They find the logs of the arrival, with the transit's few dead set down by name (Q-ZE8H).
 
-Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from the Dark Night. He realizes: "They couldn't go back. It's a return anchor. We... we can't go back. We were born here. Only the original colonists can."
+Revelation (Part 2 - Benal's Epiphany): Benal finds the "impossible equation." He's stuck. Keo or Teva makes a simple, frustrated comment: "It's like they just... left. Why couldn't they just go back?" This comment triggers Benal's epiphany. He connects the comment to the equation and his temporal flash from the Dark Night. He realizes: "They couldn't go back. It's a return divisor. We... we can't go back. We were born here. Only the original colonists can."
 
 Revelation (Part 3 - The Real Schism): He finds the data on the second jump — a thousand years <!-- @WF-secondjump.distance: 1000y --> back, though the book never states the figure — including the symbol Keo saw in his first flash. **What he uncovers is not a lie.** The duty was real and came from the founders; what drifted is the belief that the apparatus enforcing it came down with the duty rather than being built here. See `kb/worldbuilding/the-second-jump.md` and `plan/milieu-brief.md` §6. Teva will read it as a lie, and that reading is the emotional truth and is wrong, which is the distance her nuance arc has to travel.
 

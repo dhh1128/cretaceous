@@ -776,7 +776,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** DISCOVER · **Ending:** REVEAL
 **The epiphany, and the largest surprise in the book.** **SU3**: only the original colonists could ever have gone back. Everyone born here is stranded by birth.
 **Must carry:**
-- **The impossible equation, and Benal stuck on it.** Then a simple frustrated comment from Keo or Teva — *it's like they just left; why couldn't they just go back* — and the epiphany. It is a **return anchor**, not a direction. `plan/outline.md`.
+- **The impossible equation, and Benal stuck on it.** Then a simple frustrated comment from Keo or Teva — *it's like they just left; why couldn't they just go back* — and the epiphany. It is a **return divisor**, not a direction. `plan/outline.md`.
 - **He connects it to his own flash from Day 15** and to the symbol Keo saw on Day 11. The flashes were data.
 - **The second jump.** Another group went further back, and that is what makes the anomalies. He does not learn how far, and the book never says.
 - **Species ladder summit.** `pacing-and-stakes.md` §6 gives this scene the species peak, and it is the only 10 in the column.
