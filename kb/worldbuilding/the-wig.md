@@ -1,5 +1,5 @@
 ---
-approval: approved ee50ccc4
+approval: approved 5e823ee3
 ---
 
 # The wig
@@ -91,6 +91,8 @@ Benal is the obvious choice, which is why he is the wrong one — he is in the t
 And thematically it is his: **Keo is the one who talks to minds.** Proximity sense and projection are his whole gift; he spent the novel bonded to an animal that way and lost her at the midpoint, and he has been alone in his own head ever since. The boy who talks to minds meets a mind that is not alive, and it answers.
 
 It also solves the pilot problem cleanly. **He is the pilot because the training system trains him** — that is literally its function — and because it would much prefer a qualified pilot and does not have one, which is a good character note for a machine.
+
+**It sees.** The voice has cameras in the craft and in the hangar, so it watches what Keo does and reads things off for him. When it asks him to report something it could otherwise read, a fill level or a card's color, it is because his body or a crate is between it and the camera.
 
 ## 6. Who does what in the air
 
