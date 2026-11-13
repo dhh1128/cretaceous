@@ -1,5 +1,5 @@
 ---
-approval: approved 811ace4e
+approval: approved d1e4b124
 ---
 
 # Backstory register
@@ -223,7 +223,7 @@ What the three and the people around them were before the story opens: habits, h
 - **F15** Omya used to say "Precision, Teva", tapping the table between them. Her sayings: "It has to rest before it goes in", over dough; "You can't hurry a fig"; "Leave me enough to be returned with". *(D1.1, D2.4)*
 - **F16** Omya used to wear a particular face over a culture that failed in the night, when she had already worked out why. *(D2.4)*
 - **F17** Omya succeeded at the blue in public a month ago, by two bystanders' contested accounts. Every attempt at the rust-red since the flood has failed (`plan/milieu-brief.md` §8). *(D1.1, revise: one line says "the blue", one says "it")*
-- **F18** Omya starts the Watch with the Organs. *(D3.5)*
+- **F18** Omya starts the Watch with Dead Man's Journey. *(D3.5)*
 - **F19** One of Omya's friends takes her home after the Council. *(D2.8)*
 
 **Benal's family**

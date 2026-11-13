@@ -90,6 +90,7 @@ The plants this book must land, claimed from the ledger:
 
 - `[pays R9d — Teva's sky has a permanent gap, so the only complete Watch is Omya's]` Book 2's dataset has to come from Omya, with Teva's help, not from Teva alone.
 - `[pays R9c — the Watch established as a duty nobody remembers the purpose of]` Omya reciting the sky perfectly while losing the protein fold is the dataset book 2 opens the radio link for.
+- `[?]` **Option, not a commitment:** the impactor first shows as a new faint point in **Dead Man's Journey**, the field the reader has heard counted as nine stars since D2.4.
 - `[pays R15b — Marek's dismissal shown as pity rather than contempt, and therefore reversible]` Book 2 has him supporting his son.
 - `[pays R24 — fragment 8's anomaly planted, resonant, and explained by nobody]` Book 2 is where Benal connects it to the flash and the disorientation.
 - `[pays R23 — Chelo named once and never explained]` Book 3 is where Marisol's daughter turns out to be who the cure comes home to.
