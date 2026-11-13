@@ -319,7 +319,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 They come out of the woodland onto the channel and stop. **The obstacle is delivered by the world, not announced by a character**, and Benal hears it before anyone sees it.
 **Must carry:**
-- **The water looks harmless, and that is the problem.** Dead still, hot, cloudless, a river like a sheet of metal. Nothing about the day gives them an excuse to wait. Weather and register from `journey-calendar.md` §2.
+- **The water looks harmless, and that is the problem.** Dead still, hot, cloudless, a river flat and blinding in the glare. Nothing about the day gives them an excuse to wait. Weather and register from `journey-calendar.md` §2.
 - **The croc's full showcase opens here and is never re-described** — `milieu-allocation.md` gives Days 7–8 and forbids it afterward. Day 7 is the day they *count* them, which is where the description belongs; Day 8 has no attention to spare.
 - The bank: slick black mud, rotting ferns, broken plate-sized ginkgo leaves. **The leaves are load-bearing later and must read as ordinary litter here** — a gust puts them on the water during the crossing, and the reader has to have seen them lying about first.
 - **Benal is the one who can measure it** and the first to say a number out loud. His intellect is useful before his body fails again.

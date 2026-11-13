@@ -1,5 +1,5 @@
 ---
-approval: approved dd494848
+approval: approved 9d9b128f
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -142,7 +142,7 @@ The weather worsens as the journey does, and it is an escalation instrument rath
 | **4** | showers on and off — ordinary, and nobody remarks on it | warm, saturating | **bright overhead, blind at chest height** | The elation is gone and the arithmetic arrives. The first day that is only walking. Snails, mushrooms, wet ash and rot |
 | **5** | heavy overcast, wrung out, no wind | warm, airless | lowest light in the book outside a cave | **Ambush weather.** The constrictor is the color of dead leaves and there is no shadow-free ground, and Benal's hearing is defeated by silence rather than noise |
 | **6** | **clear, dry, a breeze** | warm and bearable | good light all day | **The gift.** Give it to charm, to Noli, to the intimacy layer, to the inside jokes. Everything after is paid for out of this |
-| **7** | dead still, hot, cloudless | hot | a river like a sheet of metal | **The languid day, and they spend it not crossing.** Beautiful, glassy, and the worst possible conditions to be standing near water |
+| **7** | dead still, hot, cloudless | hot | a river flat and blinding in the glare | **The languid day, and they spend it not crossing.** Beautiful, glassy, and the worst possible conditions to be standing near water |
 | **8** | the same, and they use it | hot | glare off flat water | **The crossing.** Low, still, everything in it listening |
 | **9** | overcast, breaking to showers | warm | flat | Across, and nothing to feel about it yet except that they are still walking |
 | **10** | clears hard → **cloudless** | **brutal** | shadowless midday; heat shimmer | Kills her slowly and flatters him. The one day the sun is the antagonist, and there is no shade in a fern savanna |

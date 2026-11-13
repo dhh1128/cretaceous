@@ -1,5 +1,5 @@
 ---
-approval: approved ef07d7ac
+approval: approved 9b2c6e1d
 ---
 
 # Character arcs and intimacy
@@ -160,7 +160,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 
 **Day 7: the river, and the absent kept present by observation.** Yara is never named; the others see what the crocs are to Keo, and Teva sees it wrong.
 
-- **D7.1.** Benal sees Keo looking at sixteen crocs and knows what he is seeing. Teva's "I know" acknowledges what Benal offered instead of closing him down. Someone registers that they all trust his ears now, reversing Day 5. Benal tries to answer Keo's failed joke and cannot, so the register dies in both of them.
+- **D7.1.** Keo stares at the crocs a long time, and Benal stares with him. Teva goes still at Benal's *stop*. Keo's joke is *at least we know where they wait for lunch*, and Benal answers it by counting.
 - **D7.2.** Teva reads Keo on the rock as bravado, and through her POV the reader can see him standing over croc water, which took his sister. When Benal says "We could go home", Keo answers protectively and Benal hears pity. After she takes the decision from Keo, Teva has a moment that shows what it costs her. When Keo admits he cannot do something, she asks him about it.
 - **D7.3.** The night-before talk is dramatized: logistics on the surface and the three holding on to each other under it, drawing on Day 6's honey and the *delicious* joke. Keo thinks of Yara. Keo answers Benal's "Statistically".
 
@@ -258,7 +258,7 @@ What the reader should feel toward each of the three, the details that earn it, 
 - **Benal**: love. Earned by *This is the best day I've ever had* and the beetle argument. Holds off the loner: he is the center of the joke.
 
 **Days 7–10, the river to the savanna.**
-- **Keo**: fear for him, then enjoyment, then dread. Earned by facing sixteen crocs while the others see Yara in it, admitting he cannot, and singing on the savanna (K10). Day 10 is his hothead peak, and the guard is the scene list's own: the reader enjoys him as much as he enjoys himself, and he looks after Benal.
+- **Keo**: fear for him, then enjoyment, then dread. Earned by facing thirty-odd crocs while the others see Yara in it, admitting he cannot, and singing on the savanna (K10). Day 10 is his hothead peak, and the guard is the scene list's own: the reader enjoys him as much as he enjoys himself, and he looks after Benal.
 - **Teva**: admiration and anxiety. Earned by taking the decision, the cost seen from inside at D7.2, reeling Benal in on the cord, and concealing sunfever by reciting the fields. D7.2 is her angry-one peak, and the cost seen from inside is the guard.
 - **Benal**: respect. Earned by seeing what Keo paid (D8.3), the stone stacks (B13), and estimating the water. Holds off the loner: he looks after Keo.
 
