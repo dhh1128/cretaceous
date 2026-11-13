@@ -1,5 +1,5 @@
 ---
-approval: approved d72750f7
+approval: approved cb3aa434
 ---
 
 # Cretaceous — Milieu Brief
@@ -287,7 +287,7 @@ So the right instrument is not a pass/fail test. It is a **ledger of accepted ri
 
 **Not permitted, and this is the correction:** ~~the chert-knife~~. <!-- @WF-chertknife.permitted: false --> **Knapped stone is the single worst object this society could make.** Chert is microcrystalline quartz — chemically inert and effectively eternal. Conchoidal fracture scars from knapping are diagnostic of deliberate manufacture; identifying them is the entire basis of lithic archaeology, and it is how hominin presence is traced back more than three million years. A steel blade in a swamp becomes an iron stain. **A chert blade stays a chert blade, with its knapping scars intact, forever.** It is more durable and more unmistakably artificial than the metal they have made taboo, which makes it inconsistent with their own stated fear. It entered the corpus in a brief-improvement commit and was never a decision.
 
-**Every child is taught the things that last.** The object rules are learned as a list of what never goes away and so must never be made: knapped stone, and the founders' own materials, **concrete**, the poured stone their world built whole cities of <!-- @WF-concrete.known: forbidden-word -->, and `[-]` steel, glass and plastic. So the words are everyone's and the things are no one's: nobody alive has seen concrete, and at Genesis the trio walk into a building made of the forbidden thing (Q-GK5Y). Rust is the same kind of word, from the other side: it is what the archaea make of neglected metal in hours.
+**Every child is taught the things that last.** The object rules are learned as a list of what never goes away and so must never be made: knapped stone, and the founders' own materials, **concrete**, the poured stone their world built whole cities of <!-- @WF-concrete.known: forbidden-word -->, and `[-]` glass and plastic. Steel is not on it: it is the taboo metal, and the archaea take it to rust. So the words are everyone's and the things are no one's: nobody alive has seen concrete, and at Genesis the trio walk into a building made of the forbidden thing (Q-GK5Y). Rust is the same kind of word, from the other side: it is what the archaea make of neglected metal in hours.
 
 Maintaining this arsenal requires regular dangerous harvesting trips — teeth come out of animals — which is itself a source of story, and it means **every cutting edge in this culture comes out of a mouth.**
 
