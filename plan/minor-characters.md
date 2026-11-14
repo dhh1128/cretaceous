@@ -1,5 +1,5 @@
 ---
-approval: approved 9298cc2c
+approval: approved 87ad3490
 ---
 
 # Character register
@@ -50,6 +50,8 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Lunet** — mother. Present at the Council debate, trying to pull Marek back from the argument (`content/superseded/03.1.md`).
 
+**Velin** — Benal's friend, his age. Really into botany, and a bit odd by their peers' standards: her oddness is urgency about plants. Comes to his ladder to make him see the tree ferns unrolling (D2.2). (`plan/backstory.md` B24)
+
 **Liaso** — cousin. On watch at the rebuild in the tangle the night of the theft, and the three of them get past him on his own rhythm, which Benal knows. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
 
 ## The Keepers
@@ -89,5 +91,5 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 ## Names still available
 
 Male: Taren, Miloq, Josan, Rilas, Nevan, Taylo, Areno, Sorren, Camren, Tejo, Omarin, Dalen, Joro, Kaisan.
-Female: *(names ending in* -ae *are struck — they are a spelling and pronunciation problem for the reader.)* Marielu, Yara *(spent)*, Tahlea, Seren, Junel, Areni, Velin, Nalay, Kesa, Mionna, Caleen, Risaen, Adira *(avoid — collides with Alira)*.
+Female: *(names ending in* -ae *are struck — they are a spelling and pronunciation problem for the reader.)* Marielu, Yara *(spent)*, Tahlea, Seren, Junel, Areni, Nalay, Kesa, Mionna, Caleen, Risaen, Adira *(avoid — collides with Alira)*.
 Surnames: unused so far. The colony may not use them; that is undecided.

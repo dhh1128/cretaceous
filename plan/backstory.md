@@ -1,5 +1,5 @@
 ---
-approval: approved d1e4b124
+approval: approved 11493d6d
 ---
 
 # Backstory register
@@ -168,7 +168,7 @@ What the three and the people around them were before the story opens: habits, h
 **People**
 - **B22** He mostly admires Keo, as a rare kid gifted in many ways who is generous-hearted rather than proud. He knows what dyslexia is and wonders whether Keo has it, because he remembers Keo confusing letters that mirror each other. He remembers Keo not picking him for a team game once, and thinks it was oblivious rather than mean.
 - **B23** He remembers Teva being lazy in math class and asking him for help without trying very hard, and suspects she did it to act dumb in front of her two friends, who were less sharp than she was. That is his reading; whether it is true stays unstated. He remembers her sharing her lunch with him one day when they were little.
-- **B24** His friend is a girl who is really into botany and a bit odd by their peers' standards. Her oddness is urgency about plants, and she comes to the foot of his ladder to make him see the tree ferns unrolling. *(D2.2)*
+- **B24** His friend Velin is a girl who is really into botany and a bit odd by their peers' standards. Her oddness is urgency about plants, and she comes to the foot of his ladder to make him see the tree ferns unrolling. *(D2.2)*
 - **B25** He loves and admires his mother and thinks she is deeper than others do. He wishes she would spend more time with him. She feels distant to him: kind, but not warm. He would know her voice in any crowd, and his father's step on the platform. *(D2.2)*
 - **B26** He had never seen his father defeated before D2.7. *(D2.7)*
 - **B27** He expects Keo to want to fix things that cannot be fixed. *(D4.2)*
@@ -252,4 +252,4 @@ What the three and the people around them were before the story opens: habits, h
 
 ## Still blank
 
-Kinds of backstory the register does not yet supply, to be proposed when a scene needs them: names for Teva's two friends, Benal's botanist friend, the older mathematician, the boy who startled Benal, and the older men Keo plays with; Daven, and whether Teva has siblings; what the three's True Naming and adult naming were like; any history between Teva and Benal beyond what T24 and B23 hold.
+Kinds of backstory the register does not yet supply, to be proposed when a scene needs them: names for Teva's two friends, the older mathematician, the boy who startled Benal, and the older men Keo plays with; Daven, and whether Teva has siblings; what the three's True Naming and adult naming were like; any history between Teva and Benal beyond what T24 and B23 hold.
