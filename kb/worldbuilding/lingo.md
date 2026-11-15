@@ -1,5 +1,5 @@
 ---
-approval: approved 01e0475c
+approval: approved 3a546bf2
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -79,9 +79,9 @@ Not drift — these are the words the colony *kept*, and using them correctly is
 
 ## Proper nouns
 
-Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**, **Enclave**, **the Repository**, **the Barrier**, **the First Walk**, **Traditionalist**, **Brancher**, **Explorer**.
+Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**, **Enclave**, **the Repository**, **the First Walk**, **Traditionalist**, **Brancher**, **Explorer**.
 
-**Enclave is a place name and takes no article**: *in Enclave*, *left Enclave*, *born in Enclave*. Where a sentence means the community or the settlement as a place people live, it says *the village*. **Genesis** is capitalized the same way. **These are common nouns and are lowercase except at the start of a sentence: keeper, master, seeding, the jump.**
+**Enclave is a place name and takes no article**: *in Enclave*, *left Enclave*, *born in Enclave*. Where a sentence means the community or the settlement as a place people live, it says *the village*. **The scent at the foot of the tangle is a fuzzy zone, not a line, and it has no name**: as a place it is *the tangle*; as a smell it is described. *Barrier* means only the river's pylons and grating. **Genesis** is capitalized the same way. **These are common nouns and are lowercase except at the start of a sentence: keeper, master, seeding, the jump.**
 
 ---
 

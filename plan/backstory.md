@@ -1,5 +1,5 @@
 ---
-approval: approved 11493d6d
+approval: approved 6268415c
 ---
 
 # Backstory register
@@ -53,11 +53,11 @@ What the three and the people around them were before the story opens: habits, h
 - **K28** On the schism and the Council: boring adult business, mostly, though he has lately begun to doubt their wisdom and is more aware of disagreeing with authority. He admires Marek, because his parents do.
 
 **Explorer's son**
-- **K29** His father told him the Barrier rule a year ago, in one sentence, and he has worked Noli at dawn nearly every day since. *(D2.1, D2.8, D3.1)*
-- **K30** He knows the Barrier's smell as well as his own nest's, and to him it means where home stops. *(D2.1)*
+- **K29** His father told him the tangle rule a year ago, in one sentence, and he has worked Noli at dawn nearly every day since. *(D2.1, D2.8, D3.1)*
+- **K30** He knows the tangle's smell as well as his own nest's, and to him it means where home stops. *(D2.1)*
 - **K31** He is not cruel to Noli; he lets go before she truly panics. *(D2.1)*
 - **K32** He has asked for a suit more than once, and his mother refused in the same words each time. He is not yet an adult and not a custodian, in her words. *(D2.3; `plan/milieu-brief.md` §7)*
-- **K33** He claims he knows the ground outside, can read the herds, and can pin Noli inside ten meters of the Barrier as nobody else can with anything. *(D2.3)*
+- **K33** He claims he knows the ground outside, can read the herds, and can pin Noli inside ten meters of the tangle as nobody else can with anything. *(D2.3)*
 - **K34** His parents showed him the Repository cord because they trusted him; he had never opened it without them. He puts both hands on the slab the way his mother does. *(D2.11)*
 - **K35** He knows the patches on his mother's suit and the paler regrowth on his father's sleeve. He has seen his mother frown at suit warnings and never asked what they meant. *(D2.11)*
 - **K36** He has seen suits all his life and is still amazed at how their wearers disappear. *(D3.1)*
@@ -244,7 +244,7 @@ What the three and the people around them were before the story opens: habits, h
 
 - **N1** Keo found her about a year after Yara died. *(K20)*
 - **N2** She has leaned her whole weight on Keo's leg since she was small. *(D2.1)*
-- **N3** She stops where she always stops, short of the nozzles, and her Barrier dread is long, dull and familiar. She has decided a cycad cone is the danger there. *(D2.1, D2.11, D3.1)*
+- **N3** She stops where she always stops, short of the nozzles, and her dread of the tangle is long, dull and familiar. She has decided a cycad cone is the danger there. *(D2.1, D2.11, D3.1)*
 - **N4** She holds a grievance against the gelled fence. *(D3.4, D4.1)*
 - **N5** She decides a large bird is food. *(D4.1)*
 - **N6** She takes honey delicately. *(D6.1)*

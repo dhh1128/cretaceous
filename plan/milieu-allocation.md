@@ -1,5 +1,5 @@
 ---
-approval: approved 85cab4a9
+approval: approved 411a5e02
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -47,7 +47,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | **Genesis** | 15–19 | coral, fossil rudist bivalves, platform limestone, and the interior. **No volcanic rock** — `kb/research/geo-flora-fauna.md` §1.2 gives kilometers of limestone, marl and evaporites over a granitic basement, with no volcanics anywhere on the Yucatan platform. |
 | **The run home** | 19 | the whole route in reverse, at speed, from above the ground, up their own river flooded to a sheet kilometers wide, with zags onto land round what blocks it. Everything they crawled through, seen at once. |
 
-**One scene has a budget of its own, and it is not a band.** **D2.3, the family nest:** **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the Barrier on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. @D2.3
+**One scene has a budget of its own, and it is not a band.** **D2.3, the family nest:** **Deliberately thin, and that is a decision rather than an omission.** The sway of a slung platform that nobody notices they are leaning with, and the chemical ghost of the tangle's musk on their gear. Nothing else. **An interior domestic scene should not be spending the milieu budget** — the whole act's sensory allowance belongs to the Vitarium, the rain at the yazhi pool, the Repository, and the fog at the tangle. @D2.3
 
 ---
 
@@ -75,7 +75,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 | *torosaurus* | 19 | **used once, at the chase's end.** A big horned dinosaur with a huge frill, of the same fauna as the saropo; a mother with her calf, belly-deep in the flood and furious at the noise, rears with her horns raised at the flybeak's last dive, and it pulls out and gives up. |
 | sea turtles, nesting | 14 | already allocated to D14.1 as the croc distraction. | @D14.1
 | *mosasaurus* | 14 | night, the boat. |
-| ***tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the Barrier is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9
+| ***tyrannosaurus rex*** | **13, once, at distance** | **No close encounter in this book** — a deliberate choice, and one that can be revisited. It is present in every scene by smell — the tangle's scent is synthesized from its musk — and it is present in Liaso's story at D2.9. **One distant sighting on Day 13 and never again.** The apex predator that never touches them is worth more than one that does, and it leaves the encounter available for a sequel. | @D2.9
 
 **Not allocated, held in reserve:** *albertosaurus*, *coahuilaceratops*, *bravoceratops*, *magnapaulia*, *avisaurus*, *coniophis*, *polyglyphanodon*. Do not spend these without moving something else off the list, because each striking thing gets one or two days and is off-limits elsewhere (top of `milieu-allocation.md`).
 
@@ -146,9 +146,9 @@ Enclave: cycad plantation, palm grove, fern garden, conifer emergents. Days 3–
 
 Each of these is owned once. The number is the day.
 
-**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the Barrier, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · the sea's salt, new to them and no shock (14) · wet metal, ozone and dormant circuits at Genesis (16).
+**Smell** — autolysis in the Vitarium (1) · **the returning: sharp, chemical, eye-watering, and pointedly not carrion (1, at Alira's rite — and never again in the book, which is what makes it unbearable if anyone thinks of it later)** · the tangle's musk, wounded alpha and carrion (2, and thereafter only as absence or intensity) · soured figs from the archaea wrappings (2) · crushed pine and resin (3) · wet ash and rot after rain (4) · the constrictor's musk (5) · turned earth and green sap on the good day (6) · dust and hot fern (10) · a hadrosaur carcass three days dead (13) · **sulfur from hot springs (12)** · the sea's salt, new to them and no shock (14) · wet metal, ozone and dormant circuits at Genesis (16).
 
-**Note the pairing.** The returning and the Barrier are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters carry the second one in a pot and put it on their fence every night until the river takes it on Day 8 *(`body-and-resources.md` §0; on skin only at the crossing)*. Nobody has to point this out.
+**Note the pairing.** The returning and the tangle's musk are the same technology aimed in opposite directions — one engineered to smell like nothing worth eating, one engineered to smell exactly like carrion so that predators read *wounded alpha, keep clear*. The characters carry the second one in a pot and put it on their fence every night until the river takes it on Day 8 *(`body-and-resources.md` §0; on skin only at the crossing)*. Nobody has to point this out.
 
 **Sound** — the insect wall (already D3.1, and thereafter only when it *stops*) · razortail clicking, bone on stone (3) · the river (7) · rain on a raised helmet (4) · **the birds stop, before the constrictor (5)** — the overcast thickens and they go quiet, as birds do when the light drops; the insect wall goes on, and only Benal hears the difference · a saropo herd's footfalls felt through the ground (6) · hadrosaur calls like low horns (10) · the tearing-sail sound of the flybeak (11) · flooded-out ants moving over leaf litter (11) · nothing at all on Day 12 but rain · the cyclone (14) · Genesis groaning on its own weight (16). @D3.1
 
