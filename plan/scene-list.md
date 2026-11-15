@@ -6,7 +6,7 @@ approval: unapproved
 
 Breaks the fifteen-unit outline into scenes. Each is a distinct unit of action with a specific POV.
 
-**The rescene is done.** **71 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the gel, and D16.4, the evening Keo starts the wig charging — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, nineteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
+**The rescene is done.** **71 scenes** — the count `pacing-and-stakes.md` §5 proposes, plus D8.4, the first night without the musk, and D16.4, the evening Keo starts the wig charging — and every day holds the number that section asks for — `uv run --with pytest pytest tools/ -k scenes_per_day` is the live answer and this sentence is not. Fourteen in Act 1, forty in Act 2, nineteen in Act 3, against a proposal of 14 / ~39 / ~16; the one-scene difference is where Day 15 falls, since the Dark Night ends Act 2 and Genesis opens Act 3 on Day 16.
 
 **One format, everywhere.** Every entry carries size, day and hour, POV, place, ladders, must-carry, hazard and ending. The older single-line form with a B-Story note is gone; the last of it was Days 10, 11 and 14, and each of those entries carries a *was* note recording the id it converted from. **Act 1 keeps its `D1.1`–`D3.1` ids and everything below Act 1 is day-keyed** — `D7.2` is the second scene of Day 7 — until the sequential renumber, which waits on a check that every scene address cited across the layers resolves. After the renumber the ordering evidence in those references is gone, and it is what the check reads.
 
@@ -164,7 +164,7 @@ The theft. The taboo shelf. The third suit left on the rack.
 ### D3.1 — [LONG] [Day 3, pre-dawn] [KEO] [Border-tangle] — *canon, `content/superseded/04.3.md`*
 **Ladders:** EM6 P6 S8 SP4
 **Purpose:** CLASH · **Ending:** THREAT
-Suiting up, the septic gel, past the watcher, through the gap. Razortails clicking in the fog.
+Suiting up, the septic musk, past the watcher, through the gap. Razortails clicking in the fog.
 **Ends on:** clicking in the fog, closer than it was, and the act stopping there. **Mid-threat, and nothing is resolved** — the reader turns the page into Act 2 with the sound still going.
 
 ---
@@ -213,7 +213,7 @@ Suiting up, the septic gel, past the watcher, through the gap. Razortails clicki
 ### D3.5 — [SHORT, ~600] [Day 3, night] [TEVA] [First camp, her watch] — **NEW**
 **Ladders:** EM6 P8 S8 SP4
 **Purpose:** DISCOVER · **Ending:** SETTLED
-**Teva alone on her watch, keeping the camp's watch and Omya's Watch at once.** The others asleep, the fence gelled, Noli gone; the early night moonless *(`journey-calendar.md`: Night 3)*.
+**Teva alone on her watch, keeping the camp's watch and Omya's Watch at once.** The others asleep, the fence dabbed with musk, Noli gone; the early night moonless *(`journey-calendar.md`: Night 3)*.
 **Must carry:**
 - **She tries the sky alone, gets partway, breaks at the same place twice, and understands the gap is permanent** *(`journey-calendar.md`, the Watch; `foreshadow-and-motif.md` R9d)*.
 - **She tells nobody.** It is Day 6's to say.
@@ -395,7 +395,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 **Purpose:** PRESSURE · **Ending:** OMINOUS
 **The first night with a bare fence.** Something large comes in the dark and walks the line of the stakes, unseen, and leaves at first light without trying them. Nobody sleeps, which is why Day 9 is eleven kilometers <!-- @WF-day9.distance: 11km --> on none.
 **Must carry:**
-- **What the gel was doing, felt by its absence.** Teva's spike tip is bare for the first time since Day 3; Noli, bedded down outside the fence for the first time, goes flat, and Keo brings her in through the gap under threat — the one time she is inside, and not to sleep.
+- **What the musk was doing, felt by its absence.** Teva's spike tip is bare for the first time since Day 3; Noli, bedded down outside the fence for the first time, goes flat, and Keo brings her in through the gap under threat — the one time she is inside, and not to sleep.
 - **Keo's sense gives presence and kind only** (`tech-rules.md`): one large hunter, alone, unhurried. **It is never seen and never named** — every large predator in the inventory is spent or held in reserve.
 - **They talk, whispering**: what it is, whether to wake the fire or kill it, whose watch, Benal counting its steps and trying a joke that does not come out. The fear is in what they argue about, not in silence.
 **Hazard:** an attack. It does not try the fence, and that is worse, because they spend the night not knowing why. Second: a silent vigil — three people too frightened to talk is the cliché; three people too frightened to stop is the scene.

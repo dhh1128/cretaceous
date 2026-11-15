@@ -1,5 +1,5 @@
 ---
-approval: approved 5605b606
+approval: approved 88512eac
 ---
 
 # Backstory register
@@ -245,7 +245,7 @@ What the three and the people around them were before the story opens: habits, h
 - **N1** Keo found her about a year after Yara died. *(K20)*
 - **N2** She has leaned her whole weight on Keo's leg since she was small. *(D2.1)*
 - **N3** She stops where she always stops, short of the nozzles, and her dread of the tangle is long, dull and familiar. She has decided a cycad cone is the danger there. *(D2.1, D2.11, D3.1)*
-- **N4** She holds a grievance against the gelled fence. *(D3.4, D4.1)*
+- **N4** She holds a grievance against the musk-dabbed fence. *(D3.4, D4.1)*
 - **N5** She decides a large bird is food. *(D4.1)*
 - **N6** She takes honey delicately. *(D6.1)*
 - **N7** She circles three times before lying down. *(D6.3)*
