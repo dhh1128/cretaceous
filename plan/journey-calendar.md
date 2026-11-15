@@ -1,5 +1,5 @@
 ---
-approval: approved 62b609cd
+approval: approved 07beb1cf
 ---
 
 # Journey calendar — days, distance, weather, light, temperature
@@ -16,8 +16,8 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 | day | where | km | cum |
 |---|---|---|---|
-| 1 | the Enclave — evening, the Vitarium, the returning | — | — |
-| 2 | the Enclave — the day, the Council, the theft | — | — |
+| 1 | Enclave — evening, the Vitarium, the returning | — | — |
+| 2 | Enclave — the day, the Council, the theft | — | — |
 | **3** | **out through the tangle before dawn; the razortails in the fog.** Then a hard morning's march and a long lay-up | 8 | 8 |
 | 4 | open-canopy woodland | 10 | 18 |
 | 5 | **the constrictor** | 8 | 26 |
@@ -52,7 +52,7 @@ Granularity is the **day**, not the scene, so this survives the rescene intact.
 
 **Day 7 is a full stop, and it is the best day in the middle of the book.** They reach the water and cannot make themselves enter it. A day of standing on a bank and arguing: build a raft, **ride a saropo across if a herd is headed that way** — discarded because nobody can steer one, and being shaken off or left standing in the middle of the channel is worse than swimming — go home. Counting what they have. Nobody sleeping. It is three teenagers exhausting every alternative to getting wet, and running out of them — which is what makes Day 8 an act of courage rather than an obstacle.
 
-**And the geology agrees with the placement.** This is a low-relief plain and rivers gather as they approach the sea, so the one genuine channel is more plausible at 40 km than at 8. **It is their own river**, whose bend runs through the Enclave: it runs from the Enclave past the narrows to the sea, and reaches the coast somewhere along from where they come out on Days 13–14.
+**And the geology agrees with the placement.** This is a low-relief plain and rivers gather as they approach the sea, so the one genuine channel is more plausible at 40 km than at 8. **It is their own river**, whose bend runs through Enclave: it runs from Enclave past the narrows to the sea, and reaches the coast somewhere along from where they come out on Days 13–14.
 
 ---
 
@@ -92,7 +92,7 @@ The dependency order:
 
 **The croc's sense is the water's surface, not the ground** <!-- @WF-croc.sense: water-surface --> — pressure receptors in the jaw skin, reading disturbance it can localize. See `plan/tech-rules.md`. Everything below follows from that, and the plan the three of them make is a plan to make one point in the river the loudest thing in it and their own crossing the quietest.
 
-**They choose the narrows.** A place where the channel tightens between boulders — the water runs quicker there and the gap to swim is shorter, and both are worth more than the discomfort of a faster current. Boulders in a channel are already canon; the Enclave's own river bend is barred with them.
+**They choose the narrows.** A place where the channel tightens between boulders — the water runs quicker there and the gap to swim is shorter, and both are worth more than the discomfort of a faster current. Boulders in a channel are already canon; Enclave's own river bend is barred with them.
 
 **The decoy goes in fifty yards upstream, in the slow wide water**, where a panicking hadrosaur will stay roughly where it is put. This is why the "no current" requirement exists and it applies *here*, not at the crossing — and it is what makes the quicker water at the narrows harmless, since nothing there needs to hold position.
 
@@ -194,7 +194,7 @@ And Benal knows what it would take. You would need instruments, and the instrume
 
 ### The Watch, and what Omya is also losing
 
-See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one Keeper to the next and checked against the real sky every clear night for 206 years. They maintain a reference exact enough that **anything which was not there before becomes obvious**, over the fields the founders chose and the moon's calendar — `milieu-brief.md` §5 owns the two halves. **They no longer know that one half of it is looking for the impactor**, which no unaided eye can see except during a close pass.
+See `plan/milieu-brief.md` §5. **Sky-watching is a keeper duty.** The keepers hold a memorized sky — no chart, because a chart is a durable artifact — drilled from one keeper to the next and checked against the real sky every clear night for 206 years. They maintain a reference exact enough that **anything which was not there before becomes obvious**, over the fields the founders chose and the moon's calendar — `milieu-brief.md` §5 owns the two halves. **They no longer know that one half of it is looking for the impactor**, which no unaided eye can see except during a close pass.
 
 **Nobody has noticed the Watch is dying too**, because a watch that finds nothing is indistinguishable from a watch that is not happening. The whole colony is measuring the loss of the synthesis protocol; the other half of Omya is going unmeasured.
 
@@ -208,7 +208,7 @@ See `plan/milieu-brief.md` §5. **Sky-watching is a Keeper duty.** The Keepers h
 - **Genesis.** The colony had two ways to find the impactor: instruments here, the Watch at home. It lost both and only noticed one.
 - **Book 2.** Teva holds the only fragment of the sky anyone has left, and it is incomplete.
 
-**This also recasts Teva.** She was being trained for the Watch — that is why Omya taught her the stars. Her sensory upgrades failing means she has a Keeper's memory and not a Keeper's senses: **she was supposed to inherit the sky and got part of the way.** It gives her a role beyond navigator and it gives her grief an object.
+**This also recasts Teva.** She was being trained for the Watch — that is why Omya taught her the stars. Her sensory upgrades failing means she has a keeper's memory and not a keeper's senses: **she was supposed to inherit the sky and got part of the way.** It gives her a role beyond navigator and it gives her grief an object.
 
 ### What is actually overhead
 

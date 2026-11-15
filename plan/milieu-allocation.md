@@ -1,5 +1,5 @@
 ---
-approval: approved 411a5e02
+approval: approved 7b33931d
 ---
 
 # Milieu allocation — biome, species, and sensory budget
@@ -36,7 +36,7 @@ Retire from narration: *green-black*, *wall of green*, *impenetrable*, *canopy c
 
 | band | days | character |
 |---|---|---|
-| **The Enclave** | 1–2 | cultivated and managed. Cycad plantations, palm groves, fern gardens, insect farms, hadrosaur pens, conifer emergents holding the nests. Everything here is *worked*. **And the river bend running through it** — barred at both ends, rotting, repaired forever, and never quite holding. The one dangerous place inside the safe place. |
+| **Enclave** | 1–2 | cultivated and managed. Cycad plantations, palm groves, fern gardens, insect farms, hadrosaur pens, conifer emergents holding the nests. Everything here is *worked*. **And the river bend running through it** — barred at both ends, rotting, repaired forever, and never quite holding. The one dangerous place inside the safe place. |
 | **Border-tangle and the near woodland** | 3 | the transition. Built barrier giving way to understory nobody maintains. |
 | **Open-canopy woodland** | 3–6, 9 | the default. Conifer emergents, laurel and palm canopy, understory of cycad and fern. Rivers with horsetail stands. |
 | **The river and its banks** | 7–8 | the one channel that cannot be avoided. Two days: a bank they cannot make themselves leave, and the crossing. |
@@ -160,17 +160,17 @@ Each of these is owned once. The number is the day.
 
 ## 5b. Words at Genesis `[-]`
 
-The three have never seen most of what Genesis holds, and the trio's narration may use only words they have. Three tiers (Q-CX8A), chosen deliberately per thing, and the things the book must name again and again get a word the Enclave already owns:
+The three have never seen most of what Genesis holds, and the trio's narration may use only words they have. Three tiers (Q-CX8A), chosen deliberately per thing, and the things the book must name again and again get a word Enclave already owns:
 
 | thing | tier | how it is named | where |
 |---|---|---|---|
 | rust | Enclave word | the archaea failsafe turns neglected old-tech to rust in hours (`plan/milieu-brief.md` §6); at Genesis it took two centuries with nothing helping it, worth one sentence once | D14.1 on; one sentence D15.2 |
 | metal, machine, old-tech, door, glass, stone | Enclave words | plain, sparingly | throughout |
 | concrete, steel, glass, plastic | Enclave words, taught as forbidden: the things that last (`plan/milieu-brief.md` §6, Q-GK5Y) | known by name, never seen; Teva recognizes concrete at the water building as the forbidden thing | D15.2 on |
-| wig | the voice's word; not an Enclave word, and nobody in the Enclave could know it (Q-T8ZQ) | Keo calls it "a boat with wings" first, in dialogue; Benal reads *wigs* in the station log at D17.2 without knowing what it names; the voice names the craft at D18.2 and all three are mystified by the word, then take it up | D16.4, D17.2, D18.2 |
+| wig | the voice's word; not an Enclave word, and nobody in Enclave could know it (Q-T8ZQ) | Keo calls it "a boat with wings" first, in dialogue; Benal reads *wigs* in the station log at D17.2 without knowing what it names; the voice names the craft at D18.2 and all three are mystified by the word, then take it up | D16.4, D17.2, D18.2 |
 | the plates, the archive | Enclave words (the tablets are in the First Walk story) | plain | D16.3 on |
 | the leaves of the records | nobody's word; *metal* and *leaf* are Enclave words | `[-]` named by what the POV sees, thin metal leaves that bend, then plain "leaves"; never *paper* or *page*, and no colony word for them | D16.3, D17.1 on |
-| the paper, the working files | `[-]` not an Enclave word, and no scene uses it; the Enclave's own records rot by design on a substrate no file names (`plan/milieu-brief.md` §6) | named by what the POV sees: soft sheets, stained, stuck together in blocks, that come apart in the hand | D16.2 on |
+| the paper, the working files | `[-]` not an Enclave word, and no scene uses it; Enclave's own records rot by design on a substrate no file names (`plan/milieu-brief.md` §6) | named by what the POV sees: soft sheets, stained, stuck together in blocks, that come apart in the hand | D16.2 on |
 | the hum, the lit panel, warm air from a seal | nobody's word | described once in the POV's terms, then a plain phrase ("the hum", "the lit panel") | D16.1 on |
 | the generators | read, never seen | `[-]` Teva reads the lit panel as power at D16.1; the AI says "generators" to Keo at D16.4 | D16.1, D16.4 |
 | the training system | nobody's word | Keo calls it "the voice" and keeps calling it that after it tells him its name; humor | D16.4 on |
@@ -179,8 +179,8 @@ The three have never seen most of what Genesis holds, and the trio's narration m
 | a seat whose padding has gone to grit, artificial light, a dry room | nobody's word | described by the body ("what was under it crunched to grit"; "light with no flame in it") | D16.2, D16.4 |
 | the arch frames, the wet hull | nobody's word | described once by what they resemble in the POV's own experience (ribs of a carcass; a hull sunk to its rails) | D16.1, D16.4 |
 | lab things in D16–D17 | the Vitarium's words | Teva names what the Vitarium still names in founder words (vessel, culture, seal) | D16.3, D17.1 |
-| bolts and nuts | nobody's word: the Enclave lashes and binds, and has no metal fastenings (`plan/milieu-brief.md` §6) | the first time Keo handles them, linking the cells, he describes them to the voice in his own words in dialogue, round things with a hole in them and a long straight thing like a pin with grooves running round it, and the voice gives him *nut* and *bolt*; after that the words are his and he uses them, and Benal and Teva use them only after hearing them from Keo, or describe; before D16.4 no POV says *bolt*, *bolted* or *nut* for hardware, so D16.1's modules "bolted to the rock" is a planning phrase (Daniel, Q-MMMM). `[-]` The grooves stay *the grooves* in Keo's mouth, whatever the voice calls a thread; *nut* he has only for food (`content/D6.1.md:21`), and may say so once | D16.4; D18.2, D19.1 |
-| the hatch, the bay's hatch | Enclave words: door, lid | `[-]` the prose says *door* for the crown block's way in and the store's and hangar's, and *the lid* for the cover over the battery bay in the hull's floor; *hatch* is a planning label, because the Enclave has doors and lids and nothing that is neither (`plan/milieu-brief.md` §6) | D16.1, D16.4, D18.2 |
+| bolts and nuts | nobody's word: Enclave lashes and binds, and has no metal fastenings (`plan/milieu-brief.md` §6) | the first time Keo handles them, linking the cells, he describes them to the voice in his own words in dialogue, round things with a hole in them and a long straight thing like a pin with grooves running round it, and the voice gives him *nut* and *bolt*; after that the words are his and he uses them, and Benal and Teva use them only after hearing them from Keo, or describe; before D16.4 no POV says *bolt*, *bolted* or *nut* for hardware, so D16.1's modules "bolted to the rock" is a planning phrase (Daniel, Q-MMMM). `[-]` The grooves stay *the grooves* in Keo's mouth, whatever the voice calls a thread; *nut* he has only for food (`content/D6.1.md:21`), and may say so once | D16.4; D18.2, D19.1 |
+| the hatch, the bay's hatch | Enclave words: door, lid | `[-]` the prose says *door* for the crown block's way in and the store's and hangar's, and *the lid* for the cover over the battery bay in the hull's floor; *hatch* is a planning label, because Enclave has doors and lids and nothing that is neither (`plan/milieu-brief.md` §6) | D16.1, D16.4, D18.2 |
 | the covered manual release | Enclave words: handle, cover | `[-]` *a handle under a cover* at first contact, then *the handle*; *release* is a planning label | D16.1, D16.4, D17.1 |
 | the hard, the store, the hangar | concrete is an Enclave word, taught as forbidden (Q-GK5Y); store and mound are plain words | `[-]` the hard is *the concrete*, the poured floor Keo sees first; the store and the hangar are *the short mound* and *the long mound* until he has been inside; then the short one is *the store*, and the long one stays *the long mound*; *hangar* and *hard* are planning labels | D16.4 on |
 | the wheeled launch cradle | *wheel* is a word they have and a thing they never make, because a turned wheel looks made (`plan/milieu-brief.md` §4) | `[-]` *a frame on wheels* at first contact, then *the frame*; *cradle* is a planning label | D16.4, D19.1 |
@@ -227,7 +227,7 @@ status:   ratified
 ```
 
 1. **One showcase per species** is the working budget. After its day, it is a shape, a sound, a smell or an absence.
-2. **The Enclave's biology is worked; the outside is not.** Everything at home is cultivated, maintained, kill-switched. That contrast is the fastest way to convey what they have built.
+2. **Enclave's biology is worked; the outside is not.** Everything at home is cultivated, maintained, kill-switched. That contrast is the fastest way to convey what they have built.
 3. **Describe what no reader has experienced.** Ordinary mud, rain, blisters and heat are free — the reader supplies them. Spend words on the ferocity of a gaze in a treeline, the texture of croc hide, the taste of cycad mash. See `writing-style.md`.
 4. **Day 6 is the reserve of pleasure.** It holds the saropo herd, the good water, the oaks, the one harmless croc, the bioluminescence. Every awful thing after it is paid for out of that day.
 5. **Check what has already been described before spending anything.** `prompts/writing-style.md` requires a description report per scene; the cumulative register is built from those as accepted prose accumulates.

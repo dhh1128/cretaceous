@@ -1,5 +1,5 @@
 ---
-approval: approved 3a46b1dc
+approval: approved 9fd82681
 ---
 
 # Day 19: what every scene must pay
@@ -28,7 +28,7 @@ Nobody here is articulate about their feelings (`plan/voice-sheets.md`, rule 5),
 
 **The friendship, affirmed.** Love and trust shown in what they do for each other, and said once in register: a tease that is also true, or a fact said aloud. D19.9 carries it most, side by side on the rock.
 
-**The Enclave's coming-of-age begins**, in parallel to theirs: Rano's breath and then his hands on the metal (D19.6); Hesh the first to accept, and the schism opening (D19.7); the wig in the river as an argument nobody has had yet (D19.8). Begun, never finished.
+**Enclave's coming-of-age begins**, in parallel to theirs: Rano's breath and then his hands on the metal (D19.6); Hesh the first to accept, and the schism opening (D19.7); the wig in the river as an argument nobody has had yet (D19.8). Begun, never finished.
 
 **The suits.** The founders' gift, starved gray skins worn home because taking them off is worse. They are the image of doctrine treated as sacred and founders as all-knowing, and of children who lived anyway. Show them (Teva's flaking at the Watch, Riel's *That is what the suits are for*); never explain them.
 

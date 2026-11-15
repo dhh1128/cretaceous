@@ -1,5 +1,5 @@
 ---
-approval: approved 21a2d853
+approval: approved 953aa3bc
 ---
 
 # Cretaceous — Outline
@@ -63,7 +63,7 @@ Rationale (POV): Keo's POV lets us see Teva's "terrifying" resolve and Benal's o
 
 4. BREAK INTO TWO (The Theft):
 [POV: Keo] [Fear Level: Extreme (Heist Tension / Adrenaline)]
-They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits. His fear is not of dinosaurs, but of getting caught and the shame of betraying his parents' trust. Under cover of night, the theft is successful. The three (four, with Noli) slip out of the Enclave perimeter. The 80km "mudwalk" begins.
+They know the journey is suicide without old-tech. Keo makes the fateful decision: he will steal two suits. His fear is not of dinosaurs, but of getting caught and the shame of betraying his parents' trust. Under cover of night, the theft is successful. The three (four, with Noli) slip out of Enclave perimeter. The 80km "mudwalk" begins.
 
 Rationale (Parental Fallout & Stakes): The theft must have immediate, dire consequences. Keo's parents, as suit custodians, are implicated and confined. This is why no skilled rescue party follows. This action transforms the kids' journey, loading it with guilt.
 
@@ -176,7 +176,7 @@ Rationale (Character Arc): This is Keo's action climax, where he faces the same 
 
 14. THE CONFRONTATION:
 [POV: Kea] [Fear Level: High (Social Confrontation)]
-They arrive back at the Enclave in their heretical old-tech vehicle, stunning everyone.
+They arrive back at Enclave in their heretical old-tech vehicle, stunning everyone.
 
 The Hero's Act: They hand over the synthesis protocols, saving the kiva.
 

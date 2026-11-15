@@ -1,5 +1,5 @@
 ---
-approval: approved 3a546bf2
+approval: approved 071c7924
 ---
 
 # Drifted vocabulary — Cretaceous Colony English
@@ -58,7 +58,7 @@ Five animals, each load-bearing: the primary threat, the recurring pack threat, 
 
 | term | meaning | drift |
 |---|---|---|
-| **old-tech** | any surviving artifact of the original colonists — metal, polymer, electronics. Taboo outside the Enclave | compound. **The most load-bearing word in the novel**; the whole schism is an argument about it |
+| **old-tech** | any surviving artifact of the original colonists — metal, polymer, electronics. Taboo outside Enclave | compound. **The most load-bearing word in the novel**; the whole schism is an argument about it |
 | **lightcell** | power storage cell | compound. Gives the taboo something small and concrete — Sila's "one lost lightcell" at `content/superseded/03.1.md:21` is the taboo in a single object |
 | **self destruct** | what a suit counts down to when it stops finding a living wearer: at zero it wakes the archaea it carries, which take the body and then the suit | an old engineering phrase kept as plain speech; everybody knows the thing, and saying it is blunt rather than forbidden |
 | **wig** | the ground-effect craft at Genesis | **acronym worn down into a noun** — WIG, wing-in-ground-effect — exactly the way *saropo* wore down from *sauropod*. **Not an Enclave word**: the voice in the craft names it at D18.2 and the three are mystified by it, then take it up (Q-T8ZQ). See `the-wig.md` |
@@ -75,13 +75,13 @@ These are self-explaining English and cost the reader nothing on first sight, so
 
 Not drift — these are the words the colony *kept*, and using them correctly is what shows the reader that this is a scientific mission rather than a devolved tribe. Never simplify them, because the exact word is the evidence: *apoptosis*, *viral vector*, *protein fold*, *amino acid*, *protocol*, *chromatophore*, *integumentary*, *proprioception*, *necrosis*, *lymphatic*, *synthesis*, *culture*, *sequencing*.
 
-**And the register is not uniform across subjects.** Keeper work is chemistry and is spoken as chemistry. **Food safety is Explorer work and is spoken as procedure** — how long in the water, how you know it is done, what happens if it is not. Nobody says *glycoside* about a cycad, and a character who has the method without the mechanism can be entirely right about the first and wrong about what the second implies.
+**And the register is not uniform across subjects.** Keeper work is chemistry and is spoken as chemistry. **Food safety is explorer work and is spoken as procedure** — how long in the water, how you know it is done, what happens if it is not. Nobody says *glycoside* about a cycad, and a character who has the method without the mechanism can be entirely right about the first and wrong about what the second implies.
 
 ## Proper nouns
 
-Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**, **Enclave**, **the Repository**, **the First Walk**, **Traditionalist**, **Brancher**, **Explorer**.
+Not vocabulary; they need no teaching beyond context. **Vitarium**, **Genesis**, **Enclave**, **the Repository**, **the First Walk**, **Traditionalist**, **Brancher**, **the Council**, **the Watch** (the sky-keeping; a guard's watch is lowercase).
 
-**Enclave is a place name and takes no article**: *in Enclave*, *left Enclave*, *born in Enclave*. Where a sentence means the community or the settlement as a place people live, it says *the village*. **The scent at the foot of the tangle is a fuzzy zone, not a line, and it has no name**: as a place it is *the tangle*; as a smell it is described. *Barrier* means only the river's pylons and grating. **Genesis** is capitalized the same way. **These are common nouns and are lowercase except at the start of a sentence: keeper, master, seeding, the jump.**
+**Enclave is a place name and takes no article**: *in Enclave*, *left Enclave*, *born in Enclave*. Where a sentence means the community or the settlement as a place people live, it says *the village*. **The scent at the foot of the tangle is a fuzzy zone, not a line, and it has no name**: as a place it is *the tangle*; as a smell it is described. *Barrier* means only the river's pylons and grating. **Genesis** is capitalized the same way. **These are common nouns and are lowercase except at the start of a sentence: keeper, master, seeding, explorer, the jump.**
 
 ---
 

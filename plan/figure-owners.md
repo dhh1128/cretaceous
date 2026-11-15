@@ -21,8 +21,8 @@ approval: unapproved
 | 206 years | how long since the transit, at the novel's opening | `plan/milieu-brief.md` §1 |
 | 66 Mya | when the story happens | `plan/milieu-brief.md` §1 |
 | 66 million | the same figure spelled out | `spelling` — see 66 Mya |
-| 67 Mya | where the Enclave emigrates at the end of book 3. **Not the second jump, which is a thousand years** | `plan/sequels.md` |
-| 80 km | the Enclave to the coast, overland | `plan/journey-calendar.md` §1 |
+| 67 Mya | where Enclave emigrates at the end of book 3. **Not the second jump, which is a thousand years** | `plan/sequels.md` |
+| 80 km | Enclave to the coast, overland | `plan/journey-calendar.md` §1 |
 | 120 km | the training system's range for the wig on a full charge, from the cells' rating as if new | `kb/worldbuilding/the-wig.md` §2 |
 | 88 km | the flight home, the eighty overland plus the sea to Genesis | `kb/worldbuilding/the-wig.md` §2 |
 | 108 km | what they believe they have at launch, at about 90% on the training system's figure | `kb/worldbuilding/the-wig.md` §7 |

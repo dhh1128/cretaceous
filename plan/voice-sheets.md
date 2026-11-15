@@ -1,5 +1,5 @@
 ---
-approval: approved 7f3a3433
+approval: approved 1bbaca44
 ---
 
 # Voice sheets
@@ -58,7 +58,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **But interrogation is how she leads, and it is where her warmth is.** She is the one who asks Benal what his mathematics actually *does*, while everyone else looks at him and sees a liability — and `milieu-brief.md` §5 calls her recruiting him the thesis statement of the younger generation. Somebody has to open Benal up. Keo cannot, because Keo's register is instruction. She can, because she wants to know.
 
-**And a third register, rationed to almost nothing: she marshals.** When she is angry enough she produces the longest speech in the book — evidence in order, delivered flat, *"like a Keeper reciting a protocol"* **[drafted]**. **The jump from two words to two hundred is how the reader knows she has been hit.** It should happen perhaps three times in the novel.
+**And a third register, rationed to almost nothing: she marshals.** When she is angry enough she produces the longest speech in the book — evidence in order, delivered flat, *"like a keeper reciting a protocol"* **[drafted]**. **The jump from two words to two hundred is how the reader knows she has been hit.** It should happen perhaps three times in the novel.
 
 **The guard is conditional, not a personality.** It is up with adults, with strangers, and with anyone who might do something about it. It comes down with the yazhi she teaches, in the dark, when she is too tired to hold it, and — the one that matters — **after somebody else has been vulnerable first.** A person who is guarded under conditions is a person. A person who is guarded always is furniture.
 
@@ -88,7 +88,7 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 *Possibly* measures **what he is willing to claim**, which is his whole arc, so it is an instrument rather than a name tag. Three things follow from it:
 
-- **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave the Enclave (`humor-plan.md`).
+- **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave Enclave (`humor-plan.md`).
 - **It outlasts the stammer**, which is the point. The stammer measures fear and disappears when he is on his own subject; the hedge measures certainty and moves only when his certainty does. **It drops out twice, and both times it is doing work.** At Genesis he is terrified and certain at once — stammering while declining to say *possibly*. At the confrontation his second attempt comes out flat. Nobody remarks on either.
 - **It has one rehearsal, at D12.1**, where he says the thing that would have stopped the short leach and the hedge takes the weight out of it. Nobody notices, including him, and the cost is one person's health rather than a species'. That is what makes the Day 19 failure a habit with a history instead of a device. @D12.1
 - **It helps kill him at the confrontation.** `knowledge-ledger.md` has FB failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. His first attempt at the most important sentence in the novel comes out as *the upgrades are possibly the cure*, and his own habit is complicit in the room letting it go. **This is also the in-joke that stops being funny** — the thing `humor-plan.md` asks for and nothing else in the plan supplies. Nobody points at it. **The second attempt is unhedged and fails anyway** — Sila takes it up as confirmation of everything she already believed — so the journey's confidence is real and is not enough, and the defeat belongs to the room rather than to his tic.

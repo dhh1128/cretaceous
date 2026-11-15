@@ -20,7 +20,7 @@ That also keeps *Cretaceous* — which is accurate, pronounceable, and does the 
 
 **Watch** is book 2's instrument. Omya recites a sky she has checked for sixty years <!-- @WF-omya.watch.years: 60 --> while losing the protein fold, and the duty nobody counted as a loss becomes the dataset that dates the impact (`plan/milieu-brief.md` §5, `plan/sequels.md`). Titling the book after the thing nobody valued is the book's argument.
 
-**Return** is book 3, three ways at once: the burial rite (`plan/milieu-brief.md` §4), the return divisor in the physics (`kb/worldbuilding/benals-equation.md`), and Cecilia coming home — the only return in the trilogy that works, while the Enclave's own answer is to go the other way and never come forward again (`plan/sequels.md`).
+**Return** is book 3, three ways at once: the burial rite (`plan/milieu-brief.md` §4), the return divisor in the physics (`kb/worldbuilding/benals-equation.md`), and Cecilia coming home — the only return in the trilogy that works, while Enclave's own answer is to go the other way and never come forward again (`plan/sequels.md`).
 
 ## Systems considered and declined
 
@@ -51,7 +51,7 @@ Recorded so they are not proposed again. Each failed for a stated reason, not on
 - **The figure occupies at most a third of the frame.** Two thirds is environment.
 - **The K–Pg boundary as a graphic rule.** A hairline horizontal at the same y-position on all three covers, with the tone shifting above and below it — which is what the boundary looks like in outcrop, a thin dark clay line with different rock either side. A geologist reads it instantly. Everyone else reads a design element that unifies three books. The device does its work invisibly, which is the property the `K-` prefix was reaching for and could not have, because an unexplained letter in a title has to be stepped over and a hairline does not.
 
-`[?]` **And the figure crosses it.** Below the line on *Drift*, at it on *Watch*, above it on *Return* — a small human crossing a stratigraphic boundary across three covers, which is the trilogy. The wrinkle worth stating: book 3 does two opposite things at once, since Cecilia comes forward and the Enclave goes a million years deeper, so the rising figure reads emotionally rather than stratigraphically.
+`[?]` **And the figure crosses it.** Below the line on *Drift*, at it on *Watch*, above it on *Return* — a small human crossing a stratigraphic boundary across three covers, which is the trilogy. The wrinkle worth stating: book 3 does two opposite things at once, since Cecilia comes forward and Enclave goes a million years deeper, so the rising figure reads emotionally rather than stratigraphically.
 
 ## The suit is the primary asset
 

@@ -1,5 +1,5 @@
 ---
-approval: approved 9b2c6e1d
+approval: approved c3ca2c4d
 ---
 
 # Character arcs and intimacy
@@ -26,9 +26,9 @@ The shape being aimed at is that each of the three **loses a capability they wer
 
 **Her magnetic sense is not a loss and never becomes one.** Offshore it is worth more than it was on land, because there is nothing else to steer by. What limits her is a splitting headache from the short-leached mash: she gives them a heading and cannot hold it. **Her own Day 12 decision is what takes the navigation away from them**, which makes the poisoning teach her twice. `[?]` Whether she needs a third loss at all is open.
 
-**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the Explorer, whose training includes what is safe to eat — says it needs another day and does not press it, because he is injured and the burden and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
+**The poisoning is how she earns the third column, and it has to be a decision or it earns nothing.** Noli dies on Day 11 and the grounders stop with her, so by Day 12 there is no protein and no time. Leaching takes one to three days in running water; they have hours. **Teva decides to leach it short.** Keo — the explorer, whose training includes what is safe to eat — says it needs another day and does not press it, because he is injured and the burden and has stopped trusting himself. She is the one who decides, as she has decided everything since the Vitarium, and the rage that makes her decisive is what makes her wrong. **Her venom resistance is excellent and does not cover it** (`milieu-brief.md` §9) — she is the one who should have been safe.
 
-**And a fourth loss that is Teva's alone, running underneath the book.** She was being trained for the Watch — Omya taught her the stars because Keepers hold a memorized sky and check it nightly (`milieu-brief.md` §5). Her sensory upgrades failed, so she has a Keeper's memory and not a Keeper's senses: **she was supposed to inherit the sky and got part of the way, and the woman who could finish teaching her is disappearing while she walks away from her.** It gives her grief a specific object instead of a general one, and a role in book 2 beyond navigator — she holds the only fragment of the Watch anyone has left, and it is incomplete.
+**And a fourth loss that is Teva's alone, running underneath the book.** She was being trained for the Watch — Omya taught her the stars because keepers hold a memorized sky and check it nightly (`milieu-brief.md` §5). Her sensory upgrades failed, so she has a keeper's memory and not a keeper's senses: **she was supposed to inherit the sky and got part of the way, and the woman who could finish teaching her is disappearing while she walks away from her.** It gives her grief a specific object instead of a general one, and a role in book 2 beyond navigator — she holds the only fragment of the Watch anyone has left, and it is incomplete.
 
 **Benal's is the cruelest and the best:** he is stripped of the two things that made him survivable and left holding only the thing everyone called useless.
 
@@ -137,7 +137,7 @@ The dyad table gives temperatures; this gives the scenes that carry them. Each s
 - **D2.1.** Topo turns up at dawn, and Keo's big-brother kindness is on the page in his own scene (K18).
 - **D2.2.** Benal's botanist friend appears briefly (B24).
 - **D2.3.** Riel asks after Teva and Omya, and the family teases Keo about the flowers he has brought Omya (K19, T20).
-- **D2.4.** Teva tucks a flower into Omya's plait (T6), and Omya, lucid and dry, remembers the Explorers' boy who brought her flowers.
+- **D2.4.** Teva tucks a flower into Omya's plait (T6), and Omya, lucid and dry, remembers the explorers' boy who brought her flowers.
 - **D2.5.** Benal's math children pass the pool on the teaching rota (X10). The yazhi know him, and a yazhi's joke about him is the funny line Teva does not laugh at.
 
 **Days 3–5: what happens between them gets answered.** A quarrel, a save, a joke or a wound is met by a reply rather than closed by silence or summary. Each of the three has one moment tied to someone absent.

@@ -1,5 +1,5 @@
 ---
-approval: approved 6268415c
+approval: approved 95a4fc77
 ---
 
 # Backstory register
@@ -37,7 +37,7 @@ What the three and the people around them were before the story opens: habits, h
 **What he is ashamed of, and what he does not see in himself**
 - **K15** He is moderately dyslexic. He can read, but it is unpleasant for him. Writing exists only on chalk boards and in dirt, so reading is rare, and the dyslexia shows mostly in lessons. *(B22)*
 - **K16** He is kind of lonely, and does not know it.
-- **K17** He thinks of himself as *the Explorer*, and food training came with every trip. He would not be careless about a possibly poisonous food. His failure with food is overconfidence: he decides a mushroom is safe and Benal makes him do the smell test he had skipped. *(D4.1, revise)*
+- **K17** He thinks of himself as *the explorer*, and food training came with every trip. He would not be careless about a possibly poisonous food. His failure with food is overconfidence: he decides a mushroom is safe and Benal makes him do the smell test he had skipped. *(D4.1, revise)*
 
 **People**
 - **K18** His friend is **Topo**, a year younger, born with a misshapen ankle. Keo takes a big-brother role with him and is loyal and kind to him. He is popular with his peers in general and has no other fast friend. Topo watches Keo's dawn drill and is easy enough with him to tease back.
@@ -63,14 +63,14 @@ What the three and the people around them were before the story opens: habits, h
 - **K36** He has seen suits all his life and is still amazed at how their wearers disappear. *(D3.1)*
 - **K37** He heals faster than anyone he knows. *(D2.11)*
 - **K38** He watched his parents build camp on the trips he was allowed on, and knows it without thinking. *(D3.4)*
-- **K39** On a trip he once watched crocs lying in flat brown water while his mother counted them under her breath. Counting crocs is Explorer procedure, not her quirk (`plan/voice-sheets.md`, Riel). *(D2.8)*
+- **K39** On a trip he once watched crocs lying in flat brown water while his mother counted them under her breath. Counting crocs is explorer procedure, not her quirk (`plan/voice-sheets.md`, Riel). *(D2.8)*
 - **K40** He thinks the river is the worst of the outside. *(D2.8)*
-- **K41** As an Explorer's son he knows nothing in the river can climb a sheer face. *(D7.2)*
+- **K41** As an explorer's son he knows nothing in the river can climb a sheer face. *(D7.2)*
 - **K42** His mother taught him to walk with his sense out ahead, light, not reaching. *(D6.3, revise: "his father")*
 - **K43** A wild hadrosaur once yielded to him briefly and it cost him; he has never pushed one to its death. *(D6.3, D7.3; `plan/milieu-brief.md` §9)*
 - **K44** He has seen saropo from the top of the tangle, far off, on a few prized occasions. *(D6.3, revise: "all his life")*
 - **K45** Nobody from home has described the lake to him. *(D6.3)*
-- **K46** The Enclave has open ground, and Keo has seen plenty of sky; he has never paid it much attention. Most of his memories of stars are glimpses through the canopy over the nests. Outside, at night with nothing to do but keep watch, he looks properly for the first time. *(D3.4)*
+- **K46** Enclave has open ground, and Keo has seen plenty of sky; he has never paid it much attention. Most of his memories of stars are glimpses through the canopy over the nests. Outside, at night with nothing to do but keep watch, he looks properly for the first time. *(D3.4)*
 - **K47** Since Yara, small crocs inside the perimeter are killed on sight, because hers grew up inside. Keo has seen plenty of them, dead or being killed. D6.1's is the first he can leave alone. *(D6.1, revise)*
 
 **Habits on the page**
@@ -82,10 +82,10 @@ What the three and the people around them were before the story opens: habits, h
 ## Teva
 
 **Home and the ordinary day**
-- **T1** She is an apprentice Keeper. In the Vitarium her work is meticulous care of the cultures. Whether her failed sensory upgrades are what keep her from journeyman is open.
+- **T1** She is an apprentice keeper. In the Vitarium her work is meticulous care of the cultures. Whether her failed sensory upgrades are what keep her from journeyman is open.
 - **T2** Her teaching assignment is safety: she drills the yazhi, and keeps the drill at the pool's outflow end. *(D2.5; X10)*
 - **T3** She has walked Omya down to the Vitarium more evenings than she can count. *(D1.1)*
-- **T4** She plaits Omya's hair, in a Master's loops, every day, and has heard her recite the protocol and the fields while she plaits. *(D1.1, D2.4, D3.5)*
+- **T4** She plaits Omya's hair, in a master's loops, every day, and has heard her recite the protocol and the fields while she plaits. *(D1.1, D2.4, D3.5)*
 - **T5** She cooks for Omya and offers her sips from her mother's spoon, the way her mother offered her tastes. *(T12)*
 - **T6** She gathers wildflowers: small ones, because nothing flowers spectacularly in this world (`plan/milieu-allocation.md` §4), and the showiest grow in slow water, which she fears. She tucks them into Omya's plait. On the walk she picks one without thinking and there is nobody to give it to. On Day 6 Keo offers her one; she takes it flatly and keeps it, and he never learns she kept it. *(placements: D2.4, D5.1, D6.3)*
 
@@ -127,7 +127,7 @@ What the three and the people around them were before the story opens: habits, h
 - **T34** Her view of the founders: they walked out of Genesis "with nothing in them". *(D2.8)*
 - **T35** She teaches in Omya's register, the way Omya would have said it to a journeyman, and envies a child who can be satisfied by an answer. *(D2.5)*
 - **T36** She has been counting the crisis's losses for three weeks. *(D2.4)*
-- **T37** She had never touched a suit before D3.1, and always thought the outside would be dark, the way the Enclave talked about it. *(D3.1, D3.3)*
+- **T37** She had never touched a suit before D3.1, and always thought the outside would be dark, the way Enclave talked about it. *(D3.1, D3.3)*
 - **T38** North has always been steady, a hand on her back; finding it was never the difficulty. *(D3.3, D7.2)*
 - **T39** She knows the croc drill as well as her own name, and taught the yazhi that small crocs rarely go upstream against quick water. *(D3.3; D7.2, revise: "cannot")*
 - **T40** She knows better than either boy that you can have a thing perfectly and not have it when it counts. *(D6.2)*
@@ -144,7 +144,7 @@ What the three and the people around them were before the story opens: habits, h
 - **B5** He has heard the jungle's wall of sound from his nest nearly every night of his life, and once told Keo he can't sleep because the jungle is too loud. People call his hearing a gift; nothing in him sorts what comes in, and covering his ears only lets him hear his own blood. *(D2.2, D2.9, D3.1, D4.2)*
 
 **The work**
-- **B6** The Enclave has two or three mathematicians, and adults taught him. One is an older woman, a peer of Omya, known for being cryptic and scatterbrained, who is actually witty and perceptive; he is one of the few who appreciates her.
+- **B6** Enclave has two or three mathematicians, and adults taught him. One is an older woman, a peer of Omya, known for being cryptic and scatterbrained, who is actually witty and perceptive; he is one of the few who appreciates her.
 - **B7** He started on the anchor at about thirteen, as soon as he could follow the equations.
 - **B8** He could write the founders' part of the equation in his sleep, and some nights nearly has. He has filled his own part and rubbed it out more times than he can count. *(D2.2, D2.9)*
 - **B9** Nobody but him thinks the sky's disagreement with the date worth sitting in a corner about. *(D2.2)*
@@ -194,7 +194,7 @@ What the three and the people around them were before the story opens: habits, h
 - **X3** In sixteen years Keo had never heard anyone ask Ben what his work does. *(D2.9)*
 - **X4** All three had math classes together: Benal the best, Teva asking him for help, Keo mirroring letters. Lessons are on chalk boards and in dirt. *(K15, K24, B22, B23)*
 - **X5** All three know Topo. *(K18, T26)*
-- **X6** Children in the Enclave know what a gap in the tangle is for, and whose nests stand behind it. *(D3.1)*
+- **X6** Children in Enclave know what a gap in the tangle is for, and whose nests stand behind it. *(D3.1)*
 - **X7** Children know what slow water means. *(D3.3)*
 - **X8** Children are taught to freeze at a croc: stop dead, so nothing disturbs the water's surface. The prose calls this *going cold*, and that wording is retired because it reads as temperature. *(D6.1, D6.2, revise)*
 - **X9** Children learn before they can walk that ground that moves means something big, and something big means run. *(D6.3)*
@@ -207,7 +207,7 @@ What the three and the people around them were before the story opens: habits, h
 - **F2** Joram fell off a ridge in the limestone country onto a rock. The bone came through the skin and closed in four days, and he was hollow for two weeks <!-- @WF-joram.hollow: 2w --> from the vitality the fast healing took: asleep standing, asleep eating, cold at midday. It was the year Yara was named, about nine years ago. *(D2.3)*
 - **F3** The scar story is the oldest story in the family, and "And then?" is Keo's line in it. *(D2.3)*
 - **F4** The family's old games and bits: counting Keo's sighs; "Your father will say one word. Two, if it goes well." Riel has a dry voice she keeps for tracking Keo's mornings. *(D2.3)*
-- **F5** Keo's parents have been past the tangle more times than anyone he knows, and are among the best Explorers the Enclave has. They can tell the story of the suits that are gone. *(D2.3, D2.6, D2.11)*
+- **F5** Keo's parents have been past the tangle more times than anyone he knows, and are among the best explorers Enclave has. They can tell the story of the suits that are gone. *(D2.3, D2.6, D2.11)*
 - **F6** Riel cries with her face still and does not wipe the tears. *(D2.6)*
 - **F7** Joram breathes slow and deep with a catch at the top of each breath; Riel's breath is lighter and quicker, and she turns more. Half asleep, Joram says "S'nothing. G'back to sleep, Ri." *(D2.10)*
 - **F8** Each parent has a suit hanging near the middle of the pole; Riel's is patched, Joram's sleeve has a paler regrowth. *(D2.11)*
@@ -217,9 +217,9 @@ What the three and the people around them were before the story opens: habits, h
 - **F29** Riel and Joram rarely speak in Council, though they are competent, trusted and have opinions, and Joram is laconic; Keo's *They don't, in there* exaggerates it. *(D2.8)*
 
 **Teva's family**
-- **F12** Lumea was Omya's daughter, so what Omya passes to Teva is a heritage down the women of the family. Lumea had none of a Keeper's patience, argued with Omya, and was "very good at being wrong". *(D2.4, revise: drop "the senses for it")*
-- **F13** Lumea died at home in their nest, in the morning, after days sick, with the Keepers bringing a Seeding. She liked to cook. *(D1.1; T14)*
-- **F14** Omya taught Rano the keys when he was Teva's age, and taught the protocol to two generations <!-- @WF-omya.protocol.generations: 2 --> of Keepers. She is older than sixty. *(D1.1, D2.4)*
+- **F12** Lumea was Omya's daughter, so what Omya passes to Teva is a heritage down the women of the family. Lumea had none of a keeper's patience, argued with Omya, and was "very good at being wrong". *(D2.4, revise: drop "the senses for it")*
+- **F13** Lumea died at home in their nest, in the morning, after days sick, with the keepers bringing a seeding. She liked to cook. *(D1.1; T14)*
+- **F14** Omya taught Rano the keys when he was Teva's age, and taught the protocol to two generations <!-- @WF-omya.protocol.generations: 2 --> of keepers. She is older than sixty. *(D1.1, D2.4)*
 - **F15** Omya used to say "Precision, Teva", tapping the table between them. Her sayings: "It has to rest before it goes in", over dough; "You can't hurry a fig"; "Leave me enough to be returned with". *(D1.1, D2.4)*
 - **F16** Omya used to wear a particular face over a culture that failed in the night, when she had already worked out why. *(D2.4)*
 - **F17** Omya succeeded at the blue in public a month ago, by two bystanders' contested accounts. Every attempt at the rust-red since the flood has failed (`plan/milieu-brief.md` §8). *(D1.1, revise: one line says "the blue", one says "it")*

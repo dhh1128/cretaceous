@@ -1,5 +1,5 @@
 ---
-approval: approved 8dd91c61
+approval: approved 89d2b9a1
 ---
 
 # Humor plan
@@ -77,7 +77,7 @@ Four moves before the midpoint remains a reasonable floor. But **write the opini
 
 ## Inside jokes
 
-The three should have shorthand before they leave the Enclave — it is the cheapest way to show a friendship that predates the novel, and it's currently absent. Requirements:
+The three should have shorthand before they leave Enclave — it is the cheapest way to show a friendship that predates the novel, and it's currently absent. Requirements:
 
 1. **Three or four, no more**, each introduced in Act 1 and recurring at planned intervals (this is a motif budget; see the design doc §3.4).
 2. **Each must evolve.** A joke repeated unchanged is a catchphrase. A joke that acquires new meaning is structure.
@@ -88,7 +88,7 @@ The three should have shorthand before they leave the Enclave — it is the chea
 - *Something about Benal's height* — the group's oldest joke, affectionate, and the one thing about his body that isn't a liability. Pays off darkly when his body finally does fail him, or beautifully when the height is what reaches the thing nobody else can.
 - *A running argument about whether something is edible*, with Keo as the reckless party and Benal supplying the toxicology. Cheap, characterizing, and it survives into the mudwalk where food becomes real. Turns when the answer stops being funny.
 - *"We'll be fine"* — Keo's tic, already in the prose, already a mask. If the other two start saying it back to him mockingly, it becomes shared property, and then after the midpoint someone says it and nobody can look at anyone.
-- ***Possibly*** **— Benal's hedge, and the one that stops being funny.** He qualifies things that need no qualifying; the other two tease him for it and say it back to him, and it is shorthand by the time they leave the Enclave. Then at the confrontation the most important sentence in the novel comes out of him with the hedge still in it, in a room that takes what is demonstrated and declines what is argued. See `voice-sheets.md`. **This is the joke that turns**, which nothing else in this list was supplying.
+- ***Possibly*** **— Benal's hedge, and the one that stops being funny.** He qualifies things that need no qualifying; the other two tease him for it and say it back to him, and it is shorthand by the time they leave Enclave. Then at the confrontation the most important sentence in the novel comes out of him with the hedge still in it, in a room that takes what is demonstrated and declines what is argued. See `voice-sheets.md`. **This is the joke that turns**, which nothing else in this list was supplying.
 - *A thing Noli always does* that the three have named. Her death then removes a word from their vocabulary, which is a cheaper and better grief instrument than any description of loss.
 
 ## The four mechanisms, taken from viking and cordimancy

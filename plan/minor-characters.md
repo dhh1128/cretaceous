@@ -1,5 +1,5 @@
 ---
-approval: approved 87ad3490
+approval: approved 36a194d4
 ---
 
 # Character register
@@ -32,7 +32,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## Teva's family
 
-**Omya** — grandmother. The last Master Keeper, with dementia. Some days lucid, some days not; can recite most of the synthesis protocol and drop a critical step. Submits to being tested in public, which costs her everything and which she does anyway, because three Masters are required and she is the only one left. **She is not completely gone**: she still has her long-term memory and moments of lucidity, and she knows what is happening to her, sometimes.
+**Omya** — grandmother. The last master keeper, with dementia. Some days lucid, some days not; can recite most of the synthesis protocol and drop a critical step. Submits to being tested in public, which costs her everything and which she does anyway, because three masters are required and she is the only one left. **She is not completely gone**: she still has her long-term memory and moments of lucidity, and she knows what is happening to her, sometimes.
 
 **Teva is her primary caretaker, and they live together.** Omya is not completely helpless, and she has friendly people who look in on her. When Teva leaves, what she feels guilty about is that Omya will be lonely, not that she will be helpless or forgotten.
 
@@ -40,7 +40,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **And she can still do it.** Remote, heavily-rehearsed memory outlasts recent and complex memory: she learned the sky as a child and has recited it for sixty years <!-- @WF-omya.watch.years: 60 -->. So she names every star correctly and cannot hold a protein fold. The useless knowledge survives; the load-bearing knowledge goes. **She taught Teva the stars** (`content/superseded/01.1.md:53`) because Teva was being trained for this.
 
-**Lumea** — mother. Dead two years. *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a Seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
+**Lumea** — mother. Dead two years. *(the facts are canon from `content/superseded/01.1.md:77-83`; only the name is new)* — carried the enhanced magnetic sense Teva inherited, and could navigate a white-out fog by the pull in her bones. Killed by a bite, then infection, after a seeding that did not take. **She died of exactly what kills Alira in scene D1.1, after exactly the treatment that is now failing.** This is the engine of Teva's rage and it is already on the page. @D1.1
 
 **Daven** — father. Dead, earlier than Lumea. <!-- @WF-teva.father.status: dead --> *The outline's Dark Night bridge speech has Teva say she left her grandmother and "she's all I have," which is only true if the father is gone. Making him the first loss gives her a descending sequence — father, then mother, and now Omya disappearing while she watches — which is why her grief comes out as rage instead of sorrow.*
 
@@ -54,9 +54,9 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **Liaso** — cousin. On watch at the rebuild in the tangle the night of the theft, and the three of them get past him on his own rhythm, which Benal knows. Told Benal once that the ground outside breathes, and that he watched a T. rex stand and look at him for an hour.
 
-## The Keepers
+## The keepers
 
-**Rano** — journeyman Keeper. Kind, and worn through. Knows eighty percent <!-- @WF-rano.protocol.share: 80pct --> of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
+**Rano** — journeyman keeper. Kind, and worn through. Knows eighty percent <!-- @WF-rano.protocol.share: 80pct --> of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
 
 ## The Council
 
@@ -72,7 +72,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 **So the misjudgment ledger is a three-rung ladder, not a binary:** four adults deserve better than they got; **Hesh** is right and must be opposed anyway; **Sila** is right about the danger and her answer is still unforgivable.
 
-**Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: two hundred set out from Genesis over year three and ninety-four reached the Enclave, **every one of them suited** <!-- @WF-firstwalk.suited: true -->, with rifles and plasma cutters. **The leaving took most of year three, in surveys and moves, and the hundred and six were lost across it** <!-- @WF-firstwalk.duration: most-of-year-three --> — see `plan/milieu-brief.md` §3, which owns the timing — and he need not state it for the case to land. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
+**Hesh** — Elder, male, pragmatist. Gray-haired, patient, wears the weight of the office in his face. His objection is arithmetic and not cowardice: two hundred set out from Genesis over year three and ninety-four reached Enclave, **every one of them suited** <!-- @WF-firstwalk.suited: true -->, with rifles and plasma cutters. **The leaving took most of year three, in surveys and moves, and the hundred and six were lost across it** <!-- @WF-firstwalk.duration: most-of-year-three --> — see `plan/milieu-brief.md` §3, which owns the timing — and he need not state it for the case to land. **His case is never refuted, only overtaken by events**, and Act 1 must leave it that way.
 
 **He becomes book 2's antagonist, by changing.** Having accepted the revelation, he leads the Traditionalist suppression for reasons that are good: a society told it has `[-]` at most seventeen years <!-- @WF-impact.window.max: 17y --> and no exit will tear itself apart, and he holds the numbers for what panic costs. He is the third and hardest category in the misjudgment ledger — decent, wise, correct on the facts, and to be opposed anyway. See `plan/knowledge-ledger.md`, rows N–S.
 

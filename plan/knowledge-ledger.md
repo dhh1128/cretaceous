@@ -4,7 +4,7 @@ approval: unapproved
 
 # Knowledge ledger — who knows what, when
 
-Planning layer. Tracks every load-bearing fact in three columns — **what the reader knows, what the trio knows, what the Enclave knows** — and the scene where each changes hands.
+Planning layer. Tracks every load-bearing fact in three columns — **what the reader knows, what the trio knows, what Enclave knows** — and the scene where each changes hands.
 
 One table, two jobs. As continuity, it enforces that no character acts on information before they have it, which is mechanically checkable and kills a whole class of plot hole. As craft, it *is* the mystery-and-irony allocation, because the gap between the reader's column and the trio's column is the only place dramatic irony can live.
 
@@ -117,7 +117,7 @@ For any scene, *what the reader arrives carrying* is derivable: every row paid o
 
 ### Three entries doing more work than they look
 
-**B — the upgrades are the cure.** Moving this from the Genesis revelation to an Act 1 epigraph is the single highest-yield change available, and it costs nothing but reordering. Once the reader holds it, every Seeding, every failed expression, Teva's grief over the sensory upgrades that didn't take, Benal's freakish height — all of it carries the knowledge that these people are carrying the salvation of a species and have forgotten. And **Omya's dementia stops being a local tragedy and becomes the extinction of humanity happening inside one old woman's head** while a boy watches her offer the wrong gel and ask about bread. Three hundred pages of free dread.
+**B — the upgrades are the cure.** Moving this from the Genesis revelation to an Act 1 epigraph is the single highest-yield change available, and it costs nothing but reordering. Once the reader holds it, every seeding, every failed expression, Teva's grief over the sensory upgrades that didn't take, Benal's freakish height — all of it carries the knowledge that these people are carrying the salvation of a species and have forgotten. And **Omya's dementia stops being a local tragedy and becomes the extinction of humanity happening inside one old woman's head** while a boy watches her offer the wrong gel and ask about bread. Three hundred pages of free dread.
 
 **M — Keo's sister.** Give the reader Yara in Act 1: who she was, and that a croc that had grown up inside the perimeter took her in a flooded grove after rain while their parents watched, with Keo beside her and his projection not registering *(`plan/minor-characters.md`, `plan/milieu-brief.md` §4)*. Teva and Benal know she died; they don't learn he was beside her until the confessional at D15.4. So the reader watches Keo leave the third suit on the rack *knowing exactly why*, while his friends — and every reader-surrogate in the scene — read it as pride. That converts the hubris arc from a character flaw into sustained dramatic irony, and it makes D15.4 a release rather than an information delivery.
 
@@ -168,7 +168,7 @@ Two free textures. The founders carry 21st-century names while the colony's have
 - **It supplies the mechanism of the drift.** The colony's copy is missing precisely the passages that would have corrected it. Corruption by lossy transmission, not deceit — FP, demonstrated rather than asserted.
 - **It lets the reader compare** the true fragment against the remembered version. The sharpest irony instrument available.
 
-**Why the records survived the archaea failsafe, and which ones did:** *Genesis predates the failsafe.* The archaea apparatus was built at the Enclave, after the transfer, so nothing at Genesis was ever wrapped. What survived is what was made to, in three layers (`plan/milieu-brief.md` §3): the working files are paper, mostly rotted, and the operational knowledge went with them; the permanent archive is aluminum leaf, made under EP11's ruling, and lasted because aluminum lasts where it is sheltered; and the protocol plates are the stayers' later correction of the ruling's gap. The wrong things lasted, as the notes on the suite in `content/epigraphs.md` put it.
+**Why the records survived the archaea failsafe, and which ones did:** *Genesis predates the failsafe.* The archaea apparatus was built at Enclave, after the transfer, so nothing at Genesis was ever wrapped. What survived is what was made to, in three layers (`plan/milieu-brief.md` §3): the working files are paper, mostly rotted, and the operational knowledge went with them; the permanent archive is aluminum leaf, made under EP11's ruling, and lasted because aluminum lasts where it is sheltered; and the protocol plates are the stayers' later correction of the ruling's gap. The wrong things lasted, as the notes on the suite in `content/epigraphs.md` put it.
 
 **And be precise about what that proves, because the obvious reading is wrong and it is the more interesting fact.** It does not show the taboo was invented. **The duty is a genuine founder instruction** — leave no evidence, on pain of paradox — and the Traditionalists are right about it. What the founders did not supply was a doctrine for living eighty kilometers <!-- @WF-route.overland: 80km --> inland for two hundred years, because the plan was to sit at ground zero for months and be erased. The apparatus is the colony's honest extension of a real instruction into a situation nobody wrote rules for, and its severity is the price the leavers accepted in the third year at Genesis for permission to go. See `milieu-brief.md` §6.
 
@@ -193,11 +193,11 @@ Mechanical, and cheap to check:
 2. **No epigraph reveals a fact earlier than its assigned row.**
 3. **Every ironic fact must have at least one scene that exploits the gap** — a moment where a character says or does something the reader now reads differently. Irony nobody uses is inert, and inert irony is just the reader being bored in advance.
 4. **Every surprise names its recontextualization target** in this table, or it isn't a surprise, it's a shock.
-5. **The trio column and the Enclave column may not cross** without a scene where information physically moves between them.
+5. **The trio column and Enclave column may not cross** without a scene where information physically moves between them.
 
-## How FB fails to reach the Enclave at D19.7 @D19.7
+## How FB fails to reach Enclave at D19.7 @D19.7
 
-The Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *`[-]` at most seventeen years <!-- @WF-impact.window.max: 17y -->, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, the Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
+Enclave must **not** learn that the upgrades are the cure at the end of book 1, and the reason is structural. The two revelations have opposite valences: *`[-]` at most seventeen years <!-- @WF-impact.window.max: 17y -->, not centuries* is devastating, *we have carried the cure all along* is triumphant. Fired in the same scene they cancel, and worse, Enclave receives its consolation in the same breath as its terror — which defuses the schism book 2 runs on. Hesh cannot argue for suppression to a population that has just learned it is carrying humanity's salvation.
 
 But the trio must not **choose** to withhold it, because then they become unlikeable in their moment of vindication. So the failure is **epistemic, not medical.** No injury, no interruption, no fainting — the interrupted revelation is a recognizable cheat and it would waste Benal's public vindication, which is the payoff of his entire arc. Three mechanisms stack instead:
 
@@ -213,5 +213,5 @@ But the trio must not **choose** to withhold it, because then they become unlike
 
 ## Open
 
-- Whether the Enclave learns B in book 2 or later.
+- Whether Enclave learns B in book 2 or later.
 - Whether Marisol has any descendants, or the line simply ends. *(It should end. That is the point of her.)*
