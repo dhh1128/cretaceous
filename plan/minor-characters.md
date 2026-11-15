@@ -1,5 +1,5 @@
 ---
-approval: approved 36a194d4
+approval: approved f33b103e
 ---
 
 # Character register
@@ -56,7 +56,7 @@ It also explains Joram and Riel's custodianship. They keep the objects whose who
 
 ## The keepers
 
-**Rano** — journeyman keeper. Kind, and worn through. Knows eighty percent <!-- @WF-rano.protocol.share: 80pct --> of the synthesis process, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
+**Rano** — journeyman keeper. Kind, and worn through. Knows eighty parts of the synthesis process in a hundred and fifty <!-- @WF-rano.protocol.share: 80of150 -->, which is worth nothing. Sweeps the gels off the tray in scene D1.1. @D1.1
 
 ## The Council
 

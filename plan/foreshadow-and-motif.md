@@ -1,5 +1,5 @@
 ---
-approval: approved a7454b4f
+approval: approved 8a859dda
 ---
 
 # Foreshadow, Chekhov, and motif
@@ -96,7 +96,7 @@ Each carries a count and a spacing. **A motif that appears in every chapter is w
 
 ### Counting — around 8 to 10 appearances, evenly spread. The numbers in this section are targets for spacing, not caps.
 
-The strongest available and it is already everywhere without having been noticed. Riel gives a number where anyone else would give an impression. Hesh does the First Walk arithmetic. Twelve suits <!-- @WF-suits.remaining: 12 -->, ten that work, eleven if Sarel's is repairable. Eighty kilometers <!-- @WF-route.overland: 80km -->. Eighty percent <!-- @WF-rano.protocol.share: 80pct --> of a protocol, which is worth nothing. Position one-oh-seven.
+The strongest available and it is already everywhere without having been noticed. Riel gives a number where anyone else would give an impression. Hesh does the First Walk arithmetic. Twelve suits <!-- @WF-suits.remaining: 12 -->, ten that work, eleven if Sarel's is repairable. Eighty kilometers <!-- @WF-route.overland: 80km -->. Eighty parts in a hundred and fifty <!-- @WF-rano.protocol.share: 80of150 --> of a protocol, which is worth nothing. Position one-oh-seven.
 
 **Counting is how this society holds itself together — and the one number nobody can produce is the impact date.** That is the motif's payoff and it needs no comment: the culture that counts everything cannot count the only thing that matters.
 

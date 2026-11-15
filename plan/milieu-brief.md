@@ -1,5 +1,5 @@
 ---
-approval: approved 2b6c65dd
+approval: approved 48f269f3
 ---
 
 # Cretaceous — Milieu Brief
@@ -357,7 +357,7 @@ Nobody is compelled to accept/apply upgrades, but declining is read by others in
 
 A flood during a stretch of bad weather killed **two of the three master keepers** at once. The survivor is Omya, Teva's grandmother, and she has dementia — lucid some days, lost on others, able to recite most of the synthesis protocol perfectly and then drop a critical step.
 
-As the novel opens, two to three weeks in: the journeyman keepers hold perhaps 70–80% of the process, and their best compound *almost* works. Cultures are dimming and slowing. The most fragile are dead. No seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it. **Since the flood the keepers have been trying to make the rust-red in working attempts under Omya's direction, conducted by Rano and held where anyone may watch**, and none has succeeded.
+As the novel opens, two to three weeks in: the journeyman keepers hold eighty parts of the process in a hundred and fifty <!-- @WF-rano.protocol.share: 80of150 -->, about half, and their best compound never quite works. Cultures are dimming and slowing. The most fragile are dead. No seedings can happen until this is solved. Children are overdue for critical upgrades. Infant mortality is already climbing. The Council is downplaying it. **Since the flood the keepers have been trying to make the rust-red in working attempts under Omya's direction, conducted by Rano and held where anyone may watch**, and none has succeeded.
 
 **And it has already deferred once, which is the fact the Day 2 debate is standing on.** When the flood took the two masters, the Council sat and decided to **wait for the journeymen** — give them time, let them work it, and decide when there was something to decide about. That was a defensible ruling at the time and it is the reason nothing has been done since. **The journeymen have had their time.** So the Day 2 session is the second one, everybody in the chamber knows it, and the *decide later* that ends it is a repetition rather than a first offense. @D2.6
 
