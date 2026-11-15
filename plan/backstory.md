@@ -1,5 +1,5 @@
 ---
-approval: approved cdfc6683
+approval: approved 5605b606
 ---
 
 # Backstory register
@@ -91,7 +91,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **Omya and the Watch**
 - **T7** Omya showed her the stars on clear nights when she was small, one star at a time. *(D1.1)*
-- **T8** Omya drilled her for as long as she can remember. She has the protocol positions clean to the twentieth, and then in pieces. *(D1.1, D2.4)*
+- **T8** Omya drilled her for as long as she can remember. She has the protocol positions clean to the fortieth, and then in pieces. *(D1.1, D2.4)*
 - **T9** She knows the culture lineages the way she knows the rungs of their ladder in the dark. *(D2.4)*
 - **T10** She has heard "We are scientists, not shamans" so often it usually goes past her, and she has heard Omya stumble on the bad days. *(D2.4)*
 - **T11** She knows the faintest stars by name and number and has never seen one. She learned her sensory upgrades had failed by going through the Watch for months, hoping the faint stars would appear to her, until she concluded nothing had changed. *(D2.4, D3.5)*
