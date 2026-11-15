@@ -1,5 +1,5 @@
 ---
-approval: approved 48f269f3
+approval: approved f1bdb34c
 ---
 
 # Cretaceous — Milieu Brief
@@ -141,7 +141,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **The barrier is rotting the entire time.** Untreated wood in warm water has a short life, so the pylons and grating are under continuous replacement — two centuries of unbroken labor to hold one line that has never fully held. That is Enclave in miniature.
 
-**The perimeter** on land is the *border-tangle*: felled trees woven into a rough palisade fifteen meters high, plus planted growth, boulders, and whatever the terrain gives. Rivers are barred with driven stakes, stone weirs and netting in redundant layers. Watchers patrol constantly. Pheromone barriers weep from ceramic nodules along the tangle — a synthesized compound of *T. rex* musk and necrotic tissue that reads to a predator as *wounded alpha, keep clear*, and terrifies smaller animals outright. Nobody pretends the perimeter is sound. It is inspected and repaired forever, and it is breached.
+**The perimeter** on land is the *border-tangle*: felled trees woven into a rough palisade fifteen meters high, plus planted growth, boulders, and whatever the terrain gives. Rivers are barred with driven stakes, stone weirs and netting in redundant layers. Watchers patrol constantly, from crude walkways of lashed trunks along the top of the tangle, uneven and slippery, never planked platforms, because a walkway leaves less trace than carpentry. Pheromone barriers weep from ceramic nodules along the tangle — a synthesized compound of *T. rex* musk and necrotic tissue that reads to a predator as *wounded alpha, keep clear*, and terrifies smaller animals outright. Nobody pretends the perimeter is sound. It is inspected and repaired forever, and it is breached.
 
 **Domestic animals.** Five to ten hadrosaurs, two to four tonnes each, kept inside and fed on cultivated food, used for heavy labor — hauling stone, uprooting, damming, dragging the boulders over the cycad mash in the basin. <!-- @WF-mill.exists: false --> Directing them requires mental projection. Semi-wild herds graze nearby, and explorers with strong projection go out to recruit animals for a job and release them after. Possibly some ground-dwelling birds for eggs. **Nothing else is domesticated** — no pack animals, no working predators. Cretaceous mammals top out rabbit-sized.
 
