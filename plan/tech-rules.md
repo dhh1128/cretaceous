@@ -1,5 +1,5 @@
 ---
-approval: approved bfe8d6f5
+approval: approved f1cebba6
 ---
 
 # Tech rules — taught before exploited
@@ -31,7 +31,7 @@ Source of truth for the capabilities themselves: `kb/worldbuilding/safety-suits.
 
 ## The four gaps, and where to close them
 
-**Accelerated healing and its cost.** Teach it in **D2.3**, in the family nest: an old injury of Joram's that healed in days and left him hollow for a fortnight, mentioned in passing while he works. Establishes the rule, establishes the price, and characterizes both parents. Costs four lines. @D2.3
+**Accelerated healing and its cost.** Teach it in **D2.3**, in the family nest: an old injury of Joram's that closed in days and left him hollow for another week while the bone knit, mentioned in passing while he works. Establishes the rule, establishes the price, and characterizes both parents. Costs four lines. @D2.3
 
 **Suit thermal management.** Teach it in **D3.1**, when the suits seal — Teva's first sensation should be *cold*, startling and delicious, because the suit's whole job in this climate is to take heat away. Then Day 10 is the same sensation failing. One sentence at the theft buys the entire savanna sequence. @D3.1
 

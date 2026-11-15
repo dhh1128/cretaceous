@@ -1,5 +1,5 @@
 ---
-approval: approved 95a4fc77
+approval: approved cdfc6683
 ---
 
 # Backstory register
@@ -204,7 +204,7 @@ What the three and the people around them were before the story opens: habits, h
 
 **Keo's family**
 - **F1** Riel married Joram: "You can see why I married him. So efficient." Joram said eleven words to her the day they met, seven of them about the weather: "It was raining." *(D2.3)*
-- **F2** Joram fell off a ridge in the limestone country onto a rock. The bone came through the skin and closed in four days, and he was hollow for two weeks <!-- @WF-joram.hollow: 2w --> from the vitality the fast healing took: asleep standing, asleep eating, cold at midday. It was the year Yara was named, about nine years ago. *(D2.3)*
+- **F2** Joram fell off a ridge in the limestone country onto a rock. The bone came through the skin, and the skin closed in four days; he was hollow for another week <!-- @WF-joram.hollow: 1w --> while the bone knit underneath, from the vitality the fast healing took: asleep standing, asleep eating, cold at midday. It was the year Yara was named, about nine years ago. *(D2.3)*
 - **F3** The scar story is the oldest story in the family, and "And then?" is Keo's line in it. *(D2.3)*
 - **F4** The family's old games and bits: counting Keo's sighs; "Your father will say one word. Two, if it goes well." Riel has a dry voice she keeps for tracking Keo's mornings. *(D2.3)*
 - **F5** Keo's parents have been past the tangle more times than anyone he knows, and are among the best explorers Enclave has. They can tell the story of the suits that are gone. *(D2.3, D2.6, D2.11)*
