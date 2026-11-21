@@ -1,5 +1,5 @@
 ---
-approval: approved 9da7d532
+approval: approved 90539542
 ---
 
 # Cretaceous — Milieu Brief
@@ -438,7 +438,7 @@ Influences: *Call It Courage* (Sperry) for survival and digging deep; *Dune* (He
 **This list is a subset. The full register is `plan/open-questions.md`, which holds 35.** Folding the rest back into this file is outstanding work. The twelve below are the ones that were never in dispute.
 
 1. ~~Death and burial.~~ **Answered** — see §4, *Death, and the returning*, including the form of the mourning. What remains open inside it: where a culture with no graves carries its grief.
-2. **Religion and spirituality**, if any. **These people haven't invented primitive mythologies in 200 years** <!-- @WF-mythology.invented: none --> — they are *not* primitives; they have forgotten certain things, but they still know sophisticated terminology and scientific methods. **Religion is inherited, private and never remarked on**: what the White Sands founders carried through the jump, worn down over six generations like the names — Catholic practice from the Hispanic families, Pueblo and Navajo practice among others. It shows in a handful of plain gestures and is never explained, never mocked by the narration, and never a plot point: Keo's family offers pollen toward the sunrise before going outside (D8.1); Omya touches two fingers to her brow and lips, and Teva does it once (D11.2); Benal thanks whoever is listening, and hedges (D5.2).
+2. **Religion and spirituality**, if any. **These people haven't invented primitive mythologies in 200 years** <!-- @WF-mythology.invented: none --> — they are *not* primitives; they have forgotten certain things, but they still know sophisticated terminology and scientific methods. **Religion is inherited, private and never remarked on**: what the White Sands founders carried through the jump, worn down over six generations <!-- @WF-drift.generations: 6 --> like the names — Catholic practice from the Hispanic families, Pueblo and Navajo practice among others. It shows in a handful of plain gestures and is never explained, never mocked by the narration, and never a plot point: Keo's family offers pollen toward the sunrise before going outside (D8.1); Omya touches two fingers to her brow and lips, and Teva does it once (D11.2); Benal thanks whoever is listening, and hedges (D5.2).
 3. **Art, music, story.** What 206 years produced. Currently a blank, and it is where charm and inside jokes would live.
 4. **Population genetics.** Nine hundred-odd people over 206 years. Arranged pairings? Counseling? This is either a quiet horror or an unexamined hole.
 5. **Education.** How knowledge transmits, on biodegradable records, and who decides what is essential — which is the mechanism by which the mission got corrupted, so it is worth knowing.
