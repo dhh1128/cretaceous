@@ -25,7 +25,7 @@ Daniel did not approve that cut, and on reviewing the list ruled:
 | # | question |
 |---|---|
 | L1 | The **form of the mourning** before the balm is applied — words, silence, who speaks, who touches. And where a culture with no graves carries its grief. |
-| L2 | **Religion and spirituality**, if any. Reverence for the future? Ancestor regard for the founders? Or maintained secular rationalism? |
+| L2 | ~~**Religion and spirituality**, if any.~~ **Settled**: inherited from the founders, private, never remarked on. `plan/milieu-brief.md` §11, item 2. |
 | L3 | **Art, music, story.** What 206 years produced. Currently blank, and it is where charm and inside jokes would live. |
 | L4 | **Population genetics.** 900–1000 people over 206 years. Arranged pairings? Counseling? |
 | L5 | **Education.** How knowledge transmits on biodegradable records, and who decides what is essential — the mechanism by which the mission got corrupted. |
