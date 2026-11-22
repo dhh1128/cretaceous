@@ -1,5 +1,5 @@
 ---
-approval: approved 1bbaca44
+approval: approved 417271d2
 ---
 
 # Voice sheets
@@ -84,13 +84,13 @@ Two of the three protagonists cannot both be the terse one. An earlier draft gav
 
 **What speech is for.** Explaining. He has the longest sentences and the only subordinate clauses in the book, and technical nouns in lists. He hedges everything that is not a fact — *I think*, *roughly*, *maybe three*.
 
-**And one word carries the hedge: *possibly*.** He qualifies things that need no qualifying, often, from the first scene he appears in. **Often enough for the in-joke to land, never in every sentence**: he hedges with *I think*, *roughly*, *maybe* and *more or less* as well, and *possibly* keeps its force by not being the only one. It is what a person who estimates for a living says, it costs the reader nothing, and it is the last verbal signature this book needs.
+**And he hedges.** He qualifies things that need no qualifying, often, from the first scene he appears in. *Possibly* is his favorite hedge, and a charming one, but it is a quirk and not a signature: often enough that Keo and Teva can tease him with it, rarely enough that it never reads as a tic. What carries his character is the hedging itself, in whatever words — *maybe*, *I think*, *roughly*, *more or less*, *possibly*. It is what a person who estimates for a living says, and it costs the reader nothing.
 
 *Possibly* measures **what he is willing to claim**, which is his whole arc, so it is an instrument rather than a name tag. Three things follow from it:
 
 - **It is an in-joke by Act 1.** Keo and Teva tease him for it and can say it back to him. Affectionate, and one of the three or four pieces of shorthand the trio should have before they leave Enclave (`humor-plan.md`).
 - **It outlasts the stammer**, which is the point. The stammer measures fear and disappears when he is on his own subject; the hedge measures certainty and moves only when his certainty does. **It drops out twice, and both times it is doing work.** At Genesis he is terrified and certain at once — stammering while declining to say *possibly*. At the confrontation his second attempt comes out flat. Nobody remarks on either.
-- **It has one rehearsal, at D12.1**, where he says the thing that would have stopped the short leach and the hedge takes the weight out of it. Nobody notices, including him, and the cost is one person's health rather than a species'. That is what makes the Day 19 failure a habit with a history instead of a device. @D12.1
+- **It has one rehearsal, at D12.1**, where he says the thing that would have stopped the short leach and a hedge takes the weight out of it. The echo with Day 19 is in what the hedge does, not in the word. Nobody notices, including him, and the cost is one person's health rather than a species'. That is what makes the Day 19 failure a habit with a history instead of a device. @D12.1
 - **It helps kill him at the confrontation.** `knowledge-ledger.md` has FB failing because he can assert the cure and cannot demonstrate it, and the room takes what is shown and declines what is argued. His first attempt at the most important sentence in the novel comes out as *the upgrades are possibly the cure*, and his own habit is complicit in the room letting it go. **This is also the in-joke that stops being funny** — the thing `humor-plan.md` asks for and nothing else in the plan supplies. Nobody points at it. **The second attempt is unhedged and fails anyway** — Sila takes it up as confirmation of everything she already believed — so the journey's confidence is real and is not enough, and the defeat belongs to the room rather than to his tic.
 
 **The tell, and it is real.** He stammers when frightened — *"I… I heard you. I was… waiting."* **[drafted]** — and **the stammer vanishes the moment he is on his own subject**: *"It's temporal anchoring. It's drift mechanics. It's the reason our ancestors couldn't just jump back."* **[drafted]** Fluency is the signal that he has stopped being afraid, and it is the fastest way to show him growing.
