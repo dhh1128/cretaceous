@@ -915,7 +915,9 @@ def check_act_composition() -> list[Violation]:
 # term, and the ordinary craft sense goes with the rest. README's open-work item 5
 # is the one place allowed to name it, because that is where the elimination is
 # explained.
-UNIT_WORD = re.compile(r"\bbeats?\b", re.I)
+# "Beats me" is the idiom, in a character's mouth, and never the planning unit
+# (Daniel's line, D16.2).
+UNIT_WORD = re.compile(r"\bbeats?\b(?! me\b)", re.I)
 UNIT_WORD_EXEMPT = ("README.md",)
 # `content/superseded/` and `content/rejected/` are the record of what was actually
 # drafted, and two of their instances are the ordinary English word -- a wingbeat and
