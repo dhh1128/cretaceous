@@ -1,5 +1,5 @@
 ---
-approval: approved b5339f65
+approval: approved 2d88ea3b
 ---
 
 # Cretaceous — Milieu Brief
@@ -133,7 +133,7 @@ Around that, a cultivated ring of crops, managed groves and insect farms out to 
 
 **The barriers.** Log pylons driven into the alluvial bed between the boulders — sunk with a hoisted ram, which is hadrosaur work and already canon ("damming waterways"). Then a **grating of smaller poles, dropped from above into slots between the pylons**, which is difficult, dangerous and takes a crew. Behind that, stone weirs of piled unmodified boulders making shallow rapids, then netting, then redundancy. Multiple layers, upstream and downstream.
 
-**It has to open.** A permanently sealed river silts, clogs with flood debris, and blocks their own access. So the grating is raisable, and raising it is an operation.
+**It has to open.** A permanently sealed river silts, clogs with flood debris, and blocks their own access. So the grating is raisable, and raising it is an operation. **Enclave keeps one boat for barrier work**: wide and flat so it cannot tip, with slots for poles and paddles and guardrails and netting along its sides, more raft than boat, and out on the water only under duress (D14.1, D7.2).
 
 **And it does not work.** A grating sized to stop a six-meter adult croc <!-- @WF-croc.length: 6m --> passes a one-meter juvenile — which then grows up inside the perimeter. Constrictors get through. Things get in, every year, and this is precisely why the yazhi are drilled on croc protocols at a village pool (scene D2.5) — **a shallow pool where a karst spring rises in the village core** <!-- @WF-yazhi.pool: spring -->, clear to the bottom and always moving, so nothing can lie hidden in it and nothing breeds in it, and the core's drinking water; it is the first water a child is taught at because every stone on its bottom can be seen — why the buddy rule is absolute, and why any croc found inside is killed at once.
 
