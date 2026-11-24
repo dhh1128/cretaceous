@@ -821,7 +821,7 @@ They come out of the woodland onto the channel and stop. **The obstacle is deliv
 ### D18.3 — [SHORT, ~800] [Day 18, evening] [BENAL] [The crown's seaward brow, at the anchor cleft] — **NEW**
 **Ladders:** EM8 P5 S8 SP9
 **Purpose:** DISCOVER · **Ending:** HELD
-**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock on the crown's seaward brow, at the drilled anchor of a dead array frame — **and there is no Genesis on the crown behind him: no modules, no arches.** His skin prickles, the air smells of lightning, and the world's sound is gone while it lasts *(R26 signature, Q-A6KA)*.
+**The flash that is not a symbol.** A man he can name from the personnel records, visibly older than the records show, burying something at a cleft in the rock on the crown's north brow, at the drilled anchor of a dead array frame — **and there is no Genesis on the crown behind him: no modules, no arches.** His skin prickles, the air smells of lightning, and the world's sound is gone while it lasts *(R26 signature, Q-A6KA)*.
 **Must carry:**
 - **The inference chain, in four steps the reader can follow.** He is old, so this is long after arrival. There is no Genesis, and Genesis went up in the founders' years and is still standing, so this cannot be after arrival. He can only have aged after arrival. Therefore he went backward, alive and working.
 - **Benal recognizes the specific cleft because the brow is where he goes for quiet**, and he has seen the drilled hole there before.
