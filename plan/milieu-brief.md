@@ -1,5 +1,5 @@
 ---
-approval: approved b2a0a46d
+approval: approved 5b69b478
 ---
 
 # Cretaceous — Milieu Brief
@@ -387,7 +387,7 @@ His mask is bravado. *"We'll be fine."*
 
 ### Teva — 16–18, female, POV
 
-Average height and average build, 165 cm. Cute rather than striking; chin-length hair, a few freckles, and light gray eyes, which are rare in this gene pool. The colony's stock is mostly Latino and Native American with some Anglo roots, so nobody in it is fair-skinned or fair-haired.
+Average height and average build, 165 cm. Cute rather than striking; chin-length hair with one small longer section she can plait, a few freckles, and light gray eyes, which are rare in this gene pool. The colony's stock is mostly Latino and Native American with some Anglo roots, so nobody in it is fair-skinned or fair-haired.
 
 Excellent proprioception and an excellent magnetic sense — she navigates by the pull in her bones. Profound healing, excellent venom resistance. Her **sensory upgrades did not take**: ordinary sight, hearing and smell. Her **thermal regulation is poor in both directions, and only one of them can kill her.** She cannot shed heat, and in a humid hothouse that is the direction with a body count — it is why she needs a suit, whose primary job in this climate is cooling (`kb/worldbuilding/safety-suits.md`). She also cannot hold heat, and that shows up wherever the environment is abnormal for this world: the limestone kiva, and Genesis after the storm, dank and half-submerged. **That direction is misery, not danger.** It is copeable — get dry, find a covering, sit in the sun when it comes back — and there is no deep, persistent cold anywhere on this planet to kill her with. The sea is 28–32 °C, rain lands near 22 °C.
 
