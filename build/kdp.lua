@@ -9,6 +9,8 @@
 --                      page break comes from the style's pageBreakBefore, so no
 --                      empty break paragraph is emitted here)
 --   § on its own    -> "Scene Break" styled paragraph (centered)
+--   > epigraph      -> bold dropped; the docx Block Text style and epub.css set
+--                      it left-aligned in a monospace face
 --   ::: series      -> "Series" styled line above the title (in an epub, folded
 --                      into the title heading, which is kept out of the TOC)
 --   ::: dedication  -> "Dedication" styled paragraph, centered
@@ -132,6 +134,10 @@ function Header(el)
     el.level = 1
     return el
   end
+end
+
+function BlockQuote(el)
+  return el:walk({ Strong = function(s) return s.content end })
 end
 
 function Div(el)

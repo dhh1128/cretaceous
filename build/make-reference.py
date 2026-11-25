@@ -47,6 +47,13 @@ STYLES = {
         '<w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:cs="Georgia"/>'
         '<w:b/><w:color w:val="000000"/><w:sz w:val="36"/><w:szCs w:val="36"/>',
     ),
+    # Epigraphs: an archival document, so monospace and ragged right.
+    "BlockText": (
+        '<w:spacing w:before="0" w:after="120"/><w:jc w:val="left"/>'
+        '<w:ind w:left="567" w:right="567" w:firstLine="0"/>',
+        '<w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>'
+        '<w:sz w:val="19"/><w:szCs w:val="19"/>',
+    ),
     "Title": (
         '<w:spacing w:before="2400" w:after="240"/><w:jc w:val="center"/>'
         '<w:ind w:firstLine="0"/>',
@@ -65,7 +72,7 @@ CHAPTER_LABEL = (
     '<w:style w:type="paragraph" w:customStyle="1" w:styleId="ChapterLabel">'
     '<w:name w:val="Chapter Label"/><w:basedOn w:val="Normal"/>'
     '<w:next w:val="FirstParagraph"/><w:qFormat/>'
-    '<w:pPr><w:spacing w:before="120" w:after="360"/>'
+    '<w:pPr><w:spacing w:before="360" w:after="360"/>'
     '<w:jc w:val="center"/><w:ind w:firstLine="0"/></w:pPr>'
     "</w:style>"
 )

@@ -2,11 +2,11 @@
    sizes with the reader's own choices, so this sets only shape. */
 p { margin: 0; text-indent: 1.5em; }
 h1 { text-align: center; margin: 2em 0 1.5em; page-break-before: always; }
-blockquote { margin: 0 1.5em 1.5em; font-size: 0.9em; }
-blockquote p { text-indent: 0; margin-bottom: 0.6em; }
+blockquote { margin: 0 1.5em 1.5em; font-size: 0.85em; font-family: "Courier New", Courier, monospace; text-align: left; }
+blockquote p { text-indent: 0; margin-bottom: 0.6em; text-align: left; }
 h1.title { text-align: center; font-size: 2.2em; margin-top: 3em; margin-bottom: 0.5em; }
 .author p { text-align: center; text-indent: 0; font-size: 1.3em; margin: 1em 0 3em; }
-.chapter-label p { text-align: center; text-indent: 0; margin: 0.5em 0 1.5em; }
+.chapter-label p { text-align: center; text-indent: 0; margin: 1.5em 0 1.5em; }
 .scene-break p { text-align: center; text-indent: 0; margin: 1em 0; }
 .first-paragraph p { text-indent: 0; }
 .page-break { page-break-after: always; break-after: page; height: 0; }

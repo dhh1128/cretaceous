@@ -62,7 +62,8 @@ end
 -- chapter heading or after the epigraph that follows it.
 local function is_label(blk, prev)
   return blk.t == 'Para' and #blk.content == 1 and blk.content[1].t == 'Emph'
-    and prev and (prev.t == 'Header' or prev.t == 'BlockQuote')
+    and prev and (prev.t == 'Header' or prev.t == 'BlockQuote'
+      or (prev.t == 'RawBlock' and prev.text:match('epigraph%-end')))
 end
 
 -- LaTeX indents every paragraph but the first after a heading. A paragraph
@@ -71,7 +72,7 @@ function Blocks(blocks)
   local out = pandoc.Blocks({})
   for i, blk in ipairs(blocks) do
     if is_label(blk, blocks[i - 1]) then
-      blk = pandoc.RawBlock('latex', '\\begin{center}' .. to_latex(blk.content)
+      blk = pandoc.RawBlock('latex', '\\vspace{12pt}\\begin{center}' .. to_latex(blk.content)
         .. '\\end{center}\\vspace{0.5\\baselineskip}')
     elseif blk.t == 'Para' and i > 1 and (is_scene_break(blocks[i - 1])
         or is_label(blocks[i - 1], blocks[i - 2])) then
@@ -103,6 +104,21 @@ function Header(el)
     end
     return el
   end
+end
+
+-- An epigraph is an archival document, so it is set like one: typewriter,
+-- ragged right, and without the source's bold.
+local function unbold(el)
+  return el:walk({ Strong = function(s) return s.content end })
+end
+
+function BlockQuote(el)
+  local out = pandoc.Blocks({
+    pandoc.RawBlock('latex', '\\begin{quote}\\raggedright\\ttfamily\\small'),
+  })
+  out:extend(unbold(el).content)
+  out:insert(pandoc.RawBlock('latex', '\\end{quote}% epigraph-end'))
+  return out
 end
 
 function Div(el)

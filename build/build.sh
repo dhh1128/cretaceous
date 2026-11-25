@@ -95,7 +95,7 @@ pandoc "$src" \
   --variable=geometry:outer=0.75in \
   --variable=geometry:top=0.75in \
   --variable=geometry:bottom=0.75in \
-  --variable=header-includes:'\clubpenalty=10000 \widowpenalty=10000 \raggedbottom' \
+  --include-in-header=build/pdf-header.tex \
   --standalone \
   --output=".ignored/$name.pdf"
 echo "wrote .ignored/$name.pdf"

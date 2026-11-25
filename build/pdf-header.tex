@@ -1,0 +1,11 @@
+% Included in the PDF preamble by build/build.sh.
+\clubpenalty=10000 \widowpenalty=10000 \raggedbottom
+% Centre the chapter number. The book's chapters are unnumbered (the numeral
+% is the title), so this is the starred chapter head.
+\makeatletter
+\renewcommand{\@makeschapterhead}[1]{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \centering \normalfont
+    \interlinepenalty\@M \Huge \bfseries #1\par\nobreak
+    \vskip 40\p@}}
+\makeatother
