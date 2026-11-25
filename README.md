@@ -40,6 +40,7 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 | `minor-characters.md` | everyone but the three; four `[provisional]` names |
 | `sequels.md` | the shape of books 2 and 3, and what book 1 has to protect for them |
 | `titles-and-cover-art.md` | the series and book titles, the systems declined and why, and the three-cover house style |
+| `back-cover-blurb.md` | the back-cover copy for *Drift* |
 
 ### `prompts/` — what you hand a model
 
