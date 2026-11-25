@@ -98,7 +98,9 @@ function Header(el)
     if not first_chapter_done then
       first_chapter_done = true
       return {
-        pandoc.RawBlock('latex', '\\pagestyle{headings}\\setcounter{page}{1}'),
+        -- Chapter 1 opens on a right-hand page, page 1 (Daniel, 2026-11-25).
+        pandoc.RawBlock('latex',
+          '\\cleardoublepage\\pagestyle{headings}\\setcounter{page}{1}'),
         el,
       }
     end
