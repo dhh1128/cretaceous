@@ -1,8 +1,8 @@
 ---
-approval: approved cae6db0e
+approval: approved 9017ebab
 ---
 
-*the gels ~ Teva, Day 1*
+*the gels ~ Teva, day 1*
 
 <!-- epigraph: EP1 -->
 > **[HEALTH BULLETIN — REGIONS 2, 4, 11 · JUMP −26 MONTHS]**

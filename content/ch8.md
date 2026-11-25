@@ -1,8 +1,8 @@
 ---
-approval: approved e04f3a00
+approval: approved 36edebee
 ---
 
-*outside the kiva ~ Benal, then Keo, Day 2*
+*outside the kiva ~ Benal, then Keo, day 2*
 
 <!-- epigraph: EP4 -->
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 6d · JUMP −18 MONTHS]**

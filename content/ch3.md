@@ -1,8 +1,8 @@
 ---
-approval: approved ce16a07d
+approval: approved 301aecda
 ---
 
-*the tangle ~ Keo, Day 2*
+*the tangle ~ Keo, day 2*
 
 <!-- epigraph: EP2 -->
 > **[MSG · C.ARROYO → M.ARROYO · R4→R9 · queued 2d · JUMP −24 MONTHS]**

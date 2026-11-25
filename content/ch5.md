@@ -1,7 +1,7 @@
 ---
-approval: approved c44e427e
+approval: approved 8a2b02ce
 ---
 
-*the plait ~ Teva, Day 2*
+*the plait ~ Teva, day 2*
 
 <!-- scene: D2.4 -->

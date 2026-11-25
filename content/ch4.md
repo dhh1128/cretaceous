@@ -1,8 +1,8 @@
 ---
-approval: approved d37e1ad1
+approval: approved 3b8ad2b8
 ---
 
-*two nests ~ Benal, then Keo, Day 2*
+*two nests ~ Benal, then Keo, day 2*
 
 <!-- scene: D2.2 -->
 

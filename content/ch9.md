@@ -1,8 +1,8 @@
 ---
-approval: approved 926d26d1
+approval: approved 4284c911
 ---
 
-*the theft ~ Keo, Day 2*
+*the theft ~ Keo, day 2*
 
 <!-- epigraph: EP5 -->
 > **[VECTOR PROGRAM — DELIVERABLE STATEMENT, rev. 6 · JUMP −11 MONTHS]**

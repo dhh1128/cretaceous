@@ -1,8 +1,8 @@
 ---
-approval: approved 9650f7ac
+approval: approved 93e12721
 ---
 
-*the Council ~ Keo, Day 2*
+*the Council ~ Keo, day 2*
 
 <!-- epigraph: EP3 -->
 > **[DECLASSIFIED — JOINT COMMAND, CONTINUITY DIRECTORATE · JUMP −19 MONTHS]**
