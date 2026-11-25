@@ -27,6 +27,9 @@ for arg in "$@"; do
   esac
 done
 
+# The front-matter files carry the corpus's approval frontmatter; the book does not.
+strip_fm() { awk 'NR==1 && /^---$/ {fm=1; next} fm && /^---$/ {fm=0; skip=1; next} fm {next} skip && /^$/ {skip=0; next} {skip=0; print}' "$1"; }
+
 [[ -f build/reference.docx ]] || python3 build/make-reference.py
 
 python3 tools/build_book.py .ignored/book.md >/dev/null
@@ -38,10 +41,10 @@ if (( beta )); then
   if ! git diff --quiet "$tag" -- content; then
     tag="$tag plus later edits"
   fi
-  sed "s/DRAFT_TAG/$tag/" build/front-matter-beta.md > .ignored/front.md
+  strip_fm build/front-matter-beta.md | sed "s/DRAFT_TAG/$tag/" > .ignored/front.md
 else
   name=drift
-  cp build/front-matter.md .ignored/front.md
+  strip_fm build/front-matter.md > .ignored/front.md
 fi
 src=".ignored/$name.md"
 cat .ignored/front.md .ignored/book.md > "$src"
