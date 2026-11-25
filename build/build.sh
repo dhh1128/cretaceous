@@ -6,9 +6,10 @@
 #
 # Adapted from ~/code/me/viking/build (on kelun), 2026-11-25. Both sets come from
 # tools/build_book.py without --ids, so no scene id reaches a reader. They differ
-# only in the front matter: build/front-matter.md (title and copyright page) or
-# build/front-matter-beta.md (title and a not-for-distribution note naming the
-# draft tag at HEAD).
+# only in the front matter, build/front-matter.md (title, copyright, dedication)
+# or build/front-matter-beta.md (a not-for-distribution note naming the draft
+# tag in place of the copyright page), and in build/back-matter.md (About the
+# Author), which only the published set carries.
 #
 # The docx is the thing to open in Kindle Create. The epub is what KDP accepts
 # directly for Kindle if you skip Kindle Create, and a cross-check of the reflow.
@@ -48,6 +49,8 @@ else
 fi
 src=".ignored/$name.md"
 cat .ignored/front.md .ignored/book.md > "$src"
+# About the Author goes in the published book only, not the beta copy.
+(( beta )) || { printf '\n'; strip_fm build/back-matter.md; } >> "$src"
 
 pandoc "$src" \
   --from=markdown+smart \

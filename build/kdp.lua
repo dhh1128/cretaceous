@@ -9,6 +9,9 @@
 --                      page break comes from the style's pageBreakBefore, so no
 --                      empty break paragraph is emitted here)
 --   § on its own    -> "Scene Break" styled paragraph (centered)
+--   ::: series      -> "Series" styled line above the title (in an epub, folded
+--                      into the title heading, which is kept out of the TOC)
+--   ::: dedication  -> "Dedication" styled paragraph, centered
 --   *label* line    -> the chapter's day/POV/place label, centered; the prose
 --                      after it opens flush left, as after a chapter head
 
@@ -90,8 +93,16 @@ function Blocks(blocks)
   local out = pandoc.Blocks({})
   for i, blk in ipairs(blocks) do
     local nxt = blocks[i + 1]
-    if is_page_break(blk) and nxt and nxt.t == 'Header' then
+    if is_page_break(blk) and nxt and nxt.t == 'Header' and nxt.level == 1 then
       -- skip
+    elseif EPUB and has_style(blk, 'Series') and nxt and nxt.t == 'Header' then
+      -- Content before the first heading becomes a chunk of its own, with a
+      -- heading pandoc invents, so the series line rides inside the title.
+      local series = pandoc.utils.blocks_to_inlines(blk.content)
+      local inl = pandoc.Inlines({ pandoc.Span(series, pandoc.Attr('', { 'series' })),
+        pandoc.LineBreak() })
+      inl:extend(nxt.content)
+      nxt.content = inl
     elseif is_label(blk, blocks[i - 1]) then
       out:insert(styled('Chapter Label', { blk }))
     elseif blk.t == 'Para' and i > 1 and (is_scene_break(blocks[i - 1])
@@ -112,6 +123,7 @@ function Header(el)
     if EPUB then
       el.classes:insert('title')
       el.classes:insert('unnumbered')
+      el.classes:insert('unlisted')
       return el
     end
     return styled('Title', { pandoc.Para(el.content) })
@@ -119,6 +131,15 @@ function Header(el)
   if el.level == 2 then
     el.level = 1
     return el
+  end
+end
+
+function Div(el)
+  if el.classes:includes('series') then
+    return styled('Series', el.content)
+  end
+  if el.classes:includes('dedication') then
+    return styled('Dedication', el.content)
   end
 end
 

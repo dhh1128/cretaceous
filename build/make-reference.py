@@ -70,6 +70,25 @@ CHAPTER_LABEL = (
     "</w:style>"
 )
 
+SERIES = (
+    '<w:style w:type="paragraph" w:customStyle="1" w:styleId="Series">'
+    '<w:name w:val="Series"/><w:basedOn w:val="Normal"/>'
+    '<w:next w:val="Title"/><w:qFormat/>'
+    '<w:pPr><w:spacing w:before="1800" w:after="0"/>'
+    '<w:jc w:val="center"/><w:ind w:firstLine="0"/></w:pPr>'
+    '<w:rPr><w:smallCaps/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr>'
+    "</w:style>"
+)
+
+DEDICATION = (
+    '<w:style w:type="paragraph" w:customStyle="1" w:styleId="Dedication">'
+    '<w:name w:val="Dedication"/><w:basedOn w:val="Normal"/><w:qFormat/>'
+    '<w:pPr><w:spacing w:before="2880" w:after="0"/>'
+    '<w:jc w:val="center"/><w:ind w:firstLine="0"/></w:pPr>'
+    '<w:rPr><w:i/></w:rPr>'
+    "</w:style>"
+)
+
 SCENE_BREAK = (
     '<w:style w:type="paragraph" w:customStyle="1" w:styleId="SceneBreak">'
     '<w:name w:val="Scene Break"/><w:basedOn w:val="Normal"/>'
@@ -114,7 +133,7 @@ def main() -> None:
     styles = blobs["word/styles.xml"].decode("utf-8")
     for sid, (ppr, rpr) in STYLES.items():
         styles = patch_style(styles, sid, ppr, rpr)
-    styles = styles.replace("</w:styles>", SCENE_BREAK + CHAPTER_LABEL + "</w:styles>")
+    styles = styles.replace("</w:styles>", SCENE_BREAK + CHAPTER_LABEL + SERIES + DEDICATION + "</w:styles>")
     blobs["word/styles.xml"] = styles.encode("utf-8")
 
     with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED) as zout:

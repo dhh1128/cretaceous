@@ -10,3 +10,5 @@ h1.title { text-align: center; font-size: 2.2em; margin-top: 3em; margin-bottom:
 .scene-break p { text-align: center; text-indent: 0; margin: 1em 0; }
 .first-paragraph p { text-indent: 0; }
 .page-break { page-break-after: always; break-after: page; height: 0; }
+h1.title .series { display: block; font-size: 0.5em; font-weight: normal; font-variant: small-caps; letter-spacing: 0.05em; margin-bottom: 0.4em; }
+.dedication p { text-align: center; text-indent: 0; font-style: italic; margin-top: 30%; }

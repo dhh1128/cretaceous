@@ -26,6 +26,7 @@ end
 local title_seen = false
 local byline_done = false
 local first_chapter_done = false
+local series_seen = false
 
 function RawBlock(el)
   if el.format:match('html') and el.text:match('^%s*<hr%s*/?>%s*$') then
@@ -85,8 +86,9 @@ function Header(el)
   if el.level == 1 then
     title_seen = true
     -- Front matter carries no page numbers; the count restarts at chapter 1.
+    local lead = series_seen and '' or '\\pagestyle{empty}\\vspace*{2in}'
     return pandoc.RawBlock('latex',
-      '\\pagestyle{empty}\\vspace*{2in}\\begin{center}{\\Huge '
+      lead .. '\\begin{center}{\\Huge '
       .. to_latex(el.content) .. '}\\end{center}')
   end
   if el.level == 2 then
@@ -100,6 +102,21 @@ function Header(el)
       }
     end
     return el
+  end
+end
+
+function Div(el)
+  if el.classes:includes('series') then
+    series_seen = true
+    return pandoc.RawBlock('latex',
+      '\\pagestyle{empty}\\vspace*{1.6in}\\begin{center}{\\large\\scshape '
+      .. to_latex(pandoc.utils.blocks_to_inlines(el.content))
+      .. '}\\end{center}\\vspace{0.8em}')
+  end
+  if el.classes:includes('dedication') then
+    return pandoc.RawBlock('latex',
+      '\\vspace*{2in}\\begin{center}\\itshape '
+      .. to_latex(pandoc.utils.blocks_to_inlines(el.content)) .. '\\end{center}')
   end
 end
 
