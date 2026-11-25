@@ -54,6 +54,10 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 
 `epigraphs.md` holds the thirteen archival fragments. `superseded/` is the ten drafted Act 1 scenes, retained for reference only. `rejected/` is labeled failures, kept because they are useful negatives, each carrying a line saying why it was rejected. **No approved prose exists yet** — the novel has not been written.
 
+### `build/` — the book as files
+
+`bash build/build.sh` writes the KDP set to `.ignored/drift.{epub,docx,pdf}`: the epub is the Kindle upload, the pdf a 6×9in paperback interior. `--beta` writes `drift-beta.*` instead, with a not-for-distribution page naming the draft tag. Neither carries scene ids. Adapted from `~/code/me/viking/build` on kelun; PDFs need `brew install tectonic`.
+
 ### `.ignored/` — working documents, untracked
 
 Analyses that outlive a session but are not canon: the authorization audit, the milieu-brief and character-arcs comparisons against the versions Daniel approved, and the register of open questions.
