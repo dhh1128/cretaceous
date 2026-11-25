@@ -56,7 +56,7 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 
 ### `build/` — the book as files
 
-`bash build/build.sh` writes the KDP set to `.ignored/drift.{epub,docx,pdf}`: the epub is the Kindle upload, the pdf a 6×9in paperback interior. `--beta` writes `drift-beta.*` instead, with a not-for-distribution page naming the draft tag. Neither carries scene ids. Adapted from `~/code/me/viking/build` on kelun; PDFs need `brew install tectonic`.
+`bash build/build.sh` writes the KDP set to `.ignored/drift.{epub,docx,pdf}`: the epub is the Kindle upload, the pdf a 6×9in paperback interior. `--beta` writes `drift-beta.*` instead, with a not-for-distribution page naming the draft tag. Neither carries scene ids. Adapted from `~/code/me/viking/build` on kelun; PDFs need `brew install tectonic`. `uv run --with pillow python3 build/cover-template.py [pages]` draws the KDP full-wrap cover template (cream paper, 600 DPI) to `~/Downloads/drift/`.
 
 ### `.ignored/` — working documents, untracked
 
