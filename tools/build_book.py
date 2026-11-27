@@ -40,6 +40,10 @@ def illustrations() -> dict[str, str]:
     from PIL import Image  # only the --art build needs Pillow
 
     ART_OUT.mkdir(parents=True, exist_ok=True)
+    # The outputs are unlinked and rewritten, so their directory must never be the
+    # masters' own.
+    if ART_OUT.resolve().is_relative_to((ROOT / "art").resolve()):
+        sys.exit(f"{ART_OUT} resolves into art/; the masters would be overwritten")
     out = {}
     for n, line in enumerate(MANIFEST.read_text().splitlines(), 1):
         if not line.strip() or line.startswith("#"):
@@ -61,8 +65,6 @@ def illustrations() -> dict[str, str]:
         # can miss a changed master, and writing through a stale symlink is avoided by
         # unlinking first.
         dest = ART_OUT / f"{master.stem}.jpg"
-        if dest.resolve() == master:
-            sys.exit(f"{MANIFEST.name}:{n}: the output {dest} would be the master itself")
         im = Image.open(master)
         im.load()
         dest.unlink(missing_ok=True)
