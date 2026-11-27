@@ -2,8 +2,8 @@
 #
 #   scene id | master image in art/ | alt text (read aloud by e-reader accessibility)
 #
-# build_book.py --art puts each piece just before its scene: before the § that opens
-# it, or before the chapter heading when the scene opens its chapter. It writes a
+# build_book.py --art puts each piece just before the § that opens its scene; a scene
+# that opens its chapter is refused for now (see build_book.py). It writes a
 # grayscale JPEG of the master to .ignored/art/ for the pdf, epub and docx. The
 # masters are never touched. Ink pieces only: the book's interior is black and white.
 

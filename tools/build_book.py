@@ -48,20 +48,27 @@ def illustrations() -> dict[str, str]:
         if len(fields) != 3 or not all(fields):
             sys.exit(f"{MANIFEST.name}:{n}: want 'scene | image | alt text'")
         sid, src, alt = fields
-        master = ROOT / src
-        if not master.exists():
+        if sid in out:
+            sys.exit(f"{MANIFEST.name}:{n}: {sid} is listed twice")
+        master = (ROOT / src).resolve()
+        if not master.is_relative_to((ROOT / "art").resolve()):
+            sys.exit(f"{MANIFEST.name}:{n}: {src} is not in art/")
+        if not master.is_file():
             sys.exit(f"{MANIFEST.name}:{n}: {src} does not exist")
         if not (CONTENT / f"{sid}.md").exists():
             sys.exit(f"{MANIFEST.name}:{n}: no scene {sid}")
+        # Rebuilt every time, which is about a second a piece: a cache keyed on mtime
+        # can miss a changed master, and writing through a stale symlink is avoided by
+        # unlinking first.
         dest = ART_OUT / f"{master.stem}.jpg"
-        if not dest.exists() or dest.stat().st_mtime < master.stat().st_mtime:
-            im = Image.open(master)
-            if im.mode in ("RGBA", "LA", "P"):
-                im = im.convert("RGBA")
-                flat = Image.new("RGBA", im.size, "white")
-                flat.alpha_composite(im)
-                im = flat
-            im.convert("L").save(dest, "JPEG", quality=92, dpi=(300, 300))
+        dest.unlink(missing_ok=True)
+        im = Image.open(master)
+        if im.mode in ("RGBA", "LA", "P"):
+            im = im.convert("RGBA")
+            flat = Image.new("RGBA", im.size, "white")
+            flat.alpha_composite(im)
+            im = flat
+        im.convert("L").save(dest, "JPEG", quality=92, dpi=(300, 300))
         alt = alt.replace("[", "\\[").replace("]", "\\]")
         out[sid] = f"![{alt}]({dest.relative_to(ROOT)}){{.illustration}}"
     return out
@@ -104,9 +111,10 @@ def build(ids: bool = False, art: bool = False) -> str:
         # The epigraph comes first, then the label (day, POV, place), then the prose (Daniel, 2026-11-11).
         text = re.sub(r"\A(\*[^*\n]+\*)\n\n(<!-- epigraph: EP\d+ -->\n(?:>.*\n?)+)", r"\2\n\1\n", text)
         # An illustration goes before the § that opens its scene, so the paragraph after
-        # the break still follows the break; a chapter's first scene has no §, so its
-        # illustration goes before the chapter heading.
-        lead = ""
+        # the break still follows the break. A chapter's first scene has no §, and no
+        # placement there is right yet: before the heading lands it in the previous
+        # chapter's epub file, and after the label breaks the flush-left first
+        # paragraph. So it is refused until a piece needs it.
         for sid, para in pieces.items():
             marker = f"<!-- scene: {sid} -->"
             if marker not in text:
@@ -114,10 +122,11 @@ def build(ids: bool = False, art: bool = False) -> str:
             placed.add(sid)
             new = re.sub(rf"§(\s*){re.escape(marker)}", lambda m: f"{para}\n\n§{m.group(1)}{marker}", text)
             if new == text:
-                lead += para + "\n\n"
+                sys.exit(f"{MANIFEST.name}: {sid} opens {path.name}; a chapter's first scene "
+                         "cannot carry an illustration yet")
             text = new
         text = re.sub(r"<!-- scene: (D\d+\.\d+) -->", scene, text)
-        out.append(lead + f"## {n}\n\n" + COMMENT.sub("", text).strip())
+        out.append(f"## {n}\n\n" + COMMENT.sub("", text).strip())
     for sid in pieces.keys() - placed:
         sys.exit(f"{MANIFEST.name}: {sid} is in no chapter")
     return "\n\n".join(out) + "\n"
