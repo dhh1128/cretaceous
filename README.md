@@ -62,6 +62,10 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 
 The files uploaded for the fifth-draft edition: `drift.epub` (Kindle interior), `drift-cover-kindle.jpg` (1562×2500), `drift-interior.pdf` (6×9in paperback, 284 pages) and `drift-cover-paperback.pdf` (full wrap, 12.96×9.25in, cream paper). The two interiors are copies of `bash build/build.sh` output; the covers are Daniel's.
 
+### `art/` — illustrations
+
+Finished illustrations, as the master files, named by scene id and a word: `D4.2-moths.png`. Full color for the novel's web site and ink and wash for the book's interior, in one folder. The working list of candidates, the house style and the prompts are untracked notes in `.ignored/` until they settle.
+
 ### `.ignored/` — working documents, untracked
 
 Analyses that outlive a session but are not canon: the authorization audit, the milieu-brief and character-arcs comparisons against the versions Daniel approved, and the register of open questions.
