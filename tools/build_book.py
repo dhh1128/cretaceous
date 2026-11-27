@@ -61,8 +61,11 @@ def illustrations() -> dict[str, str]:
         # can miss a changed master, and writing through a stale symlink is avoided by
         # unlinking first.
         dest = ART_OUT / f"{master.stem}.jpg"
-        dest.unlink(missing_ok=True)
+        if dest.resolve() == master:
+            sys.exit(f"{MANIFEST.name}:{n}: the output {dest} would be the master itself")
         im = Image.open(master)
+        im.load()
+        dest.unlink(missing_ok=True)
         if im.mode in ("RGBA", "LA", "P"):
             im = im.convert("RGBA")
             flat = Image.new("RGBA", im.size, "white")
