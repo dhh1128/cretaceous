@@ -64,7 +64,7 @@ The files uploaded for the fifth-draft edition: `drift.epub` (Kindle interior), 
 
 ### `art/` — illustrations
 
-Finished illustrations, as the master files, named by scene id and a word: `D4.2-moths.png`. Full color for the novel's web site and ink and wash for the book's interior, in one folder. `art/refs/` holds building blocks rather than finished pieces: reference images for characters and props (`omya.png`, `noli-1.png`, `noli-2.png`, `tooth-knife.png`), named by subject. The full character builds live in openart. The working list of candidates, the house style and the prompts are untracked notes in `.ignored/` until they settle.
+Finished illustrations, as the master files, named by scene id and a word: `D4.2-moths.png`. Full color for the novel's web site and ink and wash for the book's interior, in one folder. `art/refs/` holds building blocks rather than finished pieces: reference images for characters and props (`omya.png`, `noli-1.png`, `noli-2.png`, `tooth-knife.png`, `nest.png`), named by subject. The full character builds live in openart. The working list of candidates, the house style and the prompts are untracked notes in `.ignored/` until they settle.
 
 ### `.ignored/` — working documents, untracked
 
