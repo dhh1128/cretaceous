@@ -9,7 +9,9 @@
 # only in the front matter, build/front-matter.md (title, copyright, dedication)
 # or build/front-matter-beta.md (a not-for-distribution note naming the draft
 # tag in place of the copyright page), and in build/back-matter.md (About the
-# Author), which only the published set carries.
+# Author), which only the published set carries. Both carry the interior
+# illustrations listed in build/illustrations.txt (--art); implicit_figures is off
+# so an illustration's alt text is never set as a caption.
 #
 # The docx is the thing to open in Kindle Create. The epub is what KDP accepts
 # directly for Kindle if you skip Kindle Create, and a cross-check of the reflow.
@@ -33,7 +35,7 @@ strip_fm() { awk 'NR==1 && /^---$/ {fm=1; next} fm && /^---$/ {fm=0; skip=1; nex
 
 [[ -f build/reference.docx ]] || python3 build/make-reference.py
 
-python3 tools/build_book.py .ignored/book.md >/dev/null
+python3 tools/build_book.py --art .ignored/book.md >/dev/null
 
 if (( beta )); then
   name=drift-beta
@@ -53,7 +55,7 @@ cat .ignored/front.md .ignored/book.md > "$src"
 (( beta )) || { printf '\n'; strip_fm build/back-matter.md; } >> "$src"
 
 pandoc "$src" \
-  --from=markdown+smart \
+  --from=markdown+smart-implicit_figures \
   --lua-filter=build/kdp.lua \
   --reference-doc=build/reference.docx \
   --metadata title="Drift" \
@@ -62,7 +64,7 @@ pandoc "$src" \
 echo "wrote .ignored/$name.docx"
 
 pandoc "$src" \
-  --from=markdown+smart \
+  --from=markdown+smart-implicit_figures \
   --lua-filter=build/kdp.lua \
   --split-level=1 \
   --css=build/epub.css \
@@ -78,10 +80,11 @@ echo "wrote .ignored/$name.epub"
 # with the binding, openany so a chapter is not forced onto a recto (no blank
 # pages). 0.875in inside clears KDP's minimum gutter for up to 700 pages.
 pandoc "$src" \
-  --from=markdown+smart \
+  --from=markdown+smart-implicit_figures \
   --lua-filter=build/pdf.lua \
   --top-level-division=chapter \
   --pdf-engine=tectonic \
+  --variable=graphics:true \
   --variable=title-meta:Drift \
   --variable=author-meta:"Daniel Hardman" \
   --variable=documentclass:book \

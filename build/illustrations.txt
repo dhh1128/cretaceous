@@ -1,0 +1,10 @@
+# Interior illustrations: one line per piece, three fields separated by " | ".
+#
+#   scene id | master image in art/ | alt text (read aloud by e-reader accessibility)
+#
+# build_book.py --art puts each piece just before its scene: before the § that opens
+# it, or before the chapter heading when the scene opens its chapter. It writes a
+# grayscale JPEG of the master to .ignored/art/ for the pdf, epub and docx. The
+# masters are never touched. Ink pieces only: the book's interior is black and white.
+
+D2.3 | art/D2.3-nests.png | Ink wash painting: very tall conifers in morning haze, a thatched platform hanging on ropes between their trunks, a boy climbing the rope ladder beneath it, and a woman kneeling at a cook pit under a thatch roof.

@@ -9,6 +9,10 @@
 --                      A numbered one would set "Chapter 1" above a title of "1".
 --   § on its own    -> centered scene break, and the paragraph after it runs
 --                      flush left, as after a chapter head
+--   ![alt](img){.illustration} alone in a paragraph
+--                   -> a float page of its own, the image scaled to the text
+--                      block. LaTeX puts it on the next page it can fill, so the
+--                      prose is never split around it.
 
 local CLEARPAGE = pandoc.RawBlock('latex', '\\clearpage')
 
@@ -138,7 +142,23 @@ function Div(el)
   end
 end
 
+local function is_illustration(el)
+  return #el.content == 1 and el.content[1].t == 'Image'
+    and el.content[1].classes:includes('illustration')
+end
+
 function Para(el)
+  -- Interior illustration. tectonic runs in a temporary directory, so the path
+  -- is made absolute; the alt text is for e-readers and has no place in print.
+  if is_illustration(el) then
+    local src = el.content[1].src
+    if not src:match('^/') then
+      src = pandoc.system.get_working_directory() .. '/' .. src
+    end
+    return pandoc.RawBlock('latex',
+      '\\begin{figure}[p]\\centering\\includegraphics[width=\\textwidth,height=\\textheight,keepaspectratio]{'
+      .. src .. '}\\end{figure}')
+  end
   -- Scene break: a paragraph that is nothing but the section mark.
   if #el.content == 1 and el.content[1].t == 'Str' and el.content[1].text == '§' then
     return pandoc.RawBlock('latex', SCENE_BREAK)
