@@ -56,11 +56,15 @@ The story runs nineteen days <!-- @WF-story.span: 19d -->. A child dies in the V
 
 ### `build/` — the book as files
 
-`bash build/build.sh` writes the KDP set to `.ignored/drift.{epub,docx,pdf}`: the epub is the Kindle upload, the pdf a 6×9in paperback interior. `--beta` writes `drift-beta.*` instead, with a not-for-distribution page naming the draft tag. Neither carries scene ids. Adapted from `~/code/me/viking/build` on kelun; PDFs need `brew install tectonic`. `uv run --with pillow python3 build/cover-template.py [pages]` draws the KDP full-wrap cover template (cream paper, 600 DPI) to `~/Downloads/drift/`.
+`bash build/build.sh` writes the KDP set to `.ignored/drift.{epub,docx,pdf}`: the epub is the Kindle upload, the pdf a 6×9in paperback interior. `--beta` writes `drift-beta.*` instead, with a not-for-distribution page naming the draft tag. Neither carries scene ids. Both carry the interior illustrations listed in `build/illustrations.txt`, each on a page of its own just before its scene, from grayscale JPEGs written to `.ignored/art/`; the masters in `art/` are never touched. Adapted from `~/code/me/viking/build` on kelun; PDFs need `brew install tectonic`. `uv run --with pillow python3 build/cover-template.py [pages]` draws the KDP full-wrap cover template (cream paper, 600 DPI) to `~/Downloads/drift/`.
 
 ### `publish/` — what goes to KDP
 
 The files uploaded for the fifth-draft edition: `drift.epub` (Kindle interior), `drift-cover-kindle.jpg` (1562×2500), `drift-interior.pdf` (6×9in paperback, 284 pages) and `drift-cover-paperback.pdf` (full wrap, 12.96×9.25in, cream paper). The two interiors are copies of `bash build/build.sh` output; the covers are Daniel's.
+
+### `art/` — illustrations
+
+Finished illustrations, as the master files, named by scene id and a word: `D4.2-moths.png`. Full color for the novel's web site and ink and wash for the book's interior, in one folder. `art/refs/` holds building blocks rather than finished pieces: reference images for characters and props (`omya.png`, `noli-1.png`, `noli-2.png`, `tooth-knife.png`, `nest.png`), named by subject. The full character builds live in openart. The working list of candidates, the house style and the prompts are untracked notes in `.ignored/` until they settle.
 
 ### `.ignored/` — working documents, untracked
 

@@ -12,3 +12,6 @@ h1.title { text-align: center; font-size: 2.2em; margin-top: 3em; margin-bottom:
 .page-break { page-break-after: always; break-after: page; height: 0; }
 h1.title .series { display: block; font-size: 0.5em; font-weight: normal; font-variant: small-caps; letter-spacing: 0.05em; margin-bottom: 0.4em; }
 .dedication p { text-align: center; text-indent: 0; font-style: italic; margin-top: 30%; }
+div.illustration { page-break-before: always; break-before: page; page-break-after: always; break-after: page; text-align: center; margin: 0; }
+div.illustration p { text-indent: 0; margin: 0; }
+div.illustration img { max-width: 100%; max-height: 95vh; height: auto; }

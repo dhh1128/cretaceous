@@ -16,6 +16,10 @@
 --   ::: dedication  -> "Dedication" styled paragraph, centered
 --   *label* line    -> the chapter's day/POV/place label, centered; the prose
 --                      after it opens flush left, as after a chapter head
+--   ![alt](img){.illustration} alone in a paragraph
+--                   -> a page of its own: in an epub a div build/epub.css sets
+--                      between page breaks; in the docx, page breaks around the
+--                      image at the text block's width
 
 local EPUB = FORMAT:match('epub') ~= nil
 
@@ -149,7 +153,21 @@ function Div(el)
   end
 end
 
+local function is_illustration(el)
+  return #el.content == 1 and el.content[1].t == 'Image'
+    and el.content[1].classes:includes('illustration')
+end
+
 function Para(el)
+  -- Interior illustration, on a page of its own. The alt text stays on the
+  -- image, where e-reader accessibility reads it; it is never shown as a caption.
+  if is_illustration(el) then
+    if EPUB then
+      return pandoc.Div({ el }, pandoc.Attr('', { 'illustration' }, {}))
+    end
+    el.content[1].attributes.width = '4.3in'
+    return { PAGE_BREAK, el, PAGE_BREAK }
+  end
   -- Scene break: a paragraph that is nothing but the section mark.
   if #el.content == 1 and el.content[1].t == 'Str' and el.content[1].text == '§' then
     return styled('Scene Break', { el })
